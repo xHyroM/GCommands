@@ -79,6 +79,14 @@ module.exports = config({
             ]
           },
           {
+            title: 'Components',
+            collapsable: true,
+            children: [
+              'components/setup',
+              'components/create',
+            ]
+          },
+          {
             title: 'Database',
             collapsable: true,
             children: [
@@ -110,6 +118,7 @@ module.exports = config({
             title: 'Additionals',
             collapsable: true,
             children: [
+              'additional/fromv7tov8',
               'additional/fromv6tov7',
               'additional/fromv5tov6',
               'additional/fromv4tov5',
