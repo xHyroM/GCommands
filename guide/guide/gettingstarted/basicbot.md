@@ -46,7 +46,7 @@ const client = new GCommandsClient({
     eventDir: join(__dirname, 'events'),
   },
   language: "english", // english, spanish, portuguese, russian, german, czech, slovak, turkish, polish, indonesian, italian
-  command: {
+  commands: {
     caseSensitiveCommands: false, // true or false | whether to match the commands' caps
     caseSensitivePrefixes: false, // true or false | whether to match the prefix in message commands
     allowDm: false, // true or false | DM Support
