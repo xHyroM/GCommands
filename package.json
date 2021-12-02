@@ -11,10 +11,14 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "vuepress": "1.8.2"
+    "vuepress": "^1.8.2"
   },
   "dependencies": {
-    "vue-discord-message": "5.0.2",
-    "vuepress-theme-hope": "^1.19.2"
+    "@mr-hope/vuepress-plugin-copy-code": "^1.19.1",
+    "@mr-hope/vuepress-plugin-feed": "^1.19.1",
+    "@mr-hope/vuepress-plugin-reading-time": "^1.19.1",
+    "vue": "^2.6.12",
+    "vue-discord-message": "^5.0.2",
+    "vuepress-theme-hope": "^1.21.0"
   }
 }
