@@ -2694,14 +2694,14 @@
 			]
 		},
 		{
-			"id": 2962,
+			"id": 2970,
 			"name": "ClientPermissionsInhibitor",
 			"kind": 128,
 			"kindString": "Class",
 			"flags": {},
 			"children": [
 				{
-					"id": 2963,
+					"id": 2971,
 					"name": "constructor",
 					"kind": 512,
 					"kindString": "Constructor",
@@ -2715,14 +2715,14 @@
 					],
 					"signatures": [
 						{
-							"id": 2964,
+							"id": 2972,
 							"name": "new ClientPermissionsInhibitor",
 							"kind": 16384,
 							"kindString": "Constructor signature",
 							"flags": {},
 							"parameters": [
 								{
-									"id": 2965,
+									"id": 2973,
 									"name": "permissions",
 									"kind": 32768,
 									"kindString": "Parameter",
@@ -2738,14 +2738,14 @@
 							],
 							"type": {
 								"type": "reference",
-								"id": 2962,
+								"id": 2970,
 								"name": "ClientPermissionsInhibitor"
 							}
 						}
 					]
 				},
 				{
-					"id": 2966,
+					"id": 2974,
 					"name": "permissions",
 					"kind": 1024,
 					"kindString": "Property",
@@ -2769,7 +2769,7 @@
 					}
 				},
 				{
-					"id": 2967,
+					"id": 2975,
 					"name": "run",
 					"kind": 2048,
 					"kindString": "Method",
@@ -2783,14 +2783,14 @@
 					],
 					"signatures": [
 						{
-							"id": 2968,
+							"id": 2976,
 							"name": "run",
 							"kind": 4096,
 							"kindString": "Call signature",
 							"flags": {},
 							"parameters": [
 								{
-									"id": 2969,
+									"id": 2977,
 									"name": "ctx",
 									"kind": 32768,
 									"kindString": "Parameter",
@@ -2825,21 +2825,21 @@
 					"title": "Constructors",
 					"kind": 512,
 					"children": [
-						2963
+						2971
 					]
 				},
 				{
 					"title": "Properties",
 					"kind": 1024,
 					"children": [
-						2966
+						2974
 					]
 				},
 				{
 					"title": "Methods",
 					"kind": 2048,
 					"children": [
-						2967
+						2975
 					]
 				}
 			],
@@ -50778,14 +50778,14 @@
 			]
 		},
 		{
-			"id": 2954,
+			"id": 2962,
 			"name": "UserPermissionsInhibitor",
 			"kind": 128,
 			"kindString": "Class",
 			"flags": {},
 			"children": [
 				{
-					"id": 2955,
+					"id": 2963,
 					"name": "constructor",
 					"kind": 512,
 					"kindString": "Constructor",
@@ -50799,14 +50799,14 @@
 					],
 					"signatures": [
 						{
-							"id": 2956,
+							"id": 2964,
 							"name": "new UserPermissionsInhibitor",
 							"kind": 16384,
 							"kindString": "Constructor signature",
 							"flags": {},
 							"parameters": [
 								{
-									"id": 2957,
+									"id": 2965,
 									"name": "permissions",
 									"kind": 32768,
 									"kindString": "Parameter",
@@ -50822,14 +50822,14 @@
 							],
 							"type": {
 								"type": "reference",
-								"id": 2954,
+								"id": 2962,
 								"name": "UserPermissionsInhibitor"
 							}
 						}
 					]
 				},
 				{
-					"id": 2958,
+					"id": 2966,
 					"name": "permissions",
 					"kind": 1024,
 					"kindString": "Property",
@@ -50853,7 +50853,7 @@
 					}
 				},
 				{
-					"id": 2959,
+					"id": 2967,
 					"name": "run",
 					"kind": 2048,
 					"kindString": "Method",
@@ -50861,6 +50861,164 @@
 					"sources": [
 						{
 							"fileName": "src/inhibitors/UserPermissionsInhibitor.ts",
+							"line": 12,
+							"character": 1
+						}
+					],
+					"signatures": [
+						{
+							"id": 2968,
+							"name": "run",
+							"kind": 4096,
+							"kindString": "Call signature",
+							"flags": {},
+							"parameters": [
+								{
+									"id": 2969,
+									"name": "ctx",
+									"kind": 32768,
+									"kindString": "Parameter",
+									"flags": {},
+									"type": {
+										"type": "union",
+										"types": [
+											{
+												"type": "reference",
+												"id": 713,
+												"name": "CommandContext"
+											},
+											{
+												"type": "reference",
+												"id": 797,
+												"name": "ComponentContext"
+											}
+										]
+									}
+								}
+							],
+							"type": {
+								"type": "intrinsic",
+								"name": "boolean"
+							}
+						}
+					]
+				}
+			],
+			"groups": [
+				{
+					"title": "Constructors",
+					"kind": 512,
+					"children": [
+						2963
+					]
+				},
+				{
+					"title": "Properties",
+					"kind": 1024,
+					"children": [
+						2966
+					]
+				},
+				{
+					"title": "Methods",
+					"kind": 2048,
+					"children": [
+						2967
+					]
+				}
+			],
+			"sources": [
+				{
+					"fileName": "src/inhibitors/UserPermissionsInhibitor.ts",
+					"line": 5,
+					"character": 13
+				}
+			]
+		},
+		{
+			"id": 2954,
+			"name": "UserRolesInhibitor",
+			"kind": 128,
+			"kindString": "Class",
+			"flags": {},
+			"children": [
+				{
+					"id": 2955,
+					"name": "constructor",
+					"kind": 512,
+					"kindString": "Constructor",
+					"flags": {},
+					"sources": [
+						{
+							"fileName": "src/inhibitors/UserRolesInhibitor.ts",
+							"line": 8,
+							"character": 1
+						}
+					],
+					"signatures": [
+						{
+							"id": 2956,
+							"name": "new UserRolesInhibitor",
+							"kind": 16384,
+							"kindString": "Constructor signature",
+							"flags": {},
+							"parameters": [
+								{
+									"id": 2957,
+									"name": "roles",
+									"kind": 32768,
+									"kindString": "Parameter",
+									"flags": {},
+									"type": {
+										"type": "array",
+										"elementType": {
+											"type": "reference",
+											"name": "RoleResolvable"
+										}
+									}
+								}
+							],
+							"type": {
+								"type": "reference",
+								"id": 2954,
+								"name": "UserRolesInhibitor"
+							}
+						}
+					]
+				},
+				{
+					"id": 2958,
+					"name": "roles",
+					"kind": 1024,
+					"kindString": "Property",
+					"flags": {
+						"isPublic": true,
+						"isReadonly": true
+					},
+					"sources": [
+						{
+							"fileName": "src/inhibitors/UserRolesInhibitor.ts",
+							"line": 6,
+							"character": 17
+						}
+					],
+					"type": {
+						"type": "array",
+						"elementType": {
+							"type": "reference",
+							"name": "RoleResolvable"
+						}
+					}
+				},
+				{
+					"id": 2959,
+					"name": "run",
+					"kind": 2048,
+					"kindString": "Method",
+					"flags": {},
+					"sources": [
+						{
+							"fileName": "src/inhibitors/UserRolesInhibitor.ts",
 							"line": 12,
 							"character": 1
 						}
@@ -50929,7 +51087,7 @@
 			],
 			"sources": [
 				{
-					"fileName": "src/inhibitors/UserPermissionsInhibitor.ts",
+					"fileName": "src/inhibitors/UserRolesInhibitor.ts",
 					"line": 5,
 					"character": 13
 				}
@@ -55533,7 +55691,7 @@
 			}
 		},
 		{
-			"id": 2970,
+			"id": 2978,
 			"name": "CustomId",
 			"kind": 64,
 			"kindString": "Function",
@@ -55547,14 +55705,14 @@
 			],
 			"signatures": [
 				{
-					"id": 2971,
+					"id": 2979,
 					"name": "CustomId",
 					"kind": 4096,
 					"kindString": "Call signature",
 					"flags": {},
 					"parameters": [
 						{
-							"id": 2972,
+							"id": 2980,
 							"name": "name",
 							"kind": 32768,
 							"kindString": "Parameter",
@@ -55565,7 +55723,7 @@
 							}
 						},
 						{
-							"id": 2973,
+							"id": 2981,
 							"name": "args",
 							"kind": 32768,
 							"kindString": "Parameter",
@@ -55598,7 +55756,7 @@
 			]
 		},
 		{
-			"id": 2974,
+			"id": 2982,
 			"name": "init",
 			"kind": 64,
 			"kindString": "Function",
@@ -55612,14 +55770,14 @@
 			],
 			"signatures": [
 				{
-					"id": 2975,
+					"id": 2983,
 					"name": "init",
 					"kind": 4096,
 					"kindString": "Call signature",
 					"flags": {},
 					"parameters": [
 						{
-							"id": 2976,
+							"id": 2984,
 							"name": "classToInit",
 							"kind": 32768,
 							"kindString": "Parameter",
@@ -55658,7 +55816,7 @@
 				865,
 				662,
 				2938,
-				2962,
+				2970,
 				554,
 				713,
 				934,
@@ -55677,6 +55835,7 @@
 				460,
 				2418,
 				2946,
+				2962,
 				2954
 			]
 		},
@@ -55712,8 +55871,8 @@
 			"title": "Functions",
 			"kind": 64,
 			"children": [
-				2970,
-				2974
+				2978,
+				2982
 			]
 		}
 	],
