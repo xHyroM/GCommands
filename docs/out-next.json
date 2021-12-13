@@ -928,7 +928,7 @@
 					}
 				},
 				{
-					"id": 1017,
+					"id": 993,
 					"name": "get",
 					"kind": 2048,
 					"kindString": "Method",
@@ -938,20 +938,20 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/ArgumentResolver.ts",
-							"line": 74,
+							"line": 28,
 							"character": 9
 						}
 					],
 					"signatures": [
 						{
-							"id": 1018,
+							"id": 994,
 							"name": "get",
 							"kind": 4096,
 							"kindString": "Call signature",
 							"flags": {},
 							"parameters": [
 								{
-									"id": 1019,
+									"id": 995,
 									"name": "name",
 									"kind": 32768,
 									"kindString": "Parameter",
@@ -962,7 +962,7 @@
 									}
 								},
 								{
-									"id": 1020,
+									"id": 996,
 									"name": "value",
 									"kind": 32768,
 									"kindString": "Parameter",
@@ -981,7 +981,7 @@
 					]
 				},
 				{
-					"id": 1002,
+					"id": 1003,
 					"name": "getBoolean",
 					"kind": 2048,
 					"kindString": "Method",
@@ -991,20 +991,20 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/ArgumentResolver.ts",
-							"line": 44,
+							"line": 45,
 							"character": 8
 						}
 					],
 					"signatures": [
 						{
-							"id": 1003,
+							"id": 1004,
 							"name": "getBoolean",
 							"kind": 4096,
 							"kindString": "Call signature",
 							"flags": {},
 							"parameters": [
 								{
-									"id": 1004,
+									"id": 1005,
 									"name": "name",
 									"kind": 32768,
 									"kindString": "Parameter",
@@ -1023,7 +1023,7 @@
 					]
 				},
 				{
-					"id": 1011,
+					"id": 1012,
 					"name": "getChannel",
 					"kind": 2048,
 					"kindString": "Method",
@@ -1033,20 +1033,20 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/ArgumentResolver.ts",
-							"line": 62,
+							"line": 63,
 							"character": 8
 						}
 					],
 					"signatures": [
 						{
-							"id": 1012,
+							"id": 1013,
 							"name": "getChannel",
 							"kind": 4096,
 							"kindString": "Call signature",
 							"flags": {},
 							"parameters": [
 								{
-									"id": 1013,
+									"id": 1014,
 									"name": "name",
 									"kind": 32768,
 									"kindString": "Parameter",
@@ -1065,7 +1065,7 @@
 					]
 				},
 				{
-					"id": 999,
+					"id": 1000,
 					"name": "getInteger",
 					"kind": 2048,
 					"kindString": "Method",
@@ -1075,20 +1075,20 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/ArgumentResolver.ts",
-							"line": 38,
+							"line": 39,
 							"character": 8
 						}
 					],
 					"signatures": [
 						{
-							"id": 1000,
+							"id": 1001,
 							"name": "getInteger",
 							"kind": 4096,
 							"kindString": "Call signature",
 							"flags": {},
 							"parameters": [
 								{
-									"id": 1001,
+									"id": 1002,
 									"name": "name",
 									"kind": 32768,
 									"kindString": "Parameter",
@@ -1107,7 +1107,7 @@
 					]
 				},
 				{
-					"id": 1008,
+					"id": 1009,
 					"name": "getMember",
 					"kind": 2048,
 					"kindString": "Method",
@@ -1117,20 +1117,20 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/ArgumentResolver.ts",
-							"line": 56,
+							"line": 57,
 							"character": 8
 						}
 					],
 					"signatures": [
 						{
-							"id": 1009,
+							"id": 1010,
 							"name": "getMember",
 							"kind": 4096,
 							"kindString": "Call signature",
 							"flags": {},
 							"parameters": [
 								{
-									"id": 1010,
+									"id": 1011,
 									"name": "name",
 									"kind": 32768,
 									"kindString": "Parameter",
@@ -1149,7 +1149,7 @@
 					]
 				},
 				{
-					"id": 993,
+					"id": 1018,
 					"name": "getMentionable",
 					"kind": 2048,
 					"kindString": "Method",
@@ -1159,20 +1159,20 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/ArgumentResolver.ts",
-							"line": 28,
+							"line": 75,
 							"character": 8
 						}
 					],
 					"signatures": [
 						{
-							"id": 994,
+							"id": 1019,
 							"name": "getMentionable",
 							"kind": 4096,
 							"kindString": "Call signature",
 							"flags": {},
 							"parameters": [
 								{
-									"id": 995,
+									"id": 1020,
 									"name": "name",
 									"kind": 32768,
 									"kindString": "Parameter",
@@ -1246,7 +1246,7 @@
 					]
 				},
 				{
-					"id": 1014,
+					"id": 1015,
 					"name": "getRole",
 					"kind": 2048,
 					"kindString": "Method",
@@ -1256,20 +1256,20 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/ArgumentResolver.ts",
-							"line": 68,
+							"line": 69,
 							"character": 8
 						}
 					],
 					"signatures": [
 						{
-							"id": 1015,
+							"id": 1016,
 							"name": "getRole",
 							"kind": 4096,
 							"kindString": "Call signature",
 							"flags": {},
 							"parameters": [
 								{
-									"id": 1016,
+									"id": 1017,
 									"name": "name",
 									"kind": 32768,
 									"kindString": "Parameter",
@@ -1288,7 +1288,7 @@
 					]
 				},
 				{
-					"id": 996,
+					"id": 997,
 					"name": "getString",
 					"kind": 2048,
 					"kindString": "Method",
@@ -1298,20 +1298,20 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/ArgumentResolver.ts",
-							"line": 32,
+							"line": 33,
 							"character": 8
 						}
 					],
 					"signatures": [
 						{
-							"id": 997,
+							"id": 998,
 							"name": "getString",
 							"kind": 4096,
 							"kindString": "Call signature",
 							"flags": {},
 							"parameters": [
 								{
-									"id": 998,
+									"id": 999,
 									"name": "name",
 									"kind": 32768,
 									"kindString": "Parameter",
@@ -1330,7 +1330,7 @@
 					]
 				},
 				{
-					"id": 1005,
+					"id": 1006,
 					"name": "getUser",
 					"kind": 2048,
 					"kindString": "Method",
@@ -1340,20 +1340,20 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/ArgumentResolver.ts",
-							"line": 50,
+							"line": 51,
 							"character": 8
 						}
 					],
 					"signatures": [
 						{
-							"id": 1006,
+							"id": 1007,
 							"name": "getUser",
 							"kind": 4096,
 							"kindString": "Call signature",
 							"flags": {},
 							"parameters": [
 								{
-									"id": 1007,
+									"id": 1008,
 									"name": "name",
 									"kind": 32768,
 									"kindString": "Parameter",
@@ -1395,16 +1395,16 @@
 					"title": "Methods",
 					"kind": 2048,
 					"children": [
-						1017,
-						1002,
-						1011,
-						999,
-						1008,
 						993,
+						1003,
+						1012,
+						1000,
+						1009,
+						1018,
 						1021,
-						1014,
-						996,
-						1005
+						1015,
+						997,
+						1006
 					]
 				}
 			],
