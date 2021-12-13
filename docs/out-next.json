@@ -779,7 +779,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/ArgumentResolver.ts",
-							"line": 12,
+							"line": 13,
 							"character": 1
 						}
 					],
@@ -822,7 +822,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/ArgumentResolver.ts",
-							"line": 7,
+							"line": 8,
 							"character": 8
 						}
 					],
@@ -845,7 +845,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/ArgumentResolver.ts",
-							"line": 8,
+							"line": 9,
 							"character": 8
 						}
 					],
@@ -875,7 +875,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/ArgumentResolver.ts",
-							"line": 6,
+							"line": 7,
 							"character": 8
 						}
 					],
@@ -898,7 +898,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/ArgumentResolver.ts",
-							"line": 9,
+							"line": 10,
 							"character": 8
 						}
 					],
@@ -918,7 +918,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/ArgumentResolver.ts",
-							"line": 10,
+							"line": 11,
 							"character": 8
 						}
 					],
@@ -938,7 +938,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/ArgumentResolver.ts",
-							"line": 28,
+							"line": 29,
 							"character": 9
 						}
 					],
@@ -991,7 +991,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/ArgumentResolver.ts",
-							"line": 45,
+							"line": 46,
 							"character": 8
 						}
 					],
@@ -1033,7 +1033,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/ArgumentResolver.ts",
-							"line": 63,
+							"line": 64,
 							"character": 8
 						}
 					],
@@ -1075,7 +1075,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/ArgumentResolver.ts",
-							"line": 39,
+							"line": 40,
 							"character": 8
 						}
 					],
@@ -1117,7 +1117,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/ArgumentResolver.ts",
-							"line": 57,
+							"line": 58,
 							"character": 8
 						}
 					],
@@ -1159,7 +1159,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/ArgumentResolver.ts",
-							"line": 75,
+							"line": 76,
 							"character": 8
 						}
 					],
@@ -1214,7 +1214,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/ArgumentResolver.ts",
-							"line": 79,
+							"line": 80,
 							"character": 8
 						}
 					],
@@ -1256,7 +1256,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/ArgumentResolver.ts",
-							"line": 69,
+							"line": 70,
 							"character": 8
 						}
 					],
@@ -1298,7 +1298,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/ArgumentResolver.ts",
-							"line": 33,
+							"line": 34,
 							"character": 8
 						}
 					],
@@ -1340,7 +1340,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/ArgumentResolver.ts",
-							"line": 51,
+							"line": 52,
 							"character": 8
 						}
 					],
@@ -1411,7 +1411,7 @@
 			"sources": [
 				{
 					"fileName": "src/lib/structures/ArgumentResolver.ts",
-					"line": 5,
+					"line": 6,
 					"character": 13
 				}
 			]
