@@ -206,7 +206,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/Command.ts",
-							"line": 10,
+							"line": 11,
 							"character": 1
 						}
 					],
@@ -221,7 +221,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/Command.ts",
-							"line": 9,
+							"line": 10,
 							"character": 1
 						}
 					],
@@ -236,7 +236,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/Command.ts",
-							"line": 7,
+							"line": 8,
 							"character": 1
 						}
 					],
@@ -251,7 +251,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/Command.ts",
-							"line": 8,
+							"line": 9,
 							"character": 1
 						}
 					],
@@ -273,7 +273,7 @@
 			"sources": [
 				{
 					"fileName": "src/lib/structures/Command.ts",
-					"line": 6,
+					"line": 7,
 					"character": 12
 				}
 			]
@@ -294,7 +294,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/Component.ts",
-							"line": 5,
+							"line": 6,
 							"character": 1
 						}
 					],
@@ -309,7 +309,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/Component.ts",
-							"line": 6,
+							"line": 7,
 							"character": 1
 						}
 					],
@@ -329,7 +329,7 @@
 			"sources": [
 				{
 					"fileName": "src/lib/structures/Component.ts",
-					"line": 4,
+					"line": 5,
 					"character": 12
 				}
 			]
@@ -2911,7 +2911,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/Command.ts",
-							"line": 55,
+							"line": 56,
 							"character": 1
 						}
 					],
@@ -2968,7 +2968,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/Command.ts",
-							"line": 48,
+							"line": 49,
 							"character": 17
 						}
 					],
@@ -3002,7 +3002,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/Command.ts",
-							"line": 44,
+							"line": 45,
 							"character": 8
 						}
 					],
@@ -3030,7 +3030,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/Command.ts",
-							"line": 51,
+							"line": 52,
 							"character": 8
 						}
 					],
@@ -3052,7 +3052,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/Command.ts",
-							"line": 46,
+							"line": 47,
 							"character": 17
 						}
 					],
@@ -3073,7 +3073,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/Command.ts",
-							"line": 50,
+							"line": 51,
 							"character": 8
 						}
 					],
@@ -3094,7 +3094,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/Command.ts",
-							"line": 49,
+							"line": 50,
 							"character": 17
 						}
 					],
@@ -3117,7 +3117,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/Command.ts",
-							"line": 45,
+							"line": 46,
 							"character": 17
 						}
 					],
@@ -3139,7 +3139,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/Command.ts",
-							"line": 53,
+							"line": 54,
 							"character": 17
 						}
 					],
@@ -3204,7 +3204,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/Command.ts",
-							"line": 52,
+							"line": 53,
 							"character": 17
 						}
 					],
@@ -3258,7 +3258,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/Command.ts",
-							"line": 47,
+							"line": 48,
 							"character": 17
 						}
 					],
@@ -3282,7 +3282,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/Command.ts",
-							"line": 75,
+							"line": 76,
 							"character": 14
 						}
 					],
@@ -3331,7 +3331,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/Command.ts",
-							"line": 64,
+							"line": 65,
 							"character": 8
 						}
 					],
@@ -3380,7 +3380,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/Command.ts",
-							"line": 71,
+							"line": 72,
 							"character": 8
 						}
 					],
@@ -3411,7 +3411,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/Command.ts",
-							"line": 88,
+							"line": 89,
 							"character": 16
 						}
 					],
@@ -3537,7 +3537,7 @@
 			"sources": [
 				{
 					"fileName": "src/lib/structures/Command.ts",
-					"line": 43,
+					"line": 44,
 					"character": 13
 				}
 			]
@@ -13006,7 +13006,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/Component.ts",
-							"line": 31,
+							"line": 32,
 							"character": 1
 						}
 					],
@@ -13061,7 +13061,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/Component.ts",
-							"line": 22,
+							"line": 23,
 							"character": 8
 						}
 					],
@@ -13089,7 +13089,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/Component.ts",
-							"line": 27,
+							"line": 28,
 							"character": 8
 						}
 					],
@@ -13110,7 +13110,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/Component.ts",
-							"line": 26,
+							"line": 27,
 							"character": 8
 						}
 					],
@@ -13131,7 +13131,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/Component.ts",
-							"line": 25,
+							"line": 26,
 							"character": 17
 						}
 					],
@@ -13154,7 +13154,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/Component.ts",
-							"line": 23,
+							"line": 24,
 							"character": 17
 						}
 					],
@@ -13176,7 +13176,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/Component.ts",
-							"line": 29,
+							"line": 30,
 							"character": 17
 						}
 					],
@@ -13241,7 +13241,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/Component.ts",
-							"line": 28,
+							"line": 29,
 							"character": 17
 						}
 					],
@@ -13295,7 +13295,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/Component.ts",
-							"line": 24,
+							"line": 25,
 							"character": 17
 						}
 					],
@@ -13319,7 +13319,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/Component.ts",
-							"line": 51,
+							"line": 52,
 							"character": 14
 						}
 					],
@@ -13368,7 +13368,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/Component.ts",
-							"line": 40,
+							"line": 41,
 							"character": 8
 						}
 					],
@@ -13417,7 +13417,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/Component.ts",
-							"line": 47,
+							"line": 48,
 							"character": 8
 						}
 					],
@@ -13447,7 +13447,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/Component.ts",
-							"line": 64,
+							"line": 65,
 							"character": 16
 						}
 					],
@@ -13571,7 +13571,7 @@
 			"sources": [
 				{
 					"fileName": "src/lib/structures/Component.ts",
-					"line": 21,
+					"line": 22,
 					"character": 13
 				}
 			]
@@ -55356,7 +55356,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/Command.ts",
-							"line": 23,
+							"line": 24,
 							"character": 1
 						}
 					],
@@ -55378,7 +55378,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/Command.ts",
-							"line": 20,
+							"line": 21,
 							"character": 1
 						}
 					],
@@ -55396,7 +55396,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/Command.ts",
-							"line": 19,
+							"line": 20,
 							"character": 1
 						}
 					],
@@ -55416,7 +55416,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/Command.ts",
-							"line": 24,
+							"line": 25,
 							"character": 1
 						}
 					],
@@ -55450,7 +55450,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/Command.ts",
-							"line": 22,
+							"line": 23,
 							"character": 1
 						}
 					],
@@ -55468,7 +55468,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/Command.ts",
-							"line": 21,
+							"line": 22,
 							"character": 1
 						}
 					],
@@ -55489,7 +55489,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/Command.ts",
-							"line": 25,
+							"line": 26,
 							"character": 1
 						}
 					],
@@ -55546,7 +55546,7 @@
 			"sources": [
 				{
 					"fileName": "src/lib/structures/Command.ts",
-					"line": 18,
+					"line": 19,
 					"character": 17
 				}
 			]
@@ -55567,7 +55567,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/Command.ts",
-							"line": 14,
+							"line": 15,
 							"character": 1
 						}
 					],
@@ -55585,7 +55585,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/Command.ts",
-							"line": 15,
+							"line": 16,
 							"character": 1
 						}
 					],
@@ -55608,7 +55608,7 @@
 			"sources": [
 				{
 					"fileName": "src/lib/structures/Command.ts",
-					"line": 13,
+					"line": 14,
 					"character": 17
 				}
 			]
@@ -56403,7 +56403,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/Command.ts",
-							"line": 35,
+							"line": 36,
 							"character": 1
 						}
 					],
@@ -56437,7 +56437,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/Command.ts",
-							"line": 38,
+							"line": 39,
 							"character": 1
 						}
 					],
@@ -56457,7 +56457,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/Command.ts",
-							"line": 34,
+							"line": 35,
 							"character": 1
 						}
 					],
@@ -56477,7 +56477,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/Command.ts",
-							"line": 37,
+							"line": 38,
 							"character": 1
 						}
 					],
@@ -56497,7 +56497,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/Command.ts",
-							"line": 36,
+							"line": 37,
 							"character": 1
 						}
 					],
@@ -56516,7 +56516,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/Command.ts",
-							"line": 33,
+							"line": 34,
 							"character": 1
 						}
 					],
@@ -56540,7 +56540,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/Command.ts",
-							"line": 40,
+							"line": 41,
 							"character": 1
 						}
 					],
@@ -56594,7 +56594,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/Command.ts",
-							"line": 39,
+							"line": 40,
 							"character": 1
 						}
 					],
@@ -56652,7 +56652,7 @@
 			"sources": [
 				{
 					"fileName": "src/lib/structures/Command.ts",
-					"line": 32,
+					"line": 33,
 					"character": 17
 				}
 			]
@@ -57425,7 +57425,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/Component.ts",
-							"line": 16,
+							"line": 17,
 							"character": 1
 						}
 					],
@@ -57445,7 +57445,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/Component.ts",
-							"line": 15,
+							"line": 16,
 							"character": 1
 						}
 					],
@@ -57465,7 +57465,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/Component.ts",
-							"line": 14,
+							"line": 15,
 							"character": 1
 						}
 					],
@@ -57484,7 +57484,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/Component.ts",
-							"line": 13,
+							"line": 14,
 							"character": 1
 						}
 					],
@@ -57508,7 +57508,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/Component.ts",
-							"line": 18,
+							"line": 19,
 							"character": 1
 						}
 					],
@@ -57562,7 +57562,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/Component.ts",
-							"line": 17,
+							"line": 18,
 							"character": 1
 						}
 					],
@@ -57618,7 +57618,7 @@
 			"sources": [
 				{
 					"fileName": "src/lib/structures/Component.ts",
-					"line": 12,
+					"line": 13,
 					"character": 17
 				}
 			]
@@ -58930,7 +58930,7 @@
 			"sources": [
 				{
 					"fileName": "src/lib/structures/Command.ts",
-					"line": 28,
+					"line": 29,
 					"character": 12
 				}
 			],
@@ -58945,7 +58945,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/Command.ts",
-							"line": 28,
+							"line": 29,
 							"character": 31
 						}
 					],
@@ -59017,7 +59017,7 @@
 			"sources": [
 				{
 					"fileName": "src/lib/structures/Command.ts",
-					"line": 29,
+					"line": 30,
 					"character": 12
 				}
 			],
@@ -59044,7 +59044,7 @@
 										"sources": [
 											{
 												"fileName": "src/lib/structures/Command.ts",
-												"line": 29,
+												"line": 30,
 												"character": 40
 											}
 										],
@@ -59067,7 +59067,7 @@
 								"sources": [
 									{
 										"fileName": "src/lib/structures/Command.ts",
-										"line": 29,
+										"line": 30,
 										"character": 38
 									}
 								]
@@ -59091,7 +59091,7 @@
 			"sources": [
 				{
 					"fileName": "src/lib/structures/Component.ts",
-					"line": 9,
+					"line": 10,
 					"character": 12
 				}
 			],
@@ -59106,7 +59106,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/Component.ts",
-							"line": 9,
+							"line": 10,
 							"character": 33
 						}
 					],
@@ -59178,7 +59178,7 @@
 			"sources": [
 				{
 					"fileName": "src/lib/structures/Component.ts",
-					"line": 10,
+					"line": 11,
 					"character": 12
 				}
 			],
@@ -59205,7 +59205,7 @@
 										"sources": [
 											{
 												"fileName": "src/lib/structures/Component.ts",
-												"line": 10,
+												"line": 11,
 												"character": 42
 											}
 										],
@@ -59228,7 +59228,7 @@
 								"sources": [
 									{
 										"fileName": "src/lib/structures/Component.ts",
-										"line": 10,
+										"line": 11,
 										"character": 40
 									}
 								]
