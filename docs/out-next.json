@@ -2627,13 +2627,16 @@
 							"parameters": [
 								{
 									"id": 3031,
-									"name": "channelId",
+									"name": "channelIds",
 									"kind": 32768,
 									"kindString": "Parameter",
 									"flags": {},
 									"type": {
-										"type": "intrinsic",
-										"name": "string"
+										"type": "array",
+										"elementType": {
+											"type": "intrinsic",
+											"name": "string"
+										}
 									}
 								}
 							],
@@ -2647,7 +2650,7 @@
 				},
 				{
 					"id": 3032,
-					"name": "channelId",
+					"name": "channelIds",
 					"kind": 1024,
 					"kindString": "Property",
 					"flags": {
@@ -2662,8 +2665,11 @@
 						}
 					],
 					"type": {
-						"type": "intrinsic",
-						"name": "string"
+						"type": "array",
+						"elementType": {
+							"type": "intrinsic",
+							"name": "string"
+						}
 					}
 				},
 				{
@@ -2694,19 +2700,9 @@
 									"kindString": "Parameter",
 									"flags": {},
 									"type": {
-										"type": "union",
-										"types": [
-											{
-												"type": "reference",
-												"id": 800,
-												"name": "CommandContext"
-											},
-											{
-												"type": "reference",
-												"id": 884,
-												"name": "ComponentContext"
-											}
-										]
+										"type": "reference",
+										"id": 749,
+										"name": "BaseContext"
 									}
 								}
 							],
@@ -2765,7 +2761,7 @@
 					"sources": [
 						{
 							"fileName": "src/inhibitors/ClientPermissionsInhibitor.ts",
-							"line": 8,
+							"line": 7,
 							"character": 1
 						}
 					],
@@ -2812,7 +2808,7 @@
 					"sources": [
 						{
 							"fileName": "src/inhibitors/ClientPermissionsInhibitor.ts",
-							"line": 6,
+							"line": 5,
 							"character": 17
 						}
 					],
@@ -2833,7 +2829,7 @@
 					"sources": [
 						{
 							"fileName": "src/inhibitors/ClientPermissionsInhibitor.ts",
-							"line": 12,
+							"line": 11,
 							"character": 1
 						}
 					],
@@ -2852,19 +2848,9 @@
 									"kindString": "Parameter",
 									"flags": {},
 									"type": {
-										"type": "union",
-										"types": [
-											{
-												"type": "reference",
-												"id": 800,
-												"name": "CommandContext"
-											},
-											{
-												"type": "reference",
-												"id": 884,
-												"name": "ComponentContext"
-											}
-										]
+										"type": "reference",
+										"id": 749,
+										"name": "BaseContext"
 									}
 								}
 							],
@@ -2902,7 +2888,7 @@
 			"sources": [
 				{
 					"fileName": "src/inhibitors/ClientPermissionsInhibitor.ts",
-					"line": 5,
+					"line": 4,
 					"character": 13
 				}
 			]
@@ -41979,7 +41965,7 @@
 					"sources": [
 						{
 							"fileName": "src/inhibitors/NsfwInhibitor.ts",
-							"line": 5,
+							"line": 4,
 							"character": 1
 						}
 					],
@@ -41998,19 +41984,9 @@
 									"kindString": "Parameter",
 									"flags": {},
 									"type": {
-										"type": "union",
-										"types": [
-											{
-												"type": "reference",
-												"id": 800,
-												"name": "CommandContext"
-											},
-											{
-												"type": "reference",
-												"id": 884,
-												"name": "ComponentContext"
-											}
-										]
+										"type": "reference",
+										"id": 749,
+										"name": "BaseContext"
 									}
 								}
 							],
@@ -42041,7 +42017,201 @@
 			"sources": [
 				{
 					"fileName": "src/inhibitors/NsfwInhibitor.ts",
-					"line": 4,
+					"line": 3,
+					"character": 13
+				}
+			]
+		},
+		{
+			"id": 3078,
+			"name": "OrInhibitor",
+			"kind": 128,
+			"kindString": "Class",
+			"flags": {},
+			"children": [
+				{
+					"id": 3079,
+					"name": "constructor",
+					"kind": 512,
+					"kindString": "Constructor",
+					"flags": {},
+					"sources": [
+						{
+							"fileName": "src/inhibitors/OrInhibitor.ts",
+							"line": 11,
+							"character": 1
+						}
+					],
+					"signatures": [
+						{
+							"id": 3080,
+							"name": "new OrInhibitor",
+							"kind": 16384,
+							"kindString": "Constructor signature",
+							"flags": {},
+							"parameters": [
+								{
+									"id": 3081,
+									"name": "inhibitor1",
+									"kind": 32768,
+									"kindString": "Parameter",
+									"flags": {},
+									"type": {
+										"type": "reference",
+										"id": 3070,
+										"name": "BaseInhibitor"
+									}
+								},
+								{
+									"id": 3082,
+									"name": "inhibitor2",
+									"kind": 32768,
+									"kindString": "Parameter",
+									"flags": {},
+									"type": {
+										"type": "reference",
+										"id": 3070,
+										"name": "BaseInhibitor"
+									}
+								}
+							],
+							"type": {
+								"type": "reference",
+								"id": 3078,
+								"name": "OrInhibitor"
+							}
+						}
+					]
+				},
+				{
+					"id": 3083,
+					"name": "inhibitor1",
+					"kind": 1024,
+					"kindString": "Property",
+					"flags": {
+						"isPublic": true,
+						"isReadonly": true
+					},
+					"sources": [
+						{
+							"fileName": "src/inhibitors/OrInhibitor.ts",
+							"line": 8,
+							"character": 17
+						}
+					],
+					"type": {
+						"type": "reference",
+						"id": 3070,
+						"name": "BaseInhibitor"
+					}
+				},
+				{
+					"id": 3084,
+					"name": "inhibitor2",
+					"kind": 1024,
+					"kindString": "Property",
+					"flags": {
+						"isPublic": true,
+						"isReadonly": true
+					},
+					"sources": [
+						{
+							"fileName": "src/inhibitors/OrInhibitor.ts",
+							"line": 9,
+							"character": 17
+						}
+					],
+					"type": {
+						"type": "reference",
+						"id": 3070,
+						"name": "BaseInhibitor"
+					}
+				},
+				{
+					"id": 3085,
+					"name": "run",
+					"kind": 2048,
+					"kindString": "Method",
+					"flags": {},
+					"sources": [
+						{
+							"fileName": "src/inhibitors/OrInhibitor.ts",
+							"line": 16,
+							"character": 7
+						}
+					],
+					"signatures": [
+						{
+							"id": 3086,
+							"name": "run",
+							"kind": 4096,
+							"kindString": "Call signature",
+							"flags": {},
+							"parameters": [
+								{
+									"id": 3087,
+									"name": "ctx",
+									"kind": 32768,
+									"kindString": "Parameter",
+									"flags": {},
+									"type": {
+										"type": "reference",
+										"id": 749,
+										"name": "BaseContext"
+									}
+								}
+							],
+							"type": {
+								"type": "reference",
+								"typeArguments": [
+									{
+										"type": "union",
+										"types": [
+											{
+												"type": "intrinsic",
+												"name": "boolean"
+											},
+											{
+												"type": "intrinsic",
+												"name": "void"
+											}
+										]
+									}
+								],
+								"name": "Promise"
+							}
+						}
+					]
+				}
+			],
+			"groups": [
+				{
+					"title": "Constructors",
+					"kind": 512,
+					"children": [
+						3079
+					]
+				},
+				{
+					"title": "Properties",
+					"kind": 1024,
+					"children": [
+						3083,
+						3084
+					]
+				},
+				{
+					"title": "Methods",
+					"kind": 2048,
+					"children": [
+						3085
+					]
+				}
+			],
+			"sources": [
+				{
+					"fileName": "src/inhibitors/OrInhibitor.ts",
+					"line": 7,
 					"character": 13
 				}
 			]
@@ -50734,8 +50904,11 @@
 									"kindString": "Parameter",
 									"flags": {},
 									"type": {
-										"type": "intrinsic",
-										"name": "string"
+										"type": "array",
+										"elementType": {
+											"type": "intrinsic",
+											"name": "string"
+										}
 									}
 								}
 							],
@@ -50749,7 +50922,7 @@
 				},
 				{
 					"id": 3040,
-					"name": "userId",
+					"name": "userIds",
 					"kind": 1024,
 					"kindString": "Property",
 					"flags": {
@@ -50764,8 +50937,11 @@
 						}
 					],
 					"type": {
-						"type": "intrinsic",
-						"name": "string"
+						"type": "array",
+						"elementType": {
+							"type": "intrinsic",
+							"name": "string"
+						}
 					}
 				},
 				{
@@ -50796,19 +50972,9 @@
 									"kindString": "Parameter",
 									"flags": {},
 									"type": {
-										"type": "union",
-										"types": [
-											{
-												"type": "reference",
-												"id": 800,
-												"name": "CommandContext"
-											},
-											{
-												"type": "reference",
-												"id": 884,
-												"name": "ComponentContext"
-											}
-										]
+										"type": "reference",
+										"id": 749,
+										"name": "BaseContext"
 									}
 								}
 							],
@@ -50867,7 +51033,7 @@
 					"sources": [
 						{
 							"fileName": "src/inhibitors/UserPermissionsInhibitor.ts",
-							"line": 8,
+							"line": 7,
 							"character": 1
 						}
 					],
@@ -50914,7 +51080,7 @@
 					"sources": [
 						{
 							"fileName": "src/inhibitors/UserPermissionsInhibitor.ts",
-							"line": 6,
+							"line": 5,
 							"character": 17
 						}
 					],
@@ -50935,7 +51101,7 @@
 					"sources": [
 						{
 							"fileName": "src/inhibitors/UserPermissionsInhibitor.ts",
-							"line": 12,
+							"line": 11,
 							"character": 1
 						}
 					],
@@ -50954,19 +51120,9 @@
 									"kindString": "Parameter",
 									"flags": {},
 									"type": {
-										"type": "union",
-										"types": [
-											{
-												"type": "reference",
-												"id": 800,
-												"name": "CommandContext"
-											},
-											{
-												"type": "reference",
-												"id": 884,
-												"name": "ComponentContext"
-											}
-										]
+										"type": "reference",
+										"id": 749,
+										"name": "BaseContext"
 									}
 								}
 							],
@@ -51004,7 +51160,7 @@
 			"sources": [
 				{
 					"fileName": "src/inhibitors/UserPermissionsInhibitor.ts",
-					"line": 5,
+					"line": 4,
 					"character": 13
 				}
 			]
@@ -51147,19 +51303,9 @@
 									"kindString": "Parameter",
 									"flags": {},
 									"type": {
-										"type": "union",
-										"types": [
-											{
-												"type": "reference",
-												"id": 800,
-												"name": "CommandContext"
-											},
-											{
-												"type": "reference",
-												"id": 884,
-												"name": "ComponentContext"
-											}
-										]
+										"type": "reference",
+										"id": 749,
+										"name": "BaseContext"
 									}
 								}
 							],
@@ -58586,6 +58732,196 @@
 			]
 		},
 		{
+			"id": 3070,
+			"name": "BaseInhibitor",
+			"kind": 4194304,
+			"kindString": "Type alias",
+			"flags": {},
+			"sources": [
+				{
+					"fileName": "src/inhibitors/OrInhibitor.ts",
+					"line": 3,
+					"character": 12
+				}
+			],
+			"type": {
+				"type": "union",
+				"types": [
+					{
+						"type": "reflection",
+						"declaration": {
+							"id": 3071,
+							"name": "__type",
+							"kind": 65536,
+							"kindString": "Type literal",
+							"flags": {},
+							"sources": [
+								{
+									"fileName": "src/inhibitors/OrInhibitor.ts",
+									"line": 4,
+									"character": 2
+								}
+							],
+							"signatures": [
+								{
+									"id": 3072,
+									"name": "__type",
+									"kind": 4096,
+									"kindString": "Call signature",
+									"flags": {},
+									"parameters": [
+										{
+											"id": 3073,
+											"name": "ctx",
+											"kind": 32768,
+											"kindString": "Parameter",
+											"flags": {},
+											"type": {
+												"type": "reference",
+												"id": 749,
+												"name": "BaseContext"
+											}
+										}
+									],
+									"type": {
+										"type": "union",
+										"types": [
+											{
+												"type": "intrinsic",
+												"name": "boolean"
+											},
+											{
+												"type": "intrinsic",
+												"name": "void"
+											},
+											{
+												"type": "reference",
+												"typeArguments": [
+													{
+														"type": "intrinsic",
+														"name": "boolean"
+													}
+												],
+												"name": "Promise"
+											},
+											{
+												"type": "reference",
+												"typeArguments": [
+													{
+														"type": "intrinsic",
+														"name": "void"
+													}
+												],
+												"name": "Promise"
+											}
+										]
+									}
+								}
+							]
+						}
+					},
+					{
+						"type": "reflection",
+						"declaration": {
+							"id": 3074,
+							"name": "__type",
+							"kind": 65536,
+							"kindString": "Type literal",
+							"flags": {},
+							"children": [
+								{
+									"id": 3075,
+									"name": "run",
+									"kind": 2048,
+									"kindString": "Method",
+									"flags": {},
+									"sources": [
+										{
+											"fileName": "src/inhibitors/OrInhibitor.ts",
+											"line": 5,
+											"character": 5
+										}
+									],
+									"signatures": [
+										{
+											"id": 3076,
+											"name": "run",
+											"kind": 4096,
+											"kindString": "Call signature",
+											"flags": {},
+											"parameters": [
+												{
+													"id": 3077,
+													"name": "ctx",
+													"kind": 32768,
+													"kindString": "Parameter",
+													"flags": {},
+													"type": {
+														"type": "reference",
+														"id": 749,
+														"name": "BaseContext"
+													}
+												}
+											],
+											"type": {
+												"type": "union",
+												"types": [
+													{
+														"type": "intrinsic",
+														"name": "boolean"
+													},
+													{
+														"type": "intrinsic",
+														"name": "void"
+													},
+													{
+														"type": "reference",
+														"typeArguments": [
+															{
+																"type": "intrinsic",
+																"name": "boolean"
+															}
+														],
+														"name": "Promise"
+													},
+													{
+														"type": "reference",
+														"typeArguments": [
+															{
+																"type": "intrinsic",
+																"name": "void"
+															}
+														],
+														"name": "Promise"
+													}
+												]
+											}
+										}
+									]
+								}
+							],
+							"groups": [
+								{
+									"title": "Methods",
+									"kind": 2048,
+									"children": [
+										3075
+									]
+								}
+							],
+							"sources": [
+								{
+									"fileName": "src/inhibitors/OrInhibitor.ts",
+									"line": 5,
+									"character": 3
+								}
+							]
+						}
+					}
+				]
+			}
+		},
+		{
 			"id": 620,
 			"name": "CommandInhibitor",
 			"kind": 4194304,
@@ -58908,7 +59244,7 @@
 			}
 		},
 		{
-			"id": 3070,
+			"id": 3088,
 			"name": "CustomId",
 			"kind": 64,
 			"kindString": "Function",
@@ -58922,14 +59258,14 @@
 			],
 			"signatures": [
 				{
-					"id": 3071,
+					"id": 3089,
 					"name": "CustomId",
 					"kind": 4096,
 					"kindString": "Call signature",
 					"flags": {},
 					"parameters": [
 						{
-							"id": 3072,
+							"id": 3090,
 							"name": "name",
 							"kind": 32768,
 							"kindString": "Parameter",
@@ -58940,7 +59276,7 @@
 							}
 						},
 						{
-							"id": 3073,
+							"id": 3091,
 							"name": "args",
 							"kind": 32768,
 							"kindString": "Parameter",
@@ -58973,7 +59309,7 @@
 			]
 		},
 		{
-			"id": 3074,
+			"id": 3092,
 			"name": "init",
 			"kind": 64,
 			"kindString": "Function",
@@ -58987,14 +59323,14 @@
 			],
 			"signatures": [
 				{
-					"id": 3075,
+					"id": 3093,
 					"name": "init",
 					"kind": 4096,
 					"kindString": "Call signature",
 					"flags": {},
 					"parameters": [
 						{
-							"id": 3076,
+							"id": 3094,
 							"name": "classToInit",
 							"kind": 32768,
 							"kindString": "Parameter",
@@ -59049,6 +59385,7 @@
 				88,
 				224,
 				3022,
+				3078,
 				547,
 				2508,
 				3036,
@@ -59079,6 +59416,7 @@
 			"title": "Type aliases",
 			"kind": 4194304,
 			"children": [
+				3070,
 				620,
 				624,
 				682,
@@ -59089,8 +59427,8 @@
 			"title": "Functions",
 			"kind": 64,
 			"children": [
-				3070,
-				3074
+				3088,
+				3092
 			]
 		}
 	],
