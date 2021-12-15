@@ -3637,7 +3637,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/CommandContext.ts",
-							"line": 41,
+							"line": 43,
 							"character": 1
 						}
 					],
@@ -3710,7 +3710,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/CommandContext.ts",
-							"line": 34,
+							"line": 36,
 							"character": 17
 						}
 					],
@@ -3817,7 +3817,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/CommandContext.ts",
-							"line": 32,
+							"line": 34,
 							"character": 17
 						}
 					],
@@ -3839,7 +3839,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/CommandContext.ts",
-							"line": 33,
+							"line": 35,
 							"character": 17
 						}
 					],
@@ -3912,7 +3912,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/CommandContext.ts",
-							"line": 39,
+							"line": 41,
 							"character": 8
 						}
 					],
@@ -3992,7 +3992,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/CommandContext.ts",
-							"line": 37,
+							"line": 39,
 							"character": 8
 						}
 					],
@@ -4038,7 +4038,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/CommandContext.ts",
-							"line": 36,
+							"line": 38,
 							"character": 8
 						}
 					],
@@ -4124,7 +4124,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/CommandContext.ts",
-							"line": 38,
+							"line": 40,
 							"character": 8
 						}
 					],
@@ -4270,7 +4270,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/CommandContext.ts",
-							"line": 30,
+							"line": 32,
 							"character": 17
 						}
 					],
@@ -4367,7 +4367,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/CommandContext.ts",
-							"line": 31,
+							"line": 33,
 							"character": 17
 						}
 					],
@@ -4393,7 +4393,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/CommandContext.ts",
-							"line": 35,
+							"line": 37,
 							"character": 8
 						}
 					],
@@ -4461,6 +4461,30 @@
 													{
 														"type": "reference",
 														"name": "APIMessage"
+													},
+													{
+														"type": "reference",
+														"typeArguments": [
+															{
+																"type": "literal",
+																"value": true
+															}
+														],
+														"name": "Message"
+													},
+													{
+														"type": "reference",
+														"name": "APIMessage"
+													},
+													{
+														"type": "reference",
+														"typeArguments": [
+															{
+																"type": "intrinsic",
+																"name": "boolean"
+															}
+														],
+														"name": "Message"
 													}
 												]
 											}
@@ -4622,7 +4646,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/CommandContext.ts",
-							"line": 45,
+							"line": 47,
 							"character": 15
 						}
 					],
@@ -4699,7 +4723,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/CommandContext.ts",
-							"line": 64,
+							"line": 65,
 							"character": 15
 						}
 					],
@@ -4813,7 +4837,7 @@
 			"sources": [
 				{
 					"fileName": "src/lib/structures/CommandContext.ts",
-					"line": 29,
+					"line": 31,
 					"character": 13
 				}
 			],
@@ -55824,7 +55848,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/CommandContext.ts",
-							"line": 21,
+							"line": 23,
 							"character": 1
 						}
 					],
@@ -55889,7 +55913,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/CommandContext.ts",
-							"line": 19,
+							"line": 21,
 							"character": 1
 						}
 					],
@@ -55908,7 +55932,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/CommandContext.ts",
-							"line": 20,
+							"line": 22,
 							"character": 1
 						}
 					],
@@ -56024,7 +56048,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/CommandContext.ts",
-							"line": 17,
+							"line": 19,
 							"character": 1
 						}
 					],
@@ -56115,7 +56139,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/CommandContext.ts",
-							"line": 18,
+							"line": 20,
 							"character": 1
 						}
 					],
@@ -56208,7 +56232,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/CommandContext.ts",
-							"line": 26,
+							"line": 28,
 							"character": 1
 						}
 					],
@@ -56275,7 +56299,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/CommandContext.ts",
-							"line": 24,
+							"line": 26,
 							"character": 1
 						}
 					],
@@ -56308,7 +56332,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/CommandContext.ts",
-							"line": 23,
+							"line": 25,
 							"character": 1
 						}
 					],
@@ -56382,7 +56406,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/CommandContext.ts",
-							"line": 25,
+							"line": 27,
 							"character": 1
 						}
 					],
@@ -56460,7 +56484,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/CommandContext.ts",
-							"line": 22,
+							"line": 24,
 							"character": 1
 						}
 					],
@@ -56520,6 +56544,30 @@
 											{
 												"type": "reference",
 												"name": "APIMessage"
+											},
+											{
+												"type": "reference",
+												"typeArguments": [
+													{
+														"type": "literal",
+														"value": true
+													}
+												],
+												"name": "Message"
+											},
+											{
+												"type": "reference",
+												"name": "APIMessage"
+											},
+											{
+												"type": "reference",
+												"typeArguments": [
+													{
+														"type": "intrinsic",
+														"name": "boolean"
+													}
+												],
+												"name": "Message"
 											}
 										]
 									}
@@ -56568,7 +56616,7 @@
 			"sources": [
 				{
 					"fileName": "src/lib/structures/CommandContext.ts",
-					"line": 16,
+					"line": 18,
 					"character": 17
 				}
 			],
