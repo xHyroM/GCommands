@@ -4605,7 +4605,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/CommandContext.ts",
-							"line": 65,
+							"line": 72,
 							"character": 15
 						}
 					],
