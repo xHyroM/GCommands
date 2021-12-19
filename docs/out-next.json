@@ -3069,7 +3069,7 @@
 				},
 				{
 					"id": 2565,
-					"name": "filePath",
+					"name": "fileName",
 					"kind": 1024,
 					"kindString": "Property",
 					"flags": {
@@ -3321,7 +3321,7 @@
 					}
 				},
 				{
-					"id": 2583,
+					"id": 2581,
 					"name": "inhibit",
 					"kind": 2048,
 					"kindString": "Method",
@@ -3331,20 +3331,20 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/Command.ts",
-							"line": 100,
+							"line": 99,
 							"character": 14
 						}
 					],
 					"signatures": [
 						{
-							"id": 2584,
+							"id": 2582,
 							"name": "inhibit",
 							"kind": 4096,
 							"kindString": "Call signature",
 							"flags": {},
 							"parameters": [
 								{
-									"id": 2585,
+									"id": 2583,
 									"name": "ctx",
 									"kind": 32768,
 									"kindString": "Parameter",
@@ -3419,7 +3419,7 @@
 					]
 				},
 				{
-					"id": 2579,
+					"id": 2584,
 					"name": "reload",
 					"kind": 2048,
 					"kindString": "Method",
@@ -3429,13 +3429,13 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/Command.ts",
-							"line": 85,
+							"line": 118,
 							"character": 14
 						}
 					],
 					"signatures": [
 						{
-							"id": 2580,
+							"id": 2585,
 							"name": "reload",
 							"kind": 4096,
 							"kindString": "Call signature",
@@ -3455,7 +3455,7 @@
 					]
 				},
 				{
-					"id": 2581,
+					"id": 2579,
 					"name": "unregister",
 					"kind": 2048,
 					"kindString": "Method",
@@ -3465,13 +3465,13 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/Command.ts",
-							"line": 96,
+							"line": 95,
 							"character": 8
 						}
 					],
 					"signatures": [
 						{
-							"id": 2582,
+							"id": 2580,
 							"name": "unregister",
 							"kind": 4096,
 							"kindString": "Call signature",
@@ -3569,10 +3569,10 @@
 					"title": "Methods",
 					"kind": 2048,
 					"children": [
-						2583,
-						2576,
-						2579,
 						2581,
+						2576,
+						2584,
+						2579,
 						2549
 					]
 				}
@@ -50654,8 +50654,9 @@
 					"type": {
 						"type": "array",
 						"elementType": {
-							"type": "intrinsic",
-							"name": "string"
+							"type": "reference",
+							"id": 2512,
+							"name": "CommandArgumentChoice"
 						}
 					}
 				},
@@ -55518,7 +55519,7 @@
 				},
 				{
 					"id": 2540,
-					"name": "filePath",
+					"name": "fileName",
 					"kind": 1024,
 					"kindString": "Property",
 					"flags": {
