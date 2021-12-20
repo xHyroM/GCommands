@@ -354,7 +354,7 @@
 							"character": 1
 						}
 					],
-					"defaultValue": "\"BUTTON\""
+					"defaultValue": "1"
 				},
 				{
 					"id": 2588,
@@ -369,7 +369,7 @@
 							"character": 1
 						}
 					],
-					"defaultValue": "\"SELECT_MENU\""
+					"defaultValue": "2"
 				}
 			],
 			"groups": [
@@ -2992,9 +2992,22 @@
 						}
 					],
 					"type": {
-						"type": "reference",
-						"id": 2215,
-						"name": "AutoDeferType"
+						"type": "union",
+						"types": [
+							{
+								"type": "reference",
+								"id": 2215,
+								"name": "AutoDeferType"
+							},
+							{
+								"type": "literal",
+								"value": "EPHEMERAL"
+							},
+							{
+								"type": "literal",
+								"value": "NORMAL"
+							}
+						]
 					}
 				},
 				{
@@ -3314,9 +3327,30 @@
 					"type": {
 						"type": "array",
 						"elementType": {
-							"type": "reference",
-							"id": 2507,
-							"name": "CommandType"
+							"type": "union",
+							"types": [
+								{
+									"type": "literal",
+									"value": "MESSAGE"
+								},
+								{
+									"type": "reference",
+									"id": 2507,
+									"name": "CommandType"
+								},
+								{
+									"type": "literal",
+									"value": "SLASH"
+								},
+								{
+									"type": "literal",
+									"value": "CONTEXT_USER"
+								},
+								{
+									"type": "literal",
+									"value": "CONTEXT_MESSAGE"
+								}
+							]
 						}
 					}
 				},
@@ -3331,7 +3365,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/Command.ts",
-							"line": 99,
+							"line": 84,
 							"character": 14
 						}
 					],
@@ -3380,7 +3414,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/Command.ts",
-							"line": 69,
+							"line": 72,
 							"character": 8
 						}
 					],
@@ -3429,7 +3463,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/Command.ts",
-							"line": 118,
+							"line": 103,
 							"character": 14
 						}
 					],
@@ -3465,7 +3499,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/Command.ts",
-							"line": 95,
+							"line": 80,
 							"character": 8
 						}
 					],
@@ -3496,7 +3530,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/Command.ts",
-							"line": 77,
+							"line": 114,
 							"character": 15
 						}
 					],
@@ -13134,9 +13168,22 @@
 						}
 					],
 					"type": {
-						"type": "reference",
-						"id": 2215,
-						"name": "AutoDeferType"
+						"type": "union",
+						"types": [
+							{
+								"type": "reference",
+								"id": 2215,
+								"name": "AutoDeferType"
+							},
+							{
+								"type": "literal",
+								"value": "EPHEMERAL"
+							},
+							{
+								"type": "literal",
+								"value": "NORMAL"
+							}
+						]
 					}
 				},
 				{
@@ -13189,7 +13236,7 @@
 				},
 				{
 					"id": 2625,
-					"name": "filePath",
+					"name": "fileName",
 					"kind": 1024,
 					"kindString": "Property",
 					"flags": {
@@ -13434,14 +13481,27 @@
 					"type": {
 						"type": "array",
 						"elementType": {
-							"type": "reference",
-							"id": 2586,
-							"name": "ComponentType"
+							"type": "union",
+							"types": [
+								{
+									"type": "literal",
+									"value": "BUTTON"
+								},
+								{
+									"type": "literal",
+									"value": "SELECT_MENU"
+								},
+								{
+									"type": "reference",
+									"id": 2586,
+									"name": "ComponentType"
+								}
+							]
 						}
 					}
 				},
 				{
-					"id": 2643,
+					"id": 2641,
 					"name": "inhibit",
 					"kind": 2048,
 					"kindString": "Method",
@@ -13451,20 +13511,20 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/Component.ts",
-							"line": 75,
+							"line": 76,
 							"character": 14
 						}
 					],
 					"signatures": [
 						{
-							"id": 2644,
+							"id": 2642,
 							"name": "inhibit",
 							"kind": 4096,
 							"kindString": "Call signature",
 							"flags": {},
 							"parameters": [
 								{
-									"id": 2645,
+									"id": 2643,
 									"name": "ctx",
 									"kind": 32768,
 									"kindString": "Parameter",
@@ -13500,7 +13560,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/Component.ts",
-							"line": 45,
+							"line": 48,
 							"character": 8
 						}
 					],
@@ -13539,7 +13599,7 @@
 					]
 				},
 				{
-					"id": 2639,
+					"id": 2644,
 					"name": "reload",
 					"kind": 2048,
 					"kindString": "Method",
@@ -13549,13 +13609,13 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/Component.ts",
-							"line": 60,
+							"line": 95,
 							"character": 14
 						}
 					],
 					"signatures": [
 						{
-							"id": 2640,
+							"id": 2645,
 							"name": "reload",
 							"kind": 4096,
 							"kindString": "Call signature",
@@ -13575,7 +13635,7 @@
 					]
 				},
 				{
-					"id": 2641,
+					"id": 2639,
 					"name": "unregister",
 					"kind": 2048,
 					"kindString": "Method",
@@ -13585,13 +13645,13 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/Component.ts",
-							"line": 71,
+							"line": 72,
 							"character": 8
 						}
 					],
 					"signatures": [
 						{
-							"id": 2642,
+							"id": 2640,
 							"name": "unregister",
 							"kind": 4096,
 							"kindString": "Call signature",
@@ -13615,7 +13675,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/Component.ts",
-							"line": 53,
+							"line": 56,
 							"character": 15
 						}
 					],
@@ -13686,10 +13746,10 @@
 					"title": "Methods",
 					"kind": 2048,
 					"children": [
-						2643,
-						2636,
-						2639,
 						2641,
+						2636,
+						2644,
+						2639,
 						2611
 					]
 				}
@@ -55472,9 +55532,22 @@
 						}
 					],
 					"type": {
-						"type": "reference",
-						"id": 2215,
-						"name": "AutoDeferType"
+						"type": "union",
+						"types": [
+							{
+								"type": "reference",
+								"id": 2215,
+								"name": "AutoDeferType"
+							},
+							{
+								"type": "literal",
+								"value": "EPHEMERAL"
+							},
+							{
+								"type": "literal",
+								"value": "NORMAL"
+							}
+						]
 					}
 				},
 				{
@@ -55594,9 +55667,30 @@
 					"type": {
 						"type": "array",
 						"elementType": {
-							"type": "reference",
-							"id": 2507,
-							"name": "CommandType"
+							"type": "union",
+							"types": [
+								{
+									"type": "literal",
+									"value": "MESSAGE"
+								},
+								{
+									"type": "reference",
+									"id": 2507,
+									"name": "CommandType"
+								},
+								{
+									"type": "literal",
+									"value": "SLASH"
+								},
+								{
+									"type": "literal",
+									"value": "CONTEXT_USER"
+								},
+								{
+									"type": "literal",
+									"value": "CONTEXT_MESSAGE"
+								}
+							]
 						}
 					}
 				},
@@ -56503,9 +56597,22 @@
 						}
 					],
 					"type": {
-						"type": "reference",
-						"id": 2215,
-						"name": "AutoDeferType"
+						"type": "union",
+						"types": [
+							{
+								"type": "literal",
+								"value": "BUTTON"
+							},
+							{
+								"type": "literal",
+								"value": "SELECT_MENU"
+							},
+							{
+								"type": "reference",
+								"id": 2215,
+								"name": "AutoDeferType"
+							}
+						]
 					}
 				},
 				{
@@ -56530,7 +56637,7 @@
 				},
 				{
 					"id": 2602,
-					"name": "filePath",
+					"name": "fileName",
 					"kind": 1024,
 					"kindString": "Property",
 					"flags": {
@@ -56605,9 +56712,22 @@
 					"type": {
 						"type": "array",
 						"elementType": {
-							"type": "reference",
-							"id": 2586,
-							"name": "ComponentType"
+							"type": "union",
+							"types": [
+								{
+									"type": "literal",
+									"value": "BUTTON"
+								},
+								{
+									"type": "literal",
+									"value": "SELECT_MENU"
+								},
+								{
+									"type": "reference",
+									"id": 2586,
+									"name": "ComponentType"
+								}
+							]
 						}
 					}
 				},
