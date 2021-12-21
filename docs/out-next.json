@@ -636,7 +636,6 @@
 					"kindString": "Property",
 					"flags": {
 						"isPublic": true,
-						"isOptional": true,
 						"isReadonly": true
 					},
 					"sources": [
