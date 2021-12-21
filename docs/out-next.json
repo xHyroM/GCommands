@@ -22,7 +22,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/arguments/Argument.ts",
-							"line": 9,
+							"line": 10,
 							"character": 1
 						}
 					],
@@ -37,7 +37,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/arguments/Argument.ts",
-							"line": 11,
+							"line": 12,
 							"character": 1
 						}
 					],
@@ -52,7 +52,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/arguments/Argument.ts",
-							"line": 8,
+							"line": 9,
 							"character": 1
 						}
 					],
@@ -67,7 +67,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/arguments/Argument.ts",
-							"line": 13,
+							"line": 14,
 							"character": 1
 						}
 					],
@@ -82,7 +82,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/arguments/Argument.ts",
-							"line": 14,
+							"line": 15,
 							"character": 1
 						}
 					],
@@ -97,7 +97,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/arguments/Argument.ts",
-							"line": 12,
+							"line": 13,
 							"character": 1
 						}
 					],
@@ -112,7 +112,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/arguments/Argument.ts",
-							"line": 7,
+							"line": 8,
 							"character": 1
 						}
 					],
@@ -127,7 +127,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/arguments/Argument.ts",
-							"line": 5,
+							"line": 6,
 							"character": 1
 						}
 					],
@@ -142,7 +142,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/arguments/Argument.ts",
-							"line": 6,
+							"line": 7,
 							"character": 1
 						}
 					],
@@ -157,7 +157,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/arguments/Argument.ts",
-							"line": 10,
+							"line": 11,
 							"character": 1
 						}
 					],
@@ -185,7 +185,7 @@
 			"sources": [
 				{
 					"fileName": "src/lib/arguments/Argument.ts",
-					"line": 4,
+					"line": 5,
 					"character": 12
 				}
 			]
@@ -406,7 +406,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/arguments/Argument.ts",
-							"line": 35,
+							"line": 36,
 							"character": 1
 						}
 					],
@@ -463,20 +463,21 @@
 					"sources": [
 						{
 							"fileName": "src/lib/arguments/Argument.ts",
-							"line": 31,
+							"line": 32,
 							"character": 17
 						}
 					],
 					"type": {
 						"type": "array",
 						"elementType": {
-							"type": "intrinsic",
-							"name": "string"
+							"type": "reference",
+							"id": 2512,
+							"name": "CommandArgumentChoice"
 						}
 					}
 				},
 				{
-					"id": 2964,
+					"id": 2963,
 					"name": "description",
 					"kind": 1024,
 					"kindString": "Property",
@@ -508,7 +509,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/arguments/Argument.ts",
-							"line": 27,
+							"line": 28,
 							"character": 17
 						}
 					],
@@ -530,7 +531,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/arguments/Argument.ts",
-							"line": 32,
+							"line": 33,
 							"character": 17
 						}
 					],
@@ -565,7 +566,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/arguments/Argument.ts",
-							"line": 30,
+							"line": 31,
 							"character": 17
 						}
 					],
@@ -587,7 +588,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/arguments/Argument.ts",
-							"line": 33,
+							"line": 34,
 							"character": 8
 						}
 					],
@@ -630,7 +631,7 @@
 					}
 				},
 				{
-					"id": 2963,
+					"id": 2964,
 					"name": "type",
 					"kind": 1024,
 					"kindString": "Property",
@@ -641,14 +642,59 @@
 					"sources": [
 						{
 							"fileName": "src/lib/arguments/Argument.ts",
-							"line": 28,
+							"line": 30,
 							"character": 17
 						}
 					],
 					"type": {
-						"type": "reference",
-						"id": 2933,
-						"name": "ArgumentType"
+						"type": "union",
+						"types": [
+							{
+								"type": "literal",
+								"value": "USER"
+							},
+							{
+								"type": "literal",
+								"value": "CHANNEL"
+							},
+							{
+								"type": "reference",
+								"id": 2933,
+								"name": "ArgumentType"
+							},
+							{
+								"type": "literal",
+								"value": "SUB_COMMAND"
+							},
+							{
+								"type": "literal",
+								"value": "SUB_COMMAND_GROUP"
+							},
+							{
+								"type": "literal",
+								"value": "STRING"
+							},
+							{
+								"type": "literal",
+								"value": "INTEGER"
+							},
+							{
+								"type": "literal",
+								"value": "BOOLEAN"
+							},
+							{
+								"type": "literal",
+								"value": "ROLE"
+							},
+							{
+								"type": "literal",
+								"value": "MENTIONABLE"
+							},
+							{
+								"type": "literal",
+								"value": "NUMBER"
+							}
+						]
 					}
 				},
 				{
@@ -657,14 +703,14 @@
 					"kind": 2048,
 					"kindString": "Method",
 					"flags": {
-						"isPrivate": true,
+						"isPublic": true,
 						"isStatic": true
 					},
 					"sources": [
 						{
 							"fileName": "src/lib/arguments/Argument.ts",
-							"line": 42,
-							"character": 16
+							"line": 43,
+							"character": 15
 						}
 					],
 					"signatures": [
@@ -677,31 +723,51 @@
 							"parameters": [
 								{
 									"id": 2956,
-									"name": "name",
+									"name": "argument",
 									"kind": 32768,
 									"kindString": "Parameter",
 									"flags": {},
 									"type": {
-										"type": "intrinsic",
-										"name": "string"
+										"type": "union",
+										"types": [
+											{
+												"type": "reference",
+												"id": 2515,
+												"name": "CommandArgument"
+											},
+											{
+												"type": "reference",
+												"id": 2953,
+												"name": "Argument"
+											}
+										]
 									}
 								},
 								{
 									"id": 2957,
-									"name": "options",
+									"name": "command",
 									"kind": 32768,
 									"kindString": "Parameter",
 									"flags": {},
 									"type": {
 										"type": "reference",
-										"id": 2944,
-										"name": "ArgumentOptions"
+										"id": 2548,
+										"name": "Command"
 									}
 								}
 							],
 							"type": {
-								"type": "intrinsic",
-								"name": "void"
+								"type": "union",
+								"types": [
+									{
+										"type": "intrinsic",
+										"name": "boolean"
+									},
+									{
+										"type": "intrinsic",
+										"name": "void"
+									}
+								]
 							}
 						}
 					]
@@ -720,12 +786,12 @@
 					"kind": 1024,
 					"children": [
 						2966,
-						2964,
+						2963,
 						2962,
 						2967,
 						2965,
 						2968,
-						2963
+						2964
 					]
 				},
 				{
@@ -739,7 +805,7 @@
 			"sources": [
 				{
 					"fileName": "src/lib/arguments/Argument.ts",
-					"line": 26,
+					"line": 27,
 					"character": 13
 				}
 			]
@@ -50706,7 +50772,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/arguments/Argument.ts",
-							"line": 21,
+							"line": 22,
 							"character": 1
 						}
 					],
@@ -50720,7 +50786,7 @@
 					}
 				},
 				{
-					"id": 2946,
+					"id": 2945,
 					"name": "description",
 					"kind": 1024,
 					"kindString": "Property",
@@ -50748,7 +50814,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/arguments/Argument.ts",
-							"line": 22,
+							"line": 23,
 							"character": 1
 						}
 					],
@@ -50782,7 +50848,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/arguments/Argument.ts",
-							"line": 20,
+							"line": 21,
 							"character": 1
 						}
 					],
@@ -50792,7 +50858,7 @@
 					}
 				},
 				{
-					"id": 2945,
+					"id": 2946,
 					"name": "type",
 					"kind": 1024,
 					"kindString": "Property",
@@ -50800,14 +50866,59 @@
 					"sources": [
 						{
 							"fileName": "src/lib/arguments/Argument.ts",
-							"line": 18,
+							"line": 20,
 							"character": 1
 						}
 					],
 					"type": {
-						"type": "reference",
-						"id": 2933,
-						"name": "ArgumentType"
+						"type": "union",
+						"types": [
+							{
+								"type": "literal",
+								"value": "USER"
+							},
+							{
+								"type": "literal",
+								"value": "CHANNEL"
+							},
+							{
+								"type": "reference",
+								"id": 2933,
+								"name": "ArgumentType"
+							},
+							{
+								"type": "literal",
+								"value": "SUB_COMMAND"
+							},
+							{
+								"type": "literal",
+								"value": "SUB_COMMAND_GROUP"
+							},
+							{
+								"type": "literal",
+								"value": "STRING"
+							},
+							{
+								"type": "literal",
+								"value": "INTEGER"
+							},
+							{
+								"type": "literal",
+								"value": "BOOLEAN"
+							},
+							{
+								"type": "literal",
+								"value": "ROLE"
+							},
+							{
+								"type": "literal",
+								"value": "MENTIONABLE"
+							},
+							{
+								"type": "literal",
+								"value": "NUMBER"
+							}
+						]
 					}
 				},
 				{
@@ -50821,7 +50932,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/arguments/Argument.ts",
-							"line": 23,
+							"line": 24,
 							"character": 1
 						}
 					],
@@ -50860,10 +50971,10 @@
 					"kind": 1024,
 					"children": [
 						2948,
-						2946,
+						2945,
 						2949,
 						2947,
-						2945
+						2946
 					]
 				},
 				{
@@ -50877,7 +50988,7 @@
 			"sources": [
 				{
 					"fileName": "src/lib/arguments/Argument.ts",
-					"line": 17,
+					"line": 18,
 					"character": 17
 				}
 			]
@@ -54656,7 +54767,7 @@
 					],
 					"type": {
 						"type": "intrinsic",
-						"name": "any"
+						"name": "string"
 					}
 				}
 			],
