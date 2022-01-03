@@ -7,14 +7,14 @@
 	"originalName": "",
 	"children": [
 		{
-			"id": 3051,
+			"id": 3034,
 			"name": "ArgumentType",
 			"kind": 8,
 			"kindString": "Enumeration",
 			"flags": {},
 			"children": [
 				{
-					"id": 3056,
+					"id": 3039,
 					"name": "BOOLEAN",
 					"kind": 16,
 					"kindString": "Enumeration member",
@@ -29,7 +29,7 @@
 					"defaultValue": "5"
 				},
 				{
-					"id": 3058,
+					"id": 3041,
 					"name": "CHANNEL",
 					"kind": 16,
 					"kindString": "Enumeration member",
@@ -44,7 +44,7 @@
 					"defaultValue": "7"
 				},
 				{
-					"id": 3055,
+					"id": 3038,
 					"name": "INTEGER",
 					"kind": 16,
 					"kindString": "Enumeration member",
@@ -59,7 +59,7 @@
 					"defaultValue": "4"
 				},
 				{
-					"id": 3060,
+					"id": 3043,
 					"name": "MENTIONABLE",
 					"kind": 16,
 					"kindString": "Enumeration member",
@@ -74,7 +74,7 @@
 					"defaultValue": "9"
 				},
 				{
-					"id": 3061,
+					"id": 3044,
 					"name": "NUMBER",
 					"kind": 16,
 					"kindString": "Enumeration member",
@@ -89,7 +89,7 @@
 					"defaultValue": "10"
 				},
 				{
-					"id": 3059,
+					"id": 3042,
 					"name": "ROLE",
 					"kind": 16,
 					"kindString": "Enumeration member",
@@ -104,7 +104,7 @@
 					"defaultValue": "8"
 				},
 				{
-					"id": 3054,
+					"id": 3037,
 					"name": "STRING",
 					"kind": 16,
 					"kindString": "Enumeration member",
@@ -119,7 +119,7 @@
 					"defaultValue": "3"
 				},
 				{
-					"id": 3052,
+					"id": 3035,
 					"name": "SUB_COMMAND",
 					"kind": 16,
 					"kindString": "Enumeration member",
@@ -134,7 +134,7 @@
 					"defaultValue": "1"
 				},
 				{
-					"id": 3053,
+					"id": 3036,
 					"name": "SUB_COMMAND_GROUP",
 					"kind": 16,
 					"kindString": "Enumeration member",
@@ -149,7 +149,7 @@
 					"defaultValue": "2"
 				},
 				{
-					"id": 3057,
+					"id": 3040,
 					"name": "USER",
 					"kind": 16,
 					"kindString": "Enumeration member",
@@ -169,16 +169,16 @@
 					"title": "Enumeration members",
 					"kind": 16,
 					"children": [
-						3056,
-						3058,
-						3055,
-						3060,
-						3061,
-						3059,
-						3054,
-						3052,
-						3053,
-						3057
+						3039,
+						3041,
+						3038,
+						3043,
+						3044,
+						3042,
+						3037,
+						3035,
+						3036,
+						3040
 					]
 				}
 			],
@@ -263,14 +263,14 @@
 			]
 		},
 		{
-			"id": 3062,
+			"id": 3045,
 			"name": "ChannelType",
 			"kind": 8,
 			"kindString": "Enumeration",
 			"flags": {},
 			"children": [
 				{
-					"id": 3065,
+					"id": 3048,
 					"name": "GUILD_CATEGORY",
 					"kind": 16,
 					"kindString": "Enumeration member",
@@ -285,7 +285,7 @@
 					"defaultValue": "4"
 				},
 				{
-					"id": 3067,
+					"id": 3050,
 					"name": "GUILD_NEWS_THREAD",
 					"kind": 16,
 					"kindString": "Enumeration member",
@@ -300,7 +300,7 @@
 					"defaultValue": "10"
 				},
 				{
-					"id": 3069,
+					"id": 3052,
 					"name": "GUILD_PRIVATE_THREAD",
 					"kind": 16,
 					"kindString": "Enumeration member",
@@ -315,7 +315,7 @@
 					"defaultValue": "12"
 				},
 				{
-					"id": 3068,
+					"id": 3051,
 					"name": "GUILD_PUBLIC_THREAD",
 					"kind": 16,
 					"kindString": "Enumeration member",
@@ -330,7 +330,7 @@
 					"defaultValue": "11"
 				},
 				{
-					"id": 3070,
+					"id": 3053,
 					"name": "GUILD_STAGE_VOICE",
 					"kind": 16,
 					"kindString": "Enumeration member",
@@ -345,7 +345,7 @@
 					"defaultValue": "13"
 				},
 				{
-					"id": 3066,
+					"id": 3049,
 					"name": "GUILD_STORE",
 					"kind": 16,
 					"kindString": "Enumeration member",
@@ -360,7 +360,7 @@
 					"defaultValue": "6"
 				},
 				{
-					"id": 3063,
+					"id": 3046,
 					"name": "GUILD_TEXT",
 					"kind": 16,
 					"kindString": "Enumeration member",
@@ -375,7 +375,7 @@
 					"defaultValue": "0"
 				},
 				{
-					"id": 3064,
+					"id": 3047,
 					"name": "GUILD_VOICE",
 					"kind": 16,
 					"kindString": "Enumeration member",
@@ -395,14 +395,14 @@
 					"title": "Enumeration members",
 					"kind": 16,
 					"children": [
-						3065,
-						3067,
-						3069,
-						3068,
-						3070,
-						3066,
-						3063,
-						3064
+						3048,
+						3050,
+						3052,
+						3051,
+						3053,
+						3049,
+						3046,
+						3047
 					]
 				}
 			],
@@ -559,14 +559,14 @@
 			]
 		},
 		{
-			"id": 3081,
+			"id": 3064,
 			"name": "Argument",
 			"kind": 128,
 			"kindString": "Class",
 			"flags": {},
 			"children": [
 				{
-					"id": 3089,
+					"id": 3072,
 					"name": "constructor",
 					"kind": 512,
 					"kindString": "Constructor",
@@ -580,14 +580,14 @@
 					],
 					"signatures": [
 						{
-							"id": 3090,
+							"id": 3073,
 							"name": "new Argument",
 							"kind": 16384,
 							"kindString": "Constructor signature",
 							"flags": {},
 							"parameters": [
 								{
-									"id": 3091,
+									"id": 3074,
 									"name": "name",
 									"kind": 32768,
 									"kindString": "Parameter",
@@ -598,28 +598,28 @@
 									}
 								},
 								{
-									"id": 3092,
+									"id": 3075,
 									"name": "options",
 									"kind": 32768,
 									"kindString": "Parameter",
 									"flags": {},
 									"type": {
 										"type": "reference",
-										"id": 3071,
+										"id": 3054,
 										"name": "ArgumentOptions"
 									}
 								}
 							],
 							"type": {
 								"type": "reference",
-								"id": 3081,
+								"id": 3064,
 								"name": "Argument"
 							}
 						}
 					]
 				},
 				{
-					"id": 3099,
+					"id": 3082,
 					"name": "channelTypes",
 					"kind": 1024,
 					"kindString": "Property",
@@ -642,7 +642,7 @@
 							"types": [
 								{
 									"type": "reference",
-									"id": 3062,
+									"id": 3045,
 									"name": "ChannelType"
 								},
 								{
@@ -682,7 +682,7 @@
 					}
 				},
 				{
-					"id": 3097,
+					"id": 3080,
 					"name": "choices",
 					"kind": 1024,
 					"kindString": "Property",
@@ -708,7 +708,7 @@
 					}
 				},
 				{
-					"id": 3094,
+					"id": 3077,
 					"name": "description",
 					"kind": 1024,
 					"kindString": "Property",
@@ -729,7 +729,7 @@
 					}
 				},
 				{
-					"id": 3093,
+					"id": 3076,
 					"name": "name",
 					"kind": 1024,
 					"kindString": "Property",
@@ -750,7 +750,7 @@
 					}
 				},
 				{
-					"id": 3098,
+					"id": 3081,
 					"name": "options",
 					"kind": 1024,
 					"kindString": "Property",
@@ -778,7 +778,7 @@
 								},
 								{
 									"type": "reference",
-									"id": 3081,
+									"id": 3064,
 									"name": "Argument"
 								}
 							]
@@ -786,7 +786,7 @@
 					}
 				},
 				{
-					"id": 3096,
+					"id": 3079,
 					"name": "required",
 					"kind": 1024,
 					"kindString": "Property",
@@ -808,7 +808,7 @@
 					"defaultValue": "false"
 				},
 				{
-					"id": 3100,
+					"id": 3083,
 					"name": "run",
 					"kind": 1024,
 					"kindString": "Property",
@@ -826,28 +826,28 @@
 					"type": {
 						"type": "reflection",
 						"declaration": {
-							"id": 3101,
+							"id": 3084,
 							"name": "__type",
 							"kind": 65536,
 							"kindString": "Type literal",
 							"flags": {},
 							"signatures": [
 								{
-									"id": 3102,
+									"id": 3085,
 									"name": "__type",
 									"kind": 4096,
 									"kindString": "Call signature",
 									"flags": {},
 									"parameters": [
 										{
-											"id": 3103,
+											"id": 3086,
 											"name": "ctx",
 											"kind": 32768,
 											"kindString": "Parameter",
 											"flags": {},
 											"type": {
 												"type": "reference",
-												"id": 2966,
+												"id": 2949,
 												"name": "AutocompleteContext"
 											}
 										}
@@ -862,7 +862,7 @@
 					}
 				},
 				{
-					"id": 3095,
+					"id": 3078,
 					"name": "type",
 					"kind": 1024,
 					"kindString": "Property",
@@ -890,7 +890,7 @@
 							},
 							{
 								"type": "reference",
-								"id": 3051,
+								"id": 3034,
 								"name": "ArgumentType"
 							},
 							{
@@ -929,7 +929,7 @@
 					}
 				},
 				{
-					"id": 3082,
+					"id": 3065,
 					"name": "toAPIArgument",
 					"kind": 2048,
 					"kindString": "Method",
@@ -946,14 +946,14 @@
 					],
 					"signatures": [
 						{
-							"id": 3083,
+							"id": 3066,
 							"name": "toAPIArgument",
 							"kind": 4096,
 							"kindString": "Call signature",
 							"flags": {},
 							"parameters": [
 								{
-									"id": 3084,
+									"id": 3067,
 									"name": "argument",
 									"kind": 32768,
 									"kindString": "Parameter",
@@ -968,7 +968,7 @@
 											},
 											{
 												"type": "reference",
-												"id": 3081,
+												"id": 3064,
 												"name": "Argument"
 											}
 										]
@@ -993,7 +993,7 @@
 					]
 				},
 				{
-					"id": 3085,
+					"id": 3068,
 					"name": "validate",
 					"kind": 2048,
 					"kindString": "Method",
@@ -1010,14 +1010,14 @@
 					],
 					"signatures": [
 						{
-							"id": 3086,
+							"id": 3069,
 							"name": "validate",
 							"kind": 4096,
 							"kindString": "Call signature",
 							"flags": {},
 							"parameters": [
 								{
-									"id": 3087,
+									"id": 3070,
 									"name": "argument",
 									"kind": 32768,
 									"kindString": "Parameter",
@@ -1032,14 +1032,14 @@
 											},
 											{
 												"type": "reference",
-												"id": 3081,
+												"id": 3064,
 												"name": "Argument"
 											}
 										]
 									}
 								},
 								{
-									"id": 3088,
+									"id": 3071,
 									"name": "command",
 									"kind": 32768,
 									"kindString": "Parameter",
@@ -1073,29 +1073,29 @@
 					"title": "Constructors",
 					"kind": 512,
 					"children": [
-						3089
+						3072
 					]
 				},
 				{
 					"title": "Properties",
 					"kind": 1024,
 					"children": [
-						3099,
-						3097,
-						3094,
-						3093,
-						3098,
-						3096,
-						3100,
-						3095
+						3082,
+						3080,
+						3077,
+						3076,
+						3081,
+						3079,
+						3083,
+						3078
 					]
 				},
 				{
 					"title": "Methods",
 					"kind": 2048,
 					"children": [
-						3082,
-						3085
+						3065,
+						3068
 					]
 				}
 			],
@@ -1108,14 +1108,14 @@
 			]
 		},
 		{
-			"id": 3011,
+			"id": 2994,
 			"name": "ArgumentResolver",
 			"kind": 128,
 			"kindString": "Class",
 			"flags": {},
 			"children": [
 				{
-					"id": 3012,
+					"id": 2995,
 					"name": "constructor",
 					"kind": 512,
 					"kindString": "Constructor",
@@ -1131,14 +1131,14 @@
 					],
 					"signatures": [
 						{
-							"id": 3013,
+							"id": 2996,
 							"name": "new ArgumentResolver",
 							"kind": 16384,
 							"kindString": "Constructor signature",
 							"flags": {},
 							"parameters": [
 								{
-									"id": 3014,
+									"id": 2997,
 									"name": "options",
 									"kind": 32768,
 									"kindString": "Parameter",
@@ -1151,14 +1151,14 @@
 							],
 							"type": {
 								"type": "reference",
-								"id": 3011,
+								"id": 2994,
 								"name": "ArgumentResolver"
 							}
 						}
 					]
 				},
 				{
-					"id": 3016,
+					"id": 2999,
 					"name": "array",
 					"kind": 1024,
 					"kindString": "Property",
@@ -1181,7 +1181,7 @@
 					}
 				},
 				{
-					"id": 3017,
+					"id": 3000,
 					"name": "object",
 					"kind": 1024,
 					"kindString": "Property",
@@ -1211,7 +1211,7 @@
 					}
 				},
 				{
-					"id": 3015,
+					"id": 2998,
 					"name": "options",
 					"kind": 1024,
 					"kindString": "Property",
@@ -1234,7 +1234,7 @@
 					}
 				},
 				{
-					"id": 3018,
+					"id": 3001,
 					"name": "subcommand",
 					"kind": 1024,
 					"kindString": "Property",
@@ -1254,7 +1254,7 @@
 					}
 				},
 				{
-					"id": 3019,
+					"id": 3002,
 					"name": "subcommandgroup",
 					"kind": 1024,
 					"kindString": "Property",
@@ -1274,7 +1274,7 @@
 					}
 				},
 				{
-					"id": 3020,
+					"id": 3003,
 					"name": "get",
 					"kind": 2048,
 					"kindString": "Method",
@@ -1290,14 +1290,14 @@
 					],
 					"signatures": [
 						{
-							"id": 3021,
+							"id": 3004,
 							"name": "get",
 							"kind": 4096,
 							"kindString": "Call signature",
 							"flags": {},
 							"parameters": [
 								{
-									"id": 3022,
+									"id": 3005,
 									"name": "name",
 									"kind": 32768,
 									"kindString": "Parameter",
@@ -1308,7 +1308,7 @@
 									}
 								},
 								{
-									"id": 3023,
+									"id": 3006,
 									"name": "value",
 									"kind": 32768,
 									"kindString": "Parameter",
@@ -1327,7 +1327,7 @@
 					]
 				},
 				{
-					"id": 3030,
+					"id": 3013,
 					"name": "getBoolean",
 					"kind": 2048,
 					"kindString": "Method",
@@ -1343,14 +1343,14 @@
 					],
 					"signatures": [
 						{
-							"id": 3031,
+							"id": 3014,
 							"name": "getBoolean",
 							"kind": 4096,
 							"kindString": "Call signature",
 							"flags": {},
 							"parameters": [
 								{
-									"id": 3032,
+									"id": 3015,
 									"name": "name",
 									"kind": 32768,
 									"kindString": "Parameter",
@@ -1369,7 +1369,7 @@
 					]
 				},
 				{
-					"id": 3039,
+					"id": 3022,
 					"name": "getChannel",
 					"kind": 2048,
 					"kindString": "Method",
@@ -1385,14 +1385,14 @@
 					],
 					"signatures": [
 						{
-							"id": 3040,
+							"id": 3023,
 							"name": "getChannel",
 							"kind": 4096,
 							"kindString": "Call signature",
 							"flags": {},
 							"parameters": [
 								{
-									"id": 3041,
+									"id": 3024,
 									"name": "name",
 									"kind": 32768,
 									"kindString": "Parameter",
@@ -1411,7 +1411,7 @@
 					]
 				},
 				{
-					"id": 3027,
+					"id": 3010,
 					"name": "getInteger",
 					"kind": 2048,
 					"kindString": "Method",
@@ -1427,14 +1427,14 @@
 					],
 					"signatures": [
 						{
-							"id": 3028,
+							"id": 3011,
 							"name": "getInteger",
 							"kind": 4096,
 							"kindString": "Call signature",
 							"flags": {},
 							"parameters": [
 								{
-									"id": 3029,
+									"id": 3012,
 									"name": "name",
 									"kind": 32768,
 									"kindString": "Parameter",
@@ -1453,7 +1453,7 @@
 					]
 				},
 				{
-					"id": 3036,
+					"id": 3019,
 					"name": "getMember",
 					"kind": 2048,
 					"kindString": "Method",
@@ -1469,14 +1469,14 @@
 					],
 					"signatures": [
 						{
-							"id": 3037,
+							"id": 3020,
 							"name": "getMember",
 							"kind": 4096,
 							"kindString": "Call signature",
 							"flags": {},
 							"parameters": [
 								{
-									"id": 3038,
+									"id": 3021,
 									"name": "name",
 									"kind": 32768,
 									"kindString": "Parameter",
@@ -1495,7 +1495,7 @@
 					]
 				},
 				{
-					"id": 3045,
+					"id": 3028,
 					"name": "getMentionable",
 					"kind": 2048,
 					"kindString": "Method",
@@ -1511,14 +1511,14 @@
 					],
 					"signatures": [
 						{
-							"id": 3046,
+							"id": 3029,
 							"name": "getMentionable",
 							"kind": 4096,
 							"kindString": "Call signature",
 							"flags": {},
 							"parameters": [
 								{
-									"id": 3047,
+									"id": 3030,
 									"name": "name",
 									"kind": 32768,
 									"kindString": "Parameter",
@@ -1550,7 +1550,7 @@
 					]
 				},
 				{
-					"id": 3048,
+					"id": 3031,
 					"name": "getNumber",
 					"kind": 2048,
 					"kindString": "Method",
@@ -1566,14 +1566,14 @@
 					],
 					"signatures": [
 						{
-							"id": 3049,
+							"id": 3032,
 							"name": "getNumber",
 							"kind": 4096,
 							"kindString": "Call signature",
 							"flags": {},
 							"parameters": [
 								{
-									"id": 3050,
+									"id": 3033,
 									"name": "name",
 									"kind": 32768,
 									"kindString": "Parameter",
@@ -1592,7 +1592,7 @@
 					]
 				},
 				{
-					"id": 3042,
+					"id": 3025,
 					"name": "getRole",
 					"kind": 2048,
 					"kindString": "Method",
@@ -1608,14 +1608,14 @@
 					],
 					"signatures": [
 						{
-							"id": 3043,
+							"id": 3026,
 							"name": "getRole",
 							"kind": 4096,
 							"kindString": "Call signature",
 							"flags": {},
 							"parameters": [
 								{
-									"id": 3044,
+									"id": 3027,
 									"name": "name",
 									"kind": 32768,
 									"kindString": "Parameter",
@@ -1634,7 +1634,7 @@
 					]
 				},
 				{
-					"id": 3024,
+					"id": 3007,
 					"name": "getString",
 					"kind": 2048,
 					"kindString": "Method",
@@ -1650,14 +1650,14 @@
 					],
 					"signatures": [
 						{
-							"id": 3025,
+							"id": 3008,
 							"name": "getString",
 							"kind": 4096,
 							"kindString": "Call signature",
 							"flags": {},
 							"parameters": [
 								{
-									"id": 3026,
+									"id": 3009,
 									"name": "name",
 									"kind": 32768,
 									"kindString": "Parameter",
@@ -1676,7 +1676,7 @@
 					]
 				},
 				{
-					"id": 3033,
+					"id": 3016,
 					"name": "getUser",
 					"kind": 2048,
 					"kindString": "Method",
@@ -1692,14 +1692,14 @@
 					],
 					"signatures": [
 						{
-							"id": 3034,
+							"id": 3017,
 							"name": "getUser",
 							"kind": 4096,
 							"kindString": "Call signature",
 							"flags": {},
 							"parameters": [
 								{
-									"id": 3035,
+									"id": 3018,
 									"name": "name",
 									"kind": 32768,
 									"kindString": "Parameter",
@@ -1723,34 +1723,34 @@
 					"title": "Constructors",
 					"kind": 512,
 					"children": [
-						3012
+						2995
 					]
 				},
 				{
 					"title": "Properties",
 					"kind": 1024,
 					"children": [
-						3016,
-						3017,
-						3015,
-						3018,
-						3019
+						2999,
+						3000,
+						2998,
+						3001,
+						3002
 					]
 				},
 				{
 					"title": "Methods",
 					"kind": 2048,
 					"children": [
-						3020,
-						3030,
-						3039,
-						3027,
-						3036,
-						3045,
-						3048,
-						3042,
-						3024,
-						3033
+						3003,
+						3013,
+						3022,
+						3010,
+						3019,
+						3028,
+						3031,
+						3025,
+						3007,
+						3016
 					]
 				}
 			],
@@ -1763,14 +1763,14 @@
 			]
 		},
 		{
-			"id": 2966,
+			"id": 2949,
 			"name": "AutocompleteContext",
 			"kind": 128,
 			"kindString": "Class",
 			"flags": {},
 			"children": [
 				{
-					"id": 2975,
+					"id": 2958,
 					"name": "constructor",
 					"kind": 512,
 					"kindString": "Constructor",
@@ -1786,14 +1786,14 @@
 					],
 					"signatures": [
 						{
-							"id": 2976,
+							"id": 2959,
 							"name": "new AutocompleteContext",
 							"kind": 16384,
 							"kindString": "Constructor signature",
 							"flags": {},
 							"parameters": [
 								{
-									"id": 2977,
+									"id": 2960,
 									"name": "client",
 									"kind": 32768,
 									"kindString": "Parameter",
@@ -1811,21 +1811,21 @@
 									}
 								},
 								{
-									"id": 2978,
+									"id": 2961,
 									"name": "options",
 									"kind": 32768,
 									"kindString": "Parameter",
 									"flags": {},
 									"type": {
 										"type": "reference",
-										"id": 2948,
+										"id": 2931,
 										"name": "AutocompleteContextOptions"
 									}
 								}
 							],
 							"type": {
 								"type": "reference",
-								"id": 2966,
+								"id": 2949,
 								"name": "AutocompleteContext"
 							},
 							"overwrites": {
@@ -1842,7 +1842,7 @@
 					}
 				},
 				{
-					"id": 2984,
+					"id": 2967,
 					"name": "argument",
 					"kind": 1024,
 					"kindString": "Property",
@@ -1866,14 +1866,14 @@
 							},
 							{
 								"type": "reference",
-								"id": 3081,
+								"id": 3064,
 								"name": "Argument"
 							}
 						]
 					}
 				},
 				{
-					"id": 2994,
+					"id": 2977,
 					"name": "channel",
 					"kind": 1024,
 					"kindString": "Property",
@@ -1899,7 +1899,7 @@
 					}
 				},
 				{
-					"id": 2995,
+					"id": 2978,
 					"name": "channelId",
 					"kind": 1024,
 					"kindString": "Property",
@@ -1925,7 +1925,7 @@
 					}
 				},
 				{
-					"id": 2986,
+					"id": 2969,
 					"name": "client",
 					"kind": 1024,
 					"kindString": "Property",
@@ -1958,7 +1958,7 @@
 					}
 				},
 				{
-					"id": 2996,
+					"id": 2979,
 					"name": "createdAt",
 					"kind": 1024,
 					"kindString": "Property",
@@ -1984,7 +1984,7 @@
 					}
 				},
 				{
-					"id": 2997,
+					"id": 2980,
 					"name": "createdTimestamp",
 					"kind": 1024,
 					"kindString": "Property",
@@ -2010,7 +2010,7 @@
 					}
 				},
 				{
-					"id": 2987,
+					"id": 2970,
 					"name": "guild",
 					"kind": 1024,
 					"kindString": "Property",
@@ -2037,7 +2037,7 @@
 					}
 				},
 				{
-					"id": 2988,
+					"id": 2971,
 					"name": "guildId",
 					"kind": 1024,
 					"kindString": "Property",
@@ -2064,7 +2064,7 @@
 					}
 				},
 				{
-					"id": 2979,
+					"id": 2962,
 					"name": "interaction",
 					"kind": 1024,
 					"kindString": "Property",
@@ -2090,7 +2090,7 @@
 					}
 				},
 				{
-					"id": 2989,
+					"id": 2972,
 					"name": "member",
 					"kind": 1024,
 					"kindString": "Property",
@@ -2117,7 +2117,7 @@
 					}
 				},
 				{
-					"id": 2990,
+					"id": 2973,
 					"name": "memberPermissions",
 					"kind": 1024,
 					"kindString": "Property",
@@ -2144,7 +2144,7 @@
 					}
 				},
 				{
-					"id": 2980,
+					"id": 2963,
 					"name": "respond",
 					"kind": 1024,
 					"kindString": "Property",
@@ -2161,21 +2161,21 @@
 					"type": {
 						"type": "reflection",
 						"declaration": {
-							"id": 2981,
+							"id": 2964,
 							"name": "__type",
 							"kind": 65536,
 							"kindString": "Type literal",
 							"flags": {},
 							"signatures": [
 								{
-									"id": 2982,
+									"id": 2965,
 									"name": "__type",
 									"kind": 4096,
 									"kindString": "Call signature",
 									"flags": {},
 									"parameters": [
 										{
-											"id": 2983,
+											"id": 2966,
 											"name": "choices",
 											"kind": 32768,
 											"kindString": "Parameter",
@@ -2206,7 +2206,7 @@
 					}
 				},
 				{
-					"id": 2991,
+					"id": 2974,
 					"name": "user",
 					"kind": 1024,
 					"kindString": "Property",
@@ -2232,7 +2232,7 @@
 					}
 				},
 				{
-					"id": 2993,
+					"id": 2976,
 					"name": "userId",
 					"kind": 1024,
 					"kindString": "Property",
@@ -2258,7 +2258,7 @@
 					}
 				},
 				{
-					"id": 2992,
+					"id": 2975,
 					"name": "username",
 					"kind": 1024,
 					"kindString": "Property",
@@ -2284,7 +2284,7 @@
 					}
 				},
 				{
-					"id": 2985,
+					"id": 2968,
 					"name": "value",
 					"kind": 1024,
 					"kindString": "Property",
@@ -2304,7 +2304,7 @@
 					}
 				},
 				{
-					"id": 3004,
+					"id": 2987,
 					"name": "inCachedGuild",
 					"kind": 2048,
 					"kindString": "Method",
@@ -2320,7 +2320,7 @@
 					],
 					"signatures": [
 						{
-							"id": 3005,
+							"id": 2988,
 							"name": "inCachedGuild",
 							"kind": 4096,
 							"kindString": "Call signature",
@@ -2340,14 +2340,14 @@
 										{
 											"type": "reflection",
 											"declaration": {
-												"id": 3006,
+												"id": 2989,
 												"name": "__type",
 												"kind": 65536,
 												"kindString": "Type literal",
 												"flags": {},
 												"children": [
 													{
-														"id": 3007,
+														"id": 2990,
 														"name": "guild",
 														"kind": 1024,
 														"kindString": "Property",
@@ -2367,7 +2367,7 @@
 														}
 													},
 													{
-														"id": 3008,
+														"id": 2991,
 														"name": "guildId",
 														"kind": 1024,
 														"kindString": "Property",
@@ -2387,7 +2387,7 @@
 														}
 													},
 													{
-														"id": 3009,
+														"id": 2992,
 														"name": "member",
 														"kind": 1024,
 														"kindString": "Property",
@@ -2407,7 +2407,7 @@
 														}
 													},
 													{
-														"id": 3010,
+														"id": 2993,
 														"name": "memberPermissions",
 														"kind": 1024,
 														"kindString": "Property",
@@ -2432,10 +2432,10 @@
 														"title": "Properties",
 														"kind": 1024,
 														"children": [
-															3007,
-															3008,
-															3009,
-															3010
+															2990,
+															2991,
+															2992,
+															2993
 														]
 													}
 												]
@@ -2458,7 +2458,7 @@
 					}
 				},
 				{
-					"id": 2998,
+					"id": 2981,
 					"name": "inGuild",
 					"kind": 2048,
 					"kindString": "Method",
@@ -2474,7 +2474,7 @@
 					],
 					"signatures": [
 						{
-							"id": 2999,
+							"id": 2982,
 							"name": "inGuild",
 							"kind": 4096,
 							"kindString": "Call signature",
@@ -2494,14 +2494,14 @@
 										{
 											"type": "reflection",
 											"declaration": {
-												"id": 3000,
+												"id": 2983,
 												"name": "__type",
 												"kind": 65536,
 												"kindString": "Type literal",
 												"flags": {},
 												"children": [
 													{
-														"id": 3001,
+														"id": 2984,
 														"name": "guildId",
 														"kind": 1024,
 														"kindString": "Property",
@@ -2521,7 +2521,7 @@
 														}
 													},
 													{
-														"id": 3002,
+														"id": 2985,
 														"name": "member",
 														"kind": 1024,
 														"kindString": "Property",
@@ -2541,7 +2541,7 @@
 														}
 													},
 													{
-														"id": 3003,
+														"id": 2986,
 														"name": "memberPermissions",
 														"kind": 1024,
 														"kindString": "Property",
@@ -2566,9 +2566,9 @@
 														"title": "Properties",
 														"kind": 1024,
 														"children": [
-															3001,
-															3002,
-															3003
+															2984,
+															2985,
+															2986
 														]
 													}
 												]
@@ -2591,7 +2591,7 @@
 					}
 				},
 				{
-					"id": 2972,
+					"id": 2955,
 					"name": "createBaseWithInteraction",
 					"kind": 2048,
 					"kindString": "Method",
@@ -2607,14 +2607,14 @@
 					],
 					"signatures": [
 						{
-							"id": 2973,
+							"id": 2956,
 							"name": "createBaseWithInteraction",
 							"kind": 4096,
 							"kindString": "Call signature",
 							"flags": {},
 							"parameters": [
 								{
-									"id": 2974,
+									"id": 2957,
 									"name": "interaction",
 									"kind": 32768,
 									"kindString": "Parameter",
@@ -2650,7 +2650,7 @@
 					}
 				},
 				{
-					"id": 2967,
+					"id": 2950,
 					"name": "createWithInteraction",
 					"kind": 2048,
 					"kindString": "Method",
@@ -2667,14 +2667,14 @@
 					],
 					"signatures": [
 						{
-							"id": 2968,
+							"id": 2951,
 							"name": "createWithInteraction",
 							"kind": 4096,
 							"kindString": "Call signature",
 							"flags": {},
 							"parameters": [
 								{
-									"id": 2969,
+									"id": 2952,
 									"name": "interaction",
 									"kind": 32768,
 									"kindString": "Parameter",
@@ -2691,7 +2691,7 @@
 									}
 								},
 								{
-									"id": 2970,
+									"id": 2953,
 									"name": "argument",
 									"kind": 32768,
 									"kindString": "Parameter",
@@ -2706,14 +2706,14 @@
 											},
 											{
 												"type": "reference",
-												"id": 3081,
+												"id": 3064,
 												"name": "Argument"
 											}
 										]
 									}
 								},
 								{
-									"id": 2971,
+									"id": 2954,
 									"name": "value",
 									"kind": 32768,
 									"kindString": "Parameter",
@@ -2726,7 +2726,7 @@
 							],
 							"type": {
 								"type": "reference",
-								"id": 2966,
+								"id": 2949,
 								"name": "AutocompleteContext"
 							}
 						}
@@ -2738,39 +2738,39 @@
 					"title": "Constructors",
 					"kind": 512,
 					"children": [
-						2975
+						2958
 					]
 				},
 				{
 					"title": "Properties",
 					"kind": 1024,
 					"children": [
-						2984,
-						2994,
-						2995,
-						2986,
-						2996,
-						2997,
-						2987,
-						2988,
+						2967,
+						2977,
+						2978,
+						2969,
 						2979,
-						2989,
-						2990,
 						2980,
-						2991,
-						2993,
-						2992,
-						2985
+						2970,
+						2971,
+						2962,
+						2972,
+						2973,
+						2963,
+						2974,
+						2976,
+						2975,
+						2968
 					]
 				},
 				{
 					"title": "Methods",
 					"kind": 2048,
 					"children": [
-						3004,
-						2998,
-						2972,
-						2967
+						2987,
+						2981,
+						2955,
+						2950
 					]
 				}
 			],
@@ -3484,30 +3484,25 @@
 			"extendedBy": [
 				{
 					"type": "reference",
-					"id": 2771,
-					"name": "CommandContext"
-				},
-				{
-					"type": "reference",
-					"id": 2881,
+					"id": 2864,
 					"name": "ComponentContext"
 				},
 				{
 					"type": "reference",
-					"id": 2966,
+					"id": 2949,
 					"name": "AutocompleteContext"
 				}
 			]
 		},
 		{
-			"id": 3110,
+			"id": 3093,
 			"name": "ChannelOnlyInhibitor",
 			"kind": 128,
 			"kindString": "Class",
 			"flags": {},
 			"children": [
 				{
-					"id": 3111,
+					"id": 3094,
 					"name": "constructor",
 					"kind": 512,
 					"kindString": "Constructor",
@@ -3521,14 +3516,14 @@
 					],
 					"signatures": [
 						{
-							"id": 3112,
+							"id": 3095,
 							"name": "new ChannelOnlyInhibitor",
 							"kind": 16384,
 							"kindString": "Constructor signature",
 							"flags": {},
 							"parameters": [
 								{
-									"id": 3113,
+									"id": 3096,
 									"name": "channelIds",
 									"kind": 32768,
 									"kindString": "Parameter",
@@ -3544,14 +3539,14 @@
 							],
 							"type": {
 								"type": "reference",
-								"id": 3110,
+								"id": 3093,
 								"name": "ChannelOnlyInhibitor"
 							}
 						}
 					]
 				},
 				{
-					"id": 3114,
+					"id": 3097,
 					"name": "channelIds",
 					"kind": 1024,
 					"kindString": "Property",
@@ -3575,7 +3570,7 @@
 					}
 				},
 				{
-					"id": 3115,
+					"id": 3098,
 					"name": "run",
 					"kind": 2048,
 					"kindString": "Method",
@@ -3589,14 +3584,14 @@
 					],
 					"signatures": [
 						{
-							"id": 3116,
+							"id": 3099,
 							"name": "run",
 							"kind": 4096,
 							"kindString": "Call signature",
 							"flags": {},
 							"parameters": [
 								{
-									"id": 3117,
+									"id": 3100,
 									"name": "ctx",
 									"kind": 32768,
 									"kindString": "Parameter",
@@ -3621,21 +3616,21 @@
 					"title": "Constructors",
 					"kind": 512,
 					"children": [
-						3111
+						3094
 					]
 				},
 				{
 					"title": "Properties",
 					"kind": 1024,
 					"children": [
-						3114
+						3097
 					]
 				},
 				{
 					"title": "Methods",
 					"kind": 2048,
 					"children": [
-						3115
+						3098
 					]
 				}
 			],
@@ -3648,14 +3643,14 @@
 			]
 		},
 		{
-			"id": 3144,
+			"id": 3127,
 			"name": "ClientPermissionsInhibitor",
 			"kind": 128,
 			"kindString": "Class",
 			"flags": {},
 			"children": [
 				{
-					"id": 3145,
+					"id": 3128,
 					"name": "constructor",
 					"kind": 512,
 					"kindString": "Constructor",
@@ -3669,14 +3664,14 @@
 					],
 					"signatures": [
 						{
-							"id": 3146,
+							"id": 3129,
 							"name": "new ClientPermissionsInhibitor",
 							"kind": 16384,
 							"kindString": "Constructor signature",
 							"flags": {},
 							"parameters": [
 								{
-									"id": 3147,
+									"id": 3130,
 									"name": "permissions",
 									"kind": 32768,
 									"kindString": "Parameter",
@@ -3692,14 +3687,14 @@
 							],
 							"type": {
 								"type": "reference",
-								"id": 3144,
+								"id": 3127,
 								"name": "ClientPermissionsInhibitor"
 							}
 						}
 					]
 				},
 				{
-					"id": 3148,
+					"id": 3131,
 					"name": "permissions",
 					"kind": 1024,
 					"kindString": "Property",
@@ -3723,7 +3718,7 @@
 					}
 				},
 				{
-					"id": 3149,
+					"id": 3132,
 					"name": "run",
 					"kind": 2048,
 					"kindString": "Method",
@@ -3737,14 +3732,14 @@
 					],
 					"signatures": [
 						{
-							"id": 3150,
+							"id": 3133,
 							"name": "run",
 							"kind": 4096,
 							"kindString": "Call signature",
 							"flags": {},
 							"parameters": [
 								{
-									"id": 3151,
+									"id": 3134,
 									"name": "ctx",
 									"kind": 32768,
 									"kindString": "Parameter",
@@ -3769,21 +3764,21 @@
 					"title": "Constructors",
 					"kind": 512,
 					"children": [
-						3145
+						3128
 					]
 				},
 				{
 					"title": "Properties",
 					"kind": 1024,
 					"children": [
-						3148
+						3131
 					]
 				},
 				{
 					"title": "Methods",
 					"kind": 2048,
 					"children": [
-						3149
+						3132
 					]
 				}
 			],
@@ -3875,7 +3870,7 @@
 								},
 								{
 									"type": "reference",
-									"id": 3081,
+									"id": 3064,
 									"name": "Argument"
 								}
 							]
@@ -4121,7 +4116,13 @@
 											"flags": {},
 											"type": {
 												"type": "reference",
-												"id": 2771,
+												"id": 2773,
+												"typeArguments": [
+													{
+														"type": "reference",
+														"name": "CacheType"
+													}
+												],
 												"name": "CommandContext"
 											}
 										},
@@ -4228,7 +4229,13 @@
 											"flags": {},
 											"type": {
 												"type": "reference",
-												"id": 2771,
+												"id": 2773,
+												"typeArguments": [
+													{
+														"type": "reference",
+														"name": "CacheType"
+													}
+												],
 												"name": "CommandContext"
 											}
 										}
@@ -4348,7 +4355,13 @@
 									"flags": {},
 									"type": {
 										"type": "reference",
-										"id": 2771,
+										"id": 2773,
+										"typeArguments": [
+											{
+												"type": "reference",
+												"name": "CacheType"
+											}
+										],
 										"name": "CommandContext"
 									}
 								}
@@ -4664,35 +4677,52 @@
 			]
 		},
 		{
-			"id": 2771,
+			"id": 2773,
 			"name": "CommandContext",
 			"kind": 128,
 			"kindString": "Class",
 			"flags": {},
 			"children": [
 				{
-					"id": 2784,
+					"id": 2774,
 					"name": "constructor",
 					"kind": 512,
 					"kindString": "Constructor",
 					"flags": {},
 					"sources": [
 						{
-							"fileName": "src/lib/structures/CommandContext.ts",
-							"line": 44,
+							"fileName": "src/lib/structures/contexts/CommandContext.ts",
+							"line": 38,
 							"character": 1
 						}
 					],
 					"signatures": [
 						{
-							"id": 2785,
+							"id": 2775,
 							"name": "new CommandContext",
 							"kind": 16384,
 							"kindString": "Constructor signature",
 							"flags": {},
+							"typeParameter": [
+								{
+									"id": 2776,
+									"name": "Cached",
+									"kind": 131072,
+									"kindString": "Type parameter",
+									"flags": {},
+									"type": {
+										"type": "reference",
+										"name": "CacheType"
+									},
+									"default": {
+										"type": "reference",
+										"name": "CacheType"
+									}
+								}
+							],
 							"parameters": [
 								{
-									"id": 2786,
+									"id": 2777,
 									"name": "client",
 									"kind": 32768,
 									"kindString": "Parameter",
@@ -4710,7 +4740,7 @@
 									}
 								},
 								{
-									"id": 2787,
+									"id": 2778,
 									"name": "options",
 									"kind": 32768,
 									"kindString": "Parameter",
@@ -4718,52 +4748,69 @@
 									"type": {
 										"type": "reference",
 										"id": 2740,
+										"typeArguments": [
+											{
+												"type": "reference",
+												"id": 2776,
+												"name": "Cached"
+											}
+										],
 										"name": "CommandContextOptions"
 									}
 								}
 							],
 							"type": {
 								"type": "reference",
-								"id": 2771,
+								"id": 2773,
+								"typeArguments": [
+									{
+										"type": "reference",
+										"id": 2776,
+										"name": "Cached"
+									}
+								],
 								"name": "CommandContext"
 							},
 							"overwrites": {
 								"type": "reference",
-								"id": 2712,
-								"name": "BaseContext.constructor"
+								"name": "Context<Cached>.constructor"
 							}
 						}
 					],
 					"overwrites": {
 						"type": "reference",
-						"id": 2711,
-						"name": "BaseContext.constructor"
+						"name": "Context<Cached>.constructor"
 					}
 				},
 				{
-					"id": 2792,
+					"id": 2781,
 					"name": "arguments",
 					"kind": 1024,
 					"kindString": "Property",
 					"flags": {
-						"isPublic": true,
-						"isReadonly": true
+						"isPublic": true
 					},
 					"sources": [
 						{
-							"fileName": "src/lib/structures/CommandContext.ts",
-							"line": 37,
-							"character": 17
+							"fileName": "src/lib/structures/contexts/CommandContext.ts",
+							"line": 28,
+							"character": 8
 						}
 					],
 					"type": {
 						"type": "reference",
-						"id": 3011,
-						"name": "ArgumentResolver"
+						"typeArguments": [
+							{
+								"type": "reference",
+								"id": 2776,
+								"name": "Cached"
+							}
+						],
+						"name": "CommandInteractionOptionResolver"
 					}
 				},
 				{
-					"id": 2830,
+					"id": 2819,
 					"name": "channel",
 					"kind": 1024,
 					"kindString": "Property",
@@ -4773,35 +4820,56 @@
 					},
 					"sources": [
 						{
-							"fileName": "src/lib/structures/BaseContext.ts",
-							"line": 27,
+							"fileName": "src/lib/structures/contexts/Context.ts",
+							"line": 30,
 							"character": 17
 						}
 					],
 					"type": {
 						"type": "reference",
-						"name": "TextBasedChannel"
+						"typeArguments": [
+							{
+								"type": "reference",
+								"id": 2776,
+								"name": "Cached"
+							},
+							{
+								"type": "reference",
+								"name": "GuildTextBasedChannel"
+							},
+							{
+								"type": "reference",
+								"name": "GuildTextBasedChannel"
+							},
+							{
+								"type": "reference",
+								"name": "GuildTextBasedChannel"
+							},
+							{
+								"type": "reference",
+								"name": "TextBasedChannel"
+							}
+						],
+						"name": "CacheTypeReducer"
 					},
 					"inheritedFrom": {
 						"type": "reference",
-						"id": 2723,
-						"name": "BaseContext.channel"
+						"name": "Context.channel"
 					}
 				},
 				{
-					"id": 2831,
+					"id": 2820,
 					"name": "channelId",
 					"kind": 1024,
 					"kindString": "Property",
 					"flags": {
-						"isPublic": true,
-						"isReadonly": true
+						"isPublic": true
 					},
 					"sources": [
 						{
-							"fileName": "src/lib/structures/BaseContext.ts",
-							"line": 28,
-							"character": 17
+							"fileName": "src/lib/structures/contexts/Context.ts",
+							"line": 35,
+							"character": 8
 						}
 					],
 					"type": {
@@ -4810,12 +4878,11 @@
 					},
 					"inheritedFrom": {
 						"type": "reference",
-						"id": 2724,
-						"name": "BaseContext.channelId"
+						"name": "Context.channelId"
 					}
 				},
 				{
-					"id": 2822,
+					"id": 2818,
 					"name": "client",
 					"kind": 1024,
 					"kindString": "Property",
@@ -4825,8 +4892,8 @@
 					},
 					"sources": [
 						{
-							"fileName": "src/lib/structures/BaseContext.ts",
-							"line": 19,
+							"fileName": "src/lib/structures/contexts/Context.ts",
+							"line": 29,
 							"character": 17
 						}
 					],
@@ -4843,12 +4910,11 @@
 					},
 					"inheritedFrom": {
 						"type": "reference",
-						"id": 2715,
-						"name": "BaseContext.client"
+						"name": "Context.client"
 					}
 				},
 				{
-					"id": 2790,
+					"id": 2779,
 					"name": "command",
 					"kind": 1024,
 					"kindString": "Property",
@@ -4858,8 +4924,8 @@
 					},
 					"sources": [
 						{
-							"fileName": "src/lib/structures/CommandContext.ts",
-							"line": 35,
+							"fileName": "src/lib/structures/contexts/CommandContext.ts",
+							"line": 26,
 							"character": 17
 						}
 					],
@@ -4870,7 +4936,7 @@
 					}
 				},
 				{
-					"id": 2791,
+					"id": 2780,
 					"name": "commandName",
 					"kind": 1024,
 					"kindString": "Property",
@@ -4880,8 +4946,8 @@
 					},
 					"sources": [
 						{
-							"fileName": "src/lib/structures/CommandContext.ts",
-							"line": 36,
+							"fileName": "src/lib/structures/contexts/CommandContext.ts",
+							"line": 27,
 							"character": 17
 						}
 					],
@@ -4891,7 +4957,7 @@
 					}
 				},
 				{
-					"id": 2832,
+					"id": 2821,
 					"name": "createdAt",
 					"kind": 1024,
 					"kindString": "Property",
@@ -4901,8 +4967,8 @@
 					},
 					"sources": [
 						{
-							"fileName": "src/lib/structures/BaseContext.ts",
-							"line": 29,
+							"fileName": "src/lib/structures/contexts/Context.ts",
+							"line": 36,
 							"character": 17
 						}
 					],
@@ -4912,12 +4978,11 @@
 					},
 					"inheritedFrom": {
 						"type": "reference",
-						"id": 2725,
-						"name": "BaseContext.createdAt"
+						"name": "Context.createdAt"
 					}
 				},
 				{
-					"id": 2833,
+					"id": 2822,
 					"name": "createdTimestamp",
 					"kind": 1024,
 					"kindString": "Property",
@@ -4927,8 +4992,8 @@
 					},
 					"sources": [
 						{
-							"fileName": "src/lib/structures/BaseContext.ts",
-							"line": 30,
+							"fileName": "src/lib/structures/contexts/Context.ts",
+							"line": 37,
 							"character": 17
 						}
 					],
@@ -4938,12 +5003,11 @@
 					},
 					"inheritedFrom": {
 						"type": "reference",
-						"id": 2726,
-						"name": "BaseContext.createdTimestamp"
+						"name": "Context.createdTimestamp"
 					}
 				},
 				{
-					"id": 2808,
+					"id": 2784,
 					"name": "deferReply",
 					"kind": 1024,
 					"kindString": "Property",
@@ -4952,29 +5016,46 @@
 					},
 					"sources": [
 						{
-							"fileName": "src/lib/structures/CommandContext.ts",
-							"line": 42,
+							"fileName": "src/lib/structures/contexts/CommandContext.ts",
+							"line": 31,
 							"character": 8
 						}
 					],
 					"type": {
 						"type": "reflection",
 						"declaration": {
-							"id": 2809,
+							"id": 2785,
 							"name": "__type",
 							"kind": 65536,
 							"kindString": "Type literal",
 							"flags": {},
 							"signatures": [
 								{
-									"id": 2810,
+									"id": 2786,
 									"name": "__type",
 									"kind": 4096,
 									"kindString": "Call signature",
 									"flags": {},
+									"typeParameter": [
+										{
+											"id": 2787,
+											"name": "Fetch",
+											"kind": 131072,
+											"kindString": "Type parameter",
+											"flags": {},
+											"type": {
+												"type": "intrinsic",
+												"name": "boolean"
+											},
+											"default": {
+												"type": "intrinsic",
+												"name": "boolean"
+											}
+										}
+									],
 									"parameters": [
 										{
-											"id": 2811,
+											"id": 2788,
 											"name": "options",
 											"kind": 32768,
 											"kindString": "Parameter",
@@ -4982,8 +5063,55 @@
 												"isOptional": true
 											},
 											"type": {
-												"type": "reference",
-												"name": "InteractionDeferReplyOptions"
+												"type": "intersection",
+												"types": [
+													{
+														"type": "reference",
+														"name": "InteractionDeferReplyOptions"
+													},
+													{
+														"type": "reflection",
+														"declaration": {
+															"id": 2789,
+															"name": "__type",
+															"kind": 65536,
+															"kindString": "Type literal",
+															"flags": {},
+															"children": [
+																{
+																	"id": 2790,
+																	"name": "fetchReply",
+																	"kind": 1024,
+																	"kindString": "Property",
+																	"flags": {
+																		"isOptional": true
+																	},
+																	"sources": [
+																		{
+																			"fileName": "src/lib/structures/contexts/CommandContext.ts",
+																			"line": 31,
+																			"character": 97
+																		}
+																	],
+																	"type": {
+																		"type": "reference",
+																		"id": 2787,
+																		"name": "Fetch"
+																	}
+																}
+															],
+															"groups": [
+																{
+																	"title": "Properties",
+																	"kind": 1024,
+																	"children": [
+																		2790
+																	]
+																}
+															]
+														}
+													}
+												]
 											}
 										}
 									],
@@ -4991,27 +5119,83 @@
 										"type": "reference",
 										"typeArguments": [
 											{
-												"type": "union",
-												"types": [
-													{
-														"type": "intrinsic",
-														"name": "void"
-													},
-													{
-														"type": "reference",
-														"typeArguments": [
-															{
-																"type": "intrinsic",
-																"name": "boolean"
-															}
-														],
-														"name": "Message"
-													},
-													{
-														"type": "reference",
-														"name": "APIMessage"
-													}
-												]
+												"type": "conditional",
+												"checkType": {
+													"type": "reference",
+													"id": 2787,
+													"name": "Fetch"
+												},
+												"extendsType": {
+													"type": "literal",
+													"value": true
+												},
+												"trueType": {
+													"type": "reference",
+													"typeArguments": [
+														{
+															"type": "reference",
+															"id": 2776,
+															"name": "Cached"
+														},
+														{
+															"type": "reference",
+															"typeArguments": [
+																{
+																	"type": "literal",
+																	"value": true
+																}
+															],
+															"name": "Message"
+														},
+														{
+															"type": "reference",
+															"name": "APIMessage"
+														},
+														{
+															"type": "union",
+															"types": [
+																{
+																	"type": "reference",
+																	"name": "APIMessage"
+																},
+																{
+																	"type": "reference",
+																	"typeArguments": [
+																		{
+																			"type": "intrinsic",
+																			"name": "boolean"
+																		}
+																	],
+																	"name": "Message"
+																}
+															]
+														},
+														{
+															"type": "union",
+															"types": [
+																{
+																	"type": "reference",
+																	"name": "APIMessage"
+																},
+																{
+																	"type": "reference",
+																	"typeArguments": [
+																		{
+																			"type": "intrinsic",
+																			"name": "boolean"
+																		}
+																	],
+																	"name": "Message"
+																}
+															]
+														}
+													],
+													"name": "CacheTypeReducer"
+												},
+												"falseType": {
+													"type": "intrinsic",
+													"name": "void"
+												}
 											}
 										],
 										"name": "Promise"
@@ -5022,7 +5206,28 @@
 					}
 				},
 				{
-					"id": 2801,
+					"id": 2782,
+					"name": "deferred",
+					"kind": 1024,
+					"kindString": "Property",
+					"flags": {
+						"isPublic": true
+					},
+					"sources": [
+						{
+							"fileName": "src/lib/structures/contexts/CommandContext.ts",
+							"line": 29,
+							"character": 8
+						}
+					],
+					"type": {
+						"type": "intrinsic",
+						"name": "boolean"
+					},
+					"defaultValue": "false"
+				},
+				{
+					"id": 2791,
 					"name": "deleteReply",
 					"kind": 1024,
 					"kindString": "Property",
@@ -5031,22 +5236,22 @@
 					},
 					"sources": [
 						{
-							"fileName": "src/lib/structures/CommandContext.ts",
-							"line": 40,
+							"fileName": "src/lib/structures/contexts/CommandContext.ts",
+							"line": 32,
 							"character": 8
 						}
 					],
 					"type": {
 						"type": "reflection",
 						"declaration": {
-							"id": 2802,
+							"id": 2792,
 							"name": "__type",
 							"kind": 65536,
 							"kindString": "Type literal",
 							"flags": {},
 							"signatures": [
 								{
-									"id": 2803,
+									"id": 2793,
 									"name": "__type",
 									"kind": 4096,
 									"kindString": "Call signature",
@@ -5067,7 +5272,7 @@
 					}
 				},
 				{
-					"id": 2797,
+					"id": 2794,
 					"name": "editReply",
 					"kind": 1024,
 					"kindString": "Property",
@@ -5076,29 +5281,29 @@
 					},
 					"sources": [
 						{
-							"fileName": "src/lib/structures/CommandContext.ts",
-							"line": 39,
+							"fileName": "src/lib/structures/contexts/CommandContext.ts",
+							"line": 33,
 							"character": 8
 						}
 					],
 					"type": {
 						"type": "reflection",
 						"declaration": {
-							"id": 2798,
+							"id": 2795,
 							"name": "__type",
 							"kind": 65536,
 							"kindString": "Type literal",
 							"flags": {},
 							"signatures": [
 								{
-									"id": 2799,
+									"id": 2796,
 									"name": "__type",
 									"kind": 4096,
 									"kindString": "Call signature",
 									"flags": {},
 									"parameters": [
 										{
-											"id": 2800,
+											"id": 2797,
 											"name": "options",
 											"kind": 32768,
 											"kindString": "Parameter",
@@ -5126,14 +5331,19 @@
 										"type": "reference",
 										"typeArguments": [
 											{
-												"type": "union",
-												"types": [
+												"type": "reference",
+												"typeArguments": [
+													{
+														"type": "reference",
+														"id": 2776,
+														"name": "Cached"
+													},
 													{
 														"type": "reference",
 														"typeArguments": [
 															{
-																"type": "intrinsic",
-																"name": "boolean"
+																"type": "literal",
+																"value": true
 															}
 														],
 														"name": "Message"
@@ -5141,8 +5351,47 @@
 													{
 														"type": "reference",
 														"name": "APIMessage"
+													},
+													{
+														"type": "union",
+														"types": [
+															{
+																"type": "reference",
+																"name": "APIMessage"
+															},
+															{
+																"type": "reference",
+																"typeArguments": [
+																	{
+																		"type": "intrinsic",
+																		"name": "boolean"
+																	}
+																],
+																"name": "Message"
+															}
+														]
+													},
+													{
+														"type": "union",
+														"types": [
+															{
+																"type": "reference",
+																"name": "APIMessage"
+															},
+															{
+																"type": "reference",
+																"typeArguments": [
+																	{
+																		"type": "intrinsic",
+																		"name": "boolean"
+																	}
+																],
+																"name": "Message"
+															}
+														]
 													}
-												]
+												],
+												"name": "CacheTypeReducer"
 											}
 										],
 										"name": "Promise"
@@ -5153,7 +5402,111 @@
 					}
 				},
 				{
-					"id": 2804,
+					"id": 2798,
+					"name": "fetchReply",
+					"kind": 1024,
+					"kindString": "Property",
+					"flags": {
+						"isPublic": true
+					},
+					"sources": [
+						{
+							"fileName": "src/lib/structures/contexts/CommandContext.ts",
+							"line": 34,
+							"character": 8
+						}
+					],
+					"type": {
+						"type": "reflection",
+						"declaration": {
+							"id": 2799,
+							"name": "__type",
+							"kind": 65536,
+							"kindString": "Type literal",
+							"flags": {},
+							"signatures": [
+								{
+									"id": 2800,
+									"name": "__type",
+									"kind": 4096,
+									"kindString": "Call signature",
+									"flags": {},
+									"type": {
+										"type": "reference",
+										"typeArguments": [
+											{
+												"type": "reference",
+												"typeArguments": [
+													{
+														"type": "reference",
+														"id": 2776,
+														"name": "Cached"
+													},
+													{
+														"type": "reference",
+														"typeArguments": [
+															{
+																"type": "literal",
+																"value": true
+															}
+														],
+														"name": "Message"
+													},
+													{
+														"type": "reference",
+														"name": "APIMessage"
+													},
+													{
+														"type": "union",
+														"types": [
+															{
+																"type": "reference",
+																"name": "APIMessage"
+															},
+															{
+																"type": "reference",
+																"typeArguments": [
+																	{
+																		"type": "intrinsic",
+																		"name": "boolean"
+																	}
+																],
+																"name": "Message"
+															}
+														]
+													},
+													{
+														"type": "union",
+														"types": [
+															{
+																"type": "reference",
+																"name": "APIMessage"
+															},
+															{
+																"type": "reference",
+																"typeArguments": [
+																	{
+																		"type": "intrinsic",
+																		"name": "boolean"
+																	}
+																],
+																"name": "Message"
+															}
+														]
+													}
+												],
+												"name": "CacheTypeReducer"
+											}
+										],
+										"name": "Promise"
+									}
+								}
+							]
+						}
+					}
+				},
+				{
+					"id": 2801,
 					"name": "followUp",
 					"kind": 1024,
 					"kindString": "Property",
@@ -5162,29 +5515,29 @@
 					},
 					"sources": [
 						{
-							"fileName": "src/lib/structures/CommandContext.ts",
-							"line": 41,
+							"fileName": "src/lib/structures/contexts/CommandContext.ts",
+							"line": 35,
 							"character": 8
 						}
 					],
 					"type": {
 						"type": "reflection",
 						"declaration": {
-							"id": 2805,
+							"id": 2802,
 							"name": "__type",
 							"kind": 65536,
 							"kindString": "Type literal",
 							"flags": {},
 							"signatures": [
 								{
-									"id": 2806,
+									"id": 2803,
 									"name": "__type",
 									"kind": 4096,
 									"kindString": "Call signature",
 									"flags": {},
 									"parameters": [
 										{
-											"id": 2807,
+											"id": 2804,
 											"name": "options",
 											"kind": 32768,
 											"kindString": "Parameter",
@@ -5212,18 +5565,19 @@
 										"type": "reference",
 										"typeArguments": [
 											{
-												"type": "union",
-												"types": [
+												"type": "reference",
+												"typeArguments": [
 													{
-														"type": "intrinsic",
-														"name": "void"
+														"type": "reference",
+														"id": 2776,
+														"name": "Cached"
 													},
 													{
 														"type": "reference",
 														"typeArguments": [
 															{
-																"type": "intrinsic",
-																"name": "boolean"
+																"type": "literal",
+																"value": true
 															}
 														],
 														"name": "Message"
@@ -5231,8 +5585,47 @@
 													{
 														"type": "reference",
 														"name": "APIMessage"
+													},
+													{
+														"type": "union",
+														"types": [
+															{
+																"type": "reference",
+																"name": "APIMessage"
+															},
+															{
+																"type": "reference",
+																"typeArguments": [
+																	{
+																		"type": "intrinsic",
+																		"name": "boolean"
+																	}
+																],
+																"name": "Message"
+															}
+														]
+													},
+													{
+														"type": "union",
+														"types": [
+															{
+																"type": "reference",
+																"name": "APIMessage"
+															},
+															{
+																"type": "reference",
+																"typeArguments": [
+																	{
+																		"type": "intrinsic",
+																		"name": "boolean"
+																	}
+																],
+																"name": "Message"
+															}
+														]
 													}
-												]
+												],
+												"name": "CacheTypeReducer"
 											}
 										],
 										"name": "Promise"
@@ -5249,24 +5642,45 @@
 					"kindString": "Property",
 					"flags": {
 						"isPublic": true,
-						"isOptional": true,
 						"isReadonly": true
 					},
 					"sources": [
 						{
-							"fileName": "src/lib/structures/BaseContext.ts",
-							"line": 20,
+							"fileName": "src/lib/structures/contexts/Context.ts",
+							"line": 38,
 							"character": 17
 						}
 					],
 					"type": {
 						"type": "reference",
-						"name": "Guild"
+						"typeArguments": [
+							{
+								"type": "reference",
+								"id": 2776,
+								"name": "Cached"
+							},
+							{
+								"type": "reference",
+								"name": "Guild"
+							},
+							{
+								"type": "literal",
+								"value": null
+							},
+							{
+								"type": "reference",
+								"name": "Guild"
+							},
+							{
+								"type": "reference",
+								"name": "Guild"
+							}
+						],
+						"name": "CacheTypeReducer"
 					},
 					"inheritedFrom": {
 						"type": "reference",
-						"id": 2716,
-						"name": "BaseContext.guild"
+						"name": "Context.guild"
 					}
 				},
 				{
@@ -5275,68 +5689,45 @@
 					"kind": 1024,
 					"kindString": "Property",
 					"flags": {
-						"isPublic": true,
-						"isOptional": true,
-						"isReadonly": true
+						"isPublic": true
 					},
 					"sources": [
 						{
-							"fileName": "src/lib/structures/BaseContext.ts",
-							"line": 21,
-							"character": 17
+							"fileName": "src/lib/structures/contexts/Context.ts",
+							"line": 39,
+							"character": 8
 						}
 					],
 					"type": {
-						"type": "intrinsic",
-						"name": "string"
+						"type": "reference",
+						"typeArguments": [
+							{
+								"type": "reference",
+								"id": 2776,
+								"name": "Cached"
+							},
+							{
+								"type": "intrinsic",
+								"name": "string"
+							},
+							{
+								"type": "intrinsic",
+								"name": "string"
+							},
+							{
+								"type": "intrinsic",
+								"name": "string"
+							},
+							{
+								"type": "intrinsic",
+								"name": "string"
+							}
+						],
+						"name": "CacheTypeReducer"
 					},
 					"inheritedFrom": {
 						"type": "reference",
-						"id": 2717,
-						"name": "BaseContext.guildId"
-					}
-				},
-				{
-					"id": 2788,
-					"name": "interaction",
-					"kind": 1024,
-					"kindString": "Property",
-					"flags": {
-						"isPublic": true,
-						"isOptional": true,
-						"isReadonly": true
-					},
-					"sources": [
-						{
-							"fileName": "src/lib/structures/CommandContext.ts",
-							"line": 33,
-							"character": 17
-						}
-					],
-					"type": {
-						"type": "union",
-						"types": [
-							{
-								"type": "reference",
-								"typeArguments": [
-									{
-										"type": "reference",
-										"name": "CacheType"
-									}
-								],
-								"name": "CommandInteraction"
-							},
-							{
-								"type": "reference",
-								"typeArguments": [
-									{
-										"type": "reference",
-										"name": "CacheType"
-									}
-								],
-								"name": "ContextMenuInteraction"
-							}
-						]
+						"name": "Context.guildId"
 					}
 				},
 				{
@@ -5345,84 +5736,159 @@
 					"kind": 1024,
 					"kindString": "Property",
 					"flags": {
-						"isPublic": true,
-						"isOptional": true,
-						"isReadonly": true
+						"isPublic": true
 					},
 					"sources": [
 						{
-							"fileName": "src/lib/structures/BaseContext.ts",
-							"line": 22,
-							"character": 17
-						}
-					],
-					"type": {
-						"type": "reference",
-						"name": "GuildMember"
-					},
-					"inheritedFrom": {
-						"type": "reference",
-						"id": 2718,
-						"name": "BaseContext.member"
-					}
-				},
-				{
-					"id": 2826,
-					"name": "memberPermissions",
-					"kind": 1024,
-					"kindString": "Property",
-					"flags": {
-						"isPublic": true,
-						"isOptional": true,
-						"isReadonly": true
-					},
-					"sources": [
-						{
-							"fileName": "src/lib/structures/BaseContext.ts",
-							"line": 23,
-							"character": 17
-						}
-					],
-					"type": {
-						"type": "reference",
-						"name": "Permissions"
-					},
-					"inheritedFrom": {
-						"type": "reference",
-						"id": 2719,
-						"name": "BaseContext.memberPermissions"
-					}
-				},
-				{
-					"id": 2789,
-					"name": "message",
-					"kind": 1024,
-					"kindString": "Property",
-					"flags": {
-						"isPublic": true,
-						"isOptional": true,
-						"isReadonly": true
-					},
-					"sources": [
-						{
-							"fileName": "src/lib/structures/CommandContext.ts",
-							"line": 34,
-							"character": 17
+							"fileName": "src/lib/structures/contexts/Context.ts",
+							"line": 40,
+							"character": 8
 						}
 					],
 					"type": {
 						"type": "reference",
 						"typeArguments": [
 							{
-								"type": "intrinsic",
-								"name": "boolean"
+								"type": "reference",
+								"id": 2776,
+								"name": "Cached"
+							},
+							{
+								"type": "reference",
+								"name": "GuildMember"
+							},
+							{
+								"type": "reference",
+								"name": "APIInteractionGuildMember"
+							},
+							{
+								"type": "union",
+								"types": [
+									{
+										"type": "reference",
+										"name": "GuildMember"
+									},
+									{
+										"type": "reference",
+										"name": "APIInteractionGuildMember"
+									}
+								]
+							},
+							{
+								"type": "union",
+								"types": [
+									{
+										"type": "reference",
+										"name": "GuildMember"
+									},
+									{
+										"type": "reference",
+										"name": "APIInteractionGuildMember"
+									}
+								]
 							}
 						],
-						"name": "Message"
+						"name": "CacheTypeReducer"
+					},
+					"inheritedFrom": {
+						"type": "reference",
+						"name": "Context.member"
 					}
 				},
 				{
-					"id": 2793,
+					"id": 2828,
+					"name": "memberPermissions",
+					"kind": 1024,
+					"kindString": "Property",
+					"flags": {
+						"isPublic": true
+					},
+					"sources": [
+						{
+							"fileName": "src/lib/structures/contexts/Context.ts",
+							"line": 43,
+							"character": 8
+						}
+					],
+					"type": {
+						"type": "reference",
+						"typeArguments": [
+							{
+								"type": "reference",
+								"id": 2776,
+								"name": "Cached"
+							},
+							{
+								"type": "reference",
+								"typeArguments": [
+									{
+										"type": "reference",
+										"name": "Permissions"
+									}
+								],
+								"name": "Readonly"
+							},
+							{
+								"type": "reference",
+								"typeArguments": [
+									{
+										"type": "reference",
+										"name": "Permissions"
+									}
+								],
+								"name": "Readonly"
+							},
+							{
+								"type": "reference",
+								"typeArguments": [
+									{
+										"type": "reference",
+										"name": "Permissions"
+									}
+								],
+								"name": "Readonly"
+							},
+							{
+								"type": "reference",
+								"typeArguments": [
+									{
+										"type": "reference",
+										"name": "Permissions"
+									}
+								],
+								"name": "Readonly"
+							}
+						],
+						"name": "CacheTypeReducer"
+					},
+					"inheritedFrom": {
+						"type": "reference",
+						"name": "Context.memberPermissions"
+					}
+				},
+				{
+					"id": 2783,
+					"name": "replied",
+					"kind": 1024,
+					"kindString": "Property",
+					"flags": {
+						"isPublic": true
+					},
+					"sources": [
+						{
+							"fileName": "src/lib/structures/contexts/CommandContext.ts",
+							"line": 30,
+							"character": 8
+						}
+					],
+					"type": {
+						"type": "intrinsic",
+						"name": "boolean"
+					},
+					"defaultValue": "false"
+				},
+				{
+					"id": 2805,
 					"name": "reply",
 					"kind": 1024,
 					"kindString": "Property",
@@ -5431,33 +5897,52 @@
 					},
 					"sources": [
 						{
-							"fileName": "src/lib/structures/CommandContext.ts",
-							"line": 38,
+							"fileName": "src/lib/structures/contexts/CommandContext.ts",
+							"line": 36,
 							"character": 8
 						}
 					],
 					"type": {
 						"type": "reflection",
 						"declaration": {
-							"id": 2794,
+							"id": 2806,
 							"name": "__type",
 							"kind": 65536,
 							"kindString": "Type literal",
 							"flags": {},
 							"signatures": [
 								{
-									"id": 2795,
+									"id": 2807,
 									"name": "__type",
 									"kind": 4096,
 									"kindString": "Call signature",
 									"flags": {},
+									"typeParameter": [
+										{
+											"id": 2808,
+											"name": "Fetch",
+											"kind": 131072,
+											"kindString": "Type parameter",
+											"flags": {},
+											"type": {
+												"type": "intrinsic",
+												"name": "boolean"
+											},
+											"default": {
+												"type": "intrinsic",
+												"name": "boolean"
+											}
+										}
+									],
 									"parameters": [
 										{
-											"id": 2796,
+											"id": 2809,
 											"name": "options",
 											"kind": 32768,
 											"kindString": "Parameter",
-											"flags": {},
+											"flags": {
+												"isOptional": true
+											},
 											"type": {
 												"type": "union",
 												"types": [
@@ -5472,6 +5957,57 @@
 													{
 														"type": "reference",
 														"name": "InteractionReplyOptions"
+													},
+													{
+														"type": "intersection",
+														"types": [
+															{
+																"type": "reference",
+																"name": "InteractionReplyOptions"
+															},
+															{
+																"type": "reflection",
+																"declaration": {
+																	"id": 2810,
+																	"name": "__type",
+																	"kind": 65536,
+																	"kindString": "Type literal",
+																	"flags": {},
+																	"children": [
+																		{
+																			"id": 2811,
+																			"name": "fetchReply",
+																			"kind": 1024,
+																			"kindString": "Property",
+																			"flags": {
+																				"isOptional": true
+																			},
+																			"sources": [
+																				{
+																					"fileName": "src/lib/structures/contexts/CommandContext.ts",
+																					"line": 36,
+																					"character": 87
+																				}
+																			],
+																			"type": {
+																				"type": "reference",
+																				"id": 2808,
+																				"name": "Fetch"
+																			}
+																		}
+																	],
+																	"groups": [
+																		{
+																			"title": "Properties",
+																			"kind": 1024,
+																			"children": [
+																				2811
+																			]
+																		}
+																	]
+																}
+															}
+														]
 													}
 												]
 											}
@@ -5481,41 +6017,83 @@
 										"type": "reference",
 										"typeArguments": [
 											{
-												"type": "union",
-												"types": [
-													{
-														"type": "intrinsic",
-														"name": "void"
-													},
-													{
-														"type": "reference",
-														"typeArguments": [
-															{
-																"type": "intrinsic",
-																"name": "boolean"
-															}
-														],
-														"name": "Message"
-													},
-													{
-														"type": "reference",
-														"name": "APIMessage"
-													},
-													{
-														"type": "reference",
-														"name": "APIMessage"
-													},
-													{
-														"type": "reference",
-														"typeArguments": [
-															{
-																"type": "intrinsic",
-																"name": "boolean"
-															}
-														],
-														"name": "Message"
-													}
-												]
+												"type": "conditional",
+												"checkType": {
+													"type": "reference",
+													"id": 2808,
+													"name": "Fetch"
+												},
+												"extendsType": {
+													"type": "literal",
+													"value": true
+												},
+												"trueType": {
+													"type": "reference",
+													"typeArguments": [
+														{
+															"type": "reference",
+															"id": 2776,
+															"name": "Cached"
+														},
+														{
+															"type": "reference",
+															"typeArguments": [
+																{
+																	"type": "literal",
+																	"value": true
+																}
+															],
+															"name": "Message"
+														},
+														{
+															"type": "reference",
+															"name": "APIMessage"
+														},
+														{
+															"type": "union",
+															"types": [
+																{
+																	"type": "reference",
+																	"name": "APIMessage"
+																},
+																{
+																	"type": "reference",
+																	"typeArguments": [
+																		{
+																			"type": "intrinsic",
+																			"name": "boolean"
+																		}
+																	],
+																	"name": "Message"
+																}
+															]
+														},
+														{
+															"type": "union",
+															"types": [
+																{
+																	"type": "reference",
+																	"name": "APIMessage"
+																},
+																{
+																	"type": "reference",
+																	"typeArguments": [
+																		{
+																			"type": "intrinsic",
+																			"name": "boolean"
+																		}
+																	],
+																	"name": "Message"
+																}
+															]
+														}
+													],
+													"name": "CacheTypeReducer"
+												},
+												"falseType": {
+													"type": "intrinsic",
+													"name": "void"
+												}
 											}
 										],
 										"name": "Promise"
@@ -5526,19 +6104,18 @@
 					}
 				},
 				{
-					"id": 2827,
+					"id": 2826,
 					"name": "user",
 					"kind": 1024,
 					"kindString": "Property",
 					"flags": {
-						"isPublic": true,
-						"isReadonly": true
+						"isPublic": true
 					},
 					"sources": [
 						{
-							"fileName": "src/lib/structures/BaseContext.ts",
-							"line": 24,
-							"character": 17
+							"fileName": "src/lib/structures/contexts/Context.ts",
+							"line": 41,
+							"character": 8
 						}
 					],
 					"type": {
@@ -5547,24 +6124,22 @@
 					},
 					"inheritedFrom": {
 						"type": "reference",
-						"id": 2720,
-						"name": "BaseContext.user"
+						"name": "Context.user"
 					}
 				},
 				{
-					"id": 2829,
+					"id": 2827,
 					"name": "userId",
 					"kind": 1024,
 					"kindString": "Property",
 					"flags": {
-						"isPublic": true,
-						"isReadonly": true
+						"isPublic": true
 					},
 					"sources": [
 						{
-							"fileName": "src/lib/structures/BaseContext.ts",
-							"line": 26,
-							"character": 17
+							"fileName": "src/lib/structures/contexts/Context.ts",
+							"line": 42,
+							"character": 8
 						}
 					],
 					"type": {
@@ -5573,38 +6148,11 @@
 					},
 					"inheritedFrom": {
 						"type": "reference",
-						"id": 2722,
-						"name": "BaseContext.userId"
+						"name": "Context.userId"
 					}
 				},
 				{
-					"id": 2828,
-					"name": "username",
-					"kind": 1024,
-					"kindString": "Property",
-					"flags": {
-						"isPublic": true,
-						"isReadonly": true
-					},
-					"sources": [
-						{
-							"fileName": "src/lib/structures/BaseContext.ts",
-							"line": 25,
-							"character": 17
-						}
-					],
-					"type": {
-						"type": "intrinsic",
-						"name": "string"
-					},
-					"inheritedFrom": {
-						"type": "reference",
-						"id": 2721,
-						"name": "BaseContext.username"
-					}
-				},
-				{
-					"id": 2840,
+					"id": 2814,
 					"name": "inCachedGuild",
 					"kind": 2048,
 					"kindString": "Method",
@@ -5613,14 +6161,14 @@
 					},
 					"sources": [
 						{
-							"fileName": "src/lib/structures/BaseContext.ts",
-							"line": 58,
+							"fileName": "src/lib/structures/contexts/CommandContext.ts",
+							"line": 62,
 							"character": 8
 						}
 					],
 					"signatures": [
 						{
-							"id": 2841,
+							"id": 2815,
 							"name": "inCachedGuild",
 							"kind": 4096,
 							"kindString": "Call signature",
@@ -5630,135 +6178,30 @@
 								"name": "this",
 								"asserts": false,
 								"targetType": {
-									"type": "intersection",
-									"types": [
+									"type": "reference",
+									"id": 2773,
+									"typeArguments": [
 										{
-											"type": "reference",
-											"id": 2707,
-											"name": "BaseContext"
-										},
-										{
-											"type": "reflection",
-											"declaration": {
-												"id": 2842,
-												"name": "__type",
-												"kind": 65536,
-												"kindString": "Type literal",
-												"flags": {},
-												"children": [
-													{
-														"id": 2843,
-														"name": "guild",
-														"kind": 1024,
-														"kindString": "Property",
-														"flags": {
-															"isReadonly": true
-														},
-														"sources": [
-															{
-																"fileName": "src/lib/structures/BaseContext.ts",
-																"line": 58,
-																"character": 58
-															}
-														],
-														"type": {
-															"type": "reference",
-															"name": "Guild"
-														}
-													},
-													{
-														"id": 2844,
-														"name": "guildId",
-														"kind": 1024,
-														"kindString": "Property",
-														"flags": {
-															"isReadonly": true
-														},
-														"sources": [
-															{
-																"fileName": "src/lib/structures/BaseContext.ts",
-																"line": 58,
-																"character": 81
-															}
-														],
-														"type": {
-															"type": "intrinsic",
-															"name": "string"
-														}
-													},
-													{
-														"id": 2845,
-														"name": "member",
-														"kind": 1024,
-														"kindString": "Property",
-														"flags": {
-															"isReadonly": true
-														},
-														"sources": [
-															{
-																"fileName": "src/lib/structures/BaseContext.ts",
-																"line": 58,
-																"character": 110
-															}
-														],
-														"type": {
-															"type": "reference",
-															"name": "GuildMember"
-														}
-													},
-													{
-														"id": 2846,
-														"name": "memberPermissions",
-														"kind": 1024,
-														"kindString": "Property",
-														"flags": {
-															"isReadonly": true
-														},
-														"sources": [
-															{
-																"fileName": "src/lib/structures/BaseContext.ts",
-																"line": 58,
-																"character": 140
-															}
-														],
-														"type": {
-															"type": "reference",
-															"name": "Permissions"
-														}
-													}
-												],
-												"groups": [
-													{
-														"title": "Properties",
-														"kind": 1024,
-														"children": [
-															2843,
-															2844,
-															2845,
-															2846
-														]
-													}
-												]
-											}
+											"type": "literal",
+											"value": "cached"
 										}
-									]
+									],
+									"name": "CommandContext"
 								}
 							},
-							"inheritedFrom": {
+							"overwrites": {
 								"type": "reference",
-								"id": 2734,
-								"name": "BaseContext.inCachedGuild"
+								"name": "Context.inCachedGuild"
 							}
 						}
 					],
-					"inheritedFrom": {
+					"overwrites": {
 						"type": "reference",
-						"id": 2733,
-						"name": "BaseContext.inCachedGuild"
+						"name": "Context.inCachedGuild"
 					}
 				},
 				{
-					"id": 2834,
+					"id": 2812,
 					"name": "inGuild",
 					"kind": 2048,
 					"kindString": "Method",
@@ -5767,14 +6210,14 @@
 					},
 					"sources": [
 						{
-							"fileName": "src/lib/structures/BaseContext.ts",
-							"line": 54,
+							"fileName": "src/lib/structures/contexts/CommandContext.ts",
+							"line": 58,
 							"character": 8
 						}
 					],
 					"signatures": [
 						{
-							"id": 2835,
+							"id": 2813,
 							"name": "inGuild",
 							"kind": 4096,
 							"kindString": "Call signature",
@@ -5784,115 +6227,31 @@
 								"name": "this",
 								"asserts": false,
 								"targetType": {
-									"type": "intersection",
-									"types": [
+									"type": "reference",
+									"id": 2773,
+									"typeArguments": [
 										{
-											"type": "reference",
-											"id": 2707,
-											"name": "BaseContext"
-										},
-										{
-											"type": "reflection",
-											"declaration": {
-												"id": 2836,
-												"name": "__type",
-												"kind": 65536,
-												"kindString": "Type literal",
-												"flags": {},
-												"children": [
-													{
-														"id": 2837,
-														"name": "guildId",
-														"kind": 1024,
-														"kindString": "Property",
-														"flags": {
-															"isReadonly": true
-														},
-														"sources": [
-															{
-																"fileName": "src/lib/structures/BaseContext.ts",
-																"line": 54,
-																"character": 52
-															}
-														],
-														"type": {
-															"type": "intrinsic",
-															"name": "string"
-														}
-													},
-													{
-														"id": 2838,
-														"name": "member",
-														"kind": 1024,
-														"kindString": "Property",
-														"flags": {
-															"isReadonly": true
-														},
-														"sources": [
-															{
-																"fileName": "src/lib/structures/BaseContext.ts",
-																"line": 54,
-																"character": 81
-															}
-														],
-														"type": {
-															"type": "reference",
-															"name": "GuildMember"
-														}
-													},
-													{
-														"id": 2839,
-														"name": "memberPermissions",
-														"kind": 1024,
-														"kindString": "Property",
-														"flags": {
-															"isReadonly": true
-														},
-														"sources": [
-															{
-																"fileName": "src/lib/structures/BaseContext.ts",
-																"line": 54,
-																"character": 111
-															}
-														],
-														"type": {
-															"type": "reference",
-															"name": "Permissions"
-														}
-													}
-												],
-												"groups": [
-													{
-														"title": "Properties",
-														"kind": 1024,
-														"children": [
-															2837,
-															2838,
-															2839
-														]
-													}
-												]
-											}
+											"type": "literal",
+											"value": "present"
 										}
-									]
+									],
+									"name": "CommandContext"
 								}
 							},
-							"inheritedFrom": {
+							"overwrites": {
 								"type": "reference",
-								"id": 2728,
-								"name": "BaseContext.inGuild"
+								"name": "Context.inGuild"
 							}
 						}
 					],
-					"inheritedFrom": {
+					"overwrites": {
 						"type": "reference",
-						"id": 2727,
-						"name": "BaseContext.inGuild"
+						"name": "Context.inGuild"
 					}
 				},
 				{
-					"id": 2812,
-					"name": "isInteraction",
+					"id": 2816,
+					"name": "inRawGuild",
 					"kind": 2048,
 					"kindString": "Method",
 					"flags": {
@@ -5900,15 +6259,15 @@
 					},
 					"sources": [
 						{
-							"fileName": "src/lib/structures/CommandContext.ts",
-							"line": 48,
+							"fileName": "src/lib/structures/contexts/CommandContext.ts",
+							"line": 66,
 							"character": 8
 						}
 					],
 					"signatures": [
 						{
-							"id": 2813,
-							"name": "isInteraction",
+							"id": 2817,
+							"name": "inRawGuild",
 							"kind": 4096,
 							"kindString": "Call signature",
 							"flags": {},
@@ -5917,421 +6276,27 @@
 								"name": "this",
 								"asserts": false,
 								"targetType": {
-									"type": "intersection",
-									"types": [
+									"type": "reference",
+									"id": 2773,
+									"typeArguments": [
 										{
-											"type": "reference",
-											"id": 2771,
-											"name": "CommandContext"
-										},
-										{
-											"type": "reflection",
-											"declaration": {
-												"id": 2814,
-												"name": "__type",
-												"kind": 65536,
-												"kindString": "Type literal",
-												"flags": {},
-												"children": [
-													{
-														"id": 2815,
-														"name": "interaction",
-														"kind": 1024,
-														"kindString": "Property",
-														"flags": {
-															"isReadonly": true
-														},
-														"sources": [
-															{
-																"fileName": "src/lib/structures/CommandContext.ts",
-																"line": 48,
-																"character": 61
-															}
-														],
-														"type": {
-															"type": "union",
-															"types": [
-																{
-																	"type": "reference",
-																	"typeArguments": [
-																		{
-																			"type": "reference",
-																			"name": "CacheType"
-																		}
-																	],
-																	"name": "CommandInteraction"
-																},
-																{
-																	"type": "reference",
-																	"typeArguments": [
-																		{
-																			"type": "reference",
-																			"name": "CacheType"
-																		}
-																	],
-																	"name": "ContextMenuInteraction"
-																}
-															]
-														}
-													},
-													{
-														"id": 2816,
-														"name": "message",
-														"kind": 1024,
-														"kindString": "Property",
-														"flags": {
-															"isReadonly": true
-														},
-														"sources": [
-															{
-																"fileName": "src/lib/structures/CommandContext.ts",
-																"line": 48,
-																"character": 128
-															}
-														],
-														"type": {
-															"type": "literal",
-															"value": null
-														}
-													}
-												],
-												"groups": [
-													{
-														"title": "Properties",
-														"kind": 1024,
-														"children": [
-															2815,
-															2816
-														]
-													}
-												]
-											}
+											"type": "literal",
+											"value": "raw"
 										}
-									]
+									],
+									"name": "CommandContext"
 								}
-							}
-						}
-					]
-				},
-				{
-					"id": 2817,
-					"name": "isMessage",
-					"kind": 2048,
-					"kindString": "Method",
-					"flags": {
-						"isPublic": true
-					},
-					"sources": [
-						{
-							"fileName": "src/lib/structures/CommandContext.ts",
-							"line": 52,
-							"character": 8
-						}
-					],
-					"signatures": [
-						{
-							"id": 2818,
-							"name": "isMessage",
-							"kind": 4096,
-							"kindString": "Call signature",
-							"flags": {},
-							"type": {
-								"type": "predicate",
-								"name": "this",
-								"asserts": false,
-								"targetType": {
-									"type": "intersection",
-									"types": [
-										{
-											"type": "reference",
-											"id": 2771,
-											"name": "CommandContext"
-										},
-										{
-											"type": "reflection",
-											"declaration": {
-												"id": 2819,
-												"name": "__type",
-												"kind": 65536,
-												"kindString": "Type literal",
-												"flags": {},
-												"children": [
-													{
-														"id": 2821,
-														"name": "interaction",
-														"kind": 1024,
-														"kindString": "Property",
-														"flags": {
-															"isReadonly": true
-														},
-														"sources": [
-															{
-																"fileName": "src/lib/structures/CommandContext.ts",
-																"line": 52,
-																"character": 84
-															}
-														],
-														"type": {
-															"type": "literal",
-															"value": null
-														}
-													},
-													{
-														"id": 2820,
-														"name": "message",
-														"kind": 1024,
-														"kindString": "Property",
-														"flags": {
-															"isReadonly": true
-														},
-														"sources": [
-															{
-																"fileName": "src/lib/structures/CommandContext.ts",
-																"line": 52,
-																"character": 57
-															}
-														],
-														"type": {
-															"type": "reference",
-															"typeArguments": [
-																{
-																	"type": "intrinsic",
-																	"name": "boolean"
-																}
-															],
-															"name": "Message"
-														}
-													}
-												],
-												"groups": [
-													{
-														"title": "Properties",
-														"kind": 1024,
-														"children": [
-															2821,
-															2820
-														]
-													}
-												]
-											}
-										}
-									]
-								}
-							}
-						}
-					]
-				},
-				{
-					"id": 2781,
-					"name": "createBaseWithInteraction",
-					"kind": 2048,
-					"kindString": "Method",
-					"flags": {
-						"isStatic": true
-					},
-					"sources": [
-						{
-							"fileName": "src/lib/structures/BaseContext.ts",
-							"line": 38,
-							"character": 8
-						}
-					],
-					"signatures": [
-						{
-							"id": 2782,
-							"name": "createBaseWithInteraction",
-							"kind": 4096,
-							"kindString": "Call signature",
-							"flags": {},
-							"parameters": [
-								{
-									"id": 2783,
-									"name": "interaction",
-									"kind": 32768,
-									"kindString": "Parameter",
-									"flags": {},
-									"type": {
-										"type": "reference",
-										"typeArguments": [
-											{
-												"type": "reference",
-												"name": "CacheType"
-											}
-										],
-										"name": "Interaction"
-									}
-								}
-							],
-							"type": {
-								"type": "reference",
-								"id": 2707,
-								"name": "BaseContext"
 							},
-							"inheritedFrom": {
+							"overwrites": {
 								"type": "reference",
-								"id": 2709,
-								"name": "BaseContext.createBaseWithInteraction"
+								"name": "Context.inRawGuild"
 							}
 						}
 					],
-					"inheritedFrom": {
+					"overwrites": {
 						"type": "reference",
-						"id": 2708,
-						"name": "BaseContext.createBaseWithInteraction"
+						"name": "Context.inRawGuild"
 					}
-				},
-				{
-					"id": 2772,
-					"name": "createWithInteraction",
-					"kind": 2048,
-					"kindString": "Method",
-					"flags": {
-						"isPublic": true,
-						"isStatic": true
-					},
-					"sources": [
-						{
-							"fileName": "src/lib/structures/CommandContext.ts",
-							"line": 56,
-							"character": 15
-						}
-					],
-					"signatures": [
-						{
-							"id": 2773,
-							"name": "createWithInteraction",
-							"kind": 4096,
-							"kindString": "Call signature",
-							"flags": {},
-							"parameters": [
-								{
-									"id": 2774,
-									"name": "interaction",
-									"kind": 32768,
-									"kindString": "Parameter",
-									"flags": {},
-									"type": {
-										"type": "union",
-										"types": [
-											{
-												"type": "reference",
-												"typeArguments": [
-													{
-														"type": "reference",
-														"name": "CacheType"
-													}
-												],
-												"name": "CommandInteraction"
-											},
-											{
-												"type": "reference",
-												"typeArguments": [
-													{
-														"type": "reference",
-														"name": "CacheType"
-													}
-												],
-												"name": "ContextMenuInteraction"
-											}
-										]
-									}
-								},
-								{
-									"id": 2775,
-									"name": "command",
-									"kind": 32768,
-									"kindString": "Parameter",
-									"flags": {},
-									"type": {
-										"type": "reference",
-										"id": 2588,
-										"name": "Command"
-									}
-								}
-							],
-							"type": {
-								"type": "reference",
-								"id": 2771,
-								"name": "CommandContext"
-							}
-						}
-					]
-				},
-				{
-					"id": 2776,
-					"name": "createWithMessage",
-					"kind": 2048,
-					"kindString": "Method",
-					"flags": {
-						"isPublic": true,
-						"isStatic": true
-					},
-					"sources": [
-						{
-							"fileName": "src/lib/structures/CommandContext.ts",
-							"line": 81,
-							"character": 15
-						}
-					],
-					"signatures": [
-						{
-							"id": 2777,
-							"name": "createWithMessage",
-							"kind": 4096,
-							"kindString": "Call signature",
-							"flags": {},
-							"parameters": [
-								{
-									"id": 2778,
-									"name": "message",
-									"kind": 32768,
-									"kindString": "Parameter",
-									"flags": {},
-									"type": {
-										"type": "reference",
-										"typeArguments": [
-											{
-												"type": "intrinsic",
-												"name": "boolean"
-											}
-										],
-										"name": "Message"
-									}
-								},
-								{
-									"id": 2779,
-									"name": "command",
-									"kind": 32768,
-									"kindString": "Parameter",
-									"flags": {},
-									"type": {
-										"type": "reference",
-										"id": 2588,
-										"name": "Command"
-									}
-								},
-								{
-									"id": 2780,
-									"name": "args",
-									"kind": 32768,
-									"kindString": "Parameter",
-									"flags": {},
-									"type": {
-										"type": "array",
-										"elementType": {
-											"type": "intrinsic",
-											"name": "any"
-										}
-									}
-								}
-							],
-							"type": {
-								"type": "reference",
-								"id": 2771,
-								"name": "CommandContext"
-							}
-						}
-					]
 				}
 			],
 			"groups": [
@@ -6339,63 +6304,82 @@
 					"title": "Constructors",
 					"kind": 512,
 					"children": [
-						2784
+						2774
 					]
 				},
 				{
 					"title": "Properties",
 					"kind": 1024,
 					"children": [
-						2792,
-						2830,
-						2831,
+						2781,
+						2819,
+						2820,
+						2818,
+						2779,
+						2780,
+						2821,
 						2822,
-						2790,
+						2784,
+						2782,
 						2791,
-						2832,
-						2833,
-						2808,
+						2794,
+						2798,
 						2801,
-						2797,
-						2804,
 						2823,
 						2824,
-						2788,
 						2825,
+						2828,
+						2783,
+						2805,
 						2826,
-						2789,
-						2793,
-						2827,
-						2829,
-						2828
+						2827
 					]
 				},
 				{
 					"title": "Methods",
 					"kind": 2048,
 					"children": [
-						2840,
-						2834,
+						2814,
 						2812,
-						2817,
-						2781,
-						2772,
-						2776
+						2816
 					]
 				}
 			],
 			"sources": [
 				{
-					"fileName": "src/lib/structures/CommandContext.ts",
-					"line": 32,
+					"fileName": "src/lib/structures/contexts/CommandContext.ts",
+					"line": 25,
 					"character": 13
+				}
+			],
+			"typeParameter": [
+				{
+					"id": 2829,
+					"name": "Cached",
+					"kind": 131072,
+					"kindString": "Type parameter",
+					"flags": {},
+					"type": {
+						"type": "reference",
+						"name": "CacheType"
+					},
+					"default": {
+						"type": "reference",
+						"name": "CacheType"
+					}
 				}
 			],
 			"extendedTypes": [
 				{
 					"type": "reference",
-					"id": 2707,
-					"name": "BaseContext"
+					"typeArguments": [
+						{
+							"type": "reference",
+							"id": 2776,
+							"name": "Cached"
+						}
+					],
+					"name": "Context"
 				}
 			]
 		},
@@ -15088,7 +15072,7 @@
 											"flags": {},
 											"type": {
 												"type": "reference",
-												"id": 2881,
+												"id": 2864,
 												"name": "ComponentContext"
 											}
 										},
@@ -15195,7 +15179,7 @@
 											"flags": {},
 											"type": {
 												"type": "reference",
-												"id": 2881,
+												"id": 2864,
 												"name": "ComponentContext"
 											}
 										}
@@ -15306,7 +15290,7 @@
 									"flags": {},
 									"type": {
 										"type": "reference",
-										"id": 2881,
+										"id": 2864,
 										"name": "ComponentContext"
 									}
 								}
@@ -15576,14 +15560,14 @@
 			]
 		},
 		{
-			"id": 2881,
+			"id": 2864,
 			"name": "ComponentContext",
 			"kind": 128,
 			"kindString": "Class",
 			"flags": {},
 			"children": [
 				{
-					"id": 2890,
+					"id": 2873,
 					"name": "constructor",
 					"kind": 512,
 					"kindString": "Constructor",
@@ -15597,14 +15581,14 @@
 					],
 					"signatures": [
 						{
-							"id": 2891,
+							"id": 2874,
 							"name": "new ComponentContext",
 							"kind": 16384,
 							"kindString": "Constructor signature",
 							"flags": {},
 							"parameters": [
 								{
-									"id": 2892,
+									"id": 2875,
 									"name": "client",
 									"kind": 32768,
 									"kindString": "Parameter",
@@ -15622,21 +15606,21 @@
 									}
 								},
 								{
-									"id": 2893,
+									"id": 2876,
 									"name": "options",
 									"kind": 32768,
 									"kindString": "Parameter",
 									"flags": {},
 									"type": {
 										"type": "reference",
-										"id": 2847,
+										"id": 2830,
 										"name": "ComponentContextOptions"
 									}
 								}
 							],
 							"type": {
 								"type": "reference",
-								"id": 2881,
+								"id": 2864,
 								"name": "ComponentContext"
 							},
 							"overwrites": {
@@ -15653,7 +15637,7 @@
 					}
 				},
 				{
-					"id": 2897,
+					"id": 2880,
 					"name": "arguments",
 					"kind": 1024,
 					"kindString": "Property",
@@ -15678,7 +15662,7 @@
 					}
 				},
 				{
-					"id": 2931,
+					"id": 2914,
 					"name": "channel",
 					"kind": 1024,
 					"kindString": "Property",
@@ -15704,7 +15688,7 @@
 					}
 				},
 				{
-					"id": 2932,
+					"id": 2915,
 					"name": "channelId",
 					"kind": 1024,
 					"kindString": "Property",
@@ -15730,7 +15714,7 @@
 					}
 				},
 				{
-					"id": 2923,
+					"id": 2906,
 					"name": "client",
 					"kind": 1024,
 					"kindString": "Property",
@@ -15763,7 +15747,7 @@
 					}
 				},
 				{
-					"id": 2895,
+					"id": 2878,
 					"name": "component",
 					"kind": 1024,
 					"kindString": "Property",
@@ -15785,7 +15769,7 @@
 					}
 				},
 				{
-					"id": 2896,
+					"id": 2879,
 					"name": "componentName",
 					"kind": 1024,
 					"kindString": "Property",
@@ -15806,7 +15790,7 @@
 					}
 				},
 				{
-					"id": 2933,
+					"id": 2916,
 					"name": "createdAt",
 					"kind": 1024,
 					"kindString": "Property",
@@ -15832,7 +15816,7 @@
 					}
 				},
 				{
-					"id": 2934,
+					"id": 2917,
 					"name": "createdTimestamp",
 					"kind": 1024,
 					"kindString": "Property",
@@ -15858,7 +15842,7 @@
 					}
 				},
 				{
-					"id": 2899,
+					"id": 2882,
 					"name": "customId",
 					"kind": 1024,
 					"kindString": "Property",
@@ -15879,7 +15863,7 @@
 					}
 				},
 				{
-					"id": 2915,
+					"id": 2898,
 					"name": "deferReply",
 					"kind": 1024,
 					"kindString": "Property",
@@ -15896,21 +15880,21 @@
 					"type": {
 						"type": "reflection",
 						"declaration": {
-							"id": 2916,
+							"id": 2899,
 							"name": "__type",
 							"kind": 65536,
 							"kindString": "Type literal",
 							"flags": {},
 							"signatures": [
 								{
-									"id": 2917,
+									"id": 2900,
 									"name": "__type",
 									"kind": 4096,
 									"kindString": "Call signature",
 									"flags": {},
 									"parameters": [
 										{
-											"id": 2918,
+											"id": 2901,
 											"name": "options",
 											"kind": 32768,
 											"kindString": "Parameter",
@@ -15958,7 +15942,7 @@
 					}
 				},
 				{
-					"id": 2919,
+					"id": 2902,
 					"name": "deferUpdate",
 					"kind": 1024,
 					"kindString": "Property",
@@ -15975,21 +15959,21 @@
 					"type": {
 						"type": "reflection",
 						"declaration": {
-							"id": 2920,
+							"id": 2903,
 							"name": "__type",
 							"kind": 65536,
 							"kindString": "Type literal",
 							"flags": {},
 							"signatures": [
 								{
-									"id": 2921,
+									"id": 2904,
 									"name": "__type",
 									"kind": 4096,
 									"kindString": "Call signature",
 									"flags": {},
 									"parameters": [
 										{
-											"id": 2922,
+											"id": 2905,
 											"name": "options",
 											"kind": 32768,
 											"kindString": "Parameter",
@@ -16033,7 +16017,7 @@
 					}
 				},
 				{
-					"id": 2908,
+					"id": 2891,
 					"name": "deleteReply",
 					"kind": 1024,
 					"kindString": "Property",
@@ -16050,14 +16034,14 @@
 					"type": {
 						"type": "reflection",
 						"declaration": {
-							"id": 2909,
+							"id": 2892,
 							"name": "__type",
 							"kind": 65536,
 							"kindString": "Type literal",
 							"flags": {},
 							"signatures": [
 								{
-									"id": 2910,
+									"id": 2893,
 									"name": "__type",
 									"kind": 4096,
 									"kindString": "Call signature",
@@ -16078,7 +16062,7 @@
 					}
 				},
 				{
-					"id": 2904,
+					"id": 2887,
 					"name": "editReply",
 					"kind": 1024,
 					"kindString": "Property",
@@ -16095,21 +16079,21 @@
 					"type": {
 						"type": "reflection",
 						"declaration": {
-							"id": 2905,
+							"id": 2888,
 							"name": "__type",
 							"kind": 65536,
 							"kindString": "Type literal",
 							"flags": {},
 							"signatures": [
 								{
-									"id": 2906,
+									"id": 2889,
 									"name": "__type",
 									"kind": 4096,
 									"kindString": "Call signature",
 									"flags": {},
 									"parameters": [
 										{
-											"id": 2907,
+											"id": 2890,
 											"name": "options",
 											"kind": 32768,
 											"kindString": "Parameter",
@@ -16164,7 +16148,7 @@
 					}
 				},
 				{
-					"id": 2911,
+					"id": 2894,
 					"name": "followUp",
 					"kind": 1024,
 					"kindString": "Property",
@@ -16181,21 +16165,21 @@
 					"type": {
 						"type": "reflection",
 						"declaration": {
-							"id": 2912,
+							"id": 2895,
 							"name": "__type",
 							"kind": 65536,
 							"kindString": "Type literal",
 							"flags": {},
 							"signatures": [
 								{
-									"id": 2913,
+									"id": 2896,
 									"name": "__type",
 									"kind": 4096,
 									"kindString": "Call signature",
 									"flags": {},
 									"parameters": [
 										{
-											"id": 2914,
+											"id": 2897,
 											"name": "options",
 											"kind": 32768,
 											"kindString": "Parameter",
@@ -16254,7 +16238,7 @@
 					}
 				},
 				{
-					"id": 2924,
+					"id": 2907,
 					"name": "guild",
 					"kind": 1024,
 					"kindString": "Property",
@@ -16281,7 +16265,7 @@
 					}
 				},
 				{
-					"id": 2925,
+					"id": 2908,
 					"name": "guildId",
 					"kind": 1024,
 					"kindString": "Property",
@@ -16308,7 +16292,7 @@
 					}
 				},
 				{
-					"id": 2894,
+					"id": 2877,
 					"name": "interaction",
 					"kind": 1024,
 					"kindString": "Property",
@@ -16335,7 +16319,7 @@
 					}
 				},
 				{
-					"id": 2926,
+					"id": 2909,
 					"name": "member",
 					"kind": 1024,
 					"kindString": "Property",
@@ -16362,7 +16346,7 @@
 					}
 				},
 				{
-					"id": 2927,
+					"id": 2910,
 					"name": "memberPermissions",
 					"kind": 1024,
 					"kindString": "Property",
@@ -16389,7 +16373,7 @@
 					}
 				},
 				{
-					"id": 2900,
+					"id": 2883,
 					"name": "reply",
 					"kind": 1024,
 					"kindString": "Property",
@@ -16406,21 +16390,21 @@
 					"type": {
 						"type": "reflection",
 						"declaration": {
-							"id": 2901,
+							"id": 2884,
 							"name": "__type",
 							"kind": 65536,
 							"kindString": "Type literal",
 							"flags": {},
 							"signatures": [
 								{
-									"id": 2902,
+									"id": 2885,
 									"name": "__type",
 									"kind": 4096,
 									"kindString": "Call signature",
 									"flags": {},
 									"parameters": [
 										{
-											"id": 2903,
+											"id": 2886,
 											"name": "options",
 											"kind": 32768,
 											"kindString": "Parameter",
@@ -16470,10 +16454,6 @@
 													},
 													{
 														"type": "reference",
-														"name": "APIMessage"
-													},
-													{
-														"type": "reference",
 														"typeArguments": [
 															{
 																"type": "intrinsic",
@@ -16481,6 +16461,10 @@
 															}
 														],
 														"name": "Message"
+													},
+													{
+														"type": "reference",
+														"name": "APIMessage"
 													}
 												]
 											}
@@ -16493,7 +16477,7 @@
 					}
 				},
 				{
-					"id": 2928,
+					"id": 2911,
 					"name": "user",
 					"kind": 1024,
 					"kindString": "Property",
@@ -16519,7 +16503,7 @@
 					}
 				},
 				{
-					"id": 2930,
+					"id": 2913,
 					"name": "userId",
 					"kind": 1024,
 					"kindString": "Property",
@@ -16545,7 +16529,7 @@
 					}
 				},
 				{
-					"id": 2929,
+					"id": 2912,
 					"name": "username",
 					"kind": 1024,
 					"kindString": "Property",
@@ -16571,7 +16555,7 @@
 					}
 				},
 				{
-					"id": 2898,
+					"id": 2881,
 					"name": "values",
 					"kind": 1024,
 					"kindString": "Property",
@@ -16596,7 +16580,7 @@
 					}
 				},
 				{
-					"id": 2941,
+					"id": 2924,
 					"name": "inCachedGuild",
 					"kind": 2048,
 					"kindString": "Method",
@@ -16612,7 +16596,7 @@
 					],
 					"signatures": [
 						{
-							"id": 2942,
+							"id": 2925,
 							"name": "inCachedGuild",
 							"kind": 4096,
 							"kindString": "Call signature",
@@ -16632,14 +16616,14 @@
 										{
 											"type": "reflection",
 											"declaration": {
-												"id": 2943,
+												"id": 2926,
 												"name": "__type",
 												"kind": 65536,
 												"kindString": "Type literal",
 												"flags": {},
 												"children": [
 													{
-														"id": 2944,
+														"id": 2927,
 														"name": "guild",
 														"kind": 1024,
 														"kindString": "Property",
@@ -16659,7 +16643,7 @@
 														}
 													},
 													{
-														"id": 2945,
+														"id": 2928,
 														"name": "guildId",
 														"kind": 1024,
 														"kindString": "Property",
@@ -16679,7 +16663,7 @@
 														}
 													},
 													{
-														"id": 2946,
+														"id": 2929,
 														"name": "member",
 														"kind": 1024,
 														"kindString": "Property",
@@ -16699,7 +16683,7 @@
 														}
 													},
 													{
-														"id": 2947,
+														"id": 2930,
 														"name": "memberPermissions",
 														"kind": 1024,
 														"kindString": "Property",
@@ -16724,10 +16708,10 @@
 														"title": "Properties",
 														"kind": 1024,
 														"children": [
-															2944,
-															2945,
-															2946,
-															2947
+															2927,
+															2928,
+															2929,
+															2930
 														]
 													}
 												]
@@ -16750,7 +16734,7 @@
 					}
 				},
 				{
-					"id": 2935,
+					"id": 2918,
 					"name": "inGuild",
 					"kind": 2048,
 					"kindString": "Method",
@@ -16766,7 +16750,7 @@
 					],
 					"signatures": [
 						{
-							"id": 2936,
+							"id": 2919,
 							"name": "inGuild",
 							"kind": 4096,
 							"kindString": "Call signature",
@@ -16786,14 +16770,14 @@
 										{
 											"type": "reflection",
 											"declaration": {
-												"id": 2937,
+												"id": 2920,
 												"name": "__type",
 												"kind": 65536,
 												"kindString": "Type literal",
 												"flags": {},
 												"children": [
 													{
-														"id": 2938,
+														"id": 2921,
 														"name": "guildId",
 														"kind": 1024,
 														"kindString": "Property",
@@ -16813,7 +16797,7 @@
 														}
 													},
 													{
-														"id": 2939,
+														"id": 2922,
 														"name": "member",
 														"kind": 1024,
 														"kindString": "Property",
@@ -16833,7 +16817,7 @@
 														}
 													},
 													{
-														"id": 2940,
+														"id": 2923,
 														"name": "memberPermissions",
 														"kind": 1024,
 														"kindString": "Property",
@@ -16858,9 +16842,9 @@
 														"title": "Properties",
 														"kind": 1024,
 														"children": [
-															2938,
-															2939,
-															2940
+															2921,
+															2922,
+															2923
 														]
 													}
 												]
@@ -16883,7 +16867,7 @@
 					}
 				},
 				{
-					"id": 2887,
+					"id": 2870,
 					"name": "createBaseWithInteraction",
 					"kind": 2048,
 					"kindString": "Method",
@@ -16899,14 +16883,14 @@
 					],
 					"signatures": [
 						{
-							"id": 2888,
+							"id": 2871,
 							"name": "createBaseWithInteraction",
 							"kind": 4096,
 							"kindString": "Call signature",
 							"flags": {},
 							"parameters": [
 								{
-									"id": 2889,
+									"id": 2872,
 									"name": "interaction",
 									"kind": 32768,
 									"kindString": "Parameter",
@@ -16942,7 +16926,7 @@
 					}
 				},
 				{
-					"id": 2882,
+					"id": 2865,
 					"name": "createWithInteraction",
 					"kind": 2048,
 					"kindString": "Method",
@@ -16959,14 +16943,14 @@
 					],
 					"signatures": [
 						{
-							"id": 2883,
+							"id": 2866,
 							"name": "createWithInteraction",
 							"kind": 4096,
 							"kindString": "Call signature",
 							"flags": {},
 							"parameters": [
 								{
-									"id": 2884,
+									"id": 2867,
 									"name": "interaction",
 									"kind": 32768,
 									"kindString": "Parameter",
@@ -16983,7 +16967,7 @@
 									}
 								},
 								{
-									"id": 2885,
+									"id": 2868,
 									"name": "component",
 									"kind": 32768,
 									"kindString": "Parameter",
@@ -16995,7 +16979,7 @@
 									}
 								},
 								{
-									"id": 2886,
+									"id": 2869,
 									"name": "args",
 									"kind": 32768,
 									"kindString": "Parameter",
@@ -17011,7 +16995,7 @@
 							],
 							"type": {
 								"type": "reference",
-								"id": 2881,
+								"id": 2864,
 								"name": "ComponentContext"
 							}
 						}
@@ -17023,47 +17007,47 @@
 					"title": "Constructors",
 					"kind": 512,
 					"children": [
-						2890
+						2873
 					]
 				},
 				{
 					"title": "Properties",
 					"kind": 1024,
 					"children": [
-						2897,
-						2931,
-						2932,
-						2923,
-						2895,
-						2896,
-						2933,
-						2934,
-						2899,
+						2880,
+						2914,
 						2915,
-						2919,
-						2908,
-						2904,
-						2911,
-						2924,
-						2925,
+						2906,
+						2878,
+						2879,
+						2916,
+						2917,
+						2882,
+						2898,
+						2902,
+						2891,
+						2887,
 						2894,
-						2926,
-						2927,
-						2900,
-						2928,
-						2930,
-						2929,
-						2898
+						2907,
+						2908,
+						2877,
+						2909,
+						2910,
+						2883,
+						2911,
+						2913,
+						2912,
+						2881
 					]
 				},
 				{
 					"title": "Methods",
 					"kind": 2048,
 					"children": [
-						2941,
-						2935,
-						2887,
-						2882
+						2924,
+						2918,
+						2870,
+						2865
 					]
 				}
 			],
@@ -44016,35 +44000,35 @@
 			]
 		},
 		{
-			"id": 3104,
+			"id": 3087,
 			"name": "NsfwInhibitor",
 			"kind": 128,
 			"kindString": "Class",
 			"flags": {},
 			"children": [
 				{
-					"id": 3105,
+					"id": 3088,
 					"name": "constructor",
 					"kind": 512,
 					"kindString": "Constructor",
 					"flags": {},
 					"signatures": [
 						{
-							"id": 3106,
+							"id": 3089,
 							"name": "new NsfwInhibitor",
 							"kind": 16384,
 							"kindString": "Constructor signature",
 							"flags": {},
 							"type": {
 								"type": "reference",
-								"id": 3104,
+								"id": 3087,
 								"name": "NsfwInhibitor"
 							}
 						}
 					]
 				},
 				{
-					"id": 3107,
+					"id": 3090,
 					"name": "run",
 					"kind": 2048,
 					"kindString": "Method",
@@ -44058,14 +44042,14 @@
 					],
 					"signatures": [
 						{
-							"id": 3108,
+							"id": 3091,
 							"name": "run",
 							"kind": 4096,
 							"kindString": "Call signature",
 							"flags": {},
 							"parameters": [
 								{
-									"id": 3109,
+									"id": 3092,
 									"name": "ctx",
 									"kind": 32768,
 									"kindString": "Parameter",
@@ -44090,14 +44074,14 @@
 					"title": "Constructors",
 					"kind": 512,
 					"children": [
-						3105
+						3088
 					]
 				},
 				{
 					"title": "Methods",
 					"kind": 2048,
 					"children": [
-						3107
+						3090
 					]
 				}
 			],
@@ -44110,14 +44094,14 @@
 			]
 		},
 		{
-			"id": 3160,
+			"id": 3143,
 			"name": "OrInhibitor",
 			"kind": 128,
 			"kindString": "Class",
 			"flags": {},
 			"children": [
 				{
-					"id": 3161,
+					"id": 3144,
 					"name": "constructor",
 					"kind": 512,
 					"kindString": "Constructor",
@@ -44131,47 +44115,47 @@
 					],
 					"signatures": [
 						{
-							"id": 3162,
+							"id": 3145,
 							"name": "new OrInhibitor",
 							"kind": 16384,
 							"kindString": "Constructor signature",
 							"flags": {},
 							"parameters": [
 								{
-									"id": 3163,
+									"id": 3146,
 									"name": "inhibitor1",
 									"kind": 32768,
 									"kindString": "Parameter",
 									"flags": {},
 									"type": {
 										"type": "reference",
-										"id": 3152,
+										"id": 3135,
 										"name": "BaseInhibitor"
 									}
 								},
 								{
-									"id": 3164,
+									"id": 3147,
 									"name": "inhibitor2",
 									"kind": 32768,
 									"kindString": "Parameter",
 									"flags": {},
 									"type": {
 										"type": "reference",
-										"id": 3152,
+										"id": 3135,
 										"name": "BaseInhibitor"
 									}
 								}
 							],
 							"type": {
 								"type": "reference",
-								"id": 3160,
+								"id": 3143,
 								"name": "OrInhibitor"
 							}
 						}
 					]
 				},
 				{
-					"id": 3165,
+					"id": 3148,
 					"name": "inhibitor1",
 					"kind": 1024,
 					"kindString": "Property",
@@ -44188,12 +44172,12 @@
 					],
 					"type": {
 						"type": "reference",
-						"id": 3152,
+						"id": 3135,
 						"name": "BaseInhibitor"
 					}
 				},
 				{
-					"id": 3166,
+					"id": 3149,
 					"name": "inhibitor2",
 					"kind": 1024,
 					"kindString": "Property",
@@ -44210,12 +44194,12 @@
 					],
 					"type": {
 						"type": "reference",
-						"id": 3152,
+						"id": 3135,
 						"name": "BaseInhibitor"
 					}
 				},
 				{
-					"id": 3167,
+					"id": 3150,
 					"name": "run",
 					"kind": 2048,
 					"kindString": "Method",
@@ -44229,14 +44213,14 @@
 					],
 					"signatures": [
 						{
-							"id": 3168,
+							"id": 3151,
 							"name": "run",
 							"kind": 4096,
 							"kindString": "Call signature",
 							"flags": {},
 							"parameters": [
 								{
-									"id": 3169,
+									"id": 3152,
 									"name": "ctx",
 									"kind": 32768,
 									"kindString": "Parameter",
@@ -44276,22 +44260,22 @@
 					"title": "Constructors",
 					"kind": 512,
 					"children": [
-						3161
+						3144
 					]
 				},
 				{
 					"title": "Properties",
 					"kind": 1024,
 					"children": [
-						3165,
-						3166
+						3148,
+						3149
 					]
 				},
 				{
 					"title": "Methods",
 					"kind": 2048,
 					"children": [
-						3167
+						3150
 					]
 				}
 			],
@@ -53019,14 +53003,14 @@
 			]
 		},
 		{
-			"id": 3118,
+			"id": 3101,
 			"name": "UserOnlyInhibitor",
 			"kind": 128,
 			"kindString": "Class",
 			"flags": {},
 			"children": [
 				{
-					"id": 3119,
+					"id": 3102,
 					"name": "constructor",
 					"kind": 512,
 					"kindString": "Constructor",
@@ -53040,14 +53024,14 @@
 					],
 					"signatures": [
 						{
-							"id": 3120,
+							"id": 3103,
 							"name": "new UserOnlyInhibitor",
 							"kind": 16384,
 							"kindString": "Constructor signature",
 							"flags": {},
 							"parameters": [
 								{
-									"id": 3121,
+									"id": 3104,
 									"name": "userId",
 									"kind": 32768,
 									"kindString": "Parameter",
@@ -53063,14 +53047,14 @@
 							],
 							"type": {
 								"type": "reference",
-								"id": 3118,
+								"id": 3101,
 								"name": "UserOnlyInhibitor"
 							}
 						}
 					]
 				},
 				{
-					"id": 3122,
+					"id": 3105,
 					"name": "userIds",
 					"kind": 1024,
 					"kindString": "Property",
@@ -53094,7 +53078,7 @@
 					}
 				},
 				{
-					"id": 3123,
+					"id": 3106,
 					"name": "run",
 					"kind": 2048,
 					"kindString": "Method",
@@ -53108,14 +53092,14 @@
 					],
 					"signatures": [
 						{
-							"id": 3124,
+							"id": 3107,
 							"name": "run",
 							"kind": 4096,
 							"kindString": "Call signature",
 							"flags": {},
 							"parameters": [
 								{
-									"id": 3125,
+									"id": 3108,
 									"name": "ctx",
 									"kind": 32768,
 									"kindString": "Parameter",
@@ -53140,21 +53124,21 @@
 					"title": "Constructors",
 					"kind": 512,
 					"children": [
-						3119
+						3102
 					]
 				},
 				{
 					"title": "Properties",
 					"kind": 1024,
 					"children": [
-						3122
+						3105
 					]
 				},
 				{
 					"title": "Methods",
 					"kind": 2048,
 					"children": [
-						3123
+						3106
 					]
 				}
 			],
@@ -53167,14 +53151,14 @@
 			]
 		},
 		{
-			"id": 3136,
+			"id": 3119,
 			"name": "UserPermissionsInhibitor",
 			"kind": 128,
 			"kindString": "Class",
 			"flags": {},
 			"children": [
 				{
-					"id": 3137,
+					"id": 3120,
 					"name": "constructor",
 					"kind": 512,
 					"kindString": "Constructor",
@@ -53188,14 +53172,14 @@
 					],
 					"signatures": [
 						{
-							"id": 3138,
+							"id": 3121,
 							"name": "new UserPermissionsInhibitor",
 							"kind": 16384,
 							"kindString": "Constructor signature",
 							"flags": {},
 							"parameters": [
 								{
-									"id": 3139,
+									"id": 3122,
 									"name": "permissions",
 									"kind": 32768,
 									"kindString": "Parameter",
@@ -53211,14 +53195,14 @@
 							],
 							"type": {
 								"type": "reference",
-								"id": 3136,
+								"id": 3119,
 								"name": "UserPermissionsInhibitor"
 							}
 						}
 					]
 				},
 				{
-					"id": 3140,
+					"id": 3123,
 					"name": "permissions",
 					"kind": 1024,
 					"kindString": "Property",
@@ -53242,7 +53226,7 @@
 					}
 				},
 				{
-					"id": 3141,
+					"id": 3124,
 					"name": "run",
 					"kind": 2048,
 					"kindString": "Method",
@@ -53256,14 +53240,14 @@
 					],
 					"signatures": [
 						{
-							"id": 3142,
+							"id": 3125,
 							"name": "run",
 							"kind": 4096,
 							"kindString": "Call signature",
 							"flags": {},
 							"parameters": [
 								{
-									"id": 3143,
+									"id": 3126,
 									"name": "ctx",
 									"kind": 32768,
 									"kindString": "Parameter",
@@ -53288,21 +53272,21 @@
 					"title": "Constructors",
 					"kind": 512,
 					"children": [
-						3137
+						3120
 					]
 				},
 				{
 					"title": "Properties",
 					"kind": 1024,
 					"children": [
-						3140
+						3123
 					]
 				},
 				{
 					"title": "Methods",
 					"kind": 2048,
 					"children": [
-						3141
+						3124
 					]
 				}
 			],
@@ -53315,14 +53299,14 @@
 			]
 		},
 		{
-			"id": 3126,
+			"id": 3109,
 			"name": "UserRolesInhibitor",
 			"kind": 128,
 			"kindString": "Class",
 			"flags": {},
 			"children": [
 				{
-					"id": 3127,
+					"id": 3110,
 					"name": "constructor",
 					"kind": 512,
 					"kindString": "Constructor",
@@ -53336,14 +53320,14 @@
 					],
 					"signatures": [
 						{
-							"id": 3128,
+							"id": 3111,
 							"name": "new UserRolesInhibitor",
 							"kind": 16384,
 							"kindString": "Constructor signature",
 							"flags": {},
 							"parameters": [
 								{
-									"id": 3129,
+									"id": 3112,
 									"name": "roles",
 									"kind": 32768,
 									"kindString": "Parameter",
@@ -53357,7 +53341,7 @@
 									}
 								},
 								{
-									"id": 3130,
+									"id": 3113,
 									"name": "every",
 									"kind": 32768,
 									"kindString": "Parameter",
@@ -53372,14 +53356,14 @@
 							],
 							"type": {
 								"type": "reference",
-								"id": 3126,
+								"id": 3109,
 								"name": "UserRolesInhibitor"
 							}
 						}
 					]
 				},
 				{
-					"id": 3132,
+					"id": 3115,
 					"name": "every",
 					"kind": 1024,
 					"kindString": "Property",
@@ -53401,7 +53385,7 @@
 					}
 				},
 				{
-					"id": 3131,
+					"id": 3114,
 					"name": "roles",
 					"kind": 1024,
 					"kindString": "Property",
@@ -53425,7 +53409,7 @@
 					}
 				},
 				{
-					"id": 3133,
+					"id": 3116,
 					"name": "run",
 					"kind": 2048,
 					"kindString": "Method",
@@ -53439,14 +53423,14 @@
 					],
 					"signatures": [
 						{
-							"id": 3134,
+							"id": 3117,
 							"name": "run",
 							"kind": 4096,
 							"kindString": "Call signature",
 							"flags": {},
 							"parameters": [
 								{
-									"id": 3135,
+									"id": 3118,
 									"name": "ctx",
 									"kind": 32768,
 									"kindString": "Parameter",
@@ -53471,22 +53455,22 @@
 					"title": "Constructors",
 					"kind": 512,
 					"children": [
-						3127
+						3110
 					]
 				},
 				{
 					"title": "Properties",
 					"kind": 1024,
 					"children": [
-						3132,
-						3131
+						3115,
+						3114
 					]
 				},
 				{
 					"title": "Methods",
 					"kind": 2048,
 					"children": [
-						3133
+						3116
 					]
 				}
 			],
@@ -53499,14 +53483,14 @@
 			]
 		},
 		{
-			"id": 3071,
+			"id": 3054,
 			"name": "ArgumentOptions",
 			"kind": 256,
 			"kindString": "Interface",
 			"flags": {},
 			"children": [
 				{
-					"id": 3077,
+					"id": 3060,
 					"name": "channelTypes",
 					"kind": 1024,
 					"kindString": "Property",
@@ -53527,7 +53511,7 @@
 							"types": [
 								{
 									"type": "reference",
-									"id": 3062,
+									"id": 3045,
 									"name": "ChannelType"
 								},
 								{
@@ -53567,7 +53551,7 @@
 					}
 				},
 				{
-					"id": 3075,
+					"id": 3058,
 					"name": "choices",
 					"kind": 1024,
 					"kindString": "Property",
@@ -53591,7 +53575,7 @@
 					}
 				},
 				{
-					"id": 3072,
+					"id": 3055,
 					"name": "description",
 					"kind": 1024,
 					"kindString": "Property",
@@ -53609,7 +53593,7 @@
 					}
 				},
 				{
-					"id": 3076,
+					"id": 3059,
 					"name": "options",
 					"kind": 1024,
 					"kindString": "Property",
@@ -53635,7 +53619,7 @@
 								},
 								{
 									"type": "reference",
-									"id": 3081,
+									"id": 3064,
 									"name": "Argument"
 								}
 							]
@@ -53643,7 +53627,7 @@
 					}
 				},
 				{
-					"id": 3074,
+					"id": 3057,
 					"name": "required",
 					"kind": 1024,
 					"kindString": "Property",
@@ -53663,7 +53647,7 @@
 					}
 				},
 				{
-					"id": 3073,
+					"id": 3056,
 					"name": "type",
 					"kind": 1024,
 					"kindString": "Property",
@@ -53688,7 +53672,7 @@
 							},
 							{
 								"type": "reference",
-								"id": 3051,
+								"id": 3034,
 								"name": "ArgumentType"
 							},
 							{
@@ -53727,7 +53711,7 @@
 					}
 				},
 				{
-					"id": 3078,
+					"id": 3061,
 					"name": "run",
 					"kind": 2048,
 					"kindString": "Method",
@@ -53743,21 +53727,21 @@
 					],
 					"signatures": [
 						{
-							"id": 3079,
+							"id": 3062,
 							"name": "run",
 							"kind": 4096,
 							"kindString": "Call signature",
 							"flags": {},
 							"parameters": [
 								{
-									"id": 3080,
+									"id": 3063,
 									"name": "ctx",
 									"kind": 32768,
 									"kindString": "Parameter",
 									"flags": {},
 									"type": {
 										"type": "reference",
-										"id": 2966,
+										"id": 2949,
 										"name": "AutocompleteContext"
 									}
 								}
@@ -53775,19 +53759,19 @@
 					"title": "Properties",
 					"kind": 1024,
 					"children": [
-						3077,
-						3075,
-						3072,
-						3076,
-						3074,
-						3073
+						3060,
+						3058,
+						3055,
+						3059,
+						3057,
+						3056
 					]
 				},
 				{
 					"title": "Methods",
 					"kind": 2048,
 					"children": [
-						3078
+						3061
 					]
 				}
 			],
@@ -53800,14 +53784,14 @@
 			]
 		},
 		{
-			"id": 2948,
+			"id": 2931,
 			"name": "AutocompleteContextOptions",
 			"kind": 256,
 			"kindString": "Interface",
 			"flags": {},
 			"children": [
 				{
-					"id": 2953,
+					"id": 2936,
 					"name": "argument",
 					"kind": 1024,
 					"kindString": "Property",
@@ -53829,14 +53813,14 @@
 							},
 							{
 								"type": "reference",
-								"id": 3081,
+								"id": 3064,
 								"name": "Argument"
 							}
 						]
 					}
 				},
 				{
-					"id": 2962,
+					"id": 2945,
 					"name": "channel",
 					"kind": 1024,
 					"kindString": "Property",
@@ -53859,7 +53843,7 @@
 					}
 				},
 				{
-					"id": 2963,
+					"id": 2946,
 					"name": "channelId",
 					"kind": 1024,
 					"kindString": "Property",
@@ -53882,7 +53866,7 @@
 					}
 				},
 				{
-					"id": 2964,
+					"id": 2947,
 					"name": "createdAt",
 					"kind": 1024,
 					"kindString": "Property",
@@ -53905,7 +53889,7 @@
 					}
 				},
 				{
-					"id": 2965,
+					"id": 2948,
 					"name": "createdTimestamp",
 					"kind": 1024,
 					"kindString": "Property",
@@ -53928,7 +53912,7 @@
 					}
 				},
 				{
-					"id": 2955,
+					"id": 2938,
 					"name": "guild",
 					"kind": 1024,
 					"kindString": "Property",
@@ -53953,7 +53937,7 @@
 					}
 				},
 				{
-					"id": 2956,
+					"id": 2939,
 					"name": "guildId",
 					"kind": 1024,
 					"kindString": "Property",
@@ -53978,7 +53962,7 @@
 					}
 				},
 				{
-					"id": 2949,
+					"id": 2932,
 					"name": "interaction",
 					"kind": 1024,
 					"kindString": "Property",
@@ -54002,7 +53986,7 @@
 					}
 				},
 				{
-					"id": 2957,
+					"id": 2940,
 					"name": "member",
 					"kind": 1024,
 					"kindString": "Property",
@@ -54027,7 +54011,7 @@
 					}
 				},
 				{
-					"id": 2958,
+					"id": 2941,
 					"name": "memberPermissions",
 					"kind": 1024,
 					"kindString": "Property",
@@ -54052,7 +54036,7 @@
 					}
 				},
 				{
-					"id": 2959,
+					"id": 2942,
 					"name": "user",
 					"kind": 1024,
 					"kindString": "Property",
@@ -54075,7 +54059,7 @@
 					}
 				},
 				{
-					"id": 2961,
+					"id": 2944,
 					"name": "userId",
 					"kind": 1024,
 					"kindString": "Property",
@@ -54098,7 +54082,7 @@
 					}
 				},
 				{
-					"id": 2960,
+					"id": 2943,
 					"name": "username",
 					"kind": 1024,
 					"kindString": "Property",
@@ -54121,7 +54105,7 @@
 					}
 				},
 				{
-					"id": 2954,
+					"id": 2937,
 					"name": "value",
 					"kind": 1024,
 					"kindString": "Property",
@@ -54139,7 +54123,7 @@
 					}
 				},
 				{
-					"id": 2950,
+					"id": 2933,
 					"name": "respond",
 					"kind": 2048,
 					"kindString": "Method",
@@ -54153,14 +54137,14 @@
 					],
 					"signatures": [
 						{
-							"id": 2951,
+							"id": 2934,
 							"name": "respond",
 							"kind": 4096,
 							"kindString": "Call signature",
 							"flags": {},
 							"parameters": [
 								{
-									"id": 2952,
+									"id": 2935,
 									"name": "choices",
 									"kind": 32768,
 									"kindString": "Parameter",
@@ -54194,27 +54178,27 @@
 					"title": "Properties",
 					"kind": 1024,
 					"children": [
-						2953,
-						2962,
-						2963,
-						2964,
-						2965,
-						2955,
-						2956,
-						2949,
-						2957,
-						2958,
-						2959,
-						2961,
-						2960,
-						2954
+						2936,
+						2945,
+						2946,
+						2947,
+						2948,
+						2938,
+						2939,
+						2932,
+						2940,
+						2941,
+						2942,
+						2944,
+						2943,
+						2937
 					]
 				},
 				{
 					"title": "Methods",
 					"kind": 2048,
 					"children": [
-						2950
+						2933
 					]
 				}
 			],
@@ -54476,17 +54460,12 @@
 			"extendedBy": [
 				{
 					"type": "reference",
-					"id": 2740,
-					"name": "CommandContextOptions"
-				},
-				{
-					"type": "reference",
-					"id": 2847,
+					"id": 2830,
 					"name": "ComponentContextOptions"
 				},
 				{
 					"type": "reference",
-					"id": 2948,
+					"id": 2931,
 					"name": "AutocompleteContextOptions"
 				}
 			]
@@ -57750,7 +57729,7 @@
 							"types": [
 								{
 									"type": "reference",
-									"id": 3062,
+									"id": 3045,
 									"name": "ChannelType"
 								},
 								{
@@ -57876,7 +57855,7 @@
 								},
 								{
 									"type": "reference",
-									"id": 3081,
+									"id": 3064,
 									"name": "Argument"
 								}
 							]
@@ -57918,7 +57897,7 @@
 					],
 					"type": {
 						"type": "reference",
-						"id": 3051,
+						"id": 3034,
 						"name": "ArgumentType"
 					}
 				},
@@ -57953,7 +57932,7 @@
 									"flags": {},
 									"type": {
 										"type": "reference",
-										"id": 2966,
+										"id": 2949,
 										"name": "AutocompleteContext"
 									}
 								}
@@ -58066,80 +58045,85 @@
 			"flags": {},
 			"children": [
 				{
-					"id": 2745,
+					"id": 2742,
 					"name": "arguments",
 					"kind": 1024,
 					"kindString": "Property",
 					"flags": {},
 					"sources": [
 						{
-							"fileName": "src/lib/structures/CommandContext.ts",
-							"line": 24,
+							"fileName": "src/lib/structures/contexts/CommandContext.ts",
+							"line": 16,
 							"character": 1
 						}
 					],
 					"type": {
 						"type": "reference",
-						"id": 3011,
-						"name": "ArgumentResolver"
+						"typeArguments": [
+							{
+								"type": "reference",
+								"id": 2772,
+								"name": "Cached"
+							}
+						],
+						"name": "CommandInteractionOptionResolver"
 					}
 				},
 				{
-					"id": 2767,
+					"id": 2765,
 					"name": "channel",
 					"kind": 1024,
 					"kindString": "Property",
 					"flags": {},
 					"sources": [
 						{
-							"fileName": "src/lib/structures/BaseContext.ts",
-							"line": 12,
+							"fileName": "src/lib/structures/contexts/Context.ts",
+							"line": 15,
 							"character": 1
 						}
 					],
 					"type": {
 						"type": "reference",
-						"name": "TextBasedChannel"
+						"typeArguments": [
+							{
+								"type": "reference",
+								"id": 2772,
+								"name": "Cached"
+							},
+							{
+								"type": "reference",
+								"name": "GuildTextBasedChannel"
+							},
+							{
+								"type": "reference",
+								"name": "GuildTextBasedChannel"
+							},
+							{
+								"type": "reference",
+								"name": "GuildTextBasedChannel"
+							},
+							{
+								"type": "reference",
+								"name": "TextBasedChannel"
+							}
+						],
+						"name": "CacheTypeReducer"
 					},
 					"inheritedFrom": {
 						"type": "reference",
-						"id": 2703,
-						"name": "BaseContextOptions.channel"
+						"name": "ContextOptions.channel"
 					}
 				},
 				{
-					"id": 2768,
-					"name": "channelId",
-					"kind": 1024,
-					"kindString": "Property",
-					"flags": {},
-					"sources": [
-						{
-							"fileName": "src/lib/structures/BaseContext.ts",
-							"line": 13,
-							"character": 1
-						}
-					],
-					"type": {
-						"type": "intrinsic",
-						"name": "string"
-					},
-					"inheritedFrom": {
-						"type": "reference",
-						"id": 2704,
-						"name": "BaseContextOptions.channelId"
-					}
-				},
-				{
-					"id": 2743,
+					"id": 2741,
 					"name": "command",
 					"kind": 1024,
 					"kindString": "Property",
 					"flags": {},
 					"sources": [
 						{
-							"fileName": "src/lib/structures/CommandContext.ts",
-							"line": 22,
+							"fileName": "src/lib/structures/contexts/CommandContext.ts",
+							"line": 15,
 							"character": 1
 						}
 					],
@@ -58150,33 +58134,15 @@
 					}
 				},
 				{
-					"id": 2744,
-					"name": "commandName",
-					"kind": 1024,
-					"kindString": "Property",
-					"flags": {},
-					"sources": [
-						{
-							"fileName": "src/lib/structures/CommandContext.ts",
-							"line": 23,
-							"character": 1
-						}
-					],
-					"type": {
-						"type": "intrinsic",
-						"name": "string"
-					}
-				},
-				{
-					"id": 2769,
+					"id": 2766,
 					"name": "createdAt",
 					"kind": 1024,
 					"kindString": "Property",
 					"flags": {},
 					"sources": [
 						{
-							"fileName": "src/lib/structures/BaseContext.ts",
-							"line": 14,
+							"fileName": "src/lib/structures/contexts/Context.ts",
+							"line": 20,
 							"character": 1
 						}
 					],
@@ -58186,20 +58152,19 @@
 					},
 					"inheritedFrom": {
 						"type": "reference",
-						"id": 2705,
-						"name": "BaseContextOptions.createdAt"
+						"name": "ContextOptions.createdAt"
 					}
 				},
 				{
-					"id": 2770,
+					"id": 2767,
 					"name": "createdTimestamp",
 					"kind": 1024,
 					"kindString": "Property",
 					"flags": {},
 					"sources": [
 						{
-							"fileName": "src/lib/structures/BaseContext.ts",
-							"line": 15,
+							"fileName": "src/lib/structures/contexts/Context.ts",
+							"line": 21,
 							"character": 1
 						}
 					],
@@ -58209,163 +58174,19 @@
 					},
 					"inheritedFrom": {
 						"type": "reference",
-						"id": 2706,
-						"name": "BaseContextOptions.createdTimestamp"
+						"name": "ContextOptions.createdTimestamp"
 					}
 				},
 				{
-					"id": 2760,
+					"id": 2768,
 					"name": "guild",
 					"kind": 1024,
 					"kindString": "Property",
-					"flags": {
-						"isOptional": true
-					},
+					"flags": {},
 					"sources": [
 						{
-							"fileName": "src/lib/structures/BaseContext.ts",
-							"line": 5,
-							"character": 1
-						}
-					],
-					"type": {
-						"type": "reference",
-						"name": "Guild"
-					},
-					"inheritedFrom": {
-						"type": "reference",
-						"id": 2696,
-						"name": "BaseContextOptions.guild"
-					}
-				},
-				{
-					"id": 2761,
-					"name": "guildId",
-					"kind": 1024,
-					"kindString": "Property",
-					"flags": {
-						"isOptional": true
-					},
-					"sources": [
-						{
-							"fileName": "src/lib/structures/BaseContext.ts",
-							"line": 6,
-							"character": 1
-						}
-					],
-					"type": {
-						"type": "intrinsic",
-						"name": "string"
-					},
-					"inheritedFrom": {
-						"type": "reference",
-						"id": 2697,
-						"name": "BaseContextOptions.guildId"
-					}
-				},
-				{
-					"id": 2741,
-					"name": "interaction",
-					"kind": 1024,
-					"kindString": "Property",
-					"flags": {
-						"isOptional": true
-					},
-					"sources": [
-						{
-							"fileName": "src/lib/structures/CommandContext.ts",
-							"line": 20,
-							"character": 1
-						}
-					],
-					"type": {
-						"type": "union",
-						"types": [
-							{
-								"type": "reference",
-								"typeArguments": [
-									{
-										"type": "reference",
-										"name": "CacheType"
-									}
-								],
-								"name": "CommandInteraction"
-							},
-							{
-								"type": "reference",
-								"typeArguments": [
-									{
-										"type": "reference",
-										"name": "CacheType"
-									}
-								],
-								"name": "ContextMenuInteraction"
-							}
-						]
-					}
-				},
-				{
-					"id": 2762,
-					"name": "member",
-					"kind": 1024,
-					"kindString": "Property",
-					"flags": {
-						"isOptional": true
-					},
-					"sources": [
-						{
-							"fileName": "src/lib/structures/BaseContext.ts",
-							"line": 7,
-							"character": 1
-						}
-					],
-					"type": {
-						"type": "reference",
-						"name": "GuildMember"
-					},
-					"inheritedFrom": {
-						"type": "reference",
-						"id": 2698,
-						"name": "BaseContextOptions.member"
-					}
-				},
-				{
-					"id": 2763,
-					"name": "memberPermissions",
-					"kind": 1024,
-					"kindString": "Property",
-					"flags": {
-						"isOptional": true
-					},
-					"sources": [
-						{
-							"fileName": "src/lib/structures/BaseContext.ts",
-							"line": 8,
-							"character": 1
-						}
-					],
-					"type": {
-						"type": "reference",
-						"name": "Permissions"
-					},
-					"inheritedFrom": {
-						"type": "reference",
-						"id": 2699,
-						"name": "BaseContextOptions.memberPermissions"
-					}
-				},
-				{
-					"id": 2742,
-					"name": "message",
-					"kind": 1024,
-					"kindString": "Property",
-					"flags": {
-						"isOptional": true
-					},
-					"sources": [
-						{
-							"fileName": "src/lib/structures/CommandContext.ts",
-							"line": 21,
+							"fileName": "src/lib/structures/contexts/Context.ts",
+							"line": 22,
 							"character": 1
 						}
 					],
@@ -58373,23 +58194,152 @@
 						"type": "reference",
 						"typeArguments": [
 							{
-								"type": "intrinsic",
-								"name": "boolean"
+								"type": "reference",
+								"id": 2772,
+								"name": "Cached"
+							},
+							{
+								"type": "reference",
+								"name": "Guild"
+							},
+							{
+								"type": "literal",
+								"value": null
+							},
+							{
+								"type": "reference",
+								"name": "Guild"
+							},
+							{
+								"type": "reference",
+								"name": "Guild"
 							}
 						],
-						"name": "Message"
+						"name": "CacheTypeReducer"
+					},
+					"inheritedFrom": {
+						"type": "reference",
+						"name": "ContextOptions.guild"
 					}
 				},
 				{
-					"id": 2764,
+					"id": 2769,
+					"name": "guildId",
+					"kind": 1024,
+					"kindString": "Property",
+					"flags": {},
+					"sources": [
+						{
+							"fileName": "src/lib/structures/contexts/Context.ts",
+							"line": 23,
+							"character": 1
+						}
+					],
+					"type": {
+						"type": "reference",
+						"typeArguments": [
+							{
+								"type": "reference",
+								"id": 2772,
+								"name": "Cached"
+							},
+							{
+								"type": "intrinsic",
+								"name": "string"
+							},
+							{
+								"type": "intrinsic",
+								"name": "string"
+							},
+							{
+								"type": "intrinsic",
+								"name": "string"
+							},
+							{
+								"type": "intrinsic",
+								"name": "string"
+							}
+						],
+						"name": "CacheTypeReducer"
+					},
+					"inheritedFrom": {
+						"type": "reference",
+						"name": "ContextOptions.guildId"
+					}
+				},
+				{
+					"id": 2770,
+					"name": "member",
+					"kind": 1024,
+					"kindString": "Property",
+					"flags": {},
+					"sources": [
+						{
+							"fileName": "src/lib/structures/contexts/Context.ts",
+							"line": 24,
+							"character": 1
+						}
+					],
+					"type": {
+						"type": "reference",
+						"typeArguments": [
+							{
+								"type": "reference",
+								"id": 2772,
+								"name": "Cached"
+							},
+							{
+								"type": "reference",
+								"name": "GuildMember"
+							},
+							{
+								"type": "reference",
+								"name": "APIInteractionGuildMember"
+							},
+							{
+								"type": "union",
+								"types": [
+									{
+										"type": "reference",
+										"name": "GuildMember"
+									},
+									{
+										"type": "reference",
+										"name": "APIInteractionGuildMember"
+									}
+								]
+							},
+							{
+								"type": "union",
+								"types": [
+									{
+										"type": "reference",
+										"name": "GuildMember"
+									},
+									{
+										"type": "reference",
+										"name": "APIInteractionGuildMember"
+									}
+								]
+							}
+						],
+						"name": "CacheTypeReducer"
+					},
+					"inheritedFrom": {
+						"type": "reference",
+						"name": "ContextOptions.member"
+					}
+				},
+				{
+					"id": 2771,
 					"name": "user",
 					"kind": 1024,
 					"kindString": "Property",
 					"flags": {},
 					"sources": [
 						{
-							"fileName": "src/lib/structures/BaseContext.ts",
-							"line": 9,
+							"fileName": "src/lib/structures/contexts/Context.ts",
+							"line": 25,
 							"character": 1
 						}
 					],
@@ -58399,79 +58349,49 @@
 					},
 					"inheritedFrom": {
 						"type": "reference",
-						"id": 2700,
-						"name": "BaseContextOptions.user"
+						"name": "ContextOptions.user"
 					}
 				},
 				{
-					"id": 2766,
-					"name": "userId",
-					"kind": 1024,
-					"kindString": "Property",
-					"flags": {},
-					"sources": [
-						{
-							"fileName": "src/lib/structures/BaseContext.ts",
-							"line": 11,
-							"character": 1
-						}
-					],
-					"type": {
-						"type": "intrinsic",
-						"name": "string"
-					},
-					"inheritedFrom": {
-						"type": "reference",
-						"id": 2702,
-						"name": "BaseContextOptions.userId"
-					}
-				},
-				{
-					"id": 2765,
-					"name": "username",
-					"kind": 1024,
-					"kindString": "Property",
-					"flags": {},
-					"sources": [
-						{
-							"fileName": "src/lib/structures/BaseContext.ts",
-							"line": 10,
-							"character": 1
-						}
-					],
-					"type": {
-						"type": "intrinsic",
-						"name": "string"
-					},
-					"inheritedFrom": {
-						"type": "reference",
-						"id": 2701,
-						"name": "BaseContextOptions.username"
-					}
-				},
-				{
-					"id": 2757,
+					"id": 2743,
 					"name": "deferReply",
 					"kind": 2048,
 					"kindString": "Method",
 					"flags": {},
 					"sources": [
 						{
-							"fileName": "src/lib/structures/CommandContext.ts",
-							"line": 29,
+							"fileName": "src/lib/structures/contexts/CommandContext.ts",
+							"line": 17,
 							"character": 1
 						}
 					],
 					"signatures": [
 						{
-							"id": 2758,
+							"id": 2744,
 							"name": "deferReply",
 							"kind": 4096,
 							"kindString": "Call signature",
 							"flags": {},
+							"typeParameter": [
+								{
+									"id": 2745,
+									"name": "Fetch",
+									"kind": 131072,
+									"kindString": "Type parameter",
+									"flags": {},
+									"type": {
+										"type": "intrinsic",
+										"name": "boolean"
+									},
+									"default": {
+										"type": "intrinsic",
+										"name": "boolean"
+									}
+								}
+							],
 							"parameters": [
 								{
-									"id": 2759,
+									"id": 2746,
 									"name": "options",
 									"kind": 32768,
 									"kindString": "Parameter",
@@ -58479,8 +58399,55 @@
 										"isOptional": true
 									},
 									"type": {
-										"type": "reference",
-										"name": "InteractionDeferReplyOptions"
+										"type": "intersection",
+										"types": [
+											{
+												"type": "reference",
+												"name": "InteractionDeferReplyOptions"
+											},
+											{
+												"type": "reflection",
+												"declaration": {
+													"id": 2747,
+													"name": "__type",
+													"kind": 65536,
+													"kindString": "Type literal",
+													"flags": {},
+													"children": [
+														{
+															"id": 2748,
+															"name": "fetchReply",
+															"kind": 1024,
+															"kindString": "Property",
+															"flags": {
+																"isOptional": true
+															},
+															"sources": [
+																{
+																	"fileName": "src/lib/structures/contexts/CommandContext.ts",
+																	"line": 17,
+																	"character": 90
+																}
+															],
+															"type": {
+																"type": "reference",
+																"id": 2745,
+																"name": "Fetch"
+															}
+														}
+													],
+													"groups": [
+														{
+															"title": "Properties",
+															"kind": 1024,
+															"children": [
+																2748
+															]
+														}
+													]
+												}
+											}
+										]
 									}
 								}
 							],
@@ -58488,27 +58455,83 @@
 								"type": "reference",
 								"typeArguments": [
 									{
-										"type": "union",
-										"types": [
-											{
-												"type": "intrinsic",
-												"name": "void"
-											},
-											{
-												"type": "reference",
-												"typeArguments": [
-													{
-														"type": "intrinsic",
-														"name": "boolean"
-													}
-												],
-												"name": "Message"
-											},
-											{
-												"type": "reference",
-												"name": "APIMessage"
-											}
-										]
+										"type": "conditional",
+										"checkType": {
+											"type": "reference",
+											"id": 2745,
+											"name": "Fetch"
+										},
+										"extendsType": {
+											"type": "literal",
+											"value": true
+										},
+										"trueType": {
+											"type": "reference",
+											"typeArguments": [
+												{
+													"type": "reference",
+													"id": 2772,
+													"name": "Cached"
+												},
+												{
+													"type": "reference",
+													"typeArguments": [
+														{
+															"type": "literal",
+															"value": true
+														}
+													],
+													"name": "Message"
+												},
+												{
+													"type": "reference",
+													"name": "APIMessage"
+												},
+												{
+													"type": "union",
+													"types": [
+														{
+															"type": "reference",
+															"name": "APIMessage"
+														},
+														{
+															"type": "reference",
+															"typeArguments": [
+																{
+																	"type": "intrinsic",
+																	"name": "boolean"
+																}
+															],
+															"name": "Message"
+														}
+													]
+												},
+												{
+													"type": "union",
+													"types": [
+														{
+															"type": "reference",
+															"name": "APIMessage"
+														},
+														{
+															"type": "reference",
+															"typeArguments": [
+																{
+																	"type": "intrinsic",
+																	"name": "boolean"
+																}
+															],
+															"name": "Message"
+														}
+													]
+												}
+											],
+											"name": "CacheTypeReducer"
+										},
+										"falseType": {
+											"type": "intrinsic",
+											"name": "void"
+										}
 									}
 								],
 								"name": "Promise"
@@ -58517,21 +58540,21 @@
 					]
 				},
 				{
-					"id": 2752,
+					"id": 2749,
 					"name": "deleteReply",
 					"kind": 2048,
 					"kindString": "Method",
 					"flags": {},
 					"sources": [
 						{
-							"fileName": "src/lib/structures/CommandContext.ts",
-							"line": 27,
+							"fileName": "src/lib/structures/contexts/CommandContext.ts",
+							"line": 18,
 							"character": 1
 						}
 					],
 					"signatures": [
 						{
-							"id": 2753,
+							"id": 2750,
 							"name": "deleteReply",
 							"kind": 4096,
 							"kindString": "Call signature",
@@ -58550,28 +58573,28 @@
 					]
 				},
 				{
-					"id": 2749,
+					"id": 2751,
 					"name": "editReply",
 					"kind": 2048,
 					"kindString": "Method",
 					"flags": {},
 					"sources": [
 						{
-							"fileName": "src/lib/structures/CommandContext.ts",
-							"line": 26,
+							"fileName": "src/lib/structures/contexts/CommandContext.ts",
+							"line": 19,
 							"character": 1
 						}
 					],
 					"signatures": [
 						{
-							"id": 2750,
+							"id": 2752,
 							"name": "editReply",
 							"kind": 4096,
 							"kindString": "Call signature",
 							"flags": {},
 							"parameters": [
 								{
-									"id": 2751,
+									"id": 2753,
 									"name": "options",
 									"kind": 32768,
 									"kindString": "Parameter",
@@ -58599,14 +58622,19 @@
 								"type": "reference",
 								"typeArguments": [
 									{
-										"type": "union",
-										"types": [
+										"type": "reference",
+										"typeArguments": [
+											{
+												"type": "reference",
+												"id": 2772,
+												"name": "Cached"
+											},
 											{
 												"type": "reference",
 												"typeArguments": [
 													{
-														"type": "intrinsic",
-														"name": "boolean"
+														"type": "literal",
+														"value": true
 													}
 												],
 												"name": "Message"
@@ -58614,8 +58642,47 @@
 											{
 												"type": "reference",
 												"name": "APIMessage"
+											},
+											{
+												"type": "union",
+												"types": [
+													{
+														"type": "reference",
+														"name": "APIMessage"
+													},
+													{
+														"type": "reference",
+														"typeArguments": [
+															{
+																"type": "intrinsic",
+																"name": "boolean"
+															}
+														],
+														"name": "Message"
+													}
+												]
+											},
+											{
+												"type": "union",
+												"types": [
+													{
+														"type": "reference",
+														"name": "APIMessage"
+													},
+													{
+														"type": "reference",
+														"typeArguments": [
+															{
+																"type": "intrinsic",
+																"name": "boolean"
+															}
+														],
+														"name": "Message"
+													}
+												]
 											}
-										]
+										],
+										"name": "CacheTypeReducer"
 									}
 								],
 								"name": "Promise"
@@ -58625,66 +58692,41 @@
 				},
 				{
 					"id": 2754,
-					"name": "followUp",
+					"name": "fetchReply",
 					"kind": 2048,
 					"kindString": "Method",
 					"flags": {},
 					"sources": [
 						{
-							"fileName": "src/lib/structures/CommandContext.ts",
-							"line": 28,
+							"fileName": "src/lib/structures/contexts/CommandContext.ts",
+							"line": 20,
 							"character": 1
 						}
 					],
 					"signatures": [
 						{
 							"id": 2755,
-							"name": "followUp",
+							"name": "fetchReply",
 							"kind": 4096,
 							"kindString": "Call signature",
 							"flags": {},
-							"parameters": [
-								{
-									"id": 2756,
-									"name": "options",
-									"kind": 32768,
-									"kindString": "Parameter",
-									"flags": {},
-									"type": {
-										"type": "union",
-										"types": [
-											{
-												"type": "intrinsic",
-												"name": "string"
-											},
-											{
-												"type": "reference",
-												"name": "MessagePayload"
-											},
-											{
-												"type": "reference",
-												"name": "InteractionReplyOptions"
-											}
-										]
-									}
-								}
-							],
 							"type": {
 								"type": "reference",
 								"typeArguments": [
 									{
-										"type": "union",
-										"types": [
+										"type": "reference",
+										"typeArguments": [
 											{
-												"type": "intrinsic",
-												"name": "void"
+												"type": "reference",
+												"id": 2772,
+												"name": "Cached"
 											},
 											{
 												"type": "reference",
 												"typeArguments": [
 													{
-														"type": "intrinsic",
-														"name": "boolean"
+														"type": "literal",
+														"value": true
 													}
 												],
 												"name": "Message"
@@ -58692,8 +58734,47 @@
 											{
 												"type": "reference",
 												"name": "APIMessage"
+											},
+											{
+												"type": "union",
+												"types": [
+													{
+														"type": "reference",
+														"name": "APIMessage"
+													},
+													{
+														"type": "reference",
+														"typeArguments": [
+															{
+																"type": "intrinsic",
+																"name": "boolean"
+															}
+														],
+														"name": "Message"
+													}
+												]
+											},
+											{
+												"type": "union",
+												"types": [
+													{
+														"type": "reference",
+														"name": "APIMessage"
+													},
+													{
+														"type": "reference",
+														"typeArguments": [
+															{
+																"type": "intrinsic",
+																"name": "boolean"
+															}
+														],
+														"name": "Message"
+													}
+												]
 											}
-										]
+										],
+										"name": "CacheTypeReducer"
 									}
 								],
 								"name": "Promise"
@@ -58702,28 +58783,28 @@
 					]
 				},
 				{
-					"id": 2746,
-					"name": "reply",
+					"id": 2756,
+					"name": "followUp",
 					"kind": 2048,
 					"kindString": "Method",
 					"flags": {},
 					"sources": [
 						{
-							"fileName": "src/lib/structures/CommandContext.ts",
-							"line": 25,
+							"fileName": "src/lib/structures/contexts/CommandContext.ts",
+							"line": 21,
 							"character": 1
 						}
 					],
 					"signatures": [
 						{
-							"id": 2747,
-							"name": "reply",
+							"id": 2757,
+							"name": "followUp",
 							"kind": 4096,
 							"kindString": "Call signature",
 							"flags": {},
 							"parameters": [
 								{
-									"id": 2748,
+									"id": 2758,
 									"name": "options",
 									"kind": 32768,
 									"kindString": "Parameter",
@@ -58751,41 +58832,271 @@
 								"type": "reference",
 								"typeArguments": [
 									{
+										"type": "reference",
+										"typeArguments": [
+											{
+												"type": "reference",
+												"id": 2772,
+												"name": "Cached"
+											},
+											{
+												"type": "reference",
+												"typeArguments": [
+													{
+														"type": "literal",
+														"value": true
+													}
+												],
+												"name": "Message"
+											},
+											{
+												"type": "reference",
+												"name": "APIMessage"
+											},
+											{
+												"type": "union",
+												"types": [
+													{
+														"type": "reference",
+														"name": "APIMessage"
+													},
+													{
+														"type": "reference",
+														"typeArguments": [
+															{
+																"type": "intrinsic",
+																"name": "boolean"
+															}
+														],
+														"name": "Message"
+													}
+												]
+											},
+											{
+												"type": "union",
+												"types": [
+													{
+														"type": "reference",
+														"name": "APIMessage"
+													},
+													{
+														"type": "reference",
+														"typeArguments": [
+															{
+																"type": "intrinsic",
+																"name": "boolean"
+															}
+														],
+														"name": "Message"
+													}
+												]
+											}
+										],
+										"name": "CacheTypeReducer"
+									}
+								],
+								"name": "Promise"
+							}
+						}
+					]
+				},
+				{
+					"id": 2759,
+					"name": "reply",
+					"kind": 2048,
+					"kindString": "Method",
+					"flags": {},
+					"sources": [
+						{
+							"fileName": "src/lib/structures/contexts/CommandContext.ts",
+							"line": 22,
+							"character": 1
+						}
+					],
+					"signatures": [
+						{
+							"id": 2760,
+							"name": "reply",
+							"kind": 4096,
+							"kindString": "Call signature",
+							"flags": {},
+							"typeParameter": [
+								{
+									"id": 2761,
+									"name": "Fetch",
+									"kind": 131072,
+									"kindString": "Type parameter",
+									"flags": {},
+									"type": {
+										"type": "intrinsic",
+										"name": "boolean"
+									},
+									"default": {
+										"type": "intrinsic",
+										"name": "boolean"
+									}
+								}
+							],
+							"parameters": [
+								{
+									"id": 2762,
+									"name": "options",
+									"kind": 32768,
+									"kindString": "Parameter",
+									"flags": {
+										"isOptional": true
+									},
+									"type": {
 										"type": "union",
 										"types": [
 											{
 												"type": "intrinsic",
-												"name": "void"
+												"name": "string"
 											},
 											{
 												"type": "reference",
-												"typeArguments": [
+												"name": "MessagePayload"
+											},
+											{
+												"type": "reference",
+												"name": "InteractionReplyOptions"
+											},
+											{
+												"type": "intersection",
+												"types": [
 													{
-														"type": "intrinsic",
-														"name": "boolean"
-													}
-												],
-												"name": "Message"
-											},
-											{
-												"type": "reference",
-												"name": "APIMessage"
-											},
-											{
-												"type": "reference",
-												"name": "APIMessage"
-											},
-											{
-												"type": "reference",
-												"typeArguments": [
+														"type": "reference",
+														"name": "InteractionReplyOptions"
+													},
 													{
-														"type": "intrinsic",
-														"name": "boolean"
+														"type": "reflection",
+														"declaration": {
+															"id": 2763,
+															"name": "__type",
+															"kind": 65536,
+															"kindString": "Type literal",
+															"flags": {},
+															"children": [
+																{
+																	"id": 2764,
+																	"name": "fetchReply",
+																	"kind": 1024,
+																	"kindString": "Property",
+																	"flags": {
+																		"isOptional": true
+																	},
+																	"sources": [
+																		{
+																			"fileName": "src/lib/structures/contexts/CommandContext.ts",
+																			"line": 22,
+																			"character": 80
+																		}
+																	],
+																	"type": {
+																		"type": "reference",
+																		"id": 2761,
+																		"name": "Fetch"
+																	}
+																}
+															],
+															"groups": [
+																{
+																	"title": "Properties",
+																	"kind": 1024,
+																	"children": [
+																		2764
+																	]
+																}
+															]
+														}
 													}
-												],
-												"name": "Message"
+												]
 											}
 										]
+									}
+								}
+							],
+							"type": {
+								"type": "reference",
+								"typeArguments": [
+									{
+										"type": "conditional",
+										"checkType": {
+											"type": "reference",
+											"id": 2761,
+											"name": "Fetch"
+										},
+										"extendsType": {
+											"type": "literal",
+											"value": true
+										},
+										"trueType": {
+											"type": "reference",
+											"typeArguments": [
+												{
+													"type": "reference",
+													"id": 2772,
+													"name": "Cached"
+												},
+												{
+													"type": "reference",
+													"typeArguments": [
+														{
+															"type": "literal",
+															"value": true
+														}
+													],
+													"name": "Message"
+												},
+												{
+													"type": "reference",
+													"name": "APIMessage"
+												},
+												{
+													"type": "union",
+													"types": [
+														{
+															"type": "reference",
+															"name": "APIMessage"
+														},
+														{
+															"type": "reference",
+															"typeArguments": [
+																{
+																	"type": "intrinsic",
+																	"name": "boolean"
+																}
+															],
+															"name": "Message"
+														}
+													]
+												},
+												{
+													"type": "union",
+													"types": [
+														{
+															"type": "reference",
+															"name": "APIMessage"
+														},
+														{
+															"type": "reference",
+															"typeArguments": [
+																{
+																	"type": "intrinsic",
+																	"name": "boolean"
+																}
+															],
+															"name": "Message"
+														}
+													]
+												}
+											],
+											"name": "CacheTypeReducer"
+										},
+										"falseType": {
+											"type": "intrinsic",
+											"name": "void"
+										}
 									}
 								],
 								"name": "Promise"
@@ -58799,48 +59110,65 @@
 					"title": "Properties",
 					"kind": 1024,
 					"children": [
-						2745,
+						2742,
+						2765,
+						2741,
+						2766,
 						2767,
 						2768,
-						2743,
-						2744,
 						2769,
 						2770,
-						2760,
-						2761,
-						2741,
-						2762,
-						2763,
-						2742,
-						2764,
-						2766,
-						2765
+						2771
 					]
 				},
 				{
 					"title": "Methods",
 					"kind": 2048,
 					"children": [
-						2757,
-						2752,
+						2743,
 						2749,
+						2751,
 						2754,
-						2746
+						2756,
+						2759
 					]
 				}
 			],
 			"sources": [
 				{
-					"fileName": "src/lib/structures/CommandContext.ts",
-					"line": 19,
+					"fileName": "src/lib/structures/contexts/CommandContext.ts",
+					"line": 14,
 					"character": 17
+				}
+			],
+			"typeParameter": [
+				{
+					"id": 2772,
+					"name": "Cached",
+					"kind": 131072,
+					"kindString": "Type parameter",
+					"flags": {},
+					"type": {
+						"type": "reference",
+						"name": "CacheType"
+					},
+					"default": {
+						"type": "reference",
+						"name": "CacheType"
+					}
 				}
 			],
 			"extendedTypes": [
 				{
 					"type": "reference",
-					"id": 2695,
-					"name": "BaseContextOptions"
+					"typeArguments": [
+						{
+							"type": "reference",
+							"id": 2772,
+							"name": "Cached"
+						}
+					],
+					"name": "ContextOptions"
 				}
 			]
 		},
@@ -58878,7 +59206,7 @@
 								},
 								{
 									"type": "reference",
-									"id": 3081,
+									"id": 3064,
 									"name": "Argument"
 								}
 							]
@@ -59116,7 +59444,13 @@
 									"flags": {},
 									"type": {
 										"type": "reference",
-										"id": 2771,
+										"id": 2773,
+										"typeArguments": [
+											{
+												"type": "reference",
+												"name": "CacheType"
+											}
+										],
 										"name": "CommandContext"
 									}
 								},
@@ -59170,7 +59504,13 @@
 									"flags": {},
 									"type": {
 										"type": "reference",
-										"id": 2771,
+										"id": 2773,
+										"typeArguments": [
+											{
+												"type": "reference",
+												"name": "CacheType"
+											}
+										],
 										"name": "CommandContext"
 									}
 								}
@@ -59217,14 +59557,14 @@
 			]
 		},
 		{
-			"id": 2847,
+			"id": 2830,
 			"name": "ComponentContextOptions",
 			"kind": 256,
 			"kindString": "Interface",
 			"flags": {},
 			"children": [
 				{
-					"id": 2850,
+					"id": 2833,
 					"name": "arguments",
 					"kind": 1024,
 					"kindString": "Property",
@@ -59247,7 +59587,7 @@
 					}
 				},
 				{
-					"id": 2877,
+					"id": 2860,
 					"name": "channel",
 					"kind": 1024,
 					"kindString": "Property",
@@ -59270,7 +59610,7 @@
 					}
 				},
 				{
-					"id": 2878,
+					"id": 2861,
 					"name": "channelId",
 					"kind": 1024,
 					"kindString": "Property",
@@ -59293,7 +59633,7 @@
 					}
 				},
 				{
-					"id": 2848,
+					"id": 2831,
 					"name": "component",
 					"kind": 1024,
 					"kindString": "Property",
@@ -59312,7 +59652,7 @@
 					}
 				},
 				{
-					"id": 2849,
+					"id": 2832,
 					"name": "componentName",
 					"kind": 1024,
 					"kindString": "Property",
@@ -59330,7 +59670,7 @@
 					}
 				},
 				{
-					"id": 2879,
+					"id": 2862,
 					"name": "createdAt",
 					"kind": 1024,
 					"kindString": "Property",
@@ -59353,7 +59693,7 @@
 					}
 				},
 				{
-					"id": 2880,
+					"id": 2863,
 					"name": "createdTimestamp",
 					"kind": 1024,
 					"kindString": "Property",
@@ -59376,7 +59716,7 @@
 					}
 				},
 				{
-					"id": 2852,
+					"id": 2835,
 					"name": "customId",
 					"kind": 1024,
 					"kindString": "Property",
@@ -59394,7 +59734,7 @@
 					}
 				},
 				{
-					"id": 2870,
+					"id": 2853,
 					"name": "guild",
 					"kind": 1024,
 					"kindString": "Property",
@@ -59419,7 +59759,7 @@
 					}
 				},
 				{
-					"id": 2871,
+					"id": 2854,
 					"name": "guildId",
 					"kind": 1024,
 					"kindString": "Property",
@@ -59444,7 +59784,7 @@
 					}
 				},
 				{
-					"id": 2872,
+					"id": 2855,
 					"name": "member",
 					"kind": 1024,
 					"kindString": "Property",
@@ -59469,7 +59809,7 @@
 					}
 				},
 				{
-					"id": 2873,
+					"id": 2856,
 					"name": "memberPermissions",
 					"kind": 1024,
 					"kindString": "Property",
@@ -59494,7 +59834,7 @@
 					}
 				},
 				{
-					"id": 2874,
+					"id": 2857,
 					"name": "user",
 					"kind": 1024,
 					"kindString": "Property",
@@ -59517,7 +59857,7 @@
 					}
 				},
 				{
-					"id": 2876,
+					"id": 2859,
 					"name": "userId",
 					"kind": 1024,
 					"kindString": "Property",
@@ -59540,7 +59880,7 @@
 					}
 				},
 				{
-					"id": 2875,
+					"id": 2858,
 					"name": "username",
 					"kind": 1024,
 					"kindString": "Property",
@@ -59563,7 +59903,7 @@
 					}
 				},
 				{
-					"id": 2851,
+					"id": 2834,
 					"name": "values",
 					"kind": 1024,
 					"kindString": "Property",
@@ -59586,7 +59926,7 @@
 					}
 				},
 				{
-					"id": 2864,
+					"id": 2847,
 					"name": "deferReply",
 					"kind": 2048,
 					"kindString": "Method",
@@ -59600,14 +59940,14 @@
 					],
 					"signatures": [
 						{
-							"id": 2865,
+							"id": 2848,
 							"name": "deferReply",
 							"kind": 4096,
 							"kindString": "Call signature",
 							"flags": {},
 							"parameters": [
 								{
-									"id": 2866,
+									"id": 2849,
 									"name": "options",
 									"kind": 32768,
 									"kindString": "Parameter",
@@ -59653,7 +59993,7 @@
 					]
 				},
 				{
-					"id": 2867,
+					"id": 2850,
 					"name": "deferUpdate",
 					"kind": 2048,
 					"kindString": "Method",
@@ -59667,14 +60007,14 @@
 					],
 					"signatures": [
 						{
-							"id": 2868,
+							"id": 2851,
 							"name": "deferUpdate",
 							"kind": 4096,
 							"kindString": "Call signature",
 							"flags": {},
 							"parameters": [
 								{
-									"id": 2869,
+									"id": 2852,
 									"name": "options",
 									"kind": 32768,
 									"kindString": "Parameter",
@@ -59716,7 +60056,7 @@
 					]
 				},
 				{
-					"id": 2859,
+					"id": 2842,
 					"name": "deleteReply",
 					"kind": 2048,
 					"kindString": "Method",
@@ -59730,7 +60070,7 @@
 					],
 					"signatures": [
 						{
-							"id": 2860,
+							"id": 2843,
 							"name": "deleteReply",
 							"kind": 4096,
 							"kindString": "Call signature",
@@ -59749,7 +60089,7 @@
 					]
 				},
 				{
-					"id": 2856,
+					"id": 2839,
 					"name": "editReply",
 					"kind": 2048,
 					"kindString": "Method",
@@ -59763,14 +60103,14 @@
 					],
 					"signatures": [
 						{
-							"id": 2857,
+							"id": 2840,
 							"name": "editReply",
 							"kind": 4096,
 							"kindString": "Call signature",
 							"flags": {},
 							"parameters": [
 								{
-									"id": 2858,
+									"id": 2841,
 									"name": "options",
 									"kind": 32768,
 									"kindString": "Parameter",
@@ -59823,7 +60163,7 @@
 					]
 				},
 				{
-					"id": 2861,
+					"id": 2844,
 					"name": "followUp",
 					"kind": 2048,
 					"kindString": "Method",
@@ -59837,14 +60177,14 @@
 					],
 					"signatures": [
 						{
-							"id": 2862,
+							"id": 2845,
 							"name": "followUp",
 							"kind": 4096,
 							"kindString": "Call signature",
 							"flags": {},
 							"parameters": [
 								{
-									"id": 2863,
+									"id": 2846,
 									"name": "options",
 									"kind": 32768,
 									"kindString": "Parameter",
@@ -59901,7 +60241,7 @@
 					]
 				},
 				{
-					"id": 2853,
+					"id": 2836,
 					"name": "reply",
 					"kind": 2048,
 					"kindString": "Method",
@@ -59915,14 +60255,14 @@
 					],
 					"signatures": [
 						{
-							"id": 2854,
+							"id": 2837,
 							"name": "reply",
 							"kind": 4096,
 							"kindString": "Call signature",
 							"flags": {},
 							"parameters": [
 								{
-									"id": 2855,
+									"id": 2838,
 									"name": "options",
 									"kind": 32768,
 									"kindString": "Parameter",
@@ -59972,10 +60312,6 @@
 											},
 											{
 												"type": "reference",
-												"name": "APIMessage"
-											},
-											{
-												"type": "reference",
 												"typeArguments": [
 													{
 														"type": "intrinsic",
@@ -59983,6 +60319,10 @@
 													}
 												],
 												"name": "Message"
+											},
+											{
+												"type": "reference",
+												"name": "APIMessage"
 											}
 										]
 									}
@@ -59998,34 +60338,34 @@
 					"title": "Properties",
 					"kind": 1024,
 					"children": [
-						2850,
-						2877,
-						2878,
-						2848,
-						2849,
-						2879,
-						2880,
-						2852,
-						2870,
-						2871,
-						2872,
-						2873,
-						2874,
-						2876,
-						2875,
-						2851
+						2833,
+						2860,
+						2861,
+						2831,
+						2832,
+						2862,
+						2863,
+						2835,
+						2853,
+						2854,
+						2855,
+						2856,
+						2857,
+						2859,
+						2858,
+						2834
 					]
 				},
 				{
 					"title": "Methods",
 					"kind": 2048,
 					"children": [
-						2864,
-						2867,
-						2859,
-						2856,
-						2861,
-						2853
+						2847,
+						2850,
+						2842,
+						2839,
+						2844,
+						2836
 					]
 				}
 			],
@@ -60254,7 +60594,7 @@
 									"flags": {},
 									"type": {
 										"type": "reference",
-										"id": 2881,
+										"id": 2864,
 										"name": "ComponentContext"
 									}
 								},
@@ -60308,7 +60648,7 @@
 									"flags": {},
 									"type": {
 										"type": "reference",
-										"id": 2881,
+										"id": 2864,
 										"name": "ComponentContext"
 									}
 								}
@@ -60348,6 +60688,189 @@
 				{
 					"fileName": "src/lib/structures/Component.ts",
 					"line": 15,
+					"character": 17
+				}
+			]
+		},
+		{
+			"id": 3167,
+			"name": "ConfirmOptions",
+			"kind": 256,
+			"kindString": "Interface",
+			"flags": {},
+			"children": [
+				{
+					"id": 3170,
+					"name": "button",
+					"kind": 1024,
+					"kindString": "Property",
+					"flags": {
+						"isOptional": true
+					},
+					"sources": [
+						{
+							"fileName": "src/util/confirm.ts",
+							"line": 7,
+							"character": 1
+						}
+					],
+					"type": {
+						"type": "reflection",
+						"declaration": {
+							"id": 3171,
+							"name": "__type",
+							"kind": 65536,
+							"kindString": "Type literal",
+							"flags": {},
+							"children": [
+								{
+									"id": 3174,
+									"name": "emoji",
+									"kind": 1024,
+									"kindString": "Property",
+									"flags": {
+										"isOptional": true
+									},
+									"sources": [
+										{
+											"fileName": "src/util/confirm.ts",
+											"line": 10,
+											"character": 2
+										}
+									],
+									"type": {
+										"type": "intrinsic",
+										"name": "string"
+									}
+								},
+								{
+									"id": 3172,
+									"name": "label",
+									"kind": 1024,
+									"kindString": "Property",
+									"flags": {
+										"isOptional": true
+									},
+									"sources": [
+										{
+											"fileName": "src/util/confirm.ts",
+											"line": 8,
+											"character": 2
+										}
+									],
+									"type": {
+										"type": "intrinsic",
+										"name": "string"
+									}
+								},
+								{
+									"id": 3173,
+									"name": "style",
+									"kind": 1024,
+									"kindString": "Property",
+									"flags": {
+										"isOptional": true
+									},
+									"sources": [
+										{
+											"fileName": "src/util/confirm.ts",
+											"line": 9,
+											"character": 2
+										}
+									],
+									"type": {
+										"type": "union",
+										"types": [
+											{
+												"type": "literal",
+												"value": "PRIMARY"
+											},
+											{
+												"type": "literal",
+												"value": "SECONDARY"
+											},
+											{
+												"type": "literal",
+												"value": "SUCCESS"
+											},
+											{
+												"type": "literal",
+												"value": "DANGER"
+											}
+										]
+									}
+								}
+							],
+							"groups": [
+								{
+									"title": "Properties",
+									"kind": 1024,
+									"children": [
+										3174,
+										3172,
+										3173
+									]
+								}
+							]
+						}
+					}
+				},
+				{
+					"id": 3168,
+					"name": "message",
+					"kind": 1024,
+					"kindString": "Property",
+					"flags": {
+						"isOptional": true
+					},
+					"sources": [
+						{
+							"fileName": "src/util/confirm.ts",
+							"line": 5,
+							"character": 1
+						}
+					],
+					"type": {
+						"type": "intrinsic",
+						"name": "string"
+					}
+				},
+				{
+					"id": 3169,
+					"name": "time",
+					"kind": 1024,
+					"kindString": "Property",
+					"flags": {
+						"isOptional": true
+					},
+					"sources": [
+						{
+							"fileName": "src/util/confirm.ts",
+							"line": 6,
+							"character": 1
+						}
+					],
+					"type": {
+						"type": "intrinsic",
+						"name": "number"
+					}
+				}
+			],
+			"groups": [
+				{
+					"title": "Properties",
+					"kind": 1024,
+					"children": [
+						3170,
+						3168,
+						3169
+					]
+				}
+			],
+			"sources": [
+				{
+					"fileName": "src/util/confirm.ts",
+					"line": 4,
 					"character": 17
 				}
 			]
@@ -61339,7 +61862,7 @@
 			]
 		},
 		{
-			"id": 3152,
+			"id": 3135,
 			"name": "BaseInhibitor",
 			"kind": 4194304,
 			"kindString": "Type alias",
@@ -61357,7 +61880,7 @@
 					{
 						"type": "reflection",
 						"declaration": {
-							"id": 3153,
+							"id": 3136,
 							"name": "__type",
 							"kind": 65536,
 							"kindString": "Type literal",
@@ -61371,14 +61894,14 @@
 							],
 							"signatures": [
 								{
-									"id": 3154,
+									"id": 3137,
 									"name": "__type",
 									"kind": 4096,
 									"kindString": "Call signature",
 									"flags": {},
 									"parameters": [
 										{
-											"id": 3155,
+											"id": 3138,
 											"name": "ctx",
 											"kind": 32768,
 											"kindString": "Parameter",
@@ -61430,14 +61953,14 @@
 					{
 						"type": "reflection",
 						"declaration": {
-							"id": 3156,
+							"id": 3139,
 							"name": "__type",
 							"kind": 65536,
 							"kindString": "Type literal",
 							"flags": {},
 							"children": [
 								{
-									"id": 3157,
+									"id": 3140,
 									"name": "run",
 									"kind": 2048,
 									"kindString": "Method",
@@ -61451,14 +61974,14 @@
 									],
 									"signatures": [
 										{
-											"id": 3158,
+											"id": 3141,
 											"name": "run",
 											"kind": 4096,
 											"kindString": "Call signature",
 											"flags": {},
 											"parameters": [
 												{
-													"id": 3159,
+													"id": 3142,
 													"name": "ctx",
 													"kind": 32768,
 													"kindString": "Parameter",
@@ -61512,7 +62035,7 @@
 									"title": "Methods",
 									"kind": 2048,
 									"children": [
-										3157
+										3140
 									]
 								}
 							],
@@ -61572,7 +62095,7 @@
 									"flags": {},
 									"type": {
 										"type": "reference",
-										"id": 2771,
+										"id": 2773,
 										"name": "CommandContext"
 									}
 								}
@@ -61733,7 +62256,7 @@
 									"flags": {},
 									"type": {
 										"type": "reference",
-										"id": 2881,
+										"id": 2864,
 										"name": "ComponentContext"
 									}
 								}
@@ -61971,7 +62494,7 @@
 			"defaultValue": "..."
 		},
 		{
-			"id": 3170,
+			"id": 3153,
 			"name": "CustomId",
 			"kind": 64,
 			"kindString": "Function",
@@ -61985,14 +62508,14 @@
 			],
 			"signatures": [
 				{
-					"id": 3171,
+					"id": 3154,
 					"name": "CustomId",
 					"kind": 4096,
 					"kindString": "Call signature",
 					"flags": {},
 					"parameters": [
 						{
-							"id": 3172,
+							"id": 3155,
 							"name": "name",
 							"kind": 32768,
 							"kindString": "Parameter",
@@ -62003,7 +62526,7 @@
 							}
 						},
 						{
-							"id": 3173,
+							"id": 3156,
 							"name": "args",
 							"kind": 32768,
 							"kindString": "Parameter",
@@ -62036,7 +62559,73 @@
 			]
 		},
 		{
-			"id": 3177,
+			"id": 3163,
+			"name": "confirm",
+			"kind": 64,
+			"kindString": "Function",
+			"flags": {},
+			"sources": [
+				{
+					"fileName": "src/util/confirm.ts",
+					"line": 14,
+					"character": 22
+				}
+			],
+			"signatures": [
+				{
+					"id": 3164,
+					"name": "confirm",
+					"kind": 4096,
+					"kindString": "Call signature",
+					"flags": {},
+					"parameters": [
+						{
+							"id": 3165,
+							"name": "ctx",
+							"kind": 32768,
+							"kindString": "Parameter",
+							"flags": {},
+							"type": {
+								"type": "reference",
+								"id": 2773,
+								"typeArguments": [
+									{
+										"type": "reference",
+										"name": "CacheType"
+									}
+								],
+								"name": "CommandContext"
+							}
+						},
+						{
+							"id": 3166,
+							"name": "options",
+							"kind": 32768,
+							"kindString": "Parameter",
+							"flags": {},
+							"type": {
+								"type": "reference",
+								"id": 3167,
+								"name": "ConfirmOptions"
+							},
+							"defaultValue": "{}"
+						}
+					],
+					"type": {
+						"type": "reference",
+						"typeArguments": [
+							{
+								"type": "intrinsic",
+								"name": "boolean"
+							}
+						],
+						"name": "Promise"
+					}
+				}
+			]
+		},
+		{
+			"id": 3160,
 			"name": "registerDirectories",
 			"kind": 64,
 			"kindString": "Function",
@@ -62050,14 +62639,14 @@
 			],
 			"signatures": [
 				{
-					"id": 3178,
+					"id": 3161,
 					"name": "registerDirectories",
 					"kind": 4096,
 					"kindString": "Call signature",
 					"flags": {},
 					"parameters": [
 						{
-							"id": 3179,
+							"id": 3162,
 							"name": "dirs",
 							"kind": 32768,
 							"kindString": "Parameter",
@@ -62085,7 +62674,7 @@
 			]
 		},
 		{
-			"id": 3174,
+			"id": 3157,
 			"name": "registerDirectory",
 			"kind": 64,
 			"kindString": "Function",
@@ -62099,14 +62688,14 @@
 			],
 			"signatures": [
 				{
-					"id": 3175,
+					"id": 3158,
 					"name": "registerDirectory",
 					"kind": 4096,
 					"kindString": "Call signature",
 					"flags": {},
 					"parameters": [
 						{
-							"id": 3176,
+							"id": 3159,
 							"name": "dir",
 							"kind": 32768,
 							"kindString": "Parameter",
@@ -62136,9 +62725,9 @@
 			"title": "Enumerations",
 			"kind": 8,
 			"children": [
-				3051,
+				3034,
 				2263,
-				3062,
+				3045,
 				2545,
 				2631
 			]
@@ -62147,17 +62736,17 @@
 			"title": "Classes",
 			"kind": 128,
 			"children": [
-				3081,
-				3011,
-				2966,
+				3064,
+				2994,
+				2949,
 				2707,
-				3110,
-				3144,
+				3093,
+				3127,
 				2588,
-				2771,
+				2773,
 				570,
 				2656,
-				2881,
+				2864,
 				1053,
 				2298,
 				2022,
@@ -62167,29 +62756,30 @@
 				2190,
 				2084,
 				2224,
-				3104,
-				3160,
+				3087,
+				3143,
 				2491,
 				86,
-				3118,
-				3136,
-				3126
+				3101,
+				3119,
+				3109
 			]
 		},
 		{
 			"title": "Interfaces",
 			"kind": 256,
 			"children": [
-				3071,
-				2948,
+				3054,
+				2931,
 				2695,
 				1,
 				2553,
 				2550,
 				2740,
 				2571,
-				2847,
+				2830,
 				2641,
+				3167,
 				2267,
 				2507
 			]
@@ -62198,7 +62788,7 @@
 			"title": "Type aliases",
 			"kind": 4194304,
 			"children": [
-				3152,
+				3135,
 				2564,
 				2568,
 				2634,
@@ -62221,9 +62811,10 @@
 			"title": "Functions",
 			"kind": 64,
 			"children": [
-				3170,
-				3177,
-				3174
+				3153,
+				3163,
+				3160,
+				3157
 			]
 		}
 	],
