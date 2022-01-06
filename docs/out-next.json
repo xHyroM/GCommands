@@ -8324,7 +8324,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/contexts/CommandContext.ts",
-							"line": 47,
+							"line": 44,
 							"character": 1
 						}
 					],
@@ -8427,7 +8427,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/contexts/CommandContext.ts",
-							"line": 37,
+							"line": 34,
 							"character": 8
 						}
 					],
@@ -8436,10 +8436,11 @@
 						"typeArguments": [
 							{
 								"type": "reference",
-								"name": "CacheType"
+								"id": 2996,
+								"name": "Cached"
 							}
 						],
-						"name": "ArgumentsType"
+						"name": "CommandInteractionOptionResolver"
 					}
 				},
 				{
@@ -8561,7 +8562,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/contexts/CommandContext.ts",
-							"line": 35,
+							"line": 32,
 							"character": 17
 						}
 					],
@@ -8583,7 +8584,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/contexts/CommandContext.ts",
-							"line": 36,
+							"line": 33,
 							"character": 17
 						}
 					],
@@ -8655,7 +8656,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/contexts/CommandContext.ts",
-							"line": 40,
+							"line": 37,
 							"character": 8
 						}
 					],
@@ -8727,7 +8728,7 @@
 																	"sources": [
 																		{
 																			"fileName": "src/lib/structures/contexts/CommandContext.ts",
-																			"line": 40,
+																			"line": 37,
 																			"character": 97
 																		}
 																	],
@@ -8854,7 +8855,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/contexts/CommandContext.ts",
-							"line": 38,
+							"line": 35,
 							"character": 8
 						}
 					],
@@ -8875,7 +8876,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/contexts/CommandContext.ts",
-							"line": 41,
+							"line": 38,
 							"character": 8
 						}
 					],
@@ -8920,7 +8921,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/contexts/CommandContext.ts",
-							"line": 42,
+							"line": 39,
 							"character": 8
 						}
 					],
@@ -9050,7 +9051,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/contexts/CommandContext.ts",
-							"line": 43,
+							"line": 40,
 							"character": 8
 						}
 					],
@@ -9154,7 +9155,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/contexts/CommandContext.ts",
-							"line": 44,
+							"line": 41,
 							"character": 8
 						}
 					],
@@ -9382,7 +9383,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/contexts/CommandContext.ts",
-							"line": 33,
+							"line": 30,
 							"character": 8
 						}
 					],
@@ -9562,7 +9563,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/contexts/CommandContext.ts",
-							"line": 34,
+							"line": 31,
 							"character": 8
 						}
 					],
@@ -9588,7 +9589,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/contexts/CommandContext.ts",
-							"line": 39,
+							"line": 36,
 							"character": 8
 						}
 					],
@@ -9609,7 +9610,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/contexts/CommandContext.ts",
-							"line": 45,
+							"line": 42,
 							"character": 8
 						}
 					],
@@ -9696,7 +9697,7 @@
 																			"sources": [
 																				{
 																					"fileName": "src/lib/structures/contexts/CommandContext.ts",
-																					"line": 45,
+																					"line": 42,
 																					"character": 87
 																				}
 																			],
@@ -10372,7 +10373,7 @@
 			"sources": [
 				{
 					"fileName": "src/lib/structures/contexts/CommandContext.ts",
-					"line": 32,
+					"line": 29,
 					"character": 13
 				}
 			],
@@ -64937,7 +64938,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/contexts/CommandContext.ts",
-							"line": 23,
+							"line": 20,
 							"character": 1
 						}
 					],
@@ -64946,10 +64947,11 @@
 						"typeArguments": [
 							{
 								"type": "reference",
-								"name": "CacheType"
+								"id": 2992,
+								"name": "Cached"
 							}
 						],
-						"name": "ArgumentsType"
+						"name": "CommandInteractionOptionResolver"
 					}
 				},
 				{
@@ -65007,7 +65009,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/contexts/CommandContext.ts",
-							"line": 22,
+							"line": 19,
 							"character": 1
 						}
 					],
@@ -65166,7 +65168,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/contexts/CommandContext.ts",
-							"line": 20,
+							"line": 17,
 							"character": 1
 						}
 					],
@@ -65341,7 +65343,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/contexts/CommandContext.ts",
-							"line": 21,
+							"line": 18,
 							"character": 1
 						}
 					],
@@ -65388,7 +65390,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/contexts/CommandContext.ts",
-							"line": 24,
+							"line": 21,
 							"character": 1
 						}
 					],
@@ -65452,7 +65454,7 @@
 															"sources": [
 																{
 																	"fileName": "src/lib/structures/contexts/CommandContext.ts",
-																	"line": 24,
+																	"line": 21,
 																	"character": 90
 																}
 															],
@@ -65575,7 +65577,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/contexts/CommandContext.ts",
-							"line": 25,
+							"line": 22,
 							"character": 1
 						}
 					],
@@ -65608,7 +65610,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/contexts/CommandContext.ts",
-							"line": 26,
+							"line": 23,
 							"character": 1
 						}
 					],
@@ -65726,7 +65728,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/contexts/CommandContext.ts",
-							"line": 27,
+							"line": 24,
 							"character": 1
 						}
 					],
@@ -65818,7 +65820,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/contexts/CommandContext.ts",
-							"line": 28,
+							"line": 25,
 							"character": 1
 						}
 					],
@@ -65936,7 +65938,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/contexts/CommandContext.ts",
-							"line": 29,
+							"line": 26,
 							"character": 1
 						}
 					],
@@ -66015,7 +66017,7 @@
 																	"sources": [
 																		{
 																			"fileName": "src/lib/structures/contexts/CommandContext.ts",
-																			"line": 29,
+																			"line": 26,
 																			"character": 80
 																		}
 																	],
@@ -66167,7 +66169,7 @@
 			"sources": [
 				{
 					"fileName": "src/lib/structures/contexts/CommandContext.ts",
-					"line": 19,
+					"line": 16,
 					"character": 17
 				}
 			],
