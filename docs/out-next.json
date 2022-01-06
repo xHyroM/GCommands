@@ -829,7 +829,7 @@
 											},
 											"type": {
 												"type": "reference",
-												"id": 3326,
+												"id": 3456,
 												"name": "ConfirmOptions"
 											}
 										}
@@ -987,7 +987,7 @@
 							],
 							"type": {
 								"type": "reference",
-								"id": 3326,
+								"id": 3456,
 								"name": "ConfirmOptions"
 							}
 						},
@@ -60874,6 +60874,2236 @@
 			]
 		},
 		{
+			"id": 3317,
+			"name": "Provider",
+			"kind": 128,
+			"kindString": "Class",
+			"flags": {},
+			"children": [
+				{
+					"id": 3344,
+					"name": "constructor",
+					"kind": 512,
+					"kindString": "Constructor",
+					"flags": {},
+					"signatures": [
+						{
+							"id": 3345,
+							"name": "new Provider",
+							"kind": 16384,
+							"kindString": "Constructor signature",
+							"flags": {},
+							"parameters": [
+								{
+									"id": 3346,
+									"name": "options",
+									"kind": 32768,
+									"kindString": "Parameter",
+									"flags": {
+										"isOptional": true
+									},
+									"type": {
+										"type": "reference",
+										"name": "EventEmitterOptions"
+									}
+								}
+							],
+							"type": {
+								"type": "reference",
+								"id": 3317,
+								"name": "Provider"
+							}
+						}
+					]
+				},
+				{
+					"id": 3357,
+					"name": "client",
+					"kind": 1024,
+					"kindString": "Property",
+					"flags": {},
+					"sources": [
+						{
+							"fileName": "src/lib/structures/Provider.ts",
+							"line": 20,
+							"character": 1
+						}
+					],
+					"type": {
+						"type": "intrinsic",
+						"name": "any"
+					}
+				},
+				{
+					"id": 3341,
+					"name": "captureRejectionSymbol",
+					"kind": 1024,
+					"kindString": "Property",
+					"flags": {
+						"isStatic": true,
+						"isExternal": true,
+						"isReadonly": true
+					},
+					"sources": [
+						{
+							"fileName": "node_modules/@types/node/events.d.ts",
+							"line": 273,
+							"character": 24
+						}
+					],
+					"type": {
+						"type": "query",
+						"queryType": {
+							"type": "reference",
+							"id": 2530,
+							"name": "captureRejectionSymbol"
+						}
+					}
+				},
+				{
+					"id": 3342,
+					"name": "captureRejections",
+					"kind": 1024,
+					"kindString": "Property",
+					"flags": {
+						"isStatic": true,
+						"isExternal": true
+					},
+					"comment": {
+						"shortText": "Sets or gets the default captureRejection value for all emitters."
+					},
+					"sources": [
+						{
+							"fileName": "node_modules/@types/node/events.d.ts",
+							"line": 278,
+							"character": 15
+						}
+					],
+					"type": {
+						"type": "intrinsic",
+						"name": "boolean"
+					}
+				},
+				{
+					"id": 3343,
+					"name": "defaultMaxListeners",
+					"kind": 1024,
+					"kindString": "Property",
+					"flags": {
+						"isStatic": true,
+						"isExternal": true
+					},
+					"sources": [
+						{
+							"fileName": "node_modules/@types/node/events.d.ts",
+							"line": 279,
+							"character": 15
+						}
+					],
+					"type": {
+						"type": "intrinsic",
+						"name": "number"
+					}
+				},
+				{
+					"id": 3340,
+					"name": "errorMonitor",
+					"kind": 1024,
+					"kindString": "Property",
+					"flags": {
+						"isStatic": true,
+						"isExternal": true,
+						"isReadonly": true
+					},
+					"comment": {
+						"shortText": "This symbol shall be used to install a listener for only monitoring `'error'`\nevents. Listeners installed using this symbol are called before the regular\n`'error'` listeners are called.",
+						"text": "Installing a listener using this symbol does not change the behavior once an\n`'error'` event is emitted, therefore the process will still crash if no\nregular `'error'` listener is installed.\n"
+					},
+					"sources": [
+						{
+							"fileName": "node_modules/@types/node/events.d.ts",
+							"line": 272,
+							"character": 24
+						}
+					],
+					"type": {
+						"type": "query",
+						"queryType": {
+							"type": "reference",
+							"id": 2529,
+							"name": "errorMonitor"
+						}
+					}
+				},
+				{
+					"id": 3381,
+					"name": "addListener",
+					"kind": 2048,
+					"kindString": "Method",
+					"flags": {
+						"isExternal": true
+					},
+					"signatures": [
+						{
+							"id": 3382,
+							"name": "addListener",
+							"kind": 4096,
+							"kindString": "Call signature",
+							"flags": {
+								"isExternal": true
+							},
+							"comment": {
+								"shortText": "Alias for `emitter.on(eventName, listener)`.",
+								"tags": [
+									{
+										"tag": "since",
+										"text": "v0.1.26\n"
+									}
+								]
+							},
+							"parameters": [
+								{
+									"id": 3383,
+									"name": "eventName",
+									"kind": 32768,
+									"kindString": "Parameter",
+									"flags": {
+										"isExternal": true
+									},
+									"type": {
+										"type": "union",
+										"types": [
+											{
+												"type": "intrinsic",
+												"name": "string"
+											},
+											{
+												"type": "intrinsic",
+												"name": "symbol"
+											}
+										]
+									}
+								},
+								{
+									"id": 3384,
+									"name": "listener",
+									"kind": 32768,
+									"kindString": "Parameter",
+									"flags": {
+										"isExternal": true
+									},
+									"type": {
+										"type": "reflection",
+										"declaration": {
+											"id": 3385,
+											"name": "__type",
+											"kind": 65536,
+											"kindString": "Type literal",
+											"flags": {
+												"isExternal": true
+											},
+											"signatures": [
+												{
+													"id": 3386,
+													"name": "__type",
+													"kind": 4096,
+													"kindString": "Call signature",
+													"flags": {
+														"isExternal": true
+													},
+													"parameters": [
+														{
+															"id": 3387,
+															"name": "args",
+															"kind": 32768,
+															"kindString": "Parameter",
+															"flags": {
+																"isExternal": true,
+																"isRest": true
+															},
+															"type": {
+																"type": "array",
+																"elementType": {
+																	"type": "intrinsic",
+																	"name": "any"
+																}
+															}
+														}
+													],
+													"type": {
+														"type": "intrinsic",
+														"name": "void"
+													}
+												}
+											]
+										}
+									}
+								}
+							],
+							"type": {
+								"type": "reference",
+								"id": 3317,
+								"name": "Provider"
+							}
+						}
+					]
+				},
+				{
+					"id": 3376,
+					"name": "delete",
+					"kind": 2048,
+					"kindString": "Method",
+					"flags": {},
+					"sources": [
+						{
+							"fileName": "src/lib/structures/Provider.ts",
+							"line": 61,
+							"character": 1
+						}
+					],
+					"signatures": [
+						{
+							"id": 3377,
+							"name": "delete",
+							"kind": 4096,
+							"kindString": "Call signature",
+							"flags": {},
+							"parameters": [
+								{
+									"id": 3378,
+									"name": "args",
+									"kind": 32768,
+									"kindString": "Parameter",
+									"flags": {
+										"isRest": true
+									},
+									"type": {
+										"type": "array",
+										"elementType": {
+											"type": "intrinsic",
+											"name": "any"
+										}
+									}
+								}
+							],
+							"type": {
+								"type": "intrinsic",
+								"name": "any"
+							}
+						},
+						{
+							"id": 3379,
+							"name": "delete",
+							"kind": 4096,
+							"kindString": "Call signature",
+							"flags": {},
+							"parameters": [
+								{
+									"id": 3380,
+									"name": "args",
+									"kind": 32768,
+									"kindString": "Parameter",
+									"flags": {
+										"isRest": true
+									},
+									"type": {
+										"type": "array",
+										"elementType": {
+											"type": "intrinsic",
+											"name": "any"
+										}
+									}
+								}
+							],
+							"type": {
+								"type": "intrinsic",
+								"name": "void"
+							}
+						}
+					]
+				},
+				{
+					"id": 3352,
+					"name": "emit",
+					"kind": 2048,
+					"kindString": "Method",
+					"flags": {},
+					"signatures": [
+						{
+							"id": 3353,
+							"name": "emit",
+							"kind": 4096,
+							"kindString": "Call signature",
+							"flags": {},
+							"typeParameter": [
+								{
+									"id": 3354,
+									"name": "U",
+									"kind": 131072,
+									"kindString": "Type parameter",
+									"flags": {},
+									"type": {
+										"type": "literal",
+										"value": "connected"
+									}
+								}
+							],
+							"parameters": [
+								{
+									"id": 3355,
+									"name": "event",
+									"kind": 32768,
+									"kindString": "Parameter",
+									"flags": {},
+									"type": {
+										"type": "reference",
+										"id": 3354,
+										"name": "U"
+									}
+								},
+								{
+									"id": 3356,
+									"name": "args",
+									"kind": 32768,
+									"kindString": "Parameter",
+									"flags": {
+										"isRest": true
+									},
+									"type": {
+										"type": "reference",
+										"typeArguments": [
+											{
+												"type": "indexedAccess",
+												"indexType": {
+													"type": "reference",
+													"id": 3354,
+													"name": "U"
+												},
+												"objectType": {
+													"type": "reference",
+													"id": 3313,
+													"name": "ProviderEvents"
+												}
+											}
+										],
+										"name": "Parameters"
+									}
+								}
+							],
+							"type": {
+								"type": "intrinsic",
+								"name": "boolean"
+							}
+						}
+					]
+				},
+				{
+					"id": 3440,
+					"name": "eventNames",
+					"kind": 2048,
+					"kindString": "Method",
+					"flags": {
+						"isExternal": true
+					},
+					"signatures": [
+						{
+							"id": 3441,
+							"name": "eventNames",
+							"kind": 4096,
+							"kindString": "Call signature",
+							"flags": {
+								"isExternal": true
+							},
+							"comment": {
+								"shortText": "Returns an array listing the events for which the emitter has registered\nlisteners. The values in the array are strings or `Symbol`s.",
+								"text": "```js\nconst EventEmitter = require('events');\nconst myEE = new EventEmitter();\nmyEE.on('foo', () => {});\nmyEE.on('bar', () => {});\n\nconst sym = Symbol('symbol');\nmyEE.on(sym, () => {});\n\nconsole.log(myEE.eventNames());\n// Prints: [ 'foo', 'bar', Symbol(symbol) ]\n```",
+								"tags": [
+									{
+										"tag": "since",
+										"text": "v6.0.0\n"
+									}
+								]
+							},
+							"type": {
+								"type": "array",
+								"elementType": {
+									"type": "union",
+									"types": [
+										{
+											"type": "intrinsic",
+											"name": "string"
+										},
+										{
+											"type": "intrinsic",
+											"name": "symbol"
+										}
+									]
+								}
+							}
+						}
+					]
+				},
+				{
+					"id": 3366,
+					"name": "get",
+					"kind": 2048,
+					"kindString": "Method",
+					"flags": {},
+					"sources": [
+						{
+							"fileName": "src/lib/structures/Provider.ts",
+							"line": 49,
+							"character": 1
+						}
+					],
+					"signatures": [
+						{
+							"id": 3367,
+							"name": "get",
+							"kind": 4096,
+							"kindString": "Call signature",
+							"flags": {},
+							"parameters": [
+								{
+									"id": 3368,
+									"name": "args",
+									"kind": 32768,
+									"kindString": "Parameter",
+									"flags": {
+										"isRest": true
+									},
+									"type": {
+										"type": "array",
+										"elementType": {
+											"type": "intrinsic",
+											"name": "any"
+										}
+									}
+								}
+							],
+							"type": {
+								"type": "intrinsic",
+								"name": "any"
+							}
+						},
+						{
+							"id": 3369,
+							"name": "get",
+							"kind": 4096,
+							"kindString": "Call signature",
+							"flags": {},
+							"parameters": [
+								{
+									"id": 3370,
+									"name": "args",
+									"kind": 32768,
+									"kindString": "Parameter",
+									"flags": {
+										"isRest": true
+									},
+									"type": {
+										"type": "array",
+										"elementType": {
+											"type": "intrinsic",
+											"name": "any"
+										}
+									}
+								}
+							],
+							"type": {
+								"type": "intrinsic",
+								"name": "void"
+							}
+						}
+					]
+				},
+				{
+					"id": 3415,
+					"name": "getMaxListeners",
+					"kind": 2048,
+					"kindString": "Method",
+					"flags": {
+						"isExternal": true
+					},
+					"signatures": [
+						{
+							"id": 3416,
+							"name": "getMaxListeners",
+							"kind": 4096,
+							"kindString": "Call signature",
+							"flags": {
+								"isExternal": true
+							},
+							"comment": {
+								"shortText": "Returns the current max listener value for the `EventEmitter` which is either\nset by `emitter.setMaxListeners(n)` or defaults to {@link defaultMaxListeners}.",
+								"tags": [
+									{
+										"tag": "since",
+										"text": "v1.0.0\n"
+									}
+								]
+							},
+							"type": {
+								"type": "intrinsic",
+								"name": "number"
+							}
+						}
+					]
+				},
+				{
+					"id": 3358,
+					"name": "init",
+					"kind": 2048,
+					"kindString": "Method",
+					"flags": {},
+					"sources": [
+						{
+							"fileName": "src/lib/structures/Provider.ts",
+							"line": 37,
+							"character": 1
+						}
+					],
+					"signatures": [
+						{
+							"id": 3359,
+							"name": "init",
+							"kind": 4096,
+							"kindString": "Call signature",
+							"flags": {},
+							"type": {
+								"type": "union",
+								"types": [
+									{
+										"type": "intrinsic",
+										"name": "void"
+									},
+									{
+										"type": "reference",
+										"typeArguments": [
+											{
+												"type": "intrinsic",
+												"name": "void"
+											}
+										],
+										"name": "Promise"
+									}
+								]
+							}
+						},
+						{
+							"id": 3360,
+							"name": "init",
+							"kind": 4096,
+							"kindString": "Call signature",
+							"flags": {},
+							"type": {
+								"type": "intrinsic",
+								"name": "void"
+							}
+						}
+					]
+				},
+				{
+					"id": 3361,
+					"name": "insert",
+					"kind": 2048,
+					"kindString": "Method",
+					"flags": {},
+					"sources": [
+						{
+							"fileName": "src/lib/structures/Provider.ts",
+							"line": 43,
+							"character": 1
+						}
+					],
+					"signatures": [
+						{
+							"id": 3362,
+							"name": "insert",
+							"kind": 4096,
+							"kindString": "Call signature",
+							"flags": {},
+							"parameters": [
+								{
+									"id": 3363,
+									"name": "args",
+									"kind": 32768,
+									"kindString": "Parameter",
+									"flags": {
+										"isRest": true
+									},
+									"type": {
+										"type": "array",
+										"elementType": {
+											"type": "intrinsic",
+											"name": "any"
+										}
+									}
+								}
+							],
+							"type": {
+								"type": "intrinsic",
+								"name": "any"
+							}
+						},
+						{
+							"id": 3364,
+							"name": "insert",
+							"kind": 4096,
+							"kindString": "Call signature",
+							"flags": {},
+							"parameters": [
+								{
+									"id": 3365,
+									"name": "args",
+									"kind": 32768,
+									"kindString": "Parameter",
+									"flags": {
+										"isRest": true
+									},
+									"type": {
+										"type": "array",
+										"elementType": {
+											"type": "intrinsic",
+											"name": "any"
+										}
+									}
+								}
+							],
+							"type": {
+								"type": "intrinsic",
+								"name": "void"
+							}
+						}
+					]
+				},
+				{
+					"id": 3423,
+					"name": "listenerCount",
+					"kind": 2048,
+					"kindString": "Method",
+					"flags": {
+						"isExternal": true
+					},
+					"signatures": [
+						{
+							"id": 3424,
+							"name": "listenerCount",
+							"kind": 4096,
+							"kindString": "Call signature",
+							"flags": {
+								"isExternal": true
+							},
+							"comment": {
+								"shortText": "Returns the number of listeners listening to the event named `eventName`.",
+								"tags": [
+									{
+										"tag": "since",
+										"text": "v3.2.0"
+									}
+								]
+							},
+							"parameters": [
+								{
+									"id": 3425,
+									"name": "eventName",
+									"kind": 32768,
+									"kindString": "Parameter",
+									"flags": {
+										"isExternal": true
+									},
+									"comment": {
+										"shortText": "The name of the event being listened for\n"
+									},
+									"type": {
+										"type": "union",
+										"types": [
+											{
+												"type": "intrinsic",
+												"name": "string"
+											},
+											{
+												"type": "intrinsic",
+												"name": "symbol"
+											}
+										]
+									}
+								}
+							],
+							"type": {
+								"type": "intrinsic",
+								"name": "number"
+							}
+						}
+					]
+				},
+				{
+					"id": 3417,
+					"name": "listeners",
+					"kind": 2048,
+					"kindString": "Method",
+					"flags": {
+						"isExternal": true
+					},
+					"signatures": [
+						{
+							"id": 3418,
+							"name": "listeners",
+							"kind": 4096,
+							"kindString": "Call signature",
+							"flags": {
+								"isExternal": true
+							},
+							"comment": {
+								"shortText": "Returns a copy of the array of listeners for the event named `eventName`.",
+								"text": "```js\nserver.on('connection', (stream) => {\n  console.log('someone connected!');\n});\nconsole.log(util.inspect(server.listeners('connection')));\n// Prints: [ [Function] ]\n```",
+								"tags": [
+									{
+										"tag": "since",
+										"text": "v0.1.26\n"
+									}
+								]
+							},
+							"parameters": [
+								{
+									"id": 3419,
+									"name": "eventName",
+									"kind": 32768,
+									"kindString": "Parameter",
+									"flags": {
+										"isExternal": true
+									},
+									"type": {
+										"type": "union",
+										"types": [
+											{
+												"type": "intrinsic",
+												"name": "string"
+											},
+											{
+												"type": "intrinsic",
+												"name": "symbol"
+											}
+										]
+									}
+								}
+							],
+							"type": {
+								"type": "array",
+								"elementType": {
+									"type": "reference",
+									"name": "Function"
+								}
+							}
+						}
+					]
+				},
+				{
+					"id": 3402,
+					"name": "off",
+					"kind": 2048,
+					"kindString": "Method",
+					"flags": {
+						"isExternal": true
+					},
+					"signatures": [
+						{
+							"id": 3403,
+							"name": "off",
+							"kind": 4096,
+							"kindString": "Call signature",
+							"flags": {
+								"isExternal": true
+							},
+							"comment": {
+								"shortText": "Alias for `emitter.removeListener()`.",
+								"tags": [
+									{
+										"tag": "since",
+										"text": "v10.0.0\n"
+									}
+								]
+							},
+							"parameters": [
+								{
+									"id": 3404,
+									"name": "eventName",
+									"kind": 32768,
+									"kindString": "Parameter",
+									"flags": {
+										"isExternal": true
+									},
+									"type": {
+										"type": "union",
+										"types": [
+											{
+												"type": "intrinsic",
+												"name": "string"
+											},
+											{
+												"type": "intrinsic",
+												"name": "symbol"
+											}
+										]
+									}
+								},
+								{
+									"id": 3405,
+									"name": "listener",
+									"kind": 32768,
+									"kindString": "Parameter",
+									"flags": {
+										"isExternal": true
+									},
+									"type": {
+										"type": "reflection",
+										"declaration": {
+											"id": 3406,
+											"name": "__type",
+											"kind": 65536,
+											"kindString": "Type literal",
+											"flags": {
+												"isExternal": true
+											},
+											"signatures": [
+												{
+													"id": 3407,
+													"name": "__type",
+													"kind": 4096,
+													"kindString": "Call signature",
+													"flags": {
+														"isExternal": true
+													},
+													"parameters": [
+														{
+															"id": 3408,
+															"name": "args",
+															"kind": 32768,
+															"kindString": "Parameter",
+															"flags": {
+																"isExternal": true,
+																"isRest": true
+															},
+															"type": {
+																"type": "array",
+																"elementType": {
+																	"type": "intrinsic",
+																	"name": "any"
+																}
+															}
+														}
+													],
+													"type": {
+														"type": "intrinsic",
+														"name": "void"
+													}
+												}
+											]
+										}
+									}
+								}
+							],
+							"type": {
+								"type": "reference",
+								"id": 3317,
+								"name": "Provider"
+							}
+						}
+					]
+				},
+				{
+					"id": 3347,
+					"name": "on",
+					"kind": 2048,
+					"kindString": "Method",
+					"flags": {},
+					"signatures": [
+						{
+							"id": 3348,
+							"name": "on",
+							"kind": 4096,
+							"kindString": "Call signature",
+							"flags": {},
+							"typeParameter": [
+								{
+									"id": 3349,
+									"name": "U",
+									"kind": 131072,
+									"kindString": "Type parameter",
+									"flags": {},
+									"type": {
+										"type": "literal",
+										"value": "connected"
+									}
+								}
+							],
+							"parameters": [
+								{
+									"id": 3350,
+									"name": "event",
+									"kind": 32768,
+									"kindString": "Parameter",
+									"flags": {},
+									"type": {
+										"type": "reference",
+										"id": 3349,
+										"name": "U"
+									}
+								},
+								{
+									"id": 3351,
+									"name": "listener",
+									"kind": 32768,
+									"kindString": "Parameter",
+									"flags": {},
+									"type": {
+										"type": "indexedAccess",
+										"indexType": {
+											"type": "reference",
+											"id": 3349,
+											"name": "U"
+										},
+										"objectType": {
+											"type": "reference",
+											"id": 3313,
+											"name": "ProviderEvents"
+										}
+									}
+								}
+							],
+							"type": {
+								"type": "reference",
+								"id": 3317,
+								"name": "Provider"
+							}
+						}
+					]
+				},
+				{
+					"id": 3388,
+					"name": "once",
+					"kind": 2048,
+					"kindString": "Method",
+					"flags": {
+						"isExternal": true
+					},
+					"signatures": [
+						{
+							"id": 3389,
+							"name": "once",
+							"kind": 4096,
+							"kindString": "Call signature",
+							"flags": {
+								"isExternal": true
+							},
+							"comment": {
+								"shortText": "Adds a **one-time**`listener` function for the event named `eventName`. The\nnext time `eventName` is triggered, this listener is removed and then invoked.",
+								"text": "```js\nserver.once('connection', (stream) => {\n  console.log('Ah, we have our first user!');\n});\n```\n\nReturns a reference to the `EventEmitter`, so that calls can be chained.\n\nBy default, event listeners are invoked in the order they are added. The`emitter.prependOnceListener()` method can be used as an alternative to add the\nevent listener to the beginning of the listeners array.\n\n```js\nconst myEE = new EventEmitter();\nmyEE.once('foo', () => console.log('a'));\nmyEE.prependOnceListener('foo', () => console.log('b'));\nmyEE.emit('foo');\n// Prints:\n//   b\n//   a\n```",
+								"tags": [
+									{
+										"tag": "since",
+										"text": "v0.3.0"
+									}
+								]
+							},
+							"parameters": [
+								{
+									"id": 3390,
+									"name": "eventName",
+									"kind": 32768,
+									"kindString": "Parameter",
+									"flags": {
+										"isExternal": true
+									},
+									"comment": {
+										"shortText": "The name of the event."
+									},
+									"type": {
+										"type": "union",
+										"types": [
+											{
+												"type": "intrinsic",
+												"name": "string"
+											},
+											{
+												"type": "intrinsic",
+												"name": "symbol"
+											}
+										]
+									}
+								},
+								{
+									"id": 3391,
+									"name": "listener",
+									"kind": 32768,
+									"kindString": "Parameter",
+									"flags": {
+										"isExternal": true
+									},
+									"comment": {
+										"shortText": "The callback function\n"
+									},
+									"type": {
+										"type": "reflection",
+										"declaration": {
+											"id": 3392,
+											"name": "__type",
+											"kind": 65536,
+											"kindString": "Type literal",
+											"flags": {
+												"isExternal": true
+											},
+											"signatures": [
+												{
+													"id": 3393,
+													"name": "__type",
+													"kind": 4096,
+													"kindString": "Call signature",
+													"flags": {
+														"isExternal": true
+													},
+													"parameters": [
+														{
+															"id": 3394,
+															"name": "args",
+															"kind": 32768,
+															"kindString": "Parameter",
+															"flags": {
+																"isExternal": true,
+																"isRest": true
+															},
+															"type": {
+																"type": "array",
+																"elementType": {
+																	"type": "intrinsic",
+																	"name": "any"
+																}
+															}
+														}
+													],
+													"type": {
+														"type": "intrinsic",
+														"name": "void"
+													}
+												}
+											]
+										}
+									}
+								}
+							],
+							"type": {
+								"type": "reference",
+								"id": 3317,
+								"name": "Provider"
+							}
+						}
+					]
+				},
+				{
+					"id": 3426,
+					"name": "prependListener",
+					"kind": 2048,
+					"kindString": "Method",
+					"flags": {
+						"isExternal": true
+					},
+					"signatures": [
+						{
+							"id": 3427,
+							"name": "prependListener",
+							"kind": 4096,
+							"kindString": "Call signature",
+							"flags": {
+								"isExternal": true
+							},
+							"comment": {
+								"shortText": "Adds the `listener` function to the _beginning_ of the listeners array for the\nevent named `eventName`. No checks are made to see if the `listener` has\nalready been added. Multiple calls passing the same combination of `eventName`and `listener` will result in the `listener` being added, and called, multiple\ntimes.",
+								"text": "```js\nserver.prependListener('connection', (stream) => {\n  console.log('someone connected!');\n});\n```\n\nReturns a reference to the `EventEmitter`, so that calls can be chained.",
+								"tags": [
+									{
+										"tag": "since",
+										"text": "v6.0.0"
+									}
+								]
+							},
+							"parameters": [
+								{
+									"id": 3428,
+									"name": "eventName",
+									"kind": 32768,
+									"kindString": "Parameter",
+									"flags": {
+										"isExternal": true
+									},
+									"comment": {
+										"shortText": "The name of the event."
+									},
+									"type": {
+										"type": "union",
+										"types": [
+											{
+												"type": "intrinsic",
+												"name": "string"
+											},
+											{
+												"type": "intrinsic",
+												"name": "symbol"
+											}
+										]
+									}
+								},
+								{
+									"id": 3429,
+									"name": "listener",
+									"kind": 32768,
+									"kindString": "Parameter",
+									"flags": {
+										"isExternal": true
+									},
+									"comment": {
+										"shortText": "The callback function\n"
+									},
+									"type": {
+										"type": "reflection",
+										"declaration": {
+											"id": 3430,
+											"name": "__type",
+											"kind": 65536,
+											"kindString": "Type literal",
+											"flags": {
+												"isExternal": true
+											},
+											"signatures": [
+												{
+													"id": 3431,
+													"name": "__type",
+													"kind": 4096,
+													"kindString": "Call signature",
+													"flags": {
+														"isExternal": true
+													},
+													"parameters": [
+														{
+															"id": 3432,
+															"name": "args",
+															"kind": 32768,
+															"kindString": "Parameter",
+															"flags": {
+																"isExternal": true,
+																"isRest": true
+															},
+															"type": {
+																"type": "array",
+																"elementType": {
+																	"type": "intrinsic",
+																	"name": "any"
+																}
+															}
+														}
+													],
+													"type": {
+														"type": "intrinsic",
+														"name": "void"
+													}
+												}
+											]
+										}
+									}
+								}
+							],
+							"type": {
+								"type": "reference",
+								"id": 3317,
+								"name": "Provider"
+							}
+						}
+					]
+				},
+				{
+					"id": 3433,
+					"name": "prependOnceListener",
+					"kind": 2048,
+					"kindString": "Method",
+					"flags": {
+						"isExternal": true
+					},
+					"signatures": [
+						{
+							"id": 3434,
+							"name": "prependOnceListener",
+							"kind": 4096,
+							"kindString": "Call signature",
+							"flags": {
+								"isExternal": true
+							},
+							"comment": {
+								"shortText": "Adds a **one-time**`listener` function for the event named `eventName` to the_beginning_ of the listeners array. The next time `eventName` is triggered, this\nlistener is removed, and then invoked.",
+								"text": "```js\nserver.prependOnceListener('connection', (stream) => {\n  console.log('Ah, we have our first user!');\n});\n```\n\nReturns a reference to the `EventEmitter`, so that calls can be chained.",
+								"tags": [
+									{
+										"tag": "since",
+										"text": "v6.0.0"
+									}
+								]
+							},
+							"parameters": [
+								{
+									"id": 3435,
+									"name": "eventName",
+									"kind": 32768,
+									"kindString": "Parameter",
+									"flags": {
+										"isExternal": true
+									},
+									"comment": {
+										"shortText": "The name of the event."
+									},
+									"type": {
+										"type": "union",
+										"types": [
+											{
+												"type": "intrinsic",
+												"name": "string"
+											},
+											{
+												"type": "intrinsic",
+												"name": "symbol"
+											}
+										]
+									}
+								},
+								{
+									"id": 3436,
+									"name": "listener",
+									"kind": 32768,
+									"kindString": "Parameter",
+									"flags": {
+										"isExternal": true
+									},
+									"comment": {
+										"shortText": "The callback function\n"
+									},
+									"type": {
+										"type": "reflection",
+										"declaration": {
+											"id": 3437,
+											"name": "__type",
+											"kind": 65536,
+											"kindString": "Type literal",
+											"flags": {
+												"isExternal": true
+											},
+											"signatures": [
+												{
+													"id": 3438,
+													"name": "__type",
+													"kind": 4096,
+													"kindString": "Call signature",
+													"flags": {
+														"isExternal": true
+													},
+													"parameters": [
+														{
+															"id": 3439,
+															"name": "args",
+															"kind": 32768,
+															"kindString": "Parameter",
+															"flags": {
+																"isExternal": true,
+																"isRest": true
+															},
+															"type": {
+																"type": "array",
+																"elementType": {
+																	"type": "intrinsic",
+																	"name": "any"
+																}
+															}
+														}
+													],
+													"type": {
+														"type": "intrinsic",
+														"name": "void"
+													}
+												}
+											]
+										}
+									}
+								}
+							],
+							"type": {
+								"type": "reference",
+								"id": 3317,
+								"name": "Provider"
+							}
+						}
+					]
+				},
+				{
+					"id": 3420,
+					"name": "rawListeners",
+					"kind": 2048,
+					"kindString": "Method",
+					"flags": {
+						"isExternal": true
+					},
+					"signatures": [
+						{
+							"id": 3421,
+							"name": "rawListeners",
+							"kind": 4096,
+							"kindString": "Call signature",
+							"flags": {
+								"isExternal": true
+							},
+							"comment": {
+								"shortText": "Returns a copy of the array of listeners for the event named `eventName`,\nincluding any wrappers (such as those created by `.once()`).",
+								"text": "```js\nconst emitter = new EventEmitter();\nemitter.once('log', () => console.log('log once'));\n\n// Returns a new Array with a function `onceWrapper` which has a property\n// `listener` which contains the original listener bound above\nconst listeners = emitter.rawListeners('log');\nconst logFnWrapper = listeners[0];\n\n// Logs \"log once\" to the console and does not unbind the `once` event\nlogFnWrapper.listener();\n\n// Logs \"log once\" to the console and removes the listener\nlogFnWrapper();\n\nemitter.on('log', () => console.log('log persistently'));\n// Will return a new Array with a single function bound by `.on()` above\nconst newListeners = emitter.rawListeners('log');\n\n// Logs \"log persistently\" twice\nnewListeners[0]();\nemitter.emit('log');\n```",
+								"tags": [
+									{
+										"tag": "since",
+										"text": "v9.4.0\n"
+									}
+								]
+							},
+							"parameters": [
+								{
+									"id": 3422,
+									"name": "eventName",
+									"kind": 32768,
+									"kindString": "Parameter",
+									"flags": {
+										"isExternal": true
+									},
+									"type": {
+										"type": "union",
+										"types": [
+											{
+												"type": "intrinsic",
+												"name": "string"
+											},
+											{
+												"type": "intrinsic",
+												"name": "symbol"
+											}
+										]
+									}
+								}
+							],
+							"type": {
+								"type": "array",
+								"elementType": {
+									"type": "reference",
+									"name": "Function"
+								}
+							}
+						}
+					]
+				},
+				{
+					"id": 3409,
+					"name": "removeAllListeners",
+					"kind": 2048,
+					"kindString": "Method",
+					"flags": {
+						"isExternal": true
+					},
+					"signatures": [
+						{
+							"id": 3410,
+							"name": "removeAllListeners",
+							"kind": 4096,
+							"kindString": "Call signature",
+							"flags": {
+								"isExternal": true
+							},
+							"comment": {
+								"shortText": "Removes all listeners, or those of the specified `eventName`.",
+								"text": "It is bad practice to remove listeners added elsewhere in the code,\nparticularly when the `EventEmitter` instance was created by some other\ncomponent or module (e.g. sockets or file streams).\n\nReturns a reference to the `EventEmitter`, so that calls can be chained.",
+								"tags": [
+									{
+										"tag": "since",
+										"text": "v0.1.26\n"
+									}
+								]
+							},
+							"parameters": [
+								{
+									"id": 3411,
+									"name": "event",
+									"kind": 32768,
+									"kindString": "Parameter",
+									"flags": {
+										"isExternal": true,
+										"isOptional": true
+									},
+									"type": {
+										"type": "union",
+										"types": [
+											{
+												"type": "intrinsic",
+												"name": "string"
+											},
+											{
+												"type": "intrinsic",
+												"name": "symbol"
+											}
+										]
+									}
+								}
+							],
+							"type": {
+								"type": "reference",
+								"id": 3317,
+								"name": "Provider"
+							}
+						}
+					]
+				},
+				{
+					"id": 3395,
+					"name": "removeListener",
+					"kind": 2048,
+					"kindString": "Method",
+					"flags": {
+						"isExternal": true
+					},
+					"signatures": [
+						{
+							"id": 3396,
+							"name": "removeListener",
+							"kind": 4096,
+							"kindString": "Call signature",
+							"flags": {
+								"isExternal": true
+							},
+							"comment": {
+								"shortText": "Removes the specified `listener` from the listener array for the event named`eventName`.",
+								"text": "```js\nconst callback = (stream) => {\n  console.log('someone connected!');\n};\nserver.on('connection', callback);\n// ...\nserver.removeListener('connection', callback);\n```\n\n`removeListener()` will remove, at most, one instance of a listener from the\nlistener array. If any single listener has been added multiple times to the\nlistener array for the specified `eventName`, then `removeListener()` must be\ncalled multiple times to remove each instance.\n\nOnce an event is emitted, all listeners attached to it at the\ntime of emitting are called in order. This implies that any`removeListener()` or `removeAllListeners()` calls _after_ emitting and_before_ the last listener finishes execution will\nnot remove them from`emit()` in progress. Subsequent events behave as expected.\n\n```js\nconst myEmitter = new MyEmitter();\n\nconst callbackA = () => {\n  console.log('A');\n  myEmitter.removeListener('event', callbackB);\n};\n\nconst callbackB = () => {\n  console.log('B');\n};\n\nmyEmitter.on('event', callbackA);\n\nmyEmitter.on('event', callbackB);\n\n// callbackA removes listener callbackB but it will still be called.\n// Internal listener array at time of emit [callbackA, callbackB]\nmyEmitter.emit('event');\n// Prints:\n//   A\n//   B\n\n// callbackB is now removed.\n// Internal listener array [callbackA]\nmyEmitter.emit('event');\n// Prints:\n//   A\n```\n\nBecause listeners are managed using an internal array, calling this will\nchange the position indices of any listener registered _after_ the listener\nbeing removed. This will not impact the order in which listeners are called,\nbut it means that any copies of the listener array as returned by\nthe `emitter.listeners()` method will need to be recreated.\n\nWhen a single function has been added as a handler multiple times for a single\nevent (as in the example below), `removeListener()` will remove the most\nrecently added instance. In the example the `once('ping')`listener is removed:\n\n```js\nconst ee = new EventEmitter();\n\nfunction pong() {\n  console.log('pong');\n}\n\nee.on('ping', pong);\nee.once('ping', pong);\nee.removeListener('ping', pong);\n\nee.emit('ping');\nee.emit('ping');\n```\n\nReturns a reference to the `EventEmitter`, so that calls can be chained.",
+								"tags": [
+									{
+										"tag": "since",
+										"text": "v0.1.26\n"
+									}
+								]
+							},
+							"parameters": [
+								{
+									"id": 3397,
+									"name": "eventName",
+									"kind": 32768,
+									"kindString": "Parameter",
+									"flags": {
+										"isExternal": true
+									},
+									"type": {
+										"type": "union",
+										"types": [
+											{
+												"type": "intrinsic",
+												"name": "string"
+											},
+											{
+												"type": "intrinsic",
+												"name": "symbol"
+											}
+										]
+									}
+								},
+								{
+									"id": 3398,
+									"name": "listener",
+									"kind": 32768,
+									"kindString": "Parameter",
+									"flags": {
+										"isExternal": true
+									},
+									"type": {
+										"type": "reflection",
+										"declaration": {
+											"id": 3399,
+											"name": "__type",
+											"kind": 65536,
+											"kindString": "Type literal",
+											"flags": {
+												"isExternal": true
+											},
+											"signatures": [
+												{
+													"id": 3400,
+													"name": "__type",
+													"kind": 4096,
+													"kindString": "Call signature",
+													"flags": {
+														"isExternal": true
+													},
+													"parameters": [
+														{
+															"id": 3401,
+															"name": "args",
+															"kind": 32768,
+															"kindString": "Parameter",
+															"flags": {
+																"isExternal": true,
+																"isRest": true
+															},
+															"type": {
+																"type": "array",
+																"elementType": {
+																	"type": "intrinsic",
+																	"name": "any"
+																}
+															}
+														}
+													],
+													"type": {
+														"type": "intrinsic",
+														"name": "void"
+													}
+												}
+											]
+										}
+									}
+								}
+							],
+							"type": {
+								"type": "reference",
+								"id": 3317,
+								"name": "Provider"
+							}
+						}
+					]
+				},
+				{
+					"id": 3412,
+					"name": "setMaxListeners",
+					"kind": 2048,
+					"kindString": "Method",
+					"flags": {
+						"isExternal": true
+					},
+					"signatures": [
+						{
+							"id": 3413,
+							"name": "setMaxListeners",
+							"kind": 4096,
+							"kindString": "Call signature",
+							"flags": {
+								"isExternal": true
+							},
+							"comment": {
+								"shortText": "By default `EventEmitter`s will print a warning if more than `10` listeners are\nadded for a particular event. This is a useful default that helps finding\nmemory leaks. The `emitter.setMaxListeners()` method allows the limit to be\nmodified for this specific `EventEmitter` instance. The value can be set to`Infinity` (or `0`) to indicate an unlimited number of listeners.",
+								"text": "Returns a reference to the `EventEmitter`, so that calls can be chained.",
+								"tags": [
+									{
+										"tag": "since",
+										"text": "v0.3.5\n"
+									}
+								]
+							},
+							"parameters": [
+								{
+									"id": 3414,
+									"name": "n",
+									"kind": 32768,
+									"kindString": "Parameter",
+									"flags": {
+										"isExternal": true
+									},
+									"type": {
+										"type": "intrinsic",
+										"name": "number"
+									}
+								}
+							],
+							"type": {
+								"type": "reference",
+								"id": 3317,
+								"name": "Provider"
+							}
+						}
+					]
+				},
+				{
+					"id": 3371,
+					"name": "update",
+					"kind": 2048,
+					"kindString": "Method",
+					"flags": {},
+					"sources": [
+						{
+							"fileName": "src/lib/structures/Provider.ts",
+							"line": 55,
+							"character": 1
+						}
+					],
+					"signatures": [
+						{
+							"id": 3372,
+							"name": "update",
+							"kind": 4096,
+							"kindString": "Call signature",
+							"flags": {},
+							"parameters": [
+								{
+									"id": 3373,
+									"name": "args",
+									"kind": 32768,
+									"kindString": "Parameter",
+									"flags": {
+										"isRest": true
+									},
+									"type": {
+										"type": "array",
+										"elementType": {
+											"type": "intrinsic",
+											"name": "any"
+										}
+									}
+								}
+							],
+							"type": {
+								"type": "intrinsic",
+								"name": "any"
+							}
+						},
+						{
+							"id": 3374,
+							"name": "update",
+							"kind": 4096,
+							"kindString": "Call signature",
+							"flags": {},
+							"parameters": [
+								{
+									"id": 3375,
+									"name": "args",
+									"kind": 32768,
+									"kindString": "Parameter",
+									"flags": {
+										"isRest": true
+									},
+									"type": {
+										"type": "array",
+										"elementType": {
+											"type": "intrinsic",
+											"name": "any"
+										}
+									}
+								}
+							],
+							"type": {
+								"type": "intrinsic",
+								"name": "void"
+							}
+						}
+					]
+				},
+				{
+					"id": 3336,
+					"name": "getEventListeners",
+					"kind": 2048,
+					"kindString": "Method",
+					"flags": {
+						"isStatic": true,
+						"isExternal": true
+					},
+					"sources": [
+						{
+							"fileName": "node_modules/@types/node/events.d.ts",
+							"line": 262,
+							"character": 15
+						}
+					],
+					"signatures": [
+						{
+							"id": 3337,
+							"name": "getEventListeners",
+							"kind": 4096,
+							"kindString": "Call signature",
+							"flags": {
+								"isExternal": true
+							},
+							"comment": {
+								"shortText": "Returns a copy of the array of listeners for the event named `eventName`.",
+								"text": "For `EventEmitter`s this behaves exactly the same as calling `.listeners` on\nthe emitter.\n\nFor `EventTarget`s this is the only way to get the event listeners for the\nevent target. This is useful for debugging and diagnostic purposes.\n\n```js\nconst { getEventListeners, EventEmitter } = require('events');\n\n{\n  const ee = new EventEmitter();\n  const listener = () => console.log('Events are fun');\n  ee.on('foo', listener);\n  getEventListeners(ee, 'foo'); // [listener]\n}\n{\n  const et = new EventTarget();\n  const listener = () => console.log('Events are fun');\n  et.addEventListener('foo', listener);\n  getEventListeners(et, 'foo'); // [listener]\n}\n```",
+								"tags": [
+									{
+										"tag": "since",
+										"text": "v15.2.0\n"
+									}
+								]
+							},
+							"parameters": [
+								{
+									"id": 3338,
+									"name": "emitter",
+									"kind": 32768,
+									"kindString": "Parameter",
+									"flags": {
+										"isExternal": true
+									},
+									"type": {
+										"type": "union",
+										"types": [
+											{
+												"type": "reference",
+												"name": "EventEmitter"
+											},
+											{
+												"type": "reference",
+												"name": "DOMEventTarget"
+											}
+										]
+									}
+								},
+								{
+									"id": 3339,
+									"name": "name",
+									"kind": 32768,
+									"kindString": "Parameter",
+									"flags": {
+										"isExternal": true
+									},
+									"type": {
+										"type": "union",
+										"types": [
+											{
+												"type": "intrinsic",
+												"name": "string"
+											},
+											{
+												"type": "intrinsic",
+												"name": "symbol"
+											}
+										]
+									}
+								}
+							],
+							"type": {
+								"type": "array",
+								"elementType": {
+									"type": "reference",
+									"name": "Function"
+								}
+							}
+						}
+					]
+				},
+				{
+					"id": 3332,
+					"name": "listenerCount",
+					"kind": 2048,
+					"kindString": "Method",
+					"flags": {
+						"isStatic": true,
+						"isExternal": true
+					},
+					"sources": [
+						{
+							"fileName": "node_modules/@types/node/events.d.ts",
+							"line": 234,
+							"character": 15
+						}
+					],
+					"signatures": [
+						{
+							"id": 3333,
+							"name": "listenerCount",
+							"kind": 4096,
+							"kindString": "Call signature",
+							"flags": {
+								"isExternal": true
+							},
+							"comment": {
+								"shortText": "A class method that returns the number of listeners for the given `eventName`registered on the given `emitter`.",
+								"text": "```js\nconst { EventEmitter, listenerCount } = require('events');\nconst myEmitter = new EventEmitter();\nmyEmitter.on('event', () => {});\nmyEmitter.on('event', () => {});\nconsole.log(listenerCount(myEmitter, 'event'));\n// Prints: 2\n```",
+								"tags": [
+									{
+										"tag": "since",
+										"text": "v0.9.12"
+									},
+									{
+										"tag": "deprecated",
+										"text": "Since v3.2.0 - Use `listenerCount` instead."
+									}
+								]
+							},
+							"parameters": [
+								{
+									"id": 3334,
+									"name": "emitter",
+									"kind": 32768,
+									"kindString": "Parameter",
+									"flags": {
+										"isExternal": true
+									},
+									"comment": {
+										"shortText": "The emitter to query"
+									},
+									"type": {
+										"type": "reference",
+										"name": "EventEmitter"
+									}
+								},
+								{
+									"id": 3335,
+									"name": "eventName",
+									"kind": 32768,
+									"kindString": "Parameter",
+									"flags": {
+										"isExternal": true
+									},
+									"comment": {
+										"shortText": "The event name\n"
+									},
+									"type": {
+										"type": "union",
+										"types": [
+											{
+												"type": "intrinsic",
+												"name": "string"
+											},
+											{
+												"type": "intrinsic",
+												"name": "symbol"
+											}
+										]
+									}
+								}
+							],
+							"type": {
+								"type": "intrinsic",
+								"name": "number"
+							}
+						}
+					]
+				},
+				{
+					"id": 3327,
+					"name": "on",
+					"kind": 2048,
+					"kindString": "Method",
+					"flags": {
+						"isStatic": true,
+						"isExternal": true
+					},
+					"sources": [
+						{
+							"fileName": "node_modules/@types/node/events.d.ts",
+							"line": 217,
+							"character": 15
+						}
+					],
+					"signatures": [
+						{
+							"id": 3328,
+							"name": "on",
+							"kind": 4096,
+							"kindString": "Call signature",
+							"flags": {
+								"isExternal": true
+							},
+							"comment": {
+								"shortText": "```js\nconst { on, EventEmitter } = require('events');",
+								"text": "(async () => {\n  const ee = new EventEmitter();\n\n  // Emit later on\n  process.nextTick(() => {\n    ee.emit('foo', 'bar');\n    ee.emit('foo', 42);\n  });\n\n  for await (const event of on(ee, 'foo')) {\n    // The execution of this inner block is synchronous and it\n    // processes one event at a time (even with await). Do not use\n    // if concurrent execution is required.\n    console.log(event); // prints ['bar'] [42]\n  }\n  // Unreachable here\n})();\n```\n\nReturns an `AsyncIterator` that iterates `eventName` events. It will throw\nif the `EventEmitter` emits `'error'`. It removes all listeners when\nexiting the loop. The `value` returned by each iteration is an array\ncomposed of the emitted event arguments.\n\nAn `AbortSignal` can be used to cancel waiting on events:\n\n```js\nconst { on, EventEmitter } = require('events');\nconst ac = new AbortController();\n\n(async () => {\n  const ee = new EventEmitter();\n\n  // Emit later on\n  process.nextTick(() => {\n    ee.emit('foo', 'bar');\n    ee.emit('foo', 42);\n  });\n\n  for await (const event of on(ee, 'foo', { signal: ac.signal })) {\n    // The execution of this inner block is synchronous and it\n    // processes one event at a time (even with await). Do not use\n    // if concurrent execution is required.\n    console.log(event); // prints ['bar'] [42]\n  }\n  // Unreachable here\n})();\n\nprocess.nextTick(() => ac.abort());\n```",
+								"returns": "that iterates `eventName` events emitted by the `emitter`\n",
+								"tags": [
+									{
+										"tag": "since",
+										"text": "v13.6.0, v12.16.0"
+									}
+								]
+							},
+							"parameters": [
+								{
+									"id": 3329,
+									"name": "emitter",
+									"kind": 32768,
+									"kindString": "Parameter",
+									"flags": {
+										"isExternal": true
+									},
+									"type": {
+										"type": "reference",
+										"name": "EventEmitter"
+									}
+								},
+								{
+									"id": 3330,
+									"name": "eventName",
+									"kind": 32768,
+									"kindString": "Parameter",
+									"flags": {
+										"isExternal": true
+									},
+									"comment": {
+										"shortText": "The name of the event being listened for"
+									},
+									"type": {
+										"type": "intrinsic",
+										"name": "string"
+									}
+								},
+								{
+									"id": 3331,
+									"name": "options",
+									"kind": 32768,
+									"kindString": "Parameter",
+									"flags": {
+										"isExternal": true,
+										"isOptional": true
+									},
+									"type": {
+										"type": "reference",
+										"name": "StaticEventEmitterOptions"
+									}
+								}
+							],
+							"type": {
+								"type": "reference",
+								"typeArguments": [
+									{
+										"type": "intrinsic",
+										"name": "any"
+									}
+								],
+								"name": "AsyncIterableIterator"
+							}
+						}
+					]
+				},
+				{
+					"id": 3318,
+					"name": "once",
+					"kind": 2048,
+					"kindString": "Method",
+					"flags": {
+						"isStatic": true,
+						"isExternal": true
+					},
+					"sources": [
+						{
+							"fileName": "node_modules/@types/node/events.d.ts",
+							"line": 157,
+							"character": 15
+						}
+					],
+					"signatures": [
+						{
+							"id": 3319,
+							"name": "once",
+							"kind": 4096,
+							"kindString": "Call signature",
+							"flags": {
+								"isExternal": true
+							},
+							"comment": {
+								"shortText": "Creates a `Promise` that is fulfilled when the `EventEmitter` emits the given\nevent or that is rejected if the `EventEmitter` emits `'error'` while waiting.\nThe `Promise` will resolve with an array of all the arguments emitted to the\ngiven event.",
+								"text": "This method is intentionally generic and works with the web platform [EventTarget](https://dom.spec.whatwg.org/#interface-eventtarget) interface, which has no special`'error'` event\nsemantics and does not listen to the `'error'` event.\n\n```js\nconst { once, EventEmitter } = require('events');\n\nasync function run() {\n  const ee = new EventEmitter();\n\n  process.nextTick(() => {\n    ee.emit('myevent', 42);\n  });\n\n  const [value] = await once(ee, 'myevent');\n  console.log(value);\n\n  const err = new Error('kaboom');\n  process.nextTick(() => {\n    ee.emit('error', err);\n  });\n\n  try {\n    await once(ee, 'myevent');\n  } catch (err) {\n    console.log('error happened', err);\n  }\n}\n\nrun();\n```\n\nThe special handling of the `'error'` event is only used when `events.once()`is used to wait for another event. If `events.once()` is used to wait for the\n'`error'` event itself, then it is treated as any other kind of event without\nspecial handling:\n\n```js\nconst { EventEmitter, once } = require('events');\n\nconst ee = new EventEmitter();\n\nonce(ee, 'error')\n  .then(([err]) => console.log('ok', err.message))\n  .catch((err) => console.log('error', err.message));\n\nee.emit('error', new Error('boom'));\n\n// Prints: ok boom\n```\n\nAn `AbortSignal` can be used to cancel waiting for the event:\n\n```js\nconst { EventEmitter, once } = require('events');\n\nconst ee = new EventEmitter();\nconst ac = new AbortController();\n\nasync function foo(emitter, event, signal) {\n  try {\n    await once(emitter, event, { signal });\n    console.log('event emitted!');\n  } catch (error) {\n    if (error.name === 'AbortError') {\n      console.error('Waiting for the event was canceled!');\n    } else {\n      console.error('There was an error', error.message);\n    }\n  }\n}\n\nfoo(ee, 'foo', ac.signal);\nac.abort(); // Abort waiting for the event\nee.emit('foo'); // Prints: Waiting for the event was canceled!\n```",
+								"tags": [
+									{
+										"tag": "since",
+										"text": "v11.13.0, v10.16.0\n"
+									}
+								]
+							},
+							"parameters": [
+								{
+									"id": 3320,
+									"name": "emitter",
+									"kind": 32768,
+									"kindString": "Parameter",
+									"flags": {
+										"isExternal": true
+									},
+									"type": {
+										"type": "reference",
+										"name": "NodeEventTarget"
+									}
+								},
+								{
+									"id": 3321,
+									"name": "eventName",
+									"kind": 32768,
+									"kindString": "Parameter",
+									"flags": {
+										"isExternal": true
+									},
+									"type": {
+										"type": "union",
+										"types": [
+											{
+												"type": "intrinsic",
+												"name": "string"
+											},
+											{
+												"type": "intrinsic",
+												"name": "symbol"
+											}
+										]
+									}
+								},
+								{
+									"id": 3322,
+									"name": "options",
+									"kind": 32768,
+									"kindString": "Parameter",
+									"flags": {
+										"isExternal": true,
+										"isOptional": true
+									},
+									"type": {
+										"type": "reference",
+										"name": "StaticEventEmitterOptions"
+									}
+								}
+							],
+							"type": {
+								"type": "reference",
+								"typeArguments": [
+									{
+										"type": "array",
+										"elementType": {
+											"type": "intrinsic",
+											"name": "any"
+										}
+									}
+								],
+								"name": "Promise"
+							}
+						},
+						{
+							"id": 3323,
+							"name": "once",
+							"kind": 4096,
+							"kindString": "Call signature",
+							"flags": {
+								"isExternal": true
+							},
+							"parameters": [
+								{
+									"id": 3324,
+									"name": "emitter",
+									"kind": 32768,
+									"kindString": "Parameter",
+									"flags": {
+										"isExternal": true
+									},
+									"type": {
+										"type": "reference",
+										"name": "DOMEventTarget"
+									}
+								},
+								{
+									"id": 3325,
+									"name": "eventName",
+									"kind": 32768,
+									"kindString": "Parameter",
+									"flags": {
+										"isExternal": true
+									},
+									"type": {
+										"type": "intrinsic",
+										"name": "string"
+									}
+								},
+								{
+									"id": 3326,
+									"name": "options",
+									"kind": 32768,
+									"kindString": "Parameter",
+									"flags": {
+										"isExternal": true,
+										"isOptional": true
+									},
+									"type": {
+										"type": "reference",
+										"name": "StaticEventEmitterOptions"
+									}
+								}
+							],
+							"type": {
+								"type": "reference",
+								"typeArguments": [
+									{
+										"type": "array",
+										"elementType": {
+											"type": "intrinsic",
+											"name": "any"
+										}
+									}
+								],
+								"name": "Promise"
+							}
+						}
+					]
+				}
+			],
+			"groups": [
+				{
+					"title": "Constructors",
+					"kind": 512,
+					"children": [
+						3344
+					]
+				},
+				{
+					"title": "Properties",
+					"kind": 1024,
+					"children": [
+						3357,
+						3341,
+						3342,
+						3343,
+						3340
+					]
+				},
+				{
+					"title": "Methods",
+					"kind": 2048,
+					"children": [
+						3381,
+						3376,
+						3352,
+						3440,
+						3366,
+						3415,
+						3358,
+						3361,
+						3423,
+						3417,
+						3402,
+						3347,
+						3388,
+						3426,
+						3433,
+						3420,
+						3409,
+						3395,
+						3412,
+						3371,
+						3336,
+						3332,
+						3327,
+						3318
+					]
+				}
+			],
+			"sources": [
+				{
+					"fileName": "src/lib/structures/Provider.ts",
+					"line": 36,
+					"character": 13
+				}
+			],
+			"extendedTypes": [
+				{
+					"type": "reference",
+					"name": "EventEmitter"
+				}
+			]
+		},
+		{
 			"id": 3279,
 			"name": "ArgumentOptions",
 			"kind": 256,
@@ -68818,14 +71048,14 @@
 			]
 		},
 		{
-			"id": 3326,
+			"id": 3456,
 			"name": "ConfirmOptions",
 			"kind": 256,
 			"kindString": "Interface",
 			"flags": {},
 			"children": [
 				{
-					"id": 3333,
+					"id": 3463,
 					"name": "button",
 					"kind": 1024,
 					"kindString": "Property",
@@ -68842,14 +71072,14 @@
 					"type": {
 						"type": "reflection",
 						"declaration": {
-							"id": 3334,
+							"id": 3464,
 							"name": "__type",
 							"kind": 65536,
 							"kindString": "Type literal",
 							"flags": {},
 							"children": [
 								{
-									"id": 3337,
+									"id": 3467,
 									"name": "emoji",
 									"kind": 1024,
 									"kindString": "Property",
@@ -68869,7 +71099,7 @@
 									}
 								},
 								{
-									"id": 3335,
+									"id": 3465,
 									"name": "label",
 									"kind": 1024,
 									"kindString": "Property",
@@ -68889,7 +71119,7 @@
 									}
 								},
 								{
-									"id": 3336,
+									"id": 3466,
 									"name": "style",
 									"kind": 1024,
 									"kindString": "Property",
@@ -68931,9 +71161,9 @@
 									"title": "Properties",
 									"kind": 1024,
 									"children": [
-										3337,
-										3335,
-										3336
+										3467,
+										3465,
+										3466
 									]
 								}
 							]
@@ -68941,7 +71171,7 @@
 					}
 				},
 				{
-					"id": 3332,
+					"id": 3462,
 					"name": "ephemeral",
 					"kind": 1024,
 					"kindString": "Property",
@@ -68961,7 +71191,7 @@
 					}
 				},
 				{
-					"id": 3327,
+					"id": 3457,
 					"name": "message",
 					"kind": 1024,
 					"kindString": "Property",
@@ -68985,21 +71215,21 @@
 							{
 								"type": "reflection",
 								"declaration": {
-									"id": 3328,
+									"id": 3458,
 									"name": "__type",
 									"kind": 65536,
 									"kindString": "Type literal",
 									"flags": {},
 									"signatures": [
 										{
-											"id": 3329,
+											"id": 3459,
 											"name": "__type",
 											"kind": 4096,
 											"kindString": "Call signature",
 											"flags": {},
 											"parameters": [
 												{
-													"id": 3330,
+													"id": 3460,
 													"name": "ctx",
 													"kind": 32768,
 													"kindString": "Parameter",
@@ -69045,7 +71275,7 @@
 					}
 				},
 				{
-					"id": 3331,
+					"id": 3461,
 					"name": "time",
 					"kind": 1024,
 					"kindString": "Property",
@@ -69070,10 +71300,10 @@
 					"title": "Properties",
 					"kind": 1024,
 					"children": [
-						3333,
-						3332,
-						3327,
-						3331
+						3463,
+						3462,
+						3457,
+						3461
 					]
 				}
 			],
@@ -70576,6 +72806,73 @@
 			]
 		},
 		{
+			"id": 3313,
+			"name": "ProviderEvents",
+			"kind": 256,
+			"kindString": "Interface",
+			"flags": {},
+			"children": [
+				{
+					"id": 3314,
+					"name": "connected",
+					"kind": 2048,
+					"kindString": "Method",
+					"flags": {},
+					"sources": [
+						{
+							"fileName": "src/lib/structures/Provider.ts",
+							"line": 8,
+							"character": 1
+						}
+					],
+					"signatures": [
+						{
+							"id": 3315,
+							"name": "connected",
+							"kind": 4096,
+							"kindString": "Call signature",
+							"flags": {},
+							"parameters": [
+								{
+									"id": 3316,
+									"name": "client",
+									"kind": 32768,
+									"kindString": "Parameter",
+									"flags": {
+										"isOptional": true
+									},
+									"type": {
+										"type": "intrinsic",
+										"name": "any"
+									}
+								}
+							],
+							"type": {
+								"type": "intrinsic",
+								"name": "void"
+							}
+						}
+					]
+				}
+			],
+			"groups": [
+				{
+					"title": "Methods",
+					"kind": 2048,
+					"children": [
+						3314
+					]
+				}
+			],
+			"sources": [
+				{
+					"fileName": "src/lib/structures/Provider.ts",
+					"line": 7,
+					"character": 17
+				}
+			]
+		},
+		{
 			"id": 2781,
 			"name": "CommandInhibitor",
 			"kind": 4194304,
@@ -70858,6 +73155,45 @@
 			}
 		},
 		{
+			"id": 3312,
+			"name": "ProviderTypes",
+			"kind": 4194304,
+			"kindString": "Type alias",
+			"flags": {},
+			"sources": [
+				{
+					"fileName": "src/lib/structures/Provider.ts",
+					"line": 5,
+					"character": 12
+				}
+			],
+			"type": {
+				"type": "union",
+				"types": [
+					{
+						"type": "literal",
+						"value": "mongodb"
+					},
+					{
+						"type": "literal",
+						"value": "keyv"
+					},
+					{
+						"type": "literal",
+						"value": "lrucache"
+					},
+					{
+						"type": "literal",
+						"value": "prismaio"
+					},
+					{
+						"type": "literal",
+						"value": "firestore"
+					}
+				]
+			}
+		},
+		{
 			"id": 569,
 			"name": "Commands",
 			"kind": 32,
@@ -70978,7 +73314,7 @@
 			"defaultValue": "..."
 		},
 		{
-			"id": 3322,
+			"id": 3452,
 			"name": "confirm",
 			"kind": 64,
 			"kindString": "Function",
@@ -70992,14 +73328,14 @@
 			],
 			"signatures": [
 				{
-					"id": 3323,
+					"id": 3453,
 					"name": "confirm",
 					"kind": 4096,
 					"kindString": "Call signature",
 					"flags": {},
 					"parameters": [
 						{
-							"id": 3324,
+							"id": 3454,
 							"name": "ctx",
 							"kind": 32768,
 							"kindString": "Parameter",
@@ -71033,14 +73369,14 @@
 							}
 						},
 						{
-							"id": 3325,
+							"id": 3455,
 							"name": "options",
 							"kind": 32768,
 							"kindString": "Parameter",
 							"flags": {},
 							"type": {
 								"type": "reference",
-								"id": 3326,
+								"id": 3456,
 								"name": "ConfirmOptions"
 							},
 							"defaultValue": "{}"
@@ -71060,7 +73396,7 @@
 			]
 		},
 		{
-			"id": 3312,
+			"id": 3442,
 			"name": "customId",
 			"kind": 64,
 			"kindString": "Function",
@@ -71074,14 +73410,14 @@
 			],
 			"signatures": [
 				{
-					"id": 3313,
+					"id": 3443,
 					"name": "customId",
 					"kind": 4096,
 					"kindString": "Call signature",
 					"flags": {},
 					"parameters": [
 						{
-							"id": 3314,
+							"id": 3444,
 							"name": "name",
 							"kind": 32768,
 							"kindString": "Parameter",
@@ -71092,7 +73428,7 @@
 							}
 						},
 						{
-							"id": 3315,
+							"id": 3445,
 							"name": "args",
 							"kind": 32768,
 							"kindString": "Parameter",
@@ -71125,7 +73461,7 @@
 			]
 		},
 		{
-			"id": 3319,
+			"id": 3449,
 			"name": "registerDirectories",
 			"kind": 64,
 			"kindString": "Function",
@@ -71139,14 +73475,14 @@
 			],
 			"signatures": [
 				{
-					"id": 3320,
+					"id": 3450,
 					"name": "registerDirectories",
 					"kind": 4096,
 					"kindString": "Call signature",
 					"flags": {},
 					"parameters": [
 						{
-							"id": 3321,
+							"id": 3451,
 							"name": "dirs",
 							"kind": 32768,
 							"kindString": "Parameter",
@@ -71174,7 +73510,7 @@
 			]
 		},
 		{
-			"id": 3316,
+			"id": 3446,
 			"name": "registerDirectory",
 			"kind": 64,
 			"kindString": "Function",
@@ -71188,14 +73524,14 @@
 			],
 			"signatures": [
 				{
-					"id": 3317,
+					"id": 3447,
 					"name": "registerDirectory",
 					"kind": 4096,
 					"kindString": "Call signature",
 					"flags": {},
 					"parameters": [
 						{
-							"id": 3318,
+							"id": 3448,
 							"name": "dir",
 							"kind": 32768,
 							"kindString": "Parameter",
@@ -71261,7 +73597,8 @@
 				2290,
 				2430,
 				2702,
-				86
+				86,
+				3317
 			]
 		},
 		{
@@ -71277,10 +73614,11 @@
 				2788,
 				3069,
 				2858,
-				3326,
+				3456,
 				2912,
 				2473,
-				2718
+				2718,
+				3313
 			]
 		},
 		{
@@ -71290,7 +73628,8 @@
 				2781,
 				2785,
 				2851,
-				2855
+				2855,
+				3312
 			]
 		},
 		{
@@ -71309,10 +73648,10 @@
 			"title": "Functions",
 			"kind": 64,
 			"children": [
-				3322,
-				3312,
-				3319,
-				3316
+				3452,
+				3442,
+				3449,
+				3446
 			]
 		}
 	],
