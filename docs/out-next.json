@@ -173,7 +173,7 @@
 																"types": [
 																	{
 																		"type": "reference",
-																		"id": 2988,
+																		"id": 2994,
 																		"typeArguments": [
 																			{
 																				"type": "reference",
@@ -184,7 +184,7 @@
 																	},
 																	{
 																		"type": "reference",
-																		"id": 3101,
+																		"id": 3112,
 																		"typeArguments": [
 																			{
 																				"type": "reference",
@@ -247,7 +247,7 @@
 												"types": [
 													{
 														"type": "reference",
-														"id": 2988,
+														"id": 2994,
 														"typeArguments": [
 															{
 																"type": "reference",
@@ -258,7 +258,7 @@
 													},
 													{
 														"type": "reference",
-														"id": 3101,
+														"id": 3112,
 														"typeArguments": [
 															{
 																"type": "reference",
@@ -329,7 +329,7 @@
 												"types": [
 													{
 														"type": "reference",
-														"id": 2988,
+														"id": 2994,
 														"typeArguments": [
 															{
 																"type": "reference",
@@ -340,7 +340,7 @@
 													},
 													{
 														"type": "reference",
-														"id": 3101,
+														"id": 3112,
 														"typeArguments": [
 															{
 																"type": "reference",
@@ -538,7 +538,7 @@
 																"types": [
 																	{
 																		"type": "reference",
-																		"id": 2988,
+																		"id": 2994,
 																		"typeArguments": [
 																			{
 																				"type": "reference",
@@ -549,7 +549,7 @@
 																	},
 																	{
 																		"type": "reference",
-																		"id": 3101,
+																		"id": 3112,
 																		"typeArguments": [
 																			{
 																				"type": "reference",
@@ -636,7 +636,7 @@
 												"types": [
 													{
 														"type": "reference",
-														"id": 2988,
+														"id": 2994,
 														"typeArguments": [
 															{
 																"type": "reference",
@@ -647,7 +647,7 @@
 													},
 													{
 														"type": "reference",
-														"id": 3101,
+														"id": 3112,
 														"typeArguments": [
 															{
 																"type": "reference",
@@ -718,7 +718,7 @@
 												"types": [
 													{
 														"type": "reference",
-														"id": 2988,
+														"id": 2994,
 														"typeArguments": [
 															{
 																"type": "reference",
@@ -729,7 +729,7 @@
 													},
 													{
 														"type": "reference",
-														"id": 3101,
+														"id": 3112,
 														"typeArguments": [
 															{
 																"type": "reference",
@@ -829,7 +829,7 @@
 											},
 											"type": {
 												"type": "reference",
-												"id": 3307,
+												"id": 3327,
 												"name": "ConfirmOptions"
 											}
 										}
@@ -929,7 +929,7 @@
 																"types": [
 																	{
 																		"type": "reference",
-																		"id": 2988,
+																		"id": 2994,
 																		"typeArguments": [
 																			{
 																				"type": "reference",
@@ -940,7 +940,7 @@
 																	},
 																	{
 																		"type": "reference",
-																		"id": 3101,
+																		"id": 3112,
 																		"typeArguments": [
 																			{
 																				"type": "reference",
@@ -987,7 +987,7 @@
 							],
 							"type": {
 								"type": "reference",
-								"id": 3307,
+								"id": 3327,
 								"name": "ConfirmOptions"
 							}
 						},
@@ -1025,7 +1025,7 @@
 												"types": [
 													{
 														"type": "reference",
-														"id": 2988,
+														"id": 2994,
 														"typeArguments": [
 															{
 																"type": "reference",
@@ -1036,7 +1036,7 @@
 													},
 													{
 														"type": "reference",
-														"id": 3101,
+														"id": 3112,
 														"typeArguments": [
 															{
 																"type": "reference",
@@ -1107,7 +1107,7 @@
 												"types": [
 													{
 														"type": "reference",
-														"id": 2988,
+														"id": 2994,
 														"typeArguments": [
 															{
 																"type": "reference",
@@ -1118,7 +1118,7 @@
 													},
 													{
 														"type": "reference",
-														"id": 3101,
+														"id": 3112,
 														"typeArguments": [
 															{
 																"type": "reference",
@@ -1308,7 +1308,7 @@
 																"types": [
 																	{
 																		"type": "reference",
-																		"id": 2988,
+																		"id": 2994,
 																		"typeArguments": [
 																			{
 																				"type": "reference",
@@ -1319,7 +1319,7 @@
 																	},
 																	{
 																		"type": "reference",
-																		"id": 3101,
+																		"id": 3112,
 																		"typeArguments": [
 																			{
 																				"type": "reference",
@@ -1377,7 +1377,7 @@
 												"types": [
 													{
 														"type": "reference",
-														"id": 2988,
+														"id": 2994,
 														"typeArguments": [
 															{
 																"type": "reference",
@@ -1388,7 +1388,7 @@
 													},
 													{
 														"type": "reference",
-														"id": 3101,
+														"id": 3112,
 														"typeArguments": [
 															{
 																"type": "reference",
@@ -1580,7 +1580,7 @@
 																"types": [
 																	{
 																		"type": "reference",
-																		"id": 2988,
+																		"id": 2994,
 																		"typeArguments": [
 																			{
 																				"type": "reference",
@@ -1591,7 +1591,7 @@
 																	},
 																	{
 																		"type": "reference",
-																		"id": 3101,
+																		"id": 3112,
 																		"typeArguments": [
 																			{
 																				"type": "reference",
@@ -1654,7 +1654,7 @@
 												"types": [
 													{
 														"type": "reference",
-														"id": 2988,
+														"id": 2994,
 														"typeArguments": [
 															{
 																"type": "reference",
@@ -1665,7 +1665,7 @@
 													},
 													{
 														"type": "reference",
-														"id": 3101,
+														"id": 3112,
 														"typeArguments": [
 															{
 																"type": "reference",
@@ -1736,7 +1736,7 @@
 												"types": [
 													{
 														"type": "reference",
-														"id": 2988,
+														"id": 2994,
 														"typeArguments": [
 															{
 																"type": "reference",
@@ -1747,7 +1747,7 @@
 													},
 													{
 														"type": "reference",
-														"id": 3101,
+														"id": 3112,
 														"typeArguments": [
 															{
 																"type": "reference",
@@ -2012,7 +2012,7 @@
 																"types": [
 																	{
 																		"type": "reference",
-																		"id": 2988,
+																		"id": 2994,
 																		"typeArguments": [
 																			{
 																				"type": "reference",
@@ -2023,7 +2023,7 @@
 																	},
 																	{
 																		"type": "reference",
-																		"id": 3101,
+																		"id": 3112,
 																		"typeArguments": [
 																			{
 																				"type": "reference",
@@ -2086,7 +2086,7 @@
 												"types": [
 													{
 														"type": "reference",
-														"id": 2988,
+														"id": 2994,
 														"typeArguments": [
 															{
 																"type": "reference",
@@ -2097,7 +2097,7 @@
 													},
 													{
 														"type": "reference",
-														"id": 3101,
+														"id": 3112,
 														"typeArguments": [
 															{
 																"type": "reference",
@@ -2168,7 +2168,7 @@
 												"types": [
 													{
 														"type": "reference",
-														"id": 2988,
+														"id": 2994,
 														"typeArguments": [
 															{
 																"type": "reference",
@@ -2179,7 +2179,7 @@
 													},
 													{
 														"type": "reference",
-														"id": 3101,
+														"id": 3112,
 														"typeArguments": [
 															{
 																"type": "reference",
@@ -2407,7 +2407,7 @@
 																"types": [
 																	{
 																		"type": "reference",
-																		"id": 2988,
+																		"id": 2994,
 																		"typeArguments": [
 																			{
 																				"type": "reference",
@@ -2418,7 +2418,7 @@
 																	},
 																	{
 																		"type": "reference",
-																		"id": 3101,
+																		"id": 3112,
 																		"typeArguments": [
 																			{
 																				"type": "reference",
@@ -2481,7 +2481,7 @@
 												"types": [
 													{
 														"type": "reference",
-														"id": 2988,
+														"id": 2994,
 														"typeArguments": [
 															{
 																"type": "reference",
@@ -2492,7 +2492,7 @@
 													},
 													{
 														"type": "reference",
-														"id": 3101,
+														"id": 3112,
 														"typeArguments": [
 															{
 																"type": "reference",
@@ -2563,7 +2563,7 @@
 												"types": [
 													{
 														"type": "reference",
-														"id": 2988,
+														"id": 2994,
 														"typeArguments": [
 															{
 																"type": "reference",
@@ -2574,7 +2574,7 @@
 													},
 													{
 														"type": "reference",
-														"id": 3101,
+														"id": 3112,
 														"typeArguments": [
 															{
 																"type": "reference",
@@ -2772,7 +2772,7 @@
 																"types": [
 																	{
 																		"type": "reference",
-																		"id": 2988,
+																		"id": 2994,
 																		"typeArguments": [
 																			{
 																				"type": "reference",
@@ -2783,7 +2783,7 @@
 																	},
 																	{
 																		"type": "reference",
-																		"id": 3101,
+																		"id": 3112,
 																		"typeArguments": [
 																			{
 																				"type": "reference",
@@ -2870,7 +2870,7 @@
 												"types": [
 													{
 														"type": "reference",
-														"id": 2988,
+														"id": 2994,
 														"typeArguments": [
 															{
 																"type": "reference",
@@ -2881,7 +2881,7 @@
 													},
 													{
 														"type": "reference",
-														"id": 3101,
+														"id": 3112,
 														"typeArguments": [
 															{
 																"type": "reference",
@@ -2952,7 +2952,7 @@
 												"types": [
 													{
 														"type": "reference",
-														"id": 2988,
+														"id": 2994,
 														"typeArguments": [
 															{
 																"type": "reference",
@@ -2963,7 +2963,7 @@
 													},
 													{
 														"type": "reference",
-														"id": 3101,
+														"id": 3112,
 														"typeArguments": [
 															{
 																"type": "reference",
@@ -3185,7 +3185,7 @@
 																"types": [
 																	{
 																		"type": "reference",
-																		"id": 2988,
+																		"id": 2994,
 																		"typeArguments": [
 																			{
 																				"type": "reference",
@@ -3196,7 +3196,7 @@
 																	},
 																	{
 																		"type": "reference",
-																		"id": 3101,
+																		"id": 3112,
 																		"typeArguments": [
 																			{
 																				"type": "reference",
@@ -3281,7 +3281,7 @@
 												"types": [
 													{
 														"type": "reference",
-														"id": 2988,
+														"id": 2994,
 														"typeArguments": [
 															{
 																"type": "reference",
@@ -3292,7 +3292,7 @@
 													},
 													{
 														"type": "reference",
-														"id": 3101,
+														"id": 3112,
 														"typeArguments": [
 															{
 																"type": "reference",
@@ -3363,7 +3363,7 @@
 												"types": [
 													{
 														"type": "reference",
-														"id": 2988,
+														"id": 2994,
 														"typeArguments": [
 															{
 																"type": "reference",
@@ -3374,7 +3374,7 @@
 													},
 													{
 														"type": "reference",
-														"id": 3101,
+														"id": 3112,
 														"typeArguments": [
 															{
 																"type": "reference",
@@ -3559,7 +3559,7 @@
 																"types": [
 																	{
 																		"type": "reference",
-																		"id": 2988,
+																		"id": 2994,
 																		"typeArguments": [
 																			{
 																				"type": "reference",
@@ -3570,7 +3570,7 @@
 																	},
 																	{
 																		"type": "reference",
-																		"id": 3101,
+																		"id": 3112,
 																		"typeArguments": [
 																			{
 																				"type": "reference",
@@ -3628,7 +3628,7 @@
 												"types": [
 													{
 														"type": "reference",
-														"id": 2988,
+														"id": 2994,
 														"typeArguments": [
 															{
 																"type": "reference",
@@ -3639,7 +3639,7 @@
 													},
 													{
 														"type": "reference",
-														"id": 3101,
+														"id": 3112,
 														"typeArguments": [
 															{
 																"type": "reference",
@@ -3845,7 +3845,7 @@
 																"types": [
 																	{
 																		"type": "reference",
-																		"id": 2988,
+																		"id": 2994,
 																		"typeArguments": [
 																			{
 																				"type": "reference",
@@ -3856,7 +3856,7 @@
 																	},
 																	{
 																		"type": "reference",
-																		"id": 3101,
+																		"id": 3112,
 																		"typeArguments": [
 																			{
 																				"type": "reference",
@@ -3993,7 +3993,7 @@
 																"types": [
 																	{
 																		"type": "reference",
-																		"id": 2988,
+																		"id": 2994,
 																		"typeArguments": [
 																			{
 																				"type": "reference",
@@ -4004,7 +4004,7 @@
 																	},
 																	{
 																		"type": "reference",
-																		"id": 3101,
+																		"id": 3112,
 																		"typeArguments": [
 																			{
 																				"type": "reference",
@@ -4157,7 +4157,7 @@
 																"types": [
 																	{
 																		"type": "reference",
-																		"id": 2988,
+																		"id": 2994,
 																		"typeArguments": [
 																			{
 																				"type": "reference",
@@ -4168,7 +4168,7 @@
 																	},
 																	{
 																		"type": "reference",
-																		"id": 3101,
+																		"id": 3112,
 																		"typeArguments": [
 																			{
 																				"type": "reference",
@@ -4389,7 +4389,7 @@
 																"types": [
 																	{
 																		"type": "reference",
-																		"id": 2988,
+																		"id": 2994,
 																		"typeArguments": [
 																			{
 																				"type": "reference",
@@ -4400,7 +4400,7 @@
 																	},
 																	{
 																		"type": "reference",
-																		"id": 3101,
+																		"id": 3112,
 																		"typeArguments": [
 																			{
 																				"type": "reference",
@@ -4558,7 +4558,7 @@
 																"types": [
 																	{
 																		"type": "reference",
-																		"id": 2988,
+																		"id": 2994,
 																		"typeArguments": [
 																			{
 																				"type": "reference",
@@ -4569,7 +4569,7 @@
 																	},
 																	{
 																		"type": "reference",
-																		"id": 3101,
+																		"id": 3112,
 																		"typeArguments": [
 																			{
 																				"type": "reference",
@@ -4706,7 +4706,7 @@
 																"types": [
 																	{
 																		"type": "reference",
-																		"id": 2988,
+																		"id": 2994,
 																		"typeArguments": [
 																			{
 																				"type": "reference",
@@ -4717,7 +4717,7 @@
 																	},
 																	{
 																		"type": "reference",
-																		"id": 3101,
+																		"id": 3112,
 																		"typeArguments": [
 																			{
 																				"type": "reference",
@@ -4896,7 +4896,7 @@
 																"types": [
 																	{
 																		"type": "reference",
-																		"id": 2988,
+																		"id": 2994,
 																		"typeArguments": [
 																			{
 																				"type": "reference",
@@ -4907,7 +4907,7 @@
 																	},
 																	{
 																		"type": "reference",
-																		"id": 3101,
+																		"id": 3112,
 																		"typeArguments": [
 																			{
 																				"type": "reference",
@@ -5023,14 +5023,14 @@
 			]
 		},
 		{
-			"id": 3240,
+			"id": 3260,
 			"name": "ArgumentType",
 			"kind": 8,
 			"kindString": "Enumeration",
 			"flags": {},
 			"children": [
 				{
-					"id": 3245,
+					"id": 3265,
 					"name": "BOOLEAN",
 					"kind": 16,
 					"kindString": "Enumeration member",
@@ -5045,7 +5045,7 @@
 					"defaultValue": "5"
 				},
 				{
-					"id": 3247,
+					"id": 3267,
 					"name": "CHANNEL",
 					"kind": 16,
 					"kindString": "Enumeration member",
@@ -5060,7 +5060,7 @@
 					"defaultValue": "7"
 				},
 				{
-					"id": 3244,
+					"id": 3264,
 					"name": "INTEGER",
 					"kind": 16,
 					"kindString": "Enumeration member",
@@ -5075,7 +5075,7 @@
 					"defaultValue": "4"
 				},
 				{
-					"id": 3249,
+					"id": 3269,
 					"name": "MENTIONABLE",
 					"kind": 16,
 					"kindString": "Enumeration member",
@@ -5090,7 +5090,7 @@
 					"defaultValue": "9"
 				},
 				{
-					"id": 3250,
+					"id": 3270,
 					"name": "NUMBER",
 					"kind": 16,
 					"kindString": "Enumeration member",
@@ -5105,7 +5105,7 @@
 					"defaultValue": "10"
 				},
 				{
-					"id": 3248,
+					"id": 3268,
 					"name": "ROLE",
 					"kind": 16,
 					"kindString": "Enumeration member",
@@ -5120,7 +5120,7 @@
 					"defaultValue": "8"
 				},
 				{
-					"id": 3243,
+					"id": 3263,
 					"name": "STRING",
 					"kind": 16,
 					"kindString": "Enumeration member",
@@ -5135,7 +5135,7 @@
 					"defaultValue": "3"
 				},
 				{
-					"id": 3241,
+					"id": 3261,
 					"name": "SUB_COMMAND",
 					"kind": 16,
 					"kindString": "Enumeration member",
@@ -5150,7 +5150,7 @@
 					"defaultValue": "1"
 				},
 				{
-					"id": 3242,
+					"id": 3262,
 					"name": "SUB_COMMAND_GROUP",
 					"kind": 16,
 					"kindString": "Enumeration member",
@@ -5165,7 +5165,7 @@
 					"defaultValue": "2"
 				},
 				{
-					"id": 3246,
+					"id": 3266,
 					"name": "USER",
 					"kind": 16,
 					"kindString": "Enumeration member",
@@ -5185,16 +5185,16 @@
 					"title": "Enumeration members",
 					"kind": 16,
 					"children": [
-						3245,
-						3247,
-						3244,
-						3249,
-						3250,
-						3248,
-						3243,
-						3241,
-						3242,
-						3246
+						3265,
+						3267,
+						3264,
+						3269,
+						3270,
+						3268,
+						3263,
+						3261,
+						3262,
+						3266
 					]
 				}
 			],
@@ -5222,7 +5222,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/GClient.ts",
-							"line": 11,
+							"line": 10,
 							"character": 1
 						}
 					],
@@ -5237,7 +5237,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/GClient.ts",
-							"line": 12,
+							"line": 11,
 							"character": 1
 						}
 					],
@@ -5252,7 +5252,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/GClient.ts",
-							"line": 13,
+							"line": 12,
 							"character": 1
 						}
 					],
@@ -5273,20 +5273,20 @@
 			"sources": [
 				{
 					"fileName": "src/lib/GClient.ts",
-					"line": 10,
+					"line": 9,
 					"character": 12
 				}
 			]
 		},
 		{
-			"id": 3251,
+			"id": 3271,
 			"name": "ChannelType",
 			"kind": 8,
 			"kindString": "Enumeration",
 			"flags": {},
 			"children": [
 				{
-					"id": 3254,
+					"id": 3274,
 					"name": "GUILD_CATEGORY",
 					"kind": 16,
 					"kindString": "Enumeration member",
@@ -5301,7 +5301,7 @@
 					"defaultValue": "4"
 				},
 				{
-					"id": 3256,
+					"id": 3276,
 					"name": "GUILD_NEWS_THREAD",
 					"kind": 16,
 					"kindString": "Enumeration member",
@@ -5316,7 +5316,7 @@
 					"defaultValue": "10"
 				},
 				{
-					"id": 3258,
+					"id": 3278,
 					"name": "GUILD_PRIVATE_THREAD",
 					"kind": 16,
 					"kindString": "Enumeration member",
@@ -5331,7 +5331,7 @@
 					"defaultValue": "12"
 				},
 				{
-					"id": 3257,
+					"id": 3277,
 					"name": "GUILD_PUBLIC_THREAD",
 					"kind": 16,
 					"kindString": "Enumeration member",
@@ -5346,7 +5346,7 @@
 					"defaultValue": "11"
 				},
 				{
-					"id": 3259,
+					"id": 3279,
 					"name": "GUILD_STAGE_VOICE",
 					"kind": 16,
 					"kindString": "Enumeration member",
@@ -5361,7 +5361,7 @@
 					"defaultValue": "13"
 				},
 				{
-					"id": 3255,
+					"id": 3275,
 					"name": "GUILD_STORE",
 					"kind": 16,
 					"kindString": "Enumeration member",
@@ -5376,7 +5376,7 @@
 					"defaultValue": "6"
 				},
 				{
-					"id": 3252,
+					"id": 3272,
 					"name": "GUILD_TEXT",
 					"kind": 16,
 					"kindString": "Enumeration member",
@@ -5391,7 +5391,7 @@
 					"defaultValue": "0"
 				},
 				{
-					"id": 3253,
+					"id": 3273,
 					"name": "GUILD_VOICE",
 					"kind": 16,
 					"kindString": "Enumeration member",
@@ -5411,14 +5411,14 @@
 					"title": "Enumeration members",
 					"kind": 16,
 					"children": [
-						3254,
-						3256,
-						3258,
-						3257,
-						3259,
-						3255,
-						3252,
-						3253
+						3274,
+						3276,
+						3278,
+						3277,
+						3279,
+						3275,
+						3272,
+						3273
 					]
 				}
 			],
@@ -5575,14 +5575,14 @@
 			]
 		},
 		{
-			"id": 3271,
+			"id": 3291,
 			"name": "Argument",
 			"kind": 128,
 			"kindString": "Class",
 			"flags": {},
 			"children": [
 				{
-					"id": 3279,
+					"id": 3299,
 					"name": "constructor",
 					"kind": 512,
 					"kindString": "Constructor",
@@ -5596,35 +5596,35 @@
 					],
 					"signatures": [
 						{
-							"id": 3280,
+							"id": 3300,
 							"name": "new Argument",
 							"kind": 16384,
 							"kindString": "Constructor signature",
 							"flags": {},
 							"parameters": [
 								{
-									"id": 3281,
+									"id": 3301,
 									"name": "options",
 									"kind": 32768,
 									"kindString": "Parameter",
 									"flags": {},
 									"type": {
 										"type": "reference",
-										"id": 3260,
+										"id": 3280,
 										"name": "ArgumentOptions"
 									}
 								}
 							],
 							"type": {
 								"type": "reference",
-								"id": 3271,
+								"id": 3291,
 								"name": "Argument"
 							}
 						}
 					]
 				},
 				{
-					"id": 3288,
+					"id": 3308,
 					"name": "channelTypes",
 					"kind": 1024,
 					"kindString": "Property",
@@ -5679,7 +5679,7 @@
 								},
 								{
 									"type": "reference",
-									"id": 3251,
+									"id": 3271,
 									"name": "ChannelType"
 								}
 							]
@@ -5687,7 +5687,7 @@
 					}
 				},
 				{
-					"id": 3286,
+					"id": 3306,
 					"name": "choices",
 					"kind": 1024,
 					"kindString": "Property",
@@ -5713,7 +5713,7 @@
 					}
 				},
 				{
-					"id": 3283,
+					"id": 3303,
 					"name": "description",
 					"kind": 1024,
 					"kindString": "Property",
@@ -5734,7 +5734,7 @@
 					}
 				},
 				{
-					"id": 3282,
+					"id": 3302,
 					"name": "name",
 					"kind": 1024,
 					"kindString": "Property",
@@ -5755,7 +5755,7 @@
 					}
 				},
 				{
-					"id": 3287,
+					"id": 3307,
 					"name": "options",
 					"kind": 1024,
 					"kindString": "Property",
@@ -5783,7 +5783,7 @@
 								},
 								{
 									"type": "reference",
-									"id": 3271,
+									"id": 3291,
 									"name": "Argument"
 								}
 							]
@@ -5791,7 +5791,7 @@
 					}
 				},
 				{
-					"id": 3285,
+					"id": 3305,
 					"name": "required",
 					"kind": 1024,
 					"kindString": "Property",
@@ -5813,7 +5813,7 @@
 					"defaultValue": "false"
 				},
 				{
-					"id": 3289,
+					"id": 3309,
 					"name": "run",
 					"kind": 1024,
 					"kindString": "Property",
@@ -5831,28 +5831,28 @@
 					"type": {
 						"type": "reflection",
 						"declaration": {
-							"id": 3290,
+							"id": 3310,
 							"name": "__type",
 							"kind": 65536,
 							"kindString": "Type literal",
 							"flags": {},
 							"signatures": [
 								{
-									"id": 3291,
+									"id": 3311,
 									"name": "__type",
 									"kind": 4096,
 									"kindString": "Call signature",
 									"flags": {},
 									"parameters": [
 										{
-											"id": 3292,
+											"id": 3312,
 											"name": "ctx",
 											"kind": 32768,
 											"kindString": "Parameter",
 											"flags": {},
 											"type": {
 												"type": "reference",
-												"id": 3195,
+												"id": 3211,
 												"typeArguments": [
 													{
 														"type": "reference",
@@ -5873,7 +5873,7 @@
 					}
 				},
 				{
-					"id": 3284,
+					"id": 3304,
 					"name": "type",
 					"kind": 1024,
 					"kindString": "Property",
@@ -5933,14 +5933,14 @@
 							},
 							{
 								"type": "reference",
-								"id": 3240,
+								"id": 3260,
 								"name": "ArgumentType"
 							}
 						]
 					}
 				},
 				{
-					"id": 3272,
+					"id": 3292,
 					"name": "toAPIArgument",
 					"kind": 2048,
 					"kindString": "Method",
@@ -5957,14 +5957,14 @@
 					],
 					"signatures": [
 						{
-							"id": 3273,
+							"id": 3293,
 							"name": "toAPIArgument",
 							"kind": 4096,
 							"kindString": "Call signature",
 							"flags": {},
 							"parameters": [
 								{
-									"id": 3274,
+									"id": 3294,
 									"name": "argument",
 									"kind": 32768,
 									"kindString": "Parameter",
@@ -5979,7 +5979,7 @@
 											},
 											{
 												"type": "reference",
-												"id": 3271,
+												"id": 3291,
 												"name": "Argument"
 											}
 										]
@@ -6004,7 +6004,7 @@
 					]
 				},
 				{
-					"id": 3275,
+					"id": 3295,
 					"name": "validate",
 					"kind": 2048,
 					"kindString": "Method",
@@ -6021,14 +6021,14 @@
 					],
 					"signatures": [
 						{
-							"id": 3276,
+							"id": 3296,
 							"name": "validate",
 							"kind": 4096,
 							"kindString": "Call signature",
 							"flags": {},
 							"parameters": [
 								{
-									"id": 3277,
+									"id": 3297,
 									"name": "argument",
 									"kind": 32768,
 									"kindString": "Parameter",
@@ -6043,14 +6043,14 @@
 											},
 											{
 												"type": "reference",
-												"id": 3271,
+												"id": 3291,
 												"name": "Argument"
 											}
 										]
 									}
 								},
 								{
-									"id": 3278,
+									"id": 3298,
 									"name": "command",
 									"kind": 32768,
 									"kindString": "Parameter",
@@ -6084,29 +6084,29 @@
 					"title": "Constructors",
 					"kind": 512,
 					"children": [
-						3279
+						3299
 					]
 				},
 				{
 					"title": "Properties",
 					"kind": 1024,
 					"children": [
-						3288,
-						3286,
-						3283,
-						3282,
-						3287,
-						3285,
-						3289,
-						3284
+						3308,
+						3306,
+						3303,
+						3302,
+						3307,
+						3305,
+						3309,
+						3304
 					]
 				},
 				{
 					"title": "Methods",
 					"kind": 2048,
 					"children": [
-						3272,
-						3275
+						3292,
+						3295
 					]
 				}
 			],
@@ -6119,14 +6119,14 @@
 			]
 		},
 		{
-			"id": 3195,
+			"id": 3211,
 			"name": "AutocompleteContext",
 			"kind": 128,
 			"kindString": "Class",
 			"flags": {},
 			"children": [
 				{
-					"id": 3196,
+					"id": 3212,
 					"name": "constructor",
 					"kind": 512,
 					"kindString": "Constructor",
@@ -6140,14 +6140,14 @@
 					],
 					"signatures": [
 						{
-							"id": 3197,
+							"id": 3213,
 							"name": "new AutocompleteContext",
 							"kind": 16384,
 							"kindString": "Constructor signature",
 							"flags": {},
 							"typeParameter": [
 								{
-									"id": 3198,
+									"id": 3214,
 									"name": "Cached",
 									"kind": 131072,
 									"kindString": "Type parameter",
@@ -6164,7 +6164,7 @@
 							],
 							"parameters": [
 								{
-									"id": 3199,
+									"id": 3215,
 									"name": "client",
 									"kind": 32768,
 									"kindString": "Parameter",
@@ -6182,18 +6182,18 @@
 									}
 								},
 								{
-									"id": 3200,
+									"id": 3216,
 									"name": "options",
 									"kind": 32768,
 									"kindString": "Parameter",
 									"flags": {},
 									"type": {
 										"type": "reference",
-										"id": 3179,
+										"id": 3194,
 										"typeArguments": [
 											{
 												"type": "reference",
-												"id": 3198,
+												"id": 3214,
 												"name": "Cached"
 											}
 										],
@@ -6203,11 +6203,11 @@
 							],
 							"type": {
 								"type": "reference",
-								"id": 3195,
+								"id": 3211,
 								"typeArguments": [
 									{
 										"type": "reference",
-										"id": 3198,
+										"id": 3214,
 										"name": "Cached"
 									}
 								],
@@ -6215,19 +6215,19 @@
 							},
 							"overwrites": {
 								"type": "reference",
-								"id": 2920,
+								"id": 2921,
 								"name": "Context.constructor"
 							}
 						}
 					],
 					"overwrites": {
 						"type": "reference",
-						"id": 2919,
+						"id": 2920,
 						"name": "Context.constructor"
 					}
 				},
 				{
-					"id": 3204,
+					"id": 3220,
 					"name": "argument",
 					"kind": 1024,
 					"kindString": "Property",
@@ -6252,14 +6252,14 @@
 							},
 							{
 								"type": "reference",
-								"id": 3271,
+								"id": 3291,
 								"name": "Argument"
 							}
 						]
 					}
 				},
 				{
-					"id": 3205,
+					"id": 3221,
 					"name": "argumentName",
 					"kind": 1024,
 					"kindString": "Property",
@@ -6280,7 +6280,7 @@
 					}
 				},
 				{
-					"id": 3218,
+					"id": 3234,
 					"name": "channel",
 					"kind": 1024,
 					"kindString": "Property",
@@ -6291,7 +6291,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/contexts/Context.ts",
-							"line": 34,
+							"line": 35,
 							"character": 17
 						}
 					],
@@ -6300,7 +6300,7 @@
 						"typeArguments": [
 							{
 								"type": "reference",
-								"id": 3198,
+								"id": 3214,
 								"name": "Cached"
 							},
 							{
@@ -6324,12 +6324,12 @@
 					},
 					"inheritedFrom": {
 						"type": "reference",
-						"id": 2925,
+						"id": 2926,
 						"name": "Context.channel"
 					}
 				},
 				{
-					"id": 3219,
+					"id": 3235,
 					"name": "channelId",
 					"kind": 1024,
 					"kindString": "Property",
@@ -6339,7 +6339,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/contexts/Context.ts",
-							"line": 39,
+							"line": 40,
 							"character": 8
 						}
 					],
@@ -6349,12 +6349,12 @@
 					},
 					"inheritedFrom": {
 						"type": "reference",
-						"id": 2926,
+						"id": 2927,
 						"name": "Context.channelId"
 					}
 				},
 				{
-					"id": 3217,
+					"id": 3233,
 					"name": "client",
 					"kind": 1024,
 					"kindString": "Property",
@@ -6365,7 +6365,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/contexts/Context.ts",
-							"line": 33,
+							"line": 34,
 							"character": 17
 						}
 					],
@@ -6382,12 +6382,12 @@
 					},
 					"inheritedFrom": {
 						"type": "reference",
-						"id": 2924,
+						"id": 2925,
 						"name": "Context.client"
 					}
 				},
 				{
-					"id": 3202,
+					"id": 3218,
 					"name": "command",
 					"kind": 1024,
 					"kindString": "Property",
@@ -6409,7 +6409,7 @@
 					}
 				},
 				{
-					"id": 3203,
+					"id": 3219,
 					"name": "commandName",
 					"kind": 1024,
 					"kindString": "Property",
@@ -6430,34 +6430,8 @@
 					}
 				},
 				{
-					"id": 3220,
+					"id": 3236,
 					"name": "createdAt",
-					"kind": 1024,
-					"kindString": "Property",
-					"flags": {
-						"isPublic": true,
-						"isReadonly": true
-					},
-					"sources": [
-						{
-							"fileName": "src/lib/structures/contexts/Context.ts",
-							"line": 40,
-							"character": 17
-						}
-					],
-					"type": {
-						"type": "reference",
-						"name": "Date"
-					},
-					"inheritedFrom": {
-						"type": "reference",
-						"id": 2927,
-						"name": "Context.createdAt"
-					}
-				},
-				{
-					"id": 3221,
-					"name": "createdTimestamp",
 					"kind": 1024,
 					"kindString": "Property",
 					"flags": {
@@ -6472,18 +6446,18 @@
 						}
 					],
 					"type": {
-						"type": "intrinsic",
-						"name": "number"
+						"type": "reference",
+						"name": "Date"
 					},
 					"inheritedFrom": {
 						"type": "reference",
 						"id": 2928,
-						"name": "Context.createdTimestamp"
+						"name": "Context.createdAt"
 					}
 				},
 				{
-					"id": 3222,
-					"name": "guild",
+					"id": 3237,
+					"name": "createdTimestamp",
 					"kind": 1024,
 					"kindString": "Property",
 					"flags": {
@@ -6498,11 +6472,37 @@
 						}
 					],
 					"type": {
+						"type": "intrinsic",
+						"name": "number"
+					},
+					"inheritedFrom": {
+						"type": "reference",
+						"id": 2929,
+						"name": "Context.createdTimestamp"
+					}
+				},
+				{
+					"id": 3238,
+					"name": "guild",
+					"kind": 1024,
+					"kindString": "Property",
+					"flags": {
+						"isPublic": true,
+						"isReadonly": true
+					},
+					"sources": [
+						{
+							"fileName": "src/lib/structures/contexts/Context.ts",
+							"line": 43,
+							"character": 17
+						}
+					],
+					"type": {
 						"type": "reference",
 						"typeArguments": [
 							{
 								"type": "reference",
-								"id": 3198,
+								"id": 3214,
 								"name": "Cached"
 							},
 							{
@@ -6526,12 +6526,12 @@
 					},
 					"inheritedFrom": {
 						"type": "reference",
-						"id": 2929,
+						"id": 2930,
 						"name": "Context.guild"
 					}
 				},
 				{
-					"id": 3223,
+					"id": 3239,
 					"name": "guildId",
 					"kind": 1024,
 					"kindString": "Property",
@@ -6541,7 +6541,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/contexts/Context.ts",
-							"line": 43,
+							"line": 44,
 							"character": 8
 						}
 					],
@@ -6550,7 +6550,7 @@
 						"typeArguments": [
 							{
 								"type": "reference",
-								"id": 3198,
+								"id": 3214,
 								"name": "Cached"
 							},
 							{
@@ -6574,12 +6574,12 @@
 					},
 					"inheritedFrom": {
 						"type": "reference",
-						"id": 2930,
+						"id": 2931,
 						"name": "Context.guildId"
 					}
 				},
 				{
-					"id": 3201,
+					"id": 3217,
 					"name": "interaction",
 					"kind": 1024,
 					"kindString": "Property",
@@ -6605,7 +6605,7 @@
 					}
 				},
 				{
-					"id": 3224,
+					"id": 3240,
 					"name": "member",
 					"kind": 1024,
 					"kindString": "Property",
@@ -6615,7 +6615,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/contexts/Context.ts",
-							"line": 44,
+							"line": 45,
 							"character": 8
 						}
 					],
@@ -6624,7 +6624,7 @@
 						"typeArguments": [
 							{
 								"type": "reference",
-								"id": 3198,
+								"id": 3214,
 								"name": "Cached"
 							},
 							{
@@ -6666,12 +6666,12 @@
 					},
 					"inheritedFrom": {
 						"type": "reference",
-						"id": 2931,
+						"id": 2932,
 						"name": "Context.member"
 					}
 				},
 				{
-					"id": 3227,
+					"id": 3243,
 					"name": "memberPermissions",
 					"kind": 1024,
 					"kindString": "Property",
@@ -6681,7 +6681,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/contexts/Context.ts",
-							"line": 47,
+							"line": 48,
 							"character": 8
 						}
 					],
@@ -6690,7 +6690,7 @@
 						"typeArguments": [
 							{
 								"type": "reference",
-								"id": 3198,
+								"id": 3214,
 								"name": "Cached"
 							},
 							{
@@ -6738,12 +6738,12 @@
 					},
 					"inheritedFrom": {
 						"type": "reference",
-						"id": 2934,
+						"id": 2935,
 						"name": "Context.memberPermissions"
 					}
 				},
 				{
-					"id": 3207,
+					"id": 3223,
 					"name": "respond",
 					"kind": 1024,
 					"kindString": "Property",
@@ -6760,21 +6760,21 @@
 					"type": {
 						"type": "reflection",
 						"declaration": {
-							"id": 3208,
+							"id": 3224,
 							"name": "__type",
 							"kind": 65536,
 							"kindString": "Type literal",
 							"flags": {},
 							"signatures": [
 								{
-									"id": 3209,
+									"id": 3225,
 									"name": "__type",
 									"kind": 4096,
 									"kindString": "Call signature",
 									"flags": {},
 									"parameters": [
 										{
-											"id": 3210,
+											"id": 3226,
 											"name": "choices",
 											"kind": 32768,
 											"kindString": "Parameter",
@@ -6805,7 +6805,7 @@
 					}
 				},
 				{
-					"id": 3228,
+					"id": 3244,
 					"name": "type",
 					"kind": 1024,
 					"kindString": "Property",
@@ -6815,7 +6815,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/contexts/Context.ts",
-							"line": 48,
+							"line": 49,
 							"character": 8
 						}
 					],
@@ -6842,38 +6842,13 @@
 					},
 					"inheritedFrom": {
 						"type": "reference",
-						"id": 2935,
+						"id": 2936,
 						"name": "Context.type"
 					}
 				},
 				{
-					"id": 3225,
+					"id": 3241,
 					"name": "user",
-					"kind": 1024,
-					"kindString": "Property",
-					"flags": {
-						"isPublic": true
-					},
-					"sources": [
-						{
-							"fileName": "src/lib/structures/contexts/Context.ts",
-							"line": 45,
-							"character": 8
-						}
-					],
-					"type": {
-						"type": "reference",
-						"name": "User"
-					},
-					"inheritedFrom": {
-						"type": "reference",
-						"id": 2932,
-						"name": "Context.user"
-					}
-				},
-				{
-					"id": 3226,
-					"name": "userId",
 					"kind": 1024,
 					"kindString": "Property",
 					"flags": {
@@ -6887,17 +6862,42 @@
 						}
 					],
 					"type": {
+						"type": "reference",
+						"name": "User"
+					},
+					"inheritedFrom": {
+						"type": "reference",
+						"id": 2933,
+						"name": "Context.user"
+					}
+				},
+				{
+					"id": 3242,
+					"name": "userId",
+					"kind": 1024,
+					"kindString": "Property",
+					"flags": {
+						"isPublic": true
+					},
+					"sources": [
+						{
+							"fileName": "src/lib/structures/contexts/Context.ts",
+							"line": 47,
+							"character": 8
+						}
+					],
+					"type": {
 						"type": "intrinsic",
 						"name": "string"
 					},
 					"inheritedFrom": {
 						"type": "reference",
-						"id": 2933,
+						"id": 2934,
 						"name": "Context.userId"
 					}
 				},
 				{
-					"id": 3206,
+					"id": 3222,
 					"name": "value",
 					"kind": 1024,
 					"kindString": "Property",
@@ -6927,7 +6927,70 @@
 					}
 				},
 				{
-					"id": 3213,
+					"id": 3245,
+					"name": "getDatabase",
+					"kind": 2048,
+					"kindString": "Method",
+					"flags": {
+						"isPublic": true
+					},
+					"sources": [
+						{
+							"fileName": "src/lib/structures/contexts/Context.ts",
+							"line": 66,
+							"character": 8
+						}
+					],
+					"signatures": [
+						{
+							"id": 3246,
+							"name": "getDatabase",
+							"kind": 4096,
+							"kindString": "Call signature",
+							"flags": {},
+							"typeParameter": [
+								{
+									"id": 3247,
+									"name": "Database",
+									"kind": 131072,
+									"kindString": "Type parameter",
+									"flags": {}
+								}
+							],
+							"parameters": [
+								{
+									"id": 3248,
+									"name": "_",
+									"kind": 32768,
+									"kindString": "Parameter",
+									"flags": {},
+									"type": {
+										"type": "reference",
+										"id": 2939,
+										"name": "Database"
+									}
+								}
+							],
+							"type": {
+								"type": "reference",
+								"id": 2939,
+								"name": "Database"
+							},
+							"inheritedFrom": {
+								"type": "reference",
+								"id": 2938,
+								"name": "Context.getDatabase"
+							}
+						}
+					],
+					"inheritedFrom": {
+						"type": "reference",
+						"id": 2937,
+						"name": "Context.getDatabase"
+					}
+				},
+				{
+					"id": 3229,
 					"name": "inCachedGuild",
 					"kind": 2048,
 					"kindString": "Method",
@@ -6943,7 +7006,7 @@
 					],
 					"signatures": [
 						{
-							"id": 3214,
+							"id": 3230,
 							"name": "inCachedGuild",
 							"kind": 4096,
 							"kindString": "Call signature",
@@ -6954,7 +7017,7 @@
 								"asserts": false,
 								"targetType": {
 									"type": "reference",
-									"id": 3195,
+									"id": 3211,
 									"typeArguments": [
 										{
 											"type": "literal",
@@ -6966,19 +7029,19 @@
 							},
 							"overwrites": {
 								"type": "reference",
-								"id": 2939,
+								"id": 2944,
 								"name": "Context.inCachedGuild"
 							}
 						}
 					],
 					"overwrites": {
 						"type": "reference",
-						"id": 2938,
+						"id": 2943,
 						"name": "Context.inCachedGuild"
 					}
 				},
 				{
-					"id": 3211,
+					"id": 3227,
 					"name": "inGuild",
 					"kind": 2048,
 					"kindString": "Method",
@@ -6994,7 +7057,7 @@
 					],
 					"signatures": [
 						{
-							"id": 3212,
+							"id": 3228,
 							"name": "inGuild",
 							"kind": 4096,
 							"kindString": "Call signature",
@@ -7005,7 +7068,7 @@
 								"asserts": false,
 								"targetType": {
 									"type": "reference",
-									"id": 3195,
+									"id": 3211,
 									"typeArguments": [
 										{
 											"type": "literal",
@@ -7017,19 +7080,19 @@
 							},
 							"overwrites": {
 								"type": "reference",
-								"id": 2937,
+								"id": 2942,
 								"name": "Context.inGuild"
 							}
 						}
 					],
 					"overwrites": {
 						"type": "reference",
-						"id": 2936,
+						"id": 2941,
 						"name": "Context.inGuild"
 					}
 				},
 				{
-					"id": 3215,
+					"id": 3231,
 					"name": "inRawGuild",
 					"kind": 2048,
 					"kindString": "Method",
@@ -7045,7 +7108,7 @@
 					],
 					"signatures": [
 						{
-							"id": 3216,
+							"id": 3232,
 							"name": "inRawGuild",
 							"kind": 4096,
 							"kindString": "Call signature",
@@ -7056,7 +7119,7 @@
 								"asserts": false,
 								"targetType": {
 									"type": "reference",
-									"id": 3195,
+									"id": 3211,
 									"typeArguments": [
 										{
 											"type": "literal",
@@ -7068,19 +7131,19 @@
 							},
 							"overwrites": {
 								"type": "reference",
-								"id": 2941,
+								"id": 2946,
 								"name": "Context.inRawGuild"
 							}
 						}
 					],
 					"overwrites": {
 						"type": "reference",
-						"id": 2940,
+						"id": 2945,
 						"name": "Context.inRawGuild"
 					}
 				},
 				{
-					"id": 3231,
+					"id": 3251,
 					"name": "isAutocomplete",
 					"kind": 2048,
 					"kindString": "Method",
@@ -7090,13 +7153,13 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/contexts/Context.ts",
-							"line": 81,
+							"line": 86,
 							"character": 8
 						}
 					],
 					"signatures": [
 						{
-							"id": 3232,
+							"id": 3252,
 							"name": "isAutocomplete",
 							"kind": 4096,
 							"kindString": "Call signature",
@@ -7107,7 +7170,7 @@
 								"asserts": false,
 								"targetType": {
 									"type": "reference",
-									"id": 3195,
+									"id": 3211,
 									"typeArguments": [
 										{
 											"type": "reference",
@@ -7119,19 +7182,19 @@
 							},
 							"inheritedFrom": {
 								"type": "reference",
-								"id": 2945,
+								"id": 2950,
 								"name": "Context.isAutocomplete"
 							}
 						}
 					],
 					"inheritedFrom": {
 						"type": "reference",
-						"id": 2944,
+						"id": 2949,
 						"name": "Context.isAutocomplete"
 					}
 				},
 				{
-					"id": 3235,
+					"id": 3255,
 					"name": "isButton",
 					"kind": 2048,
 					"kindString": "Method",
@@ -7141,13 +7204,13 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/contexts/Context.ts",
-							"line": 89,
+							"line": 94,
 							"character": 8
 						}
 					],
 					"signatures": [
 						{
-							"id": 3236,
+							"id": 3256,
 							"name": "isButton",
 							"kind": 4096,
 							"kindString": "Call signature",
@@ -7158,7 +7221,7 @@
 								"asserts": false,
 								"targetType": {
 									"type": "reference",
-									"id": 3101,
+									"id": 3112,
 									"typeArguments": [
 										{
 											"type": "reference",
@@ -7170,19 +7233,19 @@
 							},
 							"inheritedFrom": {
 								"type": "reference",
-								"id": 2949,
+								"id": 2954,
 								"name": "Context.isButton"
 							}
 						}
 					],
 					"inheritedFrom": {
 						"type": "reference",
-						"id": 2948,
+						"id": 2953,
 						"name": "Context.isButton"
 					}
 				},
 				{
-					"id": 3229,
+					"id": 3249,
 					"name": "isCommand",
 					"kind": 2048,
 					"kindString": "Method",
@@ -7192,13 +7255,13 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/contexts/Context.ts",
-							"line": 77,
+							"line": 82,
 							"character": 8
 						}
 					],
 					"signatures": [
 						{
-							"id": 3230,
+							"id": 3250,
 							"name": "isCommand",
 							"kind": 4096,
 							"kindString": "Call signature",
@@ -7209,7 +7272,7 @@
 								"asserts": false,
 								"targetType": {
 									"type": "reference",
-									"id": 2988,
+									"id": 2994,
 									"typeArguments": [
 										{
 											"type": "reference",
@@ -7221,19 +7284,19 @@
 							},
 							"inheritedFrom": {
 								"type": "reference",
-								"id": 2943,
+								"id": 2948,
 								"name": "Context.isCommand"
 							}
 						}
 					],
 					"inheritedFrom": {
 						"type": "reference",
-						"id": 2942,
+						"id": 2947,
 						"name": "Context.isCommand"
 					}
 				},
 				{
-					"id": 3233,
+					"id": 3253,
 					"name": "isComponent",
 					"kind": 2048,
 					"kindString": "Method",
@@ -7243,13 +7306,13 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/contexts/Context.ts",
-							"line": 85,
+							"line": 90,
 							"character": 8
 						}
 					],
 					"signatures": [
 						{
-							"id": 3234,
+							"id": 3254,
 							"name": "isComponent",
 							"kind": 4096,
 							"kindString": "Call signature",
@@ -7260,7 +7323,7 @@
 								"asserts": false,
 								"targetType": {
 									"type": "reference",
-									"id": 3101,
+									"id": 3112,
 									"typeArguments": [
 										{
 											"type": "reference",
@@ -7272,19 +7335,19 @@
 							},
 							"inheritedFrom": {
 								"type": "reference",
-								"id": 2947,
+								"id": 2952,
 								"name": "Context.isComponent"
 							}
 						}
 					],
 					"inheritedFrom": {
 						"type": "reference",
-						"id": 2946,
+						"id": 2951,
 						"name": "Context.isComponent"
 					}
 				},
 				{
-					"id": 3237,
+					"id": 3257,
 					"name": "isSelectMenu",
 					"kind": 2048,
 					"kindString": "Method",
@@ -7294,13 +7357,13 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/contexts/Context.ts",
-							"line": 93,
+							"line": 98,
 							"character": 8
 						}
 					],
 					"signatures": [
 						{
-							"id": 3238,
+							"id": 3258,
 							"name": "isSelectMenu",
 							"kind": 4096,
 							"kindString": "Call signature",
@@ -7311,7 +7374,7 @@
 								"asserts": false,
 								"targetType": {
 									"type": "reference",
-									"id": 3101,
+									"id": 3112,
 									"typeArguments": [
 										{
 											"type": "reference",
@@ -7323,14 +7386,14 @@
 							},
 							"inheritedFrom": {
 								"type": "reference",
-								"id": 2951,
+								"id": 2956,
 								"name": "Context.isSelectMenu"
 							}
 						}
 					],
 					"inheritedFrom": {
 						"type": "reference",
-						"id": 2950,
+						"id": 2955,
 						"name": "Context.isSelectMenu"
 					}
 				}
@@ -7340,46 +7403,47 @@
 					"title": "Constructors",
 					"kind": 512,
 					"children": [
-						3196
+						3212
 					]
 				},
 				{
 					"title": "Properties",
 					"kind": 1024,
 					"children": [
-						3204,
-						3205,
-						3218,
-						3219,
-						3217,
-						3202,
-						3203,
 						3220,
 						3221,
-						3222,
+						3234,
+						3235,
+						3233,
+						3218,
+						3219,
+						3236,
+						3237,
+						3238,
+						3239,
+						3217,
+						3240,
+						3243,
 						3223,
-						3201,
-						3224,
-						3227,
-						3207,
-						3228,
-						3225,
-						3226,
-						3206
+						3244,
+						3241,
+						3242,
+						3222
 					]
 				},
 				{
 					"title": "Methods",
 					"kind": 2048,
 					"children": [
-						3213,
-						3211,
-						3215,
-						3231,
-						3235,
+						3245,
 						3229,
-						3233,
-						3237
+						3227,
+						3231,
+						3251,
+						3255,
+						3249,
+						3253,
+						3257
 					]
 				}
 			],
@@ -7392,7 +7456,7 @@
 			],
 			"typeParameter": [
 				{
-					"id": 3239,
+					"id": 3259,
 					"name": "Cached",
 					"kind": 131072,
 					"kindString": "Type parameter",
@@ -7410,11 +7474,11 @@
 			"extendedTypes": [
 				{
 					"type": "reference",
-					"id": 2918,
+					"id": 2919,
 					"typeArguments": [
 						{
 							"type": "reference",
-							"id": 3198,
+							"id": 3214,
 							"name": "Cached"
 						}
 					],
@@ -7502,7 +7566,7 @@
 								},
 								{
 									"type": "reference",
-									"id": 3271,
+									"id": 3291,
 									"name": "Argument"
 								}
 							]
@@ -7748,7 +7812,7 @@
 											"flags": {},
 											"type": {
 												"type": "reference",
-												"id": 2988,
+												"id": 2994,
 												"typeArguments": [
 													{
 														"type": "reference",
@@ -7861,7 +7925,7 @@
 											"flags": {},
 											"type": {
 												"type": "reference",
-												"id": 2988,
+												"id": 2994,
 												"typeArguments": [
 													{
 														"type": "reference",
@@ -7987,7 +8051,7 @@
 									"flags": {},
 									"type": {
 										"type": "reference",
-										"id": 2988,
+										"id": 2994,
 										"typeArguments": [
 											{
 												"type": "reference",
@@ -8309,14 +8373,14 @@
 			]
 		},
 		{
-			"id": 2988,
+			"id": 2994,
 			"name": "CommandContext",
 			"kind": 128,
 			"kindString": "Class",
 			"flags": {},
 			"children": [
 				{
-					"id": 2989,
+					"id": 2995,
 					"name": "constructor",
 					"kind": 512,
 					"kindString": "Constructor",
@@ -8324,20 +8388,20 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/contexts/CommandContext.ts",
-							"line": 45,
+							"line": 47,
 							"character": 1
 						}
 					],
 					"signatures": [
 						{
-							"id": 2990,
+							"id": 2996,
 							"name": "new CommandContext",
 							"kind": 16384,
 							"kindString": "Constructor signature",
 							"flags": {},
 							"typeParameter": [
 								{
-									"id": 2991,
+									"id": 2997,
 									"name": "Cached",
 									"kind": 131072,
 									"kindString": "Type parameter",
@@ -8354,7 +8418,7 @@
 							],
 							"parameters": [
 								{
-									"id": 2992,
+									"id": 2998,
 									"name": "client",
 									"kind": 32768,
 									"kindString": "Parameter",
@@ -8372,18 +8436,18 @@
 									}
 								},
 								{
-									"id": 2993,
+									"id": 2999,
 									"name": "options",
 									"kind": 32768,
 									"kindString": "Parameter",
 									"flags": {},
 									"type": {
 										"type": "reference",
-										"id": 2953,
+										"id": 2958,
 										"typeArguments": [
 											{
 												"type": "reference",
-												"id": 2991,
+												"id": 2997,
 												"name": "Cached"
 											}
 										],
@@ -8393,11 +8457,11 @@
 							],
 							"type": {
 								"type": "reference",
-								"id": 2988,
+								"id": 2994,
 								"typeArguments": [
 									{
 										"type": "reference",
-										"id": 2991,
+										"id": 2997,
 										"name": "Cached"
 									}
 								],
@@ -8405,19 +8469,19 @@
 							},
 							"overwrites": {
 								"type": "reference",
-								"id": 2920,
+								"id": 2921,
 								"name": "Context.constructor"
 							}
 						}
 					],
 					"overwrites": {
 						"type": "reference",
-						"id": 2919,
+						"id": 2920,
 						"name": "Context.constructor"
 					}
 				},
 				{
-					"id": 2998,
+					"id": 3004,
 					"name": "arguments",
 					"kind": 1024,
 					"kindString": "Property",
@@ -8427,7 +8491,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/contexts/CommandContext.ts",
-							"line": 35,
+							"line": 37,
 							"character": 8
 						}
 					],
@@ -8436,15 +8500,14 @@
 						"typeArguments": [
 							{
 								"type": "reference",
-								"id": 2991,
-								"name": "Cached"
+								"name": "CacheType"
 							}
 						],
-						"name": "CommandInteractionOptionResolver"
+						"name": "ArgumentsType"
 					}
 				},
 				{
-					"id": 3030,
+					"id": 3036,
 					"name": "channel",
 					"kind": 1024,
 					"kindString": "Property",
@@ -8455,7 +8518,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/contexts/Context.ts",
-							"line": 34,
+							"line": 35,
 							"character": 17
 						}
 					],
@@ -8464,7 +8527,7 @@
 						"typeArguments": [
 							{
 								"type": "reference",
-								"id": 2991,
+								"id": 2997,
 								"name": "Cached"
 							},
 							{
@@ -8488,12 +8551,12 @@
 					},
 					"inheritedFrom": {
 						"type": "reference",
-						"id": 2925,
+						"id": 2926,
 						"name": "Context.channel"
 					}
 				},
 				{
-					"id": 3031,
+					"id": 3037,
 					"name": "channelId",
 					"kind": 1024,
 					"kindString": "Property",
@@ -8503,7 +8566,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/contexts/Context.ts",
-							"line": 39,
+							"line": 40,
 							"character": 8
 						}
 					],
@@ -8513,12 +8576,12 @@
 					},
 					"inheritedFrom": {
 						"type": "reference",
-						"id": 2926,
+						"id": 2927,
 						"name": "Context.channelId"
 					}
 				},
 				{
-					"id": 3029,
+					"id": 3035,
 					"name": "client",
 					"kind": 1024,
 					"kindString": "Property",
@@ -8529,7 +8592,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/contexts/Context.ts",
-							"line": 33,
+							"line": 34,
 							"character": 17
 						}
 					],
@@ -8546,12 +8609,12 @@
 					},
 					"inheritedFrom": {
 						"type": "reference",
-						"id": 2924,
+						"id": 2925,
 						"name": "Context.client"
 					}
 				},
 				{
-					"id": 2996,
+					"id": 3002,
 					"name": "command",
 					"kind": 1024,
 					"kindString": "Property",
@@ -8562,7 +8625,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/contexts/CommandContext.ts",
-							"line": 33,
+							"line": 35,
 							"character": 17
 						}
 					],
@@ -8573,7 +8636,7 @@
 					}
 				},
 				{
-					"id": 2997,
+					"id": 3003,
 					"name": "commandName",
 					"kind": 1024,
 					"kindString": "Property",
@@ -8584,7 +8647,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/contexts/CommandContext.ts",
-							"line": 34,
+							"line": 36,
 							"character": 17
 						}
 					],
@@ -8594,34 +8657,8 @@
 					}
 				},
 				{
-					"id": 3032,
+					"id": 3038,
 					"name": "createdAt",
-					"kind": 1024,
-					"kindString": "Property",
-					"flags": {
-						"isPublic": true,
-						"isReadonly": true
-					},
-					"sources": [
-						{
-							"fileName": "src/lib/structures/contexts/Context.ts",
-							"line": 40,
-							"character": 17
-						}
-					],
-					"type": {
-						"type": "reference",
-						"name": "Date"
-					},
-					"inheritedFrom": {
-						"type": "reference",
-						"id": 2927,
-						"name": "Context.createdAt"
-					}
-				},
-				{
-					"id": 3033,
-					"name": "createdTimestamp",
 					"kind": 1024,
 					"kindString": "Property",
 					"flags": {
@@ -8636,17 +8673,43 @@
 						}
 					],
 					"type": {
+						"type": "reference",
+						"name": "Date"
+					},
+					"inheritedFrom": {
+						"type": "reference",
+						"id": 2928,
+						"name": "Context.createdAt"
+					}
+				},
+				{
+					"id": 3039,
+					"name": "createdTimestamp",
+					"kind": 1024,
+					"kindString": "Property",
+					"flags": {
+						"isPublic": true,
+						"isReadonly": true
+					},
+					"sources": [
+						{
+							"fileName": "src/lib/structures/contexts/Context.ts",
+							"line": 42,
+							"character": 17
+						}
+					],
+					"type": {
 						"type": "intrinsic",
 						"name": "number"
 					},
 					"inheritedFrom": {
 						"type": "reference",
-						"id": 2928,
+						"id": 2929,
 						"name": "Context.createdTimestamp"
 					}
 				},
 				{
-					"id": 3001,
+					"id": 3007,
 					"name": "deferReply",
 					"kind": 1024,
 					"kindString": "Property",
@@ -8656,28 +8719,28 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/contexts/CommandContext.ts",
-							"line": 38,
+							"line": 40,
 							"character": 8
 						}
 					],
 					"type": {
 						"type": "reflection",
 						"declaration": {
-							"id": 3002,
+							"id": 3008,
 							"name": "__type",
 							"kind": 65536,
 							"kindString": "Type literal",
 							"flags": {},
 							"signatures": [
 								{
-									"id": 3003,
+									"id": 3009,
 									"name": "__type",
 									"kind": 4096,
 									"kindString": "Call signature",
 									"flags": {},
 									"typeParameter": [
 										{
-											"id": 3004,
+											"id": 3010,
 											"name": "Fetch",
 											"kind": 131072,
 											"kindString": "Type parameter",
@@ -8694,7 +8757,7 @@
 									],
 									"parameters": [
 										{
-											"id": 3005,
+											"id": 3011,
 											"name": "options",
 											"kind": 32768,
 											"kindString": "Parameter",
@@ -8711,14 +8774,14 @@
 													{
 														"type": "reflection",
 														"declaration": {
-															"id": 3006,
+															"id": 3012,
 															"name": "__type",
 															"kind": 65536,
 															"kindString": "Type literal",
 															"flags": {},
 															"children": [
 																{
-																	"id": 3007,
+																	"id": 3013,
 																	"name": "fetchReply",
 																	"kind": 1024,
 																	"kindString": "Property",
@@ -8728,13 +8791,13 @@
 																	"sources": [
 																		{
 																			"fileName": "src/lib/structures/contexts/CommandContext.ts",
-																			"line": 38,
+																			"line": 40,
 																			"character": 97
 																		}
 																	],
 																	"type": {
 																		"type": "reference",
-																		"id": 3004,
+																		"id": 3010,
 																		"name": "Fetch"
 																	}
 																}
@@ -8744,7 +8807,7 @@
 																	"title": "Properties",
 																	"kind": 1024,
 																	"children": [
-																		3007
+																		3013
 																	]
 																}
 															]
@@ -8761,7 +8824,7 @@
 												"type": "conditional",
 												"checkType": {
 													"type": "reference",
-													"id": 3004,
+													"id": 3010,
 													"name": "Fetch"
 												},
 												"extendsType": {
@@ -8773,7 +8836,7 @@
 													"typeArguments": [
 														{
 															"type": "reference",
-															"id": 2991,
+															"id": 2997,
 															"name": "Cached"
 														},
 														{
@@ -8845,7 +8908,7 @@
 					}
 				},
 				{
-					"id": 2999,
+					"id": 3005,
 					"name": "deferred",
 					"kind": 1024,
 					"kindString": "Property",
@@ -8855,7 +8918,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/contexts/CommandContext.ts",
-							"line": 36,
+							"line": 38,
 							"character": 8
 						}
 					],
@@ -8866,7 +8929,7 @@
 					"defaultValue": "false"
 				},
 				{
-					"id": 3008,
+					"id": 3014,
 					"name": "deleteReply",
 					"kind": 1024,
 					"kindString": "Property",
@@ -8876,21 +8939,21 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/contexts/CommandContext.ts",
-							"line": 39,
+							"line": 41,
 							"character": 8
 						}
 					],
 					"type": {
 						"type": "reflection",
 						"declaration": {
-							"id": 3009,
+							"id": 3015,
 							"name": "__type",
 							"kind": 65536,
 							"kindString": "Type literal",
 							"flags": {},
 							"signatures": [
 								{
-									"id": 3010,
+									"id": 3016,
 									"name": "__type",
 									"kind": 4096,
 									"kindString": "Call signature",
@@ -8911,7 +8974,7 @@
 					}
 				},
 				{
-					"id": 3011,
+					"id": 3017,
 					"name": "editReply",
 					"kind": 1024,
 					"kindString": "Property",
@@ -8921,28 +8984,28 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/contexts/CommandContext.ts",
-							"line": 40,
+							"line": 42,
 							"character": 8
 						}
 					],
 					"type": {
 						"type": "reflection",
 						"declaration": {
-							"id": 3012,
+							"id": 3018,
 							"name": "__type",
 							"kind": 65536,
 							"kindString": "Type literal",
 							"flags": {},
 							"signatures": [
 								{
-									"id": 3013,
+									"id": 3019,
 									"name": "__type",
 									"kind": 4096,
 									"kindString": "Call signature",
 									"flags": {},
 									"parameters": [
 										{
-											"id": 3014,
+											"id": 3020,
 											"name": "options",
 											"kind": 32768,
 											"kindString": "Parameter",
@@ -8974,7 +9037,7 @@
 												"typeArguments": [
 													{
 														"type": "reference",
-														"id": 2991,
+														"id": 2997,
 														"name": "Cached"
 													},
 													{
@@ -9041,7 +9104,7 @@
 					}
 				},
 				{
-					"id": 3015,
+					"id": 3021,
 					"name": "fetchReply",
 					"kind": 1024,
 					"kindString": "Property",
@@ -9051,21 +9114,21 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/contexts/CommandContext.ts",
-							"line": 41,
+							"line": 43,
 							"character": 8
 						}
 					],
 					"type": {
 						"type": "reflection",
 						"declaration": {
-							"id": 3016,
+							"id": 3022,
 							"name": "__type",
 							"kind": 65536,
 							"kindString": "Type literal",
 							"flags": {},
 							"signatures": [
 								{
-									"id": 3017,
+									"id": 3023,
 									"name": "__type",
 									"kind": 4096,
 									"kindString": "Call signature",
@@ -9078,7 +9141,7 @@
 												"typeArguments": [
 													{
 														"type": "reference",
-														"id": 2991,
+														"id": 2997,
 														"name": "Cached"
 													},
 													{
@@ -9145,7 +9208,7 @@
 					}
 				},
 				{
-					"id": 3018,
+					"id": 3024,
 					"name": "followUp",
 					"kind": 1024,
 					"kindString": "Property",
@@ -9155,28 +9218,28 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/contexts/CommandContext.ts",
-							"line": 42,
+							"line": 44,
 							"character": 8
 						}
 					],
 					"type": {
 						"type": "reflection",
 						"declaration": {
-							"id": 3019,
+							"id": 3025,
 							"name": "__type",
 							"kind": 65536,
 							"kindString": "Type literal",
 							"flags": {},
 							"signatures": [
 								{
-									"id": 3020,
+									"id": 3026,
 									"name": "__type",
 									"kind": 4096,
 									"kindString": "Call signature",
 									"flags": {},
 									"parameters": [
 										{
-											"id": 3021,
+											"id": 3027,
 											"name": "options",
 											"kind": 32768,
 											"kindString": "Parameter",
@@ -9208,7 +9271,7 @@
 												"typeArguments": [
 													{
 														"type": "reference",
-														"id": 2991,
+														"id": 2997,
 														"name": "Cached"
 													},
 													{
@@ -9275,7 +9338,7 @@
 					}
 				},
 				{
-					"id": 3034,
+					"id": 3040,
 					"name": "guild",
 					"kind": 1024,
 					"kindString": "Property",
@@ -9286,7 +9349,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/contexts/Context.ts",
-							"line": 42,
+							"line": 43,
 							"character": 17
 						}
 					],
@@ -9295,7 +9358,7 @@
 						"typeArguments": [
 							{
 								"type": "reference",
-								"id": 2991,
+								"id": 2997,
 								"name": "Cached"
 							},
 							{
@@ -9319,12 +9382,12 @@
 					},
 					"inheritedFrom": {
 						"type": "reference",
-						"id": 2929,
+						"id": 2930,
 						"name": "Context.guild"
 					}
 				},
 				{
-					"id": 3035,
+					"id": 3041,
 					"name": "guildId",
 					"kind": 1024,
 					"kindString": "Property",
@@ -9334,7 +9397,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/contexts/Context.ts",
-							"line": 43,
+							"line": 44,
 							"character": 8
 						}
 					],
@@ -9343,7 +9406,7 @@
 						"typeArguments": [
 							{
 								"type": "reference",
-								"id": 2991,
+								"id": 2997,
 								"name": "Cached"
 							},
 							{
@@ -9367,12 +9430,12 @@
 					},
 					"inheritedFrom": {
 						"type": "reference",
-						"id": 2930,
+						"id": 2931,
 						"name": "Context.guildId"
 					}
 				},
 				{
-					"id": 2994,
+					"id": 3000,
 					"name": "interaction",
 					"kind": 1024,
 					"kindString": "Property",
@@ -9383,7 +9446,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/contexts/CommandContext.ts",
-							"line": 31,
+							"line": 33,
 							"character": 8
 						}
 					],
@@ -9414,7 +9477,7 @@
 					}
 				},
 				{
-					"id": 3036,
+					"id": 3042,
 					"name": "member",
 					"kind": 1024,
 					"kindString": "Property",
@@ -9424,7 +9487,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/contexts/Context.ts",
-							"line": 44,
+							"line": 45,
 							"character": 8
 						}
 					],
@@ -9433,7 +9496,7 @@
 						"typeArguments": [
 							{
 								"type": "reference",
-								"id": 2991,
+								"id": 2997,
 								"name": "Cached"
 							},
 							{
@@ -9475,12 +9538,12 @@
 					},
 					"inheritedFrom": {
 						"type": "reference",
-						"id": 2931,
+						"id": 2932,
 						"name": "Context.member"
 					}
 				},
 				{
-					"id": 3039,
+					"id": 3045,
 					"name": "memberPermissions",
 					"kind": 1024,
 					"kindString": "Property",
@@ -9490,7 +9553,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/contexts/Context.ts",
-							"line": 47,
+							"line": 48,
 							"character": 8
 						}
 					],
@@ -9499,7 +9562,7 @@
 						"typeArguments": [
 							{
 								"type": "reference",
-								"id": 2991,
+								"id": 2997,
 								"name": "Cached"
 							},
 							{
@@ -9547,12 +9610,12 @@
 					},
 					"inheritedFrom": {
 						"type": "reference",
-						"id": 2934,
+						"id": 2935,
 						"name": "Context.memberPermissions"
 					}
 				},
 				{
-					"id": 2995,
+					"id": 3001,
 					"name": "message",
 					"kind": 1024,
 					"kindString": "Property",
@@ -9563,7 +9626,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/contexts/CommandContext.ts",
-							"line": 32,
+							"line": 34,
 							"character": 8
 						}
 					],
@@ -9579,7 +9642,7 @@
 					}
 				},
 				{
-					"id": 3000,
+					"id": 3006,
 					"name": "replied",
 					"kind": 1024,
 					"kindString": "Property",
@@ -9589,7 +9652,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/contexts/CommandContext.ts",
-							"line": 37,
+							"line": 39,
 							"character": 8
 						}
 					],
@@ -9600,7 +9663,7 @@
 					"defaultValue": "false"
 				},
 				{
-					"id": 3022,
+					"id": 3028,
 					"name": "reply",
 					"kind": 1024,
 					"kindString": "Property",
@@ -9610,28 +9673,28 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/contexts/CommandContext.ts",
-							"line": 43,
+							"line": 45,
 							"character": 8
 						}
 					],
 					"type": {
 						"type": "reflection",
 						"declaration": {
-							"id": 3023,
+							"id": 3029,
 							"name": "__type",
 							"kind": 65536,
 							"kindString": "Type literal",
 							"flags": {},
 							"signatures": [
 								{
-									"id": 3024,
+									"id": 3030,
 									"name": "__type",
 									"kind": 4096,
 									"kindString": "Call signature",
 									"flags": {},
 									"typeParameter": [
 										{
-											"id": 3025,
+											"id": 3031,
 											"name": "Fetch",
 											"kind": 131072,
 											"kindString": "Type parameter",
@@ -9648,7 +9711,7 @@
 									],
 									"parameters": [
 										{
-											"id": 3026,
+											"id": 3032,
 											"name": "options",
 											"kind": 32768,
 											"kindString": "Parameter",
@@ -9680,14 +9743,14 @@
 															{
 																"type": "reflection",
 																"declaration": {
-																	"id": 3027,
+																	"id": 3033,
 																	"name": "__type",
 																	"kind": 65536,
 																	"kindString": "Type literal",
 																	"flags": {},
 																	"children": [
 																		{
-																			"id": 3028,
+																			"id": 3034,
 																			"name": "fetchReply",
 																			"kind": 1024,
 																			"kindString": "Property",
@@ -9697,13 +9760,13 @@
 																			"sources": [
 																				{
 																					"fileName": "src/lib/structures/contexts/CommandContext.ts",
-																					"line": 43,
+																					"line": 45,
 																					"character": 87
 																				}
 																			],
 																			"type": {
 																				"type": "reference",
-																				"id": 3025,
+																				"id": 3031,
 																				"name": "Fetch"
 																			}
 																		}
@@ -9713,7 +9776,7 @@
 																			"title": "Properties",
 																			"kind": 1024,
 																			"children": [
-																				3028
+																				3034
 																			]
 																		}
 																	]
@@ -9732,7 +9795,7 @@
 												"type": "conditional",
 												"checkType": {
 													"type": "reference",
-													"id": 3025,
+													"id": 3031,
 													"name": "Fetch"
 												},
 												"extendsType": {
@@ -9744,7 +9807,7 @@
 													"typeArguments": [
 														{
 															"type": "reference",
-															"id": 2991,
+															"id": 2997,
 															"name": "Cached"
 														},
 														{
@@ -9816,7 +9879,7 @@
 					}
 				},
 				{
-					"id": 3040,
+					"id": 3046,
 					"name": "type",
 					"kind": 1024,
 					"kindString": "Property",
@@ -9826,7 +9889,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/contexts/Context.ts",
-							"line": 48,
+							"line": 49,
 							"character": 8
 						}
 					],
@@ -9853,38 +9916,13 @@
 					},
 					"inheritedFrom": {
 						"type": "reference",
-						"id": 2935,
+						"id": 2936,
 						"name": "Context.type"
 					}
 				},
 				{
-					"id": 3037,
+					"id": 3043,
 					"name": "user",
-					"kind": 1024,
-					"kindString": "Property",
-					"flags": {
-						"isPublic": true
-					},
-					"sources": [
-						{
-							"fileName": "src/lib/structures/contexts/Context.ts",
-							"line": 45,
-							"character": 8
-						}
-					],
-					"type": {
-						"type": "reference",
-						"name": "User"
-					},
-					"inheritedFrom": {
-						"type": "reference",
-						"id": 2932,
-						"name": "Context.user"
-					}
-				},
-				{
-					"id": 3038,
-					"name": "userId",
 					"kind": 1024,
 					"kindString": "Property",
 					"flags": {
@@ -9898,17 +9936,105 @@
 						}
 					],
 					"type": {
+						"type": "reference",
+						"name": "User"
+					},
+					"inheritedFrom": {
+						"type": "reference",
+						"id": 2933,
+						"name": "Context.user"
+					}
+				},
+				{
+					"id": 3044,
+					"name": "userId",
+					"kind": 1024,
+					"kindString": "Property",
+					"flags": {
+						"isPublic": true
+					},
+					"sources": [
+						{
+							"fileName": "src/lib/structures/contexts/Context.ts",
+							"line": 47,
+							"character": 8
+						}
+					],
+					"type": {
 						"type": "intrinsic",
 						"name": "string"
 					},
 					"inheritedFrom": {
 						"type": "reference",
-						"id": 2933,
+						"id": 2934,
 						"name": "Context.userId"
 					}
 				},
 				{
-					"id": 3043,
+					"id": 3047,
+					"name": "getDatabase",
+					"kind": 2048,
+					"kindString": "Method",
+					"flags": {
+						"isPublic": true
+					},
+					"sources": [
+						{
+							"fileName": "src/lib/structures/contexts/Context.ts",
+							"line": 66,
+							"character": 8
+						}
+					],
+					"signatures": [
+						{
+							"id": 3048,
+							"name": "getDatabase",
+							"kind": 4096,
+							"kindString": "Call signature",
+							"flags": {},
+							"typeParameter": [
+								{
+									"id": 3049,
+									"name": "Database",
+									"kind": 131072,
+									"kindString": "Type parameter",
+									"flags": {}
+								}
+							],
+							"parameters": [
+								{
+									"id": 3050,
+									"name": "_",
+									"kind": 32768,
+									"kindString": "Parameter",
+									"flags": {},
+									"type": {
+										"type": "reference",
+										"id": 2939,
+										"name": "Database"
+									}
+								}
+							],
+							"type": {
+								"type": "reference",
+								"id": 2939,
+								"name": "Database"
+							},
+							"inheritedFrom": {
+								"type": "reference",
+								"id": 2938,
+								"name": "Context.getDatabase"
+							}
+						}
+					],
+					"inheritedFrom": {
+						"type": "reference",
+						"id": 2937,
+						"name": "Context.getDatabase"
+					}
+				},
+				{
+					"id": 3053,
 					"name": "inCachedGuild",
 					"kind": 2048,
 					"kindString": "Method",
@@ -9918,13 +10044,13 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/contexts/Context.ts",
-							"line": 69,
+							"line": 74,
 							"character": 8
 						}
 					],
 					"signatures": [
 						{
-							"id": 3044,
+							"id": 3054,
 							"name": "inCachedGuild",
 							"kind": 4096,
 							"kindString": "Call signature",
@@ -9935,7 +10061,7 @@
 								"asserts": false,
 								"targetType": {
 									"type": "reference",
-									"id": 2918,
+									"id": 2919,
 									"typeArguments": [
 										{
 											"type": "literal",
@@ -9947,19 +10073,19 @@
 							},
 							"inheritedFrom": {
 								"type": "reference",
-								"id": 2939,
+								"id": 2944,
 								"name": "Context.inCachedGuild"
 							}
 						}
 					],
 					"inheritedFrom": {
 						"type": "reference",
-						"id": 2938,
+						"id": 2943,
 						"name": "Context.inCachedGuild"
 					}
 				},
 				{
-					"id": 3041,
+					"id": 3051,
 					"name": "inGuild",
 					"kind": 2048,
 					"kindString": "Method",
@@ -9969,13 +10095,13 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/contexts/Context.ts",
-							"line": 65,
+							"line": 70,
 							"character": 8
 						}
 					],
 					"signatures": [
 						{
-							"id": 3042,
+							"id": 3052,
 							"name": "inGuild",
 							"kind": 4096,
 							"kindString": "Call signature",
@@ -9986,7 +10112,7 @@
 								"asserts": false,
 								"targetType": {
 									"type": "reference",
-									"id": 2918,
+									"id": 2919,
 									"typeArguments": [
 										{
 											"type": "literal",
@@ -9998,19 +10124,19 @@
 							},
 							"inheritedFrom": {
 								"type": "reference",
-								"id": 2937,
+								"id": 2942,
 								"name": "Context.inGuild"
 							}
 						}
 					],
 					"inheritedFrom": {
 						"type": "reference",
-						"id": 2936,
+						"id": 2941,
 						"name": "Context.inGuild"
 					}
 				},
 				{
-					"id": 3045,
+					"id": 3055,
 					"name": "inRawGuild",
 					"kind": 2048,
 					"kindString": "Method",
@@ -10020,13 +10146,13 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/contexts/Context.ts",
-							"line": 73,
+							"line": 78,
 							"character": 8
 						}
 					],
 					"signatures": [
 						{
-							"id": 3046,
+							"id": 3056,
 							"name": "inRawGuild",
 							"kind": 4096,
 							"kindString": "Call signature",
@@ -10037,7 +10163,7 @@
 								"asserts": false,
 								"targetType": {
 									"type": "reference",
-									"id": 2918,
+									"id": 2919,
 									"typeArguments": [
 										{
 											"type": "literal",
@@ -10049,19 +10175,19 @@
 							},
 							"inheritedFrom": {
 								"type": "reference",
-								"id": 2941,
+								"id": 2946,
 								"name": "Context.inRawGuild"
 							}
 						}
 					],
 					"inheritedFrom": {
 						"type": "reference",
-						"id": 2940,
+						"id": 2945,
 						"name": "Context.inRawGuild"
 					}
 				},
 				{
-					"id": 3049,
+					"id": 3059,
 					"name": "isAutocomplete",
 					"kind": 2048,
 					"kindString": "Method",
@@ -10071,13 +10197,13 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/contexts/Context.ts",
-							"line": 81,
+							"line": 86,
 							"character": 8
 						}
 					],
 					"signatures": [
 						{
-							"id": 3050,
+							"id": 3060,
 							"name": "isAutocomplete",
 							"kind": 4096,
 							"kindString": "Call signature",
@@ -10088,7 +10214,7 @@
 								"asserts": false,
 								"targetType": {
 									"type": "reference",
-									"id": 3195,
+									"id": 3211,
 									"typeArguments": [
 										{
 											"type": "reference",
@@ -10100,19 +10226,19 @@
 							},
 							"inheritedFrom": {
 								"type": "reference",
-								"id": 2945,
+								"id": 2950,
 								"name": "Context.isAutocomplete"
 							}
 						}
 					],
 					"inheritedFrom": {
 						"type": "reference",
-						"id": 2944,
+						"id": 2949,
 						"name": "Context.isAutocomplete"
 					}
 				},
 				{
-					"id": 3053,
+					"id": 3063,
 					"name": "isButton",
 					"kind": 2048,
 					"kindString": "Method",
@@ -10122,13 +10248,13 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/contexts/Context.ts",
-							"line": 89,
+							"line": 94,
 							"character": 8
 						}
 					],
 					"signatures": [
 						{
-							"id": 3054,
+							"id": 3064,
 							"name": "isButton",
 							"kind": 4096,
 							"kindString": "Call signature",
@@ -10139,7 +10265,7 @@
 								"asserts": false,
 								"targetType": {
 									"type": "reference",
-									"id": 3101,
+									"id": 3112,
 									"typeArguments": [
 										{
 											"type": "reference",
@@ -10151,19 +10277,19 @@
 							},
 							"inheritedFrom": {
 								"type": "reference",
-								"id": 2949,
+								"id": 2954,
 								"name": "Context.isButton"
 							}
 						}
 					],
 					"inheritedFrom": {
 						"type": "reference",
-						"id": 2948,
+						"id": 2953,
 						"name": "Context.isButton"
 					}
 				},
 				{
-					"id": 3047,
+					"id": 3057,
 					"name": "isCommand",
 					"kind": 2048,
 					"kindString": "Method",
@@ -10173,13 +10299,13 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/contexts/Context.ts",
-							"line": 77,
+							"line": 82,
 							"character": 8
 						}
 					],
 					"signatures": [
 						{
-							"id": 3048,
+							"id": 3058,
 							"name": "isCommand",
 							"kind": 4096,
 							"kindString": "Call signature",
@@ -10190,7 +10316,7 @@
 								"asserts": false,
 								"targetType": {
 									"type": "reference",
-									"id": 2988,
+									"id": 2994,
 									"typeArguments": [
 										{
 											"type": "reference",
@@ -10202,19 +10328,19 @@
 							},
 							"inheritedFrom": {
 								"type": "reference",
-								"id": 2943,
+								"id": 2948,
 								"name": "Context.isCommand"
 							}
 						}
 					],
 					"inheritedFrom": {
 						"type": "reference",
-						"id": 2942,
+						"id": 2947,
 						"name": "Context.isCommand"
 					}
 				},
 				{
-					"id": 3051,
+					"id": 3061,
 					"name": "isComponent",
 					"kind": 2048,
 					"kindString": "Method",
@@ -10224,13 +10350,13 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/contexts/Context.ts",
-							"line": 85,
+							"line": 90,
 							"character": 8
 						}
 					],
 					"signatures": [
 						{
-							"id": 3052,
+							"id": 3062,
 							"name": "isComponent",
 							"kind": 4096,
 							"kindString": "Call signature",
@@ -10241,7 +10367,7 @@
 								"asserts": false,
 								"targetType": {
 									"type": "reference",
-									"id": 3101,
+									"id": 3112,
 									"typeArguments": [
 										{
 											"type": "reference",
@@ -10253,19 +10379,19 @@
 							},
 							"inheritedFrom": {
 								"type": "reference",
-								"id": 2947,
+								"id": 2952,
 								"name": "Context.isComponent"
 							}
 						}
 					],
 					"inheritedFrom": {
 						"type": "reference",
-						"id": 2946,
+						"id": 2951,
 						"name": "Context.isComponent"
 					}
 				},
 				{
-					"id": 3055,
+					"id": 3065,
 					"name": "isSelectMenu",
 					"kind": 2048,
 					"kindString": "Method",
@@ -10275,13 +10401,13 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/contexts/Context.ts",
-							"line": 93,
+							"line": 98,
 							"character": 8
 						}
 					],
 					"signatures": [
 						{
-							"id": 3056,
+							"id": 3066,
 							"name": "isSelectMenu",
 							"kind": 4096,
 							"kindString": "Call signature",
@@ -10292,7 +10418,7 @@
 								"asserts": false,
 								"targetType": {
 									"type": "reference",
-									"id": 3101,
+									"id": 3112,
 									"typeArguments": [
 										{
 											"type": "reference",
@@ -10304,14 +10430,14 @@
 							},
 							"inheritedFrom": {
 								"type": "reference",
-								"id": 2951,
+								"id": 2956,
 								"name": "Context.isSelectMenu"
 							}
 						}
 					],
 					"inheritedFrom": {
 						"type": "reference",
-						"id": 2950,
+						"id": 2955,
 						"name": "Context.isSelectMenu"
 					}
 				}
@@ -10321,65 +10447,66 @@
 					"title": "Constructors",
 					"kind": 512,
 					"children": [
-						2989
+						2995
 					]
 				},
 				{
 					"title": "Properties",
 					"kind": 1024,
 					"children": [
-						2998,
-						3030,
-						3031,
-						3029,
-						2996,
-						2997,
-						3032,
-						3033,
-						3001,
-						2999,
-						3008,
-						3011,
-						3015,
-						3018,
-						3034,
-						3035,
-						2994,
+						3004,
 						3036,
-						3039,
-						2995,
-						3000,
-						3022,
-						3040,
 						3037,
-						3038
+						3035,
+						3002,
+						3003,
+						3038,
+						3039,
+						3007,
+						3005,
+						3014,
+						3017,
+						3021,
+						3024,
+						3040,
+						3041,
+						3000,
+						3042,
+						3045,
+						3001,
+						3006,
+						3028,
+						3046,
+						3043,
+						3044
 					]
 				},
 				{
 					"title": "Methods",
 					"kind": 2048,
 					"children": [
-						3043,
-						3041,
-						3045,
-						3049,
-						3053,
 						3047,
+						3053,
 						3051,
-						3055
+						3055,
+						3059,
+						3063,
+						3057,
+						3061,
+						3065
 					]
 				}
 			],
 			"sources": [
 				{
 					"fileName": "src/lib/structures/contexts/CommandContext.ts",
-					"line": 30,
+					"line": 32,
 					"character": 13
 				}
 			],
 			"typeParameter": [
 				{
-					"id": 3057,
+					"id": 3067,
 					"name": "Cached",
 					"kind": 131072,
 					"kindString": "Type parameter",
@@ -10397,11 +10524,11 @@
 			"extendedTypes": [
 				{
 					"type": "reference",
-					"id": 2918,
+					"id": 2919,
 					"typeArguments": [
 						{
 							"type": "reference",
-							"id": 2991,
+							"id": 2997,
 							"name": "Cached"
 						}
 					],
@@ -19098,7 +19225,7 @@
 											"flags": {},
 											"type": {
 												"type": "reference",
-												"id": 3101,
+												"id": 3112,
 												"typeArguments": [
 													{
 														"type": "reference",
@@ -19211,7 +19338,7 @@
 											"flags": {},
 											"type": {
 												"type": "reference",
-												"id": 3101,
+												"id": 3112,
 												"typeArguments": [
 													{
 														"type": "reference",
@@ -19328,7 +19455,7 @@
 									"flags": {},
 									"type": {
 										"type": "reference",
-										"id": 3101,
+										"id": 3112,
 										"typeArguments": [
 											{
 												"type": "reference",
@@ -19604,14 +19731,14 @@
 			]
 		},
 		{
-			"id": 3101,
+			"id": 3112,
 			"name": "ComponentContext",
 			"kind": 128,
 			"kindString": "Class",
 			"flags": {},
 			"children": [
 				{
-					"id": 3102,
+					"id": 3113,
 					"name": "constructor",
 					"kind": 512,
 					"kindString": "Constructor",
@@ -19625,14 +19752,14 @@
 					],
 					"signatures": [
 						{
-							"id": 3103,
+							"id": 3114,
 							"name": "new ComponentContext",
 							"kind": 16384,
 							"kindString": "Constructor signature",
 							"flags": {},
 							"typeParameter": [
 								{
-									"id": 3104,
+									"id": 3115,
 									"name": "Cached",
 									"kind": 131072,
 									"kindString": "Type parameter",
@@ -19649,7 +19776,7 @@
 							],
 							"parameters": [
 								{
-									"id": 3105,
+									"id": 3116,
 									"name": "client",
 									"kind": 32768,
 									"kindString": "Parameter",
@@ -19667,18 +19794,18 @@
 									}
 								},
 								{
-									"id": 3106,
+									"id": 3117,
 									"name": "options",
 									"kind": 32768,
 									"kindString": "Parameter",
 									"flags": {},
 									"type": {
 										"type": "reference",
-										"id": 3058,
+										"id": 3068,
 										"typeArguments": [
 											{
 												"type": "reference",
-												"id": 3104,
+												"id": 3115,
 												"name": "Cached"
 											}
 										],
@@ -19688,11 +19815,11 @@
 							],
 							"type": {
 								"type": "reference",
-								"id": 3101,
+								"id": 3112,
 								"typeArguments": [
 									{
 										"type": "reference",
-										"id": 3104,
+										"id": 3115,
 										"name": "Cached"
 									}
 								],
@@ -19700,19 +19827,19 @@
 							},
 							"overwrites": {
 								"type": "reference",
-								"id": 2920,
+								"id": 2921,
 								"name": "Context.constructor"
 							}
 						}
 					],
 					"overwrites": {
 						"type": "reference",
-						"id": 2919,
+						"id": 2920,
 						"name": "Context.constructor"
 					}
 				},
 				{
-					"id": 3111,
+					"id": 3122,
 					"name": "arguments",
 					"kind": 1024,
 					"kindString": "Property",
@@ -19735,7 +19862,7 @@
 					}
 				},
 				{
-					"id": 3151,
+					"id": 3162,
 					"name": "channel",
 					"kind": 1024,
 					"kindString": "Property",
@@ -19746,7 +19873,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/contexts/Context.ts",
-							"line": 34,
+							"line": 35,
 							"character": 17
 						}
 					],
@@ -19755,7 +19882,7 @@
 						"typeArguments": [
 							{
 								"type": "reference",
-								"id": 3104,
+								"id": 3115,
 								"name": "Cached"
 							},
 							{
@@ -19779,12 +19906,12 @@
 					},
 					"inheritedFrom": {
 						"type": "reference",
-						"id": 2925,
+						"id": 2926,
 						"name": "Context.channel"
 					}
 				},
 				{
-					"id": 3152,
+					"id": 3163,
 					"name": "channelId",
 					"kind": 1024,
 					"kindString": "Property",
@@ -19794,7 +19921,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/contexts/Context.ts",
-							"line": 39,
+							"line": 40,
 							"character": 8
 						}
 					],
@@ -19804,12 +19931,12 @@
 					},
 					"inheritedFrom": {
 						"type": "reference",
-						"id": 2926,
+						"id": 2927,
 						"name": "Context.channelId"
 					}
 				},
 				{
-					"id": 3150,
+					"id": 3161,
 					"name": "client",
 					"kind": 1024,
 					"kindString": "Property",
@@ -19820,7 +19947,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/contexts/Context.ts",
-							"line": 33,
+							"line": 34,
 							"character": 17
 						}
 					],
@@ -19837,12 +19964,12 @@
 					},
 					"inheritedFrom": {
 						"type": "reference",
-						"id": 2924,
+						"id": 2925,
 						"name": "Context.client"
 					}
 				},
 				{
-					"id": 3108,
+					"id": 3119,
 					"name": "component",
 					"kind": 1024,
 					"kindString": "Property",
@@ -19864,7 +19991,7 @@
 					}
 				},
 				{
-					"id": 3109,
+					"id": 3120,
 					"name": "componentName",
 					"kind": 1024,
 					"kindString": "Property",
@@ -19885,34 +20012,8 @@
 					}
 				},
 				{
-					"id": 3153,
+					"id": 3164,
 					"name": "createdAt",
-					"kind": 1024,
-					"kindString": "Property",
-					"flags": {
-						"isPublic": true,
-						"isReadonly": true
-					},
-					"sources": [
-						{
-							"fileName": "src/lib/structures/contexts/Context.ts",
-							"line": 40,
-							"character": 17
-						}
-					],
-					"type": {
-						"type": "reference",
-						"name": "Date"
-					},
-					"inheritedFrom": {
-						"type": "reference",
-						"id": 2927,
-						"name": "Context.createdAt"
-					}
-				},
-				{
-					"id": 3154,
-					"name": "createdTimestamp",
 					"kind": 1024,
 					"kindString": "Property",
 					"flags": {
@@ -19927,17 +20028,43 @@
 						}
 					],
 					"type": {
+						"type": "reference",
+						"name": "Date"
+					},
+					"inheritedFrom": {
+						"type": "reference",
+						"id": 2928,
+						"name": "Context.createdAt"
+					}
+				},
+				{
+					"id": 3165,
+					"name": "createdTimestamp",
+					"kind": 1024,
+					"kindString": "Property",
+					"flags": {
+						"isPublic": true,
+						"isReadonly": true
+					},
+					"sources": [
+						{
+							"fileName": "src/lib/structures/contexts/Context.ts",
+							"line": 42,
+							"character": 17
+						}
+					],
+					"type": {
 						"type": "intrinsic",
 						"name": "number"
 					},
 					"inheritedFrom": {
 						"type": "reference",
-						"id": 2928,
+						"id": 2929,
 						"name": "Context.createdTimestamp"
 					}
 				},
 				{
-					"id": 3110,
+					"id": 3121,
 					"name": "customId",
 					"kind": 1024,
 					"kindString": "Property",
@@ -19958,7 +20085,7 @@
 					}
 				},
 				{
-					"id": 3115,
+					"id": 3126,
 					"name": "deferReply",
 					"kind": 1024,
 					"kindString": "Property",
@@ -19975,21 +20102,21 @@
 					"type": {
 						"type": "reflection",
 						"declaration": {
-							"id": 3116,
+							"id": 3127,
 							"name": "__type",
 							"kind": 65536,
 							"kindString": "Type literal",
 							"flags": {},
 							"signatures": [
 								{
-									"id": 3117,
+									"id": 3128,
 									"name": "__type",
 									"kind": 4096,
 									"kindString": "Call signature",
 									"flags": {},
 									"typeParameter": [
 										{
-											"id": 3118,
+											"id": 3129,
 											"name": "Fetch",
 											"kind": 131072,
 											"kindString": "Type parameter",
@@ -20006,7 +20133,7 @@
 									],
 									"parameters": [
 										{
-											"id": 3119,
+											"id": 3130,
 											"name": "options",
 											"kind": 32768,
 											"kindString": "Parameter",
@@ -20023,14 +20150,14 @@
 													{
 														"type": "reflection",
 														"declaration": {
-															"id": 3120,
+															"id": 3131,
 															"name": "__type",
 															"kind": 65536,
 															"kindString": "Type literal",
 															"flags": {},
 															"children": [
 																{
-																	"id": 3121,
+																	"id": 3132,
 																	"name": "fetchReply",
 																	"kind": 1024,
 																	"kindString": "Property",
@@ -20046,7 +20173,7 @@
 																	],
 																	"type": {
 																		"type": "reference",
-																		"id": 3118,
+																		"id": 3129,
 																		"name": "Fetch"
 																	}
 																}
@@ -20056,7 +20183,7 @@
 																	"title": "Properties",
 																	"kind": 1024,
 																	"children": [
-																		3121
+																		3132
 																	]
 																}
 															]
@@ -20073,7 +20200,7 @@
 												"type": "conditional",
 												"checkType": {
 													"type": "reference",
-													"id": 3118,
+													"id": 3129,
 													"name": "Fetch"
 												},
 												"extendsType": {
@@ -20085,7 +20212,7 @@
 													"typeArguments": [
 														{
 															"type": "reference",
-															"id": 3104,
+															"id": 3115,
 															"name": "Cached"
 														},
 														{
@@ -20157,7 +20284,7 @@
 					}
 				},
 				{
-					"id": 3122,
+					"id": 3133,
 					"name": "deferUpdate",
 					"kind": 1024,
 					"kindString": "Property",
@@ -20174,21 +20301,21 @@
 					"type": {
 						"type": "reflection",
 						"declaration": {
-							"id": 3123,
+							"id": 3134,
 							"name": "__type",
 							"kind": 65536,
 							"kindString": "Type literal",
 							"flags": {},
 							"signatures": [
 								{
-									"id": 3124,
+									"id": 3135,
 									"name": "__type",
 									"kind": 4096,
 									"kindString": "Call signature",
 									"flags": {},
 									"typeParameter": [
 										{
-											"id": 3125,
+											"id": 3136,
 											"name": "Fetch",
 											"kind": 131072,
 											"kindString": "Type parameter",
@@ -20205,7 +20332,7 @@
 									],
 									"parameters": [
 										{
-											"id": 3126,
+											"id": 3137,
 											"name": "options",
 											"kind": 32768,
 											"kindString": "Parameter",
@@ -20222,14 +20349,14 @@
 													{
 														"type": "reflection",
 														"declaration": {
-															"id": 3127,
+															"id": 3138,
 															"name": "__type",
 															"kind": 65536,
 															"kindString": "Type literal",
 															"flags": {},
 															"children": [
 																{
-																	"id": 3128,
+																	"id": 3139,
 																	"name": "fetchReply",
 																	"kind": 1024,
 																	"kindString": "Property",
@@ -20245,7 +20372,7 @@
 																	],
 																	"type": {
 																		"type": "reference",
-																		"id": 3125,
+																		"id": 3136,
 																		"name": "Fetch"
 																	}
 																}
@@ -20255,7 +20382,7 @@
 																	"title": "Properties",
 																	"kind": 1024,
 																	"children": [
-																		3128
+																		3139
 																	]
 																}
 															]
@@ -20272,7 +20399,7 @@
 												"type": "conditional",
 												"checkType": {
 													"type": "reference",
-													"id": 3125,
+													"id": 3136,
 													"name": "Fetch"
 												},
 												"extendsType": {
@@ -20284,7 +20411,7 @@
 													"typeArguments": [
 														{
 															"type": "reference",
-															"id": 3104,
+															"id": 3115,
 															"name": "Cached"
 														},
 														{
@@ -20356,7 +20483,7 @@
 					}
 				},
 				{
-					"id": 3113,
+					"id": 3124,
 					"name": "deferred",
 					"kind": 1024,
 					"kindString": "Property",
@@ -20377,7 +20504,7 @@
 					"defaultValue": "false"
 				},
 				{
-					"id": 3129,
+					"id": 3140,
 					"name": "deleteReply",
 					"kind": 1024,
 					"kindString": "Property",
@@ -20394,14 +20521,14 @@
 					"type": {
 						"type": "reflection",
 						"declaration": {
-							"id": 3130,
+							"id": 3141,
 							"name": "__type",
 							"kind": 65536,
 							"kindString": "Type literal",
 							"flags": {},
 							"signatures": [
 								{
-									"id": 3131,
+									"id": 3142,
 									"name": "__type",
 									"kind": 4096,
 									"kindString": "Call signature",
@@ -20422,7 +20549,7 @@
 					}
 				},
 				{
-					"id": 3132,
+					"id": 3143,
 					"name": "editReply",
 					"kind": 1024,
 					"kindString": "Property",
@@ -20439,21 +20566,21 @@
 					"type": {
 						"type": "reflection",
 						"declaration": {
-							"id": 3133,
+							"id": 3144,
 							"name": "__type",
 							"kind": 65536,
 							"kindString": "Type literal",
 							"flags": {},
 							"signatures": [
 								{
-									"id": 3134,
+									"id": 3145,
 									"name": "__type",
 									"kind": 4096,
 									"kindString": "Call signature",
 									"flags": {},
 									"parameters": [
 										{
-											"id": 3135,
+											"id": 3146,
 											"name": "options",
 											"kind": 32768,
 											"kindString": "Parameter",
@@ -20485,7 +20612,7 @@
 												"typeArguments": [
 													{
 														"type": "reference",
-														"id": 3104,
+														"id": 3115,
 														"name": "Cached"
 													},
 													{
@@ -20552,7 +20679,7 @@
 					}
 				},
 				{
-					"id": 3136,
+					"id": 3147,
 					"name": "fetchReply",
 					"kind": 1024,
 					"kindString": "Property",
@@ -20569,14 +20696,14 @@
 					"type": {
 						"type": "reflection",
 						"declaration": {
-							"id": 3137,
+							"id": 3148,
 							"name": "__type",
 							"kind": 65536,
 							"kindString": "Type literal",
 							"flags": {},
 							"signatures": [
 								{
-									"id": 3138,
+									"id": 3149,
 									"name": "__type",
 									"kind": 4096,
 									"kindString": "Call signature",
@@ -20589,7 +20716,7 @@
 												"typeArguments": [
 													{
 														"type": "reference",
-														"id": 3104,
+														"id": 3115,
 														"name": "Cached"
 													},
 													{
@@ -20656,7 +20783,7 @@
 					}
 				},
 				{
-					"id": 3139,
+					"id": 3150,
 					"name": "followUp",
 					"kind": 1024,
 					"kindString": "Property",
@@ -20673,21 +20800,21 @@
 					"type": {
 						"type": "reflection",
 						"declaration": {
-							"id": 3140,
+							"id": 3151,
 							"name": "__type",
 							"kind": 65536,
 							"kindString": "Type literal",
 							"flags": {},
 							"signatures": [
 								{
-									"id": 3141,
+									"id": 3152,
 									"name": "__type",
 									"kind": 4096,
 									"kindString": "Call signature",
 									"flags": {},
 									"parameters": [
 										{
-											"id": 3142,
+											"id": 3153,
 											"name": "options",
 											"kind": 32768,
 											"kindString": "Parameter",
@@ -20719,7 +20846,7 @@
 												"typeArguments": [
 													{
 														"type": "reference",
-														"id": 3104,
+														"id": 3115,
 														"name": "Cached"
 													},
 													{
@@ -20786,7 +20913,7 @@
 					}
 				},
 				{
-					"id": 3155,
+					"id": 3166,
 					"name": "guild",
 					"kind": 1024,
 					"kindString": "Property",
@@ -20797,7 +20924,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/contexts/Context.ts",
-							"line": 42,
+							"line": 43,
 							"character": 17
 						}
 					],
@@ -20806,7 +20933,7 @@
 						"typeArguments": [
 							{
 								"type": "reference",
-								"id": 3104,
+								"id": 3115,
 								"name": "Cached"
 							},
 							{
@@ -20830,12 +20957,12 @@
 					},
 					"inheritedFrom": {
 						"type": "reference",
-						"id": 2929,
+						"id": 2930,
 						"name": "Context.guild"
 					}
 				},
 				{
-					"id": 3156,
+					"id": 3167,
 					"name": "guildId",
 					"kind": 1024,
 					"kindString": "Property",
@@ -20845,7 +20972,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/contexts/Context.ts",
-							"line": 43,
+							"line": 44,
 							"character": 8
 						}
 					],
@@ -20854,7 +20981,7 @@
 						"typeArguments": [
 							{
 								"type": "reference",
-								"id": 3104,
+								"id": 3115,
 								"name": "Cached"
 							},
 							{
@@ -20878,12 +21005,12 @@
 					},
 					"inheritedFrom": {
 						"type": "reference",
-						"id": 2930,
+						"id": 2931,
 						"name": "Context.guildId"
 					}
 				},
 				{
-					"id": 3107,
+					"id": 3118,
 					"name": "interaction",
 					"kind": 1024,
 					"kindString": "Property",
@@ -20909,7 +21036,7 @@
 					}
 				},
 				{
-					"id": 3157,
+					"id": 3168,
 					"name": "member",
 					"kind": 1024,
 					"kindString": "Property",
@@ -20919,7 +21046,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/contexts/Context.ts",
-							"line": 44,
+							"line": 45,
 							"character": 8
 						}
 					],
@@ -20928,7 +21055,7 @@
 						"typeArguments": [
 							{
 								"type": "reference",
-								"id": 3104,
+								"id": 3115,
 								"name": "Cached"
 							},
 							{
@@ -20970,12 +21097,12 @@
 					},
 					"inheritedFrom": {
 						"type": "reference",
-						"id": 2931,
+						"id": 2932,
 						"name": "Context.member"
 					}
 				},
 				{
-					"id": 3160,
+					"id": 3171,
 					"name": "memberPermissions",
 					"kind": 1024,
 					"kindString": "Property",
@@ -20985,7 +21112,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/contexts/Context.ts",
-							"line": 47,
+							"line": 48,
 							"character": 8
 						}
 					],
@@ -20994,7 +21121,7 @@
 						"typeArguments": [
 							{
 								"type": "reference",
-								"id": 3104,
+								"id": 3115,
 								"name": "Cached"
 							},
 							{
@@ -21042,12 +21169,12 @@
 					},
 					"inheritedFrom": {
 						"type": "reference",
-						"id": 2934,
+						"id": 2935,
 						"name": "Context.memberPermissions"
 					}
 				},
 				{
-					"id": 3114,
+					"id": 3125,
 					"name": "replied",
 					"kind": 1024,
 					"kindString": "Property",
@@ -21068,7 +21195,7 @@
 					"defaultValue": "false"
 				},
 				{
-					"id": 3143,
+					"id": 3154,
 					"name": "reply",
 					"kind": 1024,
 					"kindString": "Property",
@@ -21085,21 +21212,21 @@
 					"type": {
 						"type": "reflection",
 						"declaration": {
-							"id": 3144,
+							"id": 3155,
 							"name": "__type",
 							"kind": 65536,
 							"kindString": "Type literal",
 							"flags": {},
 							"signatures": [
 								{
-									"id": 3145,
+									"id": 3156,
 									"name": "__type",
 									"kind": 4096,
 									"kindString": "Call signature",
 									"flags": {},
 									"typeParameter": [
 										{
-											"id": 3146,
+											"id": 3157,
 											"name": "Fetch",
 											"kind": 131072,
 											"kindString": "Type parameter",
@@ -21116,7 +21243,7 @@
 									],
 									"parameters": [
 										{
-											"id": 3147,
+											"id": 3158,
 											"name": "options",
 											"kind": 32768,
 											"kindString": "Parameter",
@@ -21148,14 +21275,14 @@
 															{
 																"type": "reflection",
 																"declaration": {
-																	"id": 3148,
+																	"id": 3159,
 																	"name": "__type",
 																	"kind": 65536,
 																	"kindString": "Type literal",
 																	"flags": {},
 																	"children": [
 																		{
-																			"id": 3149,
+																			"id": 3160,
 																			"name": "fetchReply",
 																			"kind": 1024,
 																			"kindString": "Property",
@@ -21171,7 +21298,7 @@
 																			],
 																			"type": {
 																				"type": "reference",
-																				"id": 3146,
+																				"id": 3157,
 																				"name": "Fetch"
 																			}
 																		}
@@ -21181,7 +21308,7 @@
 																			"title": "Properties",
 																			"kind": 1024,
 																			"children": [
-																				3149
+																				3160
 																			]
 																		}
 																	]
@@ -21200,7 +21327,7 @@
 												"type": "conditional",
 												"checkType": {
 													"type": "reference",
-													"id": 3146,
+													"id": 3157,
 													"name": "Fetch"
 												},
 												"extendsType": {
@@ -21212,7 +21339,7 @@
 													"typeArguments": [
 														{
 															"type": "reference",
-															"id": 3104,
+															"id": 3115,
 															"name": "Cached"
 														},
 														{
@@ -21284,7 +21411,7 @@
 					}
 				},
 				{
-					"id": 3161,
+					"id": 3172,
 					"name": "type",
 					"kind": 1024,
 					"kindString": "Property",
@@ -21294,7 +21421,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/contexts/Context.ts",
-							"line": 48,
+							"line": 49,
 							"character": 8
 						}
 					],
@@ -21321,38 +21448,13 @@
 					},
 					"inheritedFrom": {
 						"type": "reference",
-						"id": 2935,
+						"id": 2936,
 						"name": "Context.type"
 					}
 				},
 				{
-					"id": 3158,
+					"id": 3169,
 					"name": "user",
-					"kind": 1024,
-					"kindString": "Property",
-					"flags": {
-						"isPublic": true
-					},
-					"sources": [
-						{
-							"fileName": "src/lib/structures/contexts/Context.ts",
-							"line": 45,
-							"character": 8
-						}
-					],
-					"type": {
-						"type": "reference",
-						"name": "User"
-					},
-					"inheritedFrom": {
-						"type": "reference",
-						"id": 2932,
-						"name": "Context.user"
-					}
-				},
-				{
-					"id": 3159,
-					"name": "userId",
 					"kind": 1024,
 					"kindString": "Property",
 					"flags": {
@@ -21366,17 +21468,42 @@
 						}
 					],
 					"type": {
+						"type": "reference",
+						"name": "User"
+					},
+					"inheritedFrom": {
+						"type": "reference",
+						"id": 2933,
+						"name": "Context.user"
+					}
+				},
+				{
+					"id": 3170,
+					"name": "userId",
+					"kind": 1024,
+					"kindString": "Property",
+					"flags": {
+						"isPublic": true
+					},
+					"sources": [
+						{
+							"fileName": "src/lib/structures/contexts/Context.ts",
+							"line": 47,
+							"character": 8
+						}
+					],
+					"type": {
 						"type": "intrinsic",
 						"name": "string"
 					},
 					"inheritedFrom": {
 						"type": "reference",
-						"id": 2933,
+						"id": 2934,
 						"name": "Context.userId"
 					}
 				},
 				{
-					"id": 3112,
+					"id": 3123,
 					"name": "values",
 					"kind": 1024,
 					"kindString": "Property",
@@ -21400,7 +21527,70 @@
 					}
 				},
 				{
-					"id": 3164,
+					"id": 3173,
+					"name": "getDatabase",
+					"kind": 2048,
+					"kindString": "Method",
+					"flags": {
+						"isPublic": true
+					},
+					"sources": [
+						{
+							"fileName": "src/lib/structures/contexts/Context.ts",
+							"line": 66,
+							"character": 8
+						}
+					],
+					"signatures": [
+						{
+							"id": 3174,
+							"name": "getDatabase",
+							"kind": 4096,
+							"kindString": "Call signature",
+							"flags": {},
+							"typeParameter": [
+								{
+									"id": 3175,
+									"name": "Database",
+									"kind": 131072,
+									"kindString": "Type parameter",
+									"flags": {}
+								}
+							],
+							"parameters": [
+								{
+									"id": 3176,
+									"name": "_",
+									"kind": 32768,
+									"kindString": "Parameter",
+									"flags": {},
+									"type": {
+										"type": "reference",
+										"id": 2939,
+										"name": "Database"
+									}
+								}
+							],
+							"type": {
+								"type": "reference",
+								"id": 2939,
+								"name": "Database"
+							},
+							"inheritedFrom": {
+								"type": "reference",
+								"id": 2938,
+								"name": "Context.getDatabase"
+							}
+						}
+					],
+					"inheritedFrom": {
+						"type": "reference",
+						"id": 2937,
+						"name": "Context.getDatabase"
+					}
+				},
+				{
+					"id": 3179,
 					"name": "inCachedGuild",
 					"kind": 2048,
 					"kindString": "Method",
@@ -21410,13 +21600,13 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/contexts/Context.ts",
-							"line": 69,
+							"line": 74,
 							"character": 8
 						}
 					],
 					"signatures": [
 						{
-							"id": 3165,
+							"id": 3180,
 							"name": "inCachedGuild",
 							"kind": 4096,
 							"kindString": "Call signature",
@@ -21427,7 +21617,7 @@
 								"asserts": false,
 								"targetType": {
 									"type": "reference",
-									"id": 2918,
+									"id": 2919,
 									"typeArguments": [
 										{
 											"type": "literal",
@@ -21439,19 +21629,19 @@
 							},
 							"inheritedFrom": {
 								"type": "reference",
-								"id": 2939,
+								"id": 2944,
 								"name": "Context.inCachedGuild"
 							}
 						}
 					],
 					"inheritedFrom": {
 						"type": "reference",
-						"id": 2938,
+						"id": 2943,
 						"name": "Context.inCachedGuild"
 					}
 				},
 				{
-					"id": 3162,
+					"id": 3177,
 					"name": "inGuild",
 					"kind": 2048,
 					"kindString": "Method",
@@ -21461,13 +21651,13 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/contexts/Context.ts",
-							"line": 65,
+							"line": 70,
 							"character": 8
 						}
 					],
 					"signatures": [
 						{
-							"id": 3163,
+							"id": 3178,
 							"name": "inGuild",
 							"kind": 4096,
 							"kindString": "Call signature",
@@ -21478,7 +21668,7 @@
 								"asserts": false,
 								"targetType": {
 									"type": "reference",
-									"id": 2918,
+									"id": 2919,
 									"typeArguments": [
 										{
 											"type": "literal",
@@ -21490,19 +21680,19 @@
 							},
 							"inheritedFrom": {
 								"type": "reference",
-								"id": 2937,
+								"id": 2942,
 								"name": "Context.inGuild"
 							}
 						}
 					],
 					"inheritedFrom": {
 						"type": "reference",
-						"id": 2936,
+						"id": 2941,
 						"name": "Context.inGuild"
 					}
 				},
 				{
-					"id": 3166,
+					"id": 3181,
 					"name": "inRawGuild",
 					"kind": 2048,
 					"kindString": "Method",
@@ -21512,13 +21702,13 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/contexts/Context.ts",
-							"line": 73,
+							"line": 78,
 							"character": 8
 						}
 					],
 					"signatures": [
 						{
-							"id": 3167,
+							"id": 3182,
 							"name": "inRawGuild",
 							"kind": 4096,
 							"kindString": "Call signature",
@@ -21529,7 +21719,7 @@
 								"asserts": false,
 								"targetType": {
 									"type": "reference",
-									"id": 2918,
+									"id": 2919,
 									"typeArguments": [
 										{
 											"type": "literal",
@@ -21541,19 +21731,19 @@
 							},
 							"inheritedFrom": {
 								"type": "reference",
-								"id": 2941,
+								"id": 2946,
 								"name": "Context.inRawGuild"
 							}
 						}
 					],
 					"inheritedFrom": {
 						"type": "reference",
-						"id": 2940,
+						"id": 2945,
 						"name": "Context.inRawGuild"
 					}
 				},
 				{
-					"id": 3170,
+					"id": 3185,
 					"name": "isAutocomplete",
 					"kind": 2048,
 					"kindString": "Method",
@@ -21563,13 +21753,13 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/contexts/Context.ts",
-							"line": 81,
+							"line": 86,
 							"character": 8
 						}
 					],
 					"signatures": [
 						{
-							"id": 3171,
+							"id": 3186,
 							"name": "isAutocomplete",
 							"kind": 4096,
 							"kindString": "Call signature",
@@ -21580,7 +21770,7 @@
 								"asserts": false,
 								"targetType": {
 									"type": "reference",
-									"id": 3195,
+									"id": 3211,
 									"typeArguments": [
 										{
 											"type": "reference",
@@ -21592,19 +21782,19 @@
 							},
 							"inheritedFrom": {
 								"type": "reference",
-								"id": 2945,
+								"id": 2950,
 								"name": "Context.isAutocomplete"
 							}
 						}
 					],
 					"inheritedFrom": {
 						"type": "reference",
-						"id": 2944,
+						"id": 2949,
 						"name": "Context.isAutocomplete"
 					}
 				},
 				{
-					"id": 3174,
+					"id": 3189,
 					"name": "isButton",
 					"kind": 2048,
 					"kindString": "Method",
@@ -21614,13 +21804,13 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/contexts/Context.ts",
-							"line": 89,
+							"line": 94,
 							"character": 8
 						}
 					],
 					"signatures": [
 						{
-							"id": 3175,
+							"id": 3190,
 							"name": "isButton",
 							"kind": 4096,
 							"kindString": "Call signature",
@@ -21631,7 +21821,7 @@
 								"asserts": false,
 								"targetType": {
 									"type": "reference",
-									"id": 3101,
+									"id": 3112,
 									"typeArguments": [
 										{
 											"type": "reference",
@@ -21643,19 +21833,19 @@
 							},
 							"inheritedFrom": {
 								"type": "reference",
-								"id": 2949,
+								"id": 2954,
 								"name": "Context.isButton"
 							}
 						}
 					],
 					"inheritedFrom": {
 						"type": "reference",
-						"id": 2948,
+						"id": 2953,
 						"name": "Context.isButton"
 					}
 				},
 				{
-					"id": 3168,
+					"id": 3183,
 					"name": "isCommand",
 					"kind": 2048,
 					"kindString": "Method",
@@ -21665,13 +21855,13 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/contexts/Context.ts",
-							"line": 77,
+							"line": 82,
 							"character": 8
 						}
 					],
 					"signatures": [
 						{
-							"id": 3169,
+							"id": 3184,
 							"name": "isCommand",
 							"kind": 4096,
 							"kindString": "Call signature",
@@ -21682,7 +21872,7 @@
 								"asserts": false,
 								"targetType": {
 									"type": "reference",
-									"id": 2988,
+									"id": 2994,
 									"typeArguments": [
 										{
 											"type": "reference",
@@ -21694,19 +21884,19 @@
 							},
 							"inheritedFrom": {
 								"type": "reference",
-								"id": 2943,
+								"id": 2948,
 								"name": "Context.isCommand"
 							}
 						}
 					],
 					"inheritedFrom": {
 						"type": "reference",
-						"id": 2942,
+						"id": 2947,
 						"name": "Context.isCommand"
 					}
 				},
 				{
-					"id": 3172,
+					"id": 3187,
 					"name": "isComponent",
 					"kind": 2048,
 					"kindString": "Method",
@@ -21716,13 +21906,13 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/contexts/Context.ts",
-							"line": 85,
+							"line": 90,
 							"character": 8
 						}
 					],
 					"signatures": [
 						{
-							"id": 3173,
+							"id": 3188,
 							"name": "isComponent",
 							"kind": 4096,
 							"kindString": "Call signature",
@@ -21733,7 +21923,7 @@
 								"asserts": false,
 								"targetType": {
 									"type": "reference",
-									"id": 3101,
+									"id": 3112,
 									"typeArguments": [
 										{
 											"type": "reference",
@@ -21745,19 +21935,19 @@
 							},
 							"inheritedFrom": {
 								"type": "reference",
-								"id": 2947,
+								"id": 2952,
 								"name": "Context.isComponent"
 							}
 						}
 					],
 					"inheritedFrom": {
 						"type": "reference",
-						"id": 2946,
+						"id": 2951,
 						"name": "Context.isComponent"
 					}
 				},
 				{
-					"id": 3176,
+					"id": 3191,
 					"name": "isSelectMenu",
 					"kind": 2048,
 					"kindString": "Method",
@@ -21767,13 +21957,13 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/contexts/Context.ts",
-							"line": 93,
+							"line": 98,
 							"character": 8
 						}
 					],
 					"signatures": [
 						{
-							"id": 3177,
+							"id": 3192,
 							"name": "isSelectMenu",
 							"kind": 4096,
 							"kindString": "Call signature",
@@ -21784,7 +21974,7 @@
 								"asserts": false,
 								"targetType": {
 									"type": "reference",
-									"id": 3101,
+									"id": 3112,
 									"typeArguments": [
 										{
 											"type": "reference",
@@ -21796,14 +21986,14 @@
 							},
 							"inheritedFrom": {
 								"type": "reference",
-								"id": 2951,
+								"id": 2956,
 								"name": "Context.isSelectMenu"
 							}
 						}
 					],
 					"inheritedFrom": {
 						"type": "reference",
-						"id": 2950,
+						"id": 2955,
 						"name": "Context.isSelectMenu"
 					}
 				}
@@ -21813,54 +22003,55 @@
 					"title": "Constructors",
 					"kind": 512,
 					"children": [
-						3102
+						3113
 					]
 				},
 				{
 					"title": "Properties",
 					"kind": 1024,
 					"children": [
-						3111,
-						3151,
-						3152,
-						3150,
-						3108,
-						3109,
-						3153,
-						3154,
-						3110,
-						3115,
 						3122,
-						3113,
-						3129,
-						3132,
-						3136,
-						3139,
-						3155,
-						3156,
-						3107,
-						3157,
-						3160,
-						3114,
-						3143,
+						3162,
+						3163,
 						3161,
-						3158,
-						3159,
-						3112
+						3119,
+						3120,
+						3164,
+						3165,
+						3121,
+						3126,
+						3133,
+						3124,
+						3140,
+						3143,
+						3147,
+						3150,
+						3166,
+						3167,
+						3118,
+						3168,
+						3171,
+						3125,
+						3154,
+						3172,
+						3169,
+						3170,
+						3123
 					]
 				},
 				{
 					"title": "Methods",
 					"kind": 2048,
 					"children": [
-						3164,
-						3162,
-						3166,
-						3170,
-						3174,
-						3168,
-						3172,
-						3176
+						3173,
+						3179,
+						3177,
+						3181,
+						3185,
+						3189,
+						3183,
+						3187,
+						3191
 					]
 				}
 			],
@@ -21873,7 +22064,7 @@
 			],
 			"typeParameter": [
 				{
-					"id": 3178,
+					"id": 3193,
 					"name": "Cached",
 					"kind": 131072,
 					"kindString": "Type parameter",
@@ -21891,11 +22082,11 @@
 			"extendedTypes": [
 				{
 					"type": "reference",
-					"id": 2918,
+					"id": 2919,
 					"typeArguments": [
 						{
 							"type": "reference",
-							"id": 3104,
+							"id": 3115,
 							"name": "Cached"
 						}
 					],
@@ -30326,14 +30517,14 @@
 			]
 		},
 		{
-			"id": 2918,
+			"id": 2919,
 			"name": "Context",
 			"kind": 128,
 			"kindString": "Class",
 			"flags": {},
 			"children": [
 				{
-					"id": 2919,
+					"id": 2920,
 					"name": "constructor",
 					"kind": 512,
 					"kindString": "Constructor",
@@ -30341,20 +30532,20 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/contexts/Context.ts",
-							"line": 50,
+							"line": 51,
 							"character": 1
 						}
 					],
 					"signatures": [
 						{
-							"id": 2920,
+							"id": 2921,
 							"name": "new Context",
 							"kind": 16384,
 							"kindString": "Constructor signature",
 							"flags": {},
 							"typeParameter": [
 								{
-									"id": 2921,
+									"id": 2922,
 									"name": "Cached",
 									"kind": 131072,
 									"kindString": "Type parameter",
@@ -30371,7 +30562,7 @@
 							],
 							"parameters": [
 								{
-									"id": 2922,
+									"id": 2923,
 									"name": "client",
 									"kind": 32768,
 									"kindString": "Parameter",
@@ -30389,7 +30580,7 @@
 									}
 								},
 								{
-									"id": 2923,
+									"id": 2924,
 									"name": "options",
 									"kind": 32768,
 									"kindString": "Parameter",
@@ -30400,7 +30591,7 @@
 										"typeArguments": [
 											{
 												"type": "reference",
-												"id": 2921,
+												"id": 2922,
 												"name": "Cached"
 											}
 										],
@@ -30410,11 +30601,11 @@
 							],
 							"type": {
 								"type": "reference",
-								"id": 2918,
+								"id": 2919,
 								"typeArguments": [
 									{
 										"type": "reference",
-										"id": 2921,
+										"id": 2922,
 										"name": "Cached"
 									}
 								],
@@ -30424,7 +30615,7 @@
 					]
 				},
 				{
-					"id": 2925,
+					"id": 2926,
 					"name": "channel",
 					"kind": 1024,
 					"kindString": "Property",
@@ -30435,7 +30626,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/contexts/Context.ts",
-							"line": 34,
+							"line": 35,
 							"character": 17
 						}
 					],
@@ -30444,7 +30635,7 @@
 						"typeArguments": [
 							{
 								"type": "reference",
-								"id": 2921,
+								"id": 2922,
 								"name": "Cached"
 							},
 							{
@@ -30468,7 +30659,7 @@
 					}
 				},
 				{
-					"id": 2926,
+					"id": 2927,
 					"name": "channelId",
 					"kind": 1024,
 					"kindString": "Property",
@@ -30478,7 +30669,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/contexts/Context.ts",
-							"line": 39,
+							"line": 40,
 							"character": 8
 						}
 					],
@@ -30488,7 +30679,7 @@
 					}
 				},
 				{
-					"id": 2924,
+					"id": 2925,
 					"name": "client",
 					"kind": 1024,
 					"kindString": "Property",
@@ -30499,7 +30690,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/contexts/Context.ts",
-							"line": 33,
+							"line": 34,
 							"character": 17
 						}
 					],
@@ -30516,29 +30707,8 @@
 					}
 				},
 				{
-					"id": 2927,
-					"name": "createdAt",
-					"kind": 1024,
-					"kindString": "Property",
-					"flags": {
-						"isPublic": true,
-						"isReadonly": true
-					},
-					"sources": [
-						{
-							"fileName": "src/lib/structures/contexts/Context.ts",
-							"line": 40,
-							"character": 17
-						}
-					],
-					"type": {
-						"type": "reference",
-						"name": "Date"
-					}
-				},
-				{
 					"id": 2928,
-					"name": "createdTimestamp",
+					"name": "createdAt",
 					"kind": 1024,
 					"kindString": "Property",
 					"flags": {
@@ -30553,13 +30723,13 @@
 						}
 					],
 					"type": {
-						"type": "intrinsic",
-						"name": "number"
+						"type": "reference",
+						"name": "Date"
 					}
 				},
 				{
 					"id": 2929,
-					"name": "guild",
+					"name": "createdTimestamp",
 					"kind": 1024,
 					"kindString": "Property",
 					"flags": {
@@ -30574,11 +30744,32 @@
 						}
 					],
 					"type": {
+						"type": "intrinsic",
+						"name": "number"
+					}
+				},
+				{
+					"id": 2930,
+					"name": "guild",
+					"kind": 1024,
+					"kindString": "Property",
+					"flags": {
+						"isPublic": true,
+						"isReadonly": true
+					},
+					"sources": [
+						{
+							"fileName": "src/lib/structures/contexts/Context.ts",
+							"line": 43,
+							"character": 17
+						}
+					],
+					"type": {
 						"type": "reference",
 						"typeArguments": [
 							{
 								"type": "reference",
-								"id": 2921,
+								"id": 2922,
 								"name": "Cached"
 							},
 							{
@@ -30602,7 +30793,7 @@
 					}
 				},
 				{
-					"id": 2930,
+					"id": 2931,
 					"name": "guildId",
 					"kind": 1024,
 					"kindString": "Property",
@@ -30612,7 +30803,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/contexts/Context.ts",
-							"line": 43,
+							"line": 44,
 							"character": 8
 						}
 					],
@@ -30621,7 +30812,7 @@
 						"typeArguments": [
 							{
 								"type": "reference",
-								"id": 2921,
+								"id": 2922,
 								"name": "Cached"
 							},
 							{
@@ -30645,7 +30836,7 @@
 					}
 				},
 				{
-					"id": 2931,
+					"id": 2932,
 					"name": "member",
 					"kind": 1024,
 					"kindString": "Property",
@@ -30655,7 +30846,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/contexts/Context.ts",
-							"line": 44,
+							"line": 45,
 							"character": 8
 						}
 					],
@@ -30664,7 +30855,7 @@
 						"typeArguments": [
 							{
 								"type": "reference",
-								"id": 2921,
+								"id": 2922,
 								"name": "Cached"
 							},
 							{
@@ -30706,7 +30897,7 @@
 					}
 				},
 				{
-					"id": 2934,
+					"id": 2935,
 					"name": "memberPermissions",
 					"kind": 1024,
 					"kindString": "Property",
@@ -30716,7 +30907,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/contexts/Context.ts",
-							"line": 47,
+							"line": 48,
 							"character": 8
 						}
 					],
@@ -30725,7 +30916,7 @@
 						"typeArguments": [
 							{
 								"type": "reference",
-								"id": 2921,
+								"id": 2922,
 								"name": "Cached"
 							},
 							{
@@ -30773,7 +30964,7 @@
 					}
 				},
 				{
-					"id": 2935,
+					"id": 2936,
 					"name": "type",
 					"kind": 1024,
 					"kindString": "Property",
@@ -30783,7 +30974,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/contexts/Context.ts",
-							"line": 48,
+							"line": 49,
 							"character": 8
 						}
 					],
@@ -30810,28 +31001,8 @@
 					}
 				},
 				{
-					"id": 2932,
-					"name": "user",
-					"kind": 1024,
-					"kindString": "Property",
-					"flags": {
-						"isPublic": true
-					},
-					"sources": [
-						{
-							"fileName": "src/lib/structures/contexts/Context.ts",
-							"line": 45,
-							"character": 8
-						}
-					],
-					"type": {
-						"type": "reference",
-						"name": "User"
-					}
-				},
-				{
 					"id": 2933,
-					"name": "userId",
+					"name": "user",
 					"kind": 1024,
 					"kindString": "Property",
 					"flags": {
@@ -30845,12 +31016,85 @@
 						}
 					],
 					"type": {
+						"type": "reference",
+						"name": "User"
+					}
+				},
+				{
+					"id": 2934,
+					"name": "userId",
+					"kind": 1024,
+					"kindString": "Property",
+					"flags": {
+						"isPublic": true
+					},
+					"sources": [
+						{
+							"fileName": "src/lib/structures/contexts/Context.ts",
+							"line": 47,
+							"character": 8
+						}
+					],
+					"type": {
 						"type": "intrinsic",
 						"name": "string"
 					}
 				},
 				{
-					"id": 2938,
+					"id": 2937,
+					"name": "getDatabase",
+					"kind": 2048,
+					"kindString": "Method",
+					"flags": {
+						"isPublic": true
+					},
+					"sources": [
+						{
+							"fileName": "src/lib/structures/contexts/Context.ts",
+							"line": 66,
+							"character": 8
+						}
+					],
+					"signatures": [
+						{
+							"id": 2938,
+							"name": "getDatabase",
+							"kind": 4096,
+							"kindString": "Call signature",
+							"flags": {},
+							"typeParameter": [
+								{
+									"id": 2939,
+									"name": "Database",
+									"kind": 131072,
+									"kindString": "Type parameter",
+									"flags": {}
+								}
+							],
+							"parameters": [
+								{
+									"id": 2940,
+									"name": "_",
+									"kind": 32768,
+									"kindString": "Parameter",
+									"flags": {},
+									"type": {
+										"type": "reference",
+										"id": 2939,
+										"name": "Database"
+									}
+								}
+							],
+							"type": {
+								"type": "reference",
+								"id": 2939,
+								"name": "Database"
+							}
+						}
+					]
+				},
+				{
+					"id": 2943,
 					"name": "inCachedGuild",
 					"kind": 2048,
 					"kindString": "Method",
@@ -30860,13 +31104,13 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/contexts/Context.ts",
-							"line": 69,
+							"line": 74,
 							"character": 8
 						}
 					],
 					"signatures": [
 						{
-							"id": 2939,
+							"id": 2944,
 							"name": "inCachedGuild",
 							"kind": 4096,
 							"kindString": "Call signature",
@@ -30877,7 +31121,7 @@
 								"asserts": false,
 								"targetType": {
 									"type": "reference",
-									"id": 2918,
+									"id": 2919,
 									"typeArguments": [
 										{
 											"type": "literal",
@@ -30891,7 +31135,7 @@
 					]
 				},
 				{
-					"id": 2936,
+					"id": 2941,
 					"name": "inGuild",
 					"kind": 2048,
 					"kindString": "Method",
@@ -30901,13 +31145,13 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/contexts/Context.ts",
-							"line": 65,
+							"line": 70,
 							"character": 8
 						}
 					],
 					"signatures": [
 						{
-							"id": 2937,
+							"id": 2942,
 							"name": "inGuild",
 							"kind": 4096,
 							"kindString": "Call signature",
@@ -30918,7 +31162,7 @@
 								"asserts": false,
 								"targetType": {
 									"type": "reference",
-									"id": 2918,
+									"id": 2919,
 									"typeArguments": [
 										{
 											"type": "literal",
@@ -30932,7 +31176,7 @@
 					]
 				},
 				{
-					"id": 2940,
+					"id": 2945,
 					"name": "inRawGuild",
 					"kind": 2048,
 					"kindString": "Method",
@@ -30942,13 +31186,13 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/contexts/Context.ts",
-							"line": 73,
+							"line": 78,
 							"character": 8
 						}
 					],
 					"signatures": [
 						{
-							"id": 2941,
+							"id": 2946,
 							"name": "inRawGuild",
 							"kind": 4096,
 							"kindString": "Call signature",
@@ -30959,7 +31203,7 @@
 								"asserts": false,
 								"targetType": {
 									"type": "reference",
-									"id": 2918,
+									"id": 2919,
 									"typeArguments": [
 										{
 											"type": "literal",
@@ -30973,7 +31217,7 @@
 					]
 				},
 				{
-					"id": 2944,
+					"id": 2949,
 					"name": "isAutocomplete",
 					"kind": 2048,
 					"kindString": "Method",
@@ -30983,13 +31227,13 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/contexts/Context.ts",
-							"line": 81,
+							"line": 86,
 							"character": 8
 						}
 					],
 					"signatures": [
 						{
-							"id": 2945,
+							"id": 2950,
 							"name": "isAutocomplete",
 							"kind": 4096,
 							"kindString": "Call signature",
@@ -31000,7 +31244,7 @@
 								"asserts": false,
 								"targetType": {
 									"type": "reference",
-									"id": 3195,
+									"id": 3211,
 									"typeArguments": [
 										{
 											"type": "reference",
@@ -31014,7 +31258,7 @@
 					]
 				},
 				{
-					"id": 2948,
+					"id": 2953,
 					"name": "isButton",
 					"kind": 2048,
 					"kindString": "Method",
@@ -31024,13 +31268,13 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/contexts/Context.ts",
-							"line": 89,
+							"line": 94,
 							"character": 8
 						}
 					],
 					"signatures": [
 						{
-							"id": 2949,
+							"id": 2954,
 							"name": "isButton",
 							"kind": 4096,
 							"kindString": "Call signature",
@@ -31041,7 +31285,7 @@
 								"asserts": false,
 								"targetType": {
 									"type": "reference",
-									"id": 3101,
+									"id": 3112,
 									"typeArguments": [
 										{
 											"type": "reference",
@@ -31055,7 +31299,7 @@
 					]
 				},
 				{
-					"id": 2942,
+					"id": 2947,
 					"name": "isCommand",
 					"kind": 2048,
 					"kindString": "Method",
@@ -31065,13 +31309,13 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/contexts/Context.ts",
-							"line": 77,
+							"line": 82,
 							"character": 8
 						}
 					],
 					"signatures": [
 						{
-							"id": 2943,
+							"id": 2948,
 							"name": "isCommand",
 							"kind": 4096,
 							"kindString": "Call signature",
@@ -31082,7 +31326,7 @@
 								"asserts": false,
 								"targetType": {
 									"type": "reference",
-									"id": 2988,
+									"id": 2994,
 									"typeArguments": [
 										{
 											"type": "reference",
@@ -31096,7 +31340,7 @@
 					]
 				},
 				{
-					"id": 2946,
+					"id": 2951,
 					"name": "isComponent",
 					"kind": 2048,
 					"kindString": "Method",
@@ -31106,13 +31350,13 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/contexts/Context.ts",
-							"line": 85,
+							"line": 90,
 							"character": 8
 						}
 					],
 					"signatures": [
 						{
-							"id": 2947,
+							"id": 2952,
 							"name": "isComponent",
 							"kind": 4096,
 							"kindString": "Call signature",
@@ -31123,7 +31367,7 @@
 								"asserts": false,
 								"targetType": {
 									"type": "reference",
-									"id": 3101,
+									"id": 3112,
 									"typeArguments": [
 										{
 											"type": "reference",
@@ -31137,7 +31381,7 @@
 					]
 				},
 				{
-					"id": 2950,
+					"id": 2955,
 					"name": "isSelectMenu",
 					"kind": 2048,
 					"kindString": "Method",
@@ -31147,13 +31391,13 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/contexts/Context.ts",
-							"line": 93,
+							"line": 98,
 							"character": 8
 						}
 					],
 					"signatures": [
 						{
-							"id": 2951,
+							"id": 2956,
 							"name": "isSelectMenu",
 							"kind": 4096,
 							"kindString": "Call signature",
@@ -31164,7 +31408,7 @@
 								"asserts": false,
 								"targetType": {
 									"type": "reference",
-									"id": 3101,
+									"id": 3112,
 									"typeArguments": [
 										{
 											"type": "reference",
@@ -31183,52 +31427,53 @@
 					"title": "Constructors",
 					"kind": 512,
 					"children": [
-						2919
+						2920
 					]
 				},
 				{
 					"title": "Properties",
 					"kind": 1024,
 					"children": [
-						2925,
 						2926,
-						2924,
 						2927,
+						2925,
 						2928,
 						2929,
 						2930,
 						2931,
-						2934,
-						2935,
 						2932,
-						2933
+						2935,
+						2936,
+						2933,
+						2934
 					]
 				},
 				{
 					"title": "Methods",
 					"kind": 2048,
 					"children": [
-						2938,
-						2936,
-						2940,
-						2944,
-						2948,
-						2942,
-						2946,
-						2950
+						2937,
+						2943,
+						2941,
+						2945,
+						2949,
+						2953,
+						2947,
+						2951,
+						2955
 					]
 				}
 			],
 			"sources": [
 				{
 					"fileName": "src/lib/structures/contexts/Context.ts",
-					"line": 32,
+					"line": 33,
 					"character": 13
 				}
 			],
 			"typeParameter": [
 				{
-					"id": 2952,
+					"id": 2957,
 					"name": "Cached",
 					"kind": 131072,
 					"kindString": "Type parameter",
@@ -31246,17 +31491,17 @@
 			"extendedBy": [
 				{
 					"type": "reference",
-					"id": 2988,
+					"id": 2994,
 					"name": "CommandContext"
 				},
 				{
 					"type": "reference",
-					"id": 3101,
+					"id": 3112,
 					"name": "ComponentContext"
 				},
 				{
 					"type": "reference",
-					"id": 3195,
+					"id": 3211,
 					"name": "AutocompleteContext"
 				}
 			]
@@ -31277,7 +31522,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/GClient.ts",
-							"line": 30,
+							"line": 29,
 							"character": 1
 						}
 					],
@@ -31419,13 +31664,13 @@
 					"sources": [
 						{
 							"fileName": "src/lib/GClient.ts",
-							"line": 28,
+							"line": 27,
 							"character": 8
 						}
 					],
 					"type": {
-						"type": "reference",
-						"name": "ProviderInterface"
+						"type": "intrinsic",
+						"name": "any"
 					}
 				},
 				{
@@ -31490,7 +31735,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/GClient.ts",
-							"line": 27,
+							"line": 26,
 							"character": 8
 						}
 					],
@@ -31596,7 +31841,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/GClient.ts",
-							"line": 26,
+							"line": 25,
 							"character": 8
 						}
 					],
@@ -35475,7 +35720,7 @@
 			"sources": [
 				{
 					"fileName": "src/lib/GClient.ts",
-					"line": 25,
+					"line": 24,
 					"character": 13
 				}
 			],
@@ -60426,14 +60671,14 @@
 			]
 		},
 		{
-			"id": 3260,
+			"id": 3280,
 			"name": "ArgumentOptions",
 			"kind": 256,
 			"kindString": "Interface",
 			"flags": {},
 			"children": [
 				{
-					"id": 3267,
+					"id": 3287,
 					"name": "channelTypes",
 					"kind": 1024,
 					"kindString": "Property",
@@ -60486,7 +60731,7 @@
 								},
 								{
 									"type": "reference",
-									"id": 3251,
+									"id": 3271,
 									"name": "ChannelType"
 								}
 							]
@@ -60494,7 +60739,7 @@
 					}
 				},
 				{
-					"id": 3265,
+					"id": 3285,
 					"name": "choices",
 					"kind": 1024,
 					"kindString": "Property",
@@ -60518,7 +60763,7 @@
 					}
 				},
 				{
-					"id": 3262,
+					"id": 3282,
 					"name": "description",
 					"kind": 1024,
 					"kindString": "Property",
@@ -60536,7 +60781,7 @@
 					}
 				},
 				{
-					"id": 3261,
+					"id": 3281,
 					"name": "name",
 					"kind": 1024,
 					"kindString": "Property",
@@ -60554,7 +60799,7 @@
 					}
 				},
 				{
-					"id": 3266,
+					"id": 3286,
 					"name": "options",
 					"kind": 1024,
 					"kindString": "Property",
@@ -60580,7 +60825,7 @@
 								},
 								{
 									"type": "reference",
-									"id": 3271,
+									"id": 3291,
 									"name": "Argument"
 								}
 							]
@@ -60588,7 +60833,7 @@
 					}
 				},
 				{
-					"id": 3264,
+					"id": 3284,
 					"name": "required",
 					"kind": 1024,
 					"kindString": "Property",
@@ -60608,7 +60853,7 @@
 					}
 				},
 				{
-					"id": 3263,
+					"id": 3283,
 					"name": "type",
 					"kind": 1024,
 					"kindString": "Property",
@@ -60665,14 +60910,14 @@
 							},
 							{
 								"type": "reference",
-								"id": 3240,
+								"id": 3260,
 								"name": "ArgumentType"
 							}
 						]
 					}
 				},
 				{
-					"id": 3268,
+					"id": 3288,
 					"name": "run",
 					"kind": 2048,
 					"kindString": "Method",
@@ -60688,21 +60933,21 @@
 					],
 					"signatures": [
 						{
-							"id": 3269,
+							"id": 3289,
 							"name": "run",
 							"kind": 4096,
 							"kindString": "Call signature",
 							"flags": {},
 							"parameters": [
 								{
-									"id": 3270,
+									"id": 3290,
 									"name": "ctx",
 									"kind": 32768,
 									"kindString": "Parameter",
 									"flags": {},
 									"type": {
 										"type": "reference",
-										"id": 3195,
+										"id": 3211,
 										"typeArguments": [
 											{
 												"type": "reference",
@@ -60726,20 +60971,20 @@
 					"title": "Properties",
 					"kind": 1024,
 					"children": [
-						3267,
-						3265,
-						3262,
-						3261,
-						3266,
-						3264,
-						3263
+						3287,
+						3285,
+						3282,
+						3281,
+						3286,
+						3284,
+						3283
 					]
 				},
 				{
 					"title": "Methods",
 					"kind": 2048,
 					"children": [
-						3268
+						3288
 					]
 				}
 			],
@@ -60752,14 +60997,14 @@
 			]
 		},
 		{
-			"id": 3179,
+			"id": 3194,
 			"name": "AutocompleteContextOptions",
 			"kind": 256,
 			"kindString": "Interface",
 			"flags": {},
 			"children": [
 				{
-					"id": 3182,
+					"id": 3197,
 					"name": "argument",
 					"kind": 1024,
 					"kindString": "Property",
@@ -60781,14 +61026,14 @@
 							},
 							{
 								"type": "reference",
-								"id": 3271,
+								"id": 3291,
 								"name": "Argument"
 							}
 						]
 					}
 				},
 				{
-					"id": 3187,
+					"id": 3202,
 					"name": "channel",
 					"kind": 1024,
 					"kindString": "Property",
@@ -60805,7 +61050,7 @@
 						"typeArguments": [
 							{
 								"type": "reference",
-								"id": 3194,
+								"id": 3210,
 								"name": "Cached"
 							},
 							{
@@ -60834,7 +61079,7 @@
 					}
 				},
 				{
-					"id": 3181,
+					"id": 3196,
 					"name": "command",
 					"kind": 1024,
 					"kindString": "Property",
@@ -60853,7 +61098,7 @@
 					}
 				},
 				{
-					"id": 3188,
+					"id": 3203,
 					"name": "createdAt",
 					"kind": 1024,
 					"kindString": "Property",
@@ -60876,7 +61121,7 @@
 					}
 				},
 				{
-					"id": 3189,
+					"id": 3204,
 					"name": "createdTimestamp",
 					"kind": 1024,
 					"kindString": "Property",
@@ -60899,7 +61144,7 @@
 					}
 				},
 				{
-					"id": 3190,
+					"id": 3205,
 					"name": "guild",
 					"kind": 1024,
 					"kindString": "Property",
@@ -60916,7 +61161,7 @@
 						"typeArguments": [
 							{
 								"type": "reference",
-								"id": 3194,
+								"id": 3210,
 								"name": "Cached"
 							},
 							{
@@ -60945,7 +61190,7 @@
 					}
 				},
 				{
-					"id": 3191,
+					"id": 3206,
 					"name": "guildId",
 					"kind": 1024,
 					"kindString": "Property",
@@ -60962,7 +61207,7 @@
 						"typeArguments": [
 							{
 								"type": "reference",
-								"id": 3194,
+								"id": 3210,
 								"name": "Cached"
 							},
 							{
@@ -60991,7 +61236,7 @@
 					}
 				},
 				{
-					"id": 3180,
+					"id": 3195,
 					"name": "interaction",
 					"kind": 1024,
 					"kindString": "Property",
@@ -61015,7 +61260,7 @@
 					}
 				},
 				{
-					"id": 3192,
+					"id": 3207,
 					"name": "member",
 					"kind": 1024,
 					"kindString": "Property",
@@ -61032,7 +61277,7 @@
 						"typeArguments": [
 							{
 								"type": "reference",
-								"id": 3194,
+								"id": 3210,
 								"name": "Cached"
 							},
 							{
@@ -61079,8 +61324,8 @@
 					}
 				},
 				{
-					"id": 3193,
-					"name": "user",
+					"id": 3208,
+					"name": "memberPermissions",
 					"kind": 1024,
 					"kindString": "Property",
 					"flags": {},
@@ -61093,16 +61338,86 @@
 					],
 					"type": {
 						"type": "reference",
-						"name": "User"
+						"typeArguments": [
+							{
+								"type": "reference",
+								"id": 3210,
+								"name": "Cached"
+							},
+							{
+								"type": "reference",
+								"typeArguments": [
+									{
+										"type": "reference",
+										"name": "Permissions"
+									}
+								],
+								"name": "Readonly"
+							},
+							{
+								"type": "reference",
+								"typeArguments": [
+									{
+										"type": "reference",
+										"name": "Permissions"
+									}
+								],
+								"name": "Readonly"
+							},
+							{
+								"type": "reference",
+								"typeArguments": [
+									{
+										"type": "reference",
+										"name": "Permissions"
+									}
+								],
+								"name": "Readonly"
+							},
+							{
+								"type": "reference",
+								"typeArguments": [
+									{
+										"type": "reference",
+										"name": "Permissions"
+									}
+								],
+								"name": "Readonly"
+							}
+						],
+						"name": "CacheTypeReducer"
 					},
 					"inheritedFrom": {
 						"type": "reference",
 						"id": 2916,
+						"name": "ContextOptions.memberPermissions"
+					}
+				},
+				{
+					"id": 3209,
+					"name": "user",
+					"kind": 1024,
+					"kindString": "Property",
+					"flags": {},
+					"sources": [
+						{
+							"fileName": "src/lib/structures/contexts/Context.ts",
+							"line": 30,
+							"character": 1
+						}
+					],
+					"type": {
+						"type": "reference",
+						"name": "User"
+					},
+					"inheritedFrom": {
+						"type": "reference",
+						"id": 2917,
 						"name": "ContextOptions.user"
 					}
 				},
 				{
-					"id": 3183,
+					"id": 3198,
 					"name": "value",
 					"kind": 1024,
 					"kindString": "Property",
@@ -61129,7 +61444,7 @@
 					}
 				},
 				{
-					"id": 3184,
+					"id": 3199,
 					"name": "respond",
 					"kind": 2048,
 					"kindString": "Method",
@@ -61143,14 +61458,14 @@
 					],
 					"signatures": [
 						{
-							"id": 3185,
+							"id": 3200,
 							"name": "respond",
 							"kind": 4096,
 							"kindString": "Call signature",
 							"flags": {},
 							"parameters": [
 								{
-									"id": 3186,
+									"id": 3201,
 									"name": "choices",
 									"kind": 32768,
 									"kindString": "Parameter",
@@ -61184,24 +61499,25 @@
 					"title": "Properties",
 					"kind": 1024,
 					"children": [
-						3182,
-						3187,
-						3181,
-						3188,
-						3189,
-						3190,
-						3191,
-						3180,
-						3192,
-						3193,
-						3183
+						3197,
+						3202,
+						3196,
+						3203,
+						3204,
+						3205,
+						3206,
+						3195,
+						3207,
+						3208,
+						3209,
+						3198
 					]
 				},
 				{
 					"title": "Methods",
 					"kind": 2048,
 					"children": [
-						3184
+						3199
 					]
 				}
 			],
@@ -61214,7 +61530,7 @@
 			],
 			"typeParameter": [
 				{
-					"id": 3194,
+					"id": 3210,
 					"name": "Cached",
 					"kind": 131072,
 					"kindString": "Type parameter",
@@ -61236,7 +61552,7 @@
 					"typeArguments": [
 						{
 							"type": "reference",
-							"id": 3194,
+							"id": 3210,
 							"name": "Cached"
 						}
 					],
@@ -64535,7 +64851,7 @@
 								},
 								{
 									"type": "reference",
-									"id": 3251,
+									"id": 3271,
 									"name": "ChannelType"
 								}
 							]
@@ -64629,7 +64945,7 @@
 								},
 								{
 									"type": "reference",
-									"id": 3271,
+									"id": 3291,
 									"name": "Argument"
 								}
 							]
@@ -64671,7 +64987,7 @@
 					],
 					"type": {
 						"type": "reference",
-						"id": 3240,
+						"id": 3260,
 						"name": "ArgumentType"
 					}
 				},
@@ -64706,7 +65022,7 @@
 									"flags": {},
 									"type": {
 										"type": "reference",
-										"id": 3195,
+										"id": 3211,
 										"typeArguments": [
 											{
 												"type": "reference",
@@ -64818,14 +65134,14 @@
 			]
 		},
 		{
-			"id": 2953,
+			"id": 2958,
 			"name": "CommandContextOptions",
 			"kind": 256,
 			"kindString": "Interface",
 			"flags": {},
 			"children": [
 				{
-					"id": 2957,
+					"id": 2962,
 					"name": "arguments",
 					"kind": 1024,
 					"kindString": "Property",
@@ -64833,7 +65149,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/contexts/CommandContext.ts",
-							"line": 21,
+							"line": 23,
 							"character": 1
 						}
 					],
@@ -64842,15 +65158,14 @@
 						"typeArguments": [
 							{
 								"type": "reference",
-								"id": 2987,
-								"name": "Cached"
+								"name": "CacheType"
 							}
 						],
-						"name": "CommandInteractionOptionResolver"
+						"name": "ArgumentsType"
 					}
 				},
 				{
-					"id": 2980,
+					"id": 2985,
 					"name": "channel",
 					"kind": 1024,
 					"kindString": "Property",
@@ -64867,7 +65182,7 @@
 						"typeArguments": [
 							{
 								"type": "reference",
-								"id": 2987,
+								"id": 2993,
 								"name": "Cached"
 							},
 							{
@@ -64896,7 +65211,7 @@
 					}
 				},
 				{
-					"id": 2956,
+					"id": 2961,
 					"name": "command",
 					"kind": 1024,
 					"kindString": "Property",
@@ -64904,7 +65219,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/contexts/CommandContext.ts",
-							"line": 20,
+							"line": 22,
 							"character": 1
 						}
 					],
@@ -64915,7 +65230,7 @@
 					}
 				},
 				{
-					"id": 2981,
+					"id": 2986,
 					"name": "createdAt",
 					"kind": 1024,
 					"kindString": "Property",
@@ -64938,7 +65253,7 @@
 					}
 				},
 				{
-					"id": 2982,
+					"id": 2987,
 					"name": "createdTimestamp",
 					"kind": 1024,
 					"kindString": "Property",
@@ -64961,7 +65276,7 @@
 					}
 				},
 				{
-					"id": 2983,
+					"id": 2988,
 					"name": "guild",
 					"kind": 1024,
 					"kindString": "Property",
@@ -64978,7 +65293,7 @@
 						"typeArguments": [
 							{
 								"type": "reference",
-								"id": 2987,
+								"id": 2993,
 								"name": "Cached"
 							},
 							{
@@ -65007,7 +65322,7 @@
 					}
 				},
 				{
-					"id": 2984,
+					"id": 2989,
 					"name": "guildId",
 					"kind": 1024,
 					"kindString": "Property",
@@ -65024,7 +65339,7 @@
 						"typeArguments": [
 							{
 								"type": "reference",
-								"id": 2987,
+								"id": 2993,
 								"name": "Cached"
 							},
 							{
@@ -65053,7 +65368,7 @@
 					}
 				},
 				{
-					"id": 2954,
+					"id": 2959,
 					"name": "interaction",
 					"kind": 1024,
 					"kindString": "Property",
@@ -65063,7 +65378,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/contexts/CommandContext.ts",
-							"line": 18,
+							"line": 20,
 							"character": 1
 						}
 					],
@@ -65094,7 +65409,7 @@
 					}
 				},
 				{
-					"id": 2985,
+					"id": 2990,
 					"name": "member",
 					"kind": 1024,
 					"kindString": "Property",
@@ -65111,7 +65426,7 @@
 						"typeArguments": [
 							{
 								"type": "reference",
-								"id": 2987,
+								"id": 2993,
 								"name": "Cached"
 							},
 							{
@@ -65158,7 +65473,77 @@
 					}
 				},
 				{
-					"id": 2955,
+					"id": 2991,
+					"name": "memberPermissions",
+					"kind": 1024,
+					"kindString": "Property",
+					"flags": {},
+					"sources": [
+						{
+							"fileName": "src/lib/structures/contexts/Context.ts",
+							"line": 29,
+							"character": 1
+						}
+					],
+					"type": {
+						"type": "reference",
+						"typeArguments": [
+							{
+								"type": "reference",
+								"id": 2993,
+								"name": "Cached"
+							},
+							{
+								"type": "reference",
+								"typeArguments": [
+									{
+										"type": "reference",
+										"name": "Permissions"
+									}
+								],
+								"name": "Readonly"
+							},
+							{
+								"type": "reference",
+								"typeArguments": [
+									{
+										"type": "reference",
+										"name": "Permissions"
+									}
+								],
+								"name": "Readonly"
+							},
+							{
+								"type": "reference",
+								"typeArguments": [
+									{
+										"type": "reference",
+										"name": "Permissions"
+									}
+								],
+								"name": "Readonly"
+							},
+							{
+								"type": "reference",
+								"typeArguments": [
+									{
+										"type": "reference",
+										"name": "Permissions"
+									}
+								],
+								"name": "Readonly"
+							}
+						],
+						"name": "CacheTypeReducer"
+					},
+					"inheritedFrom": {
+						"type": "reference",
+						"id": 2916,
+						"name": "ContextOptions.memberPermissions"
+					}
+				},
+				{
+					"id": 2960,
 					"name": "message",
 					"kind": 1024,
 					"kindString": "Property",
@@ -65168,7 +65553,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/contexts/CommandContext.ts",
-							"line": 19,
+							"line": 21,
 							"character": 1
 						}
 					],
@@ -65184,7 +65569,7 @@
 					}
 				},
 				{
-					"id": 2986,
+					"id": 2992,
 					"name": "user",
 					"kind": 1024,
 					"kindString": "Property",
@@ -65192,7 +65577,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/contexts/Context.ts",
-							"line": 29,
+							"line": 30,
 							"character": 1
 						}
 					],
@@ -65202,12 +65587,12 @@
 					},
 					"inheritedFrom": {
 						"type": "reference",
-						"id": 2916,
+						"id": 2917,
 						"name": "ContextOptions.user"
 					}
 				},
 				{
-					"id": 2958,
+					"id": 2963,
 					"name": "deferReply",
 					"kind": 2048,
 					"kindString": "Method",
@@ -65215,20 +65600,20 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/contexts/CommandContext.ts",
-							"line": 22,
+							"line": 24,
 							"character": 1
 						}
 					],
 					"signatures": [
 						{
-							"id": 2959,
+							"id": 2964,
 							"name": "deferReply",
 							"kind": 4096,
 							"kindString": "Call signature",
 							"flags": {},
 							"typeParameter": [
 								{
-									"id": 2960,
+									"id": 2965,
 									"name": "Fetch",
 									"kind": 131072,
 									"kindString": "Type parameter",
@@ -65245,7 +65630,7 @@
 							],
 							"parameters": [
 								{
-									"id": 2961,
+									"id": 2966,
 									"name": "options",
 									"kind": 32768,
 									"kindString": "Parameter",
@@ -65262,14 +65647,14 @@
 											{
 												"type": "reflection",
 												"declaration": {
-													"id": 2962,
+													"id": 2967,
 													"name": "__type",
 													"kind": 65536,
 													"kindString": "Type literal",
 													"flags": {},
 													"children": [
 														{
-															"id": 2963,
+															"id": 2968,
 															"name": "fetchReply",
 															"kind": 1024,
 															"kindString": "Property",
@@ -65279,13 +65664,13 @@
 															"sources": [
 																{
 																	"fileName": "src/lib/structures/contexts/CommandContext.ts",
-																	"line": 22,
+																	"line": 24,
 																	"character": 90
 																}
 															],
 															"type": {
 																"type": "reference",
-																"id": 2960,
+																"id": 2965,
 																"name": "Fetch"
 															}
 														}
@@ -65295,7 +65680,7 @@
 															"title": "Properties",
 															"kind": 1024,
 															"children": [
-																2963
+																2968
 															]
 														}
 													]
@@ -65312,7 +65697,7 @@
 										"type": "conditional",
 										"checkType": {
 											"type": "reference",
-											"id": 2960,
+											"id": 2965,
 											"name": "Fetch"
 										},
 										"extendsType": {
@@ -65324,7 +65709,7 @@
 											"typeArguments": [
 												{
 													"type": "reference",
-													"id": 2987,
+													"id": 2993,
 													"name": "Cached"
 												},
 												{
@@ -65394,7 +65779,7 @@
 					]
 				},
 				{
-					"id": 2964,
+					"id": 2969,
 					"name": "deleteReply",
 					"kind": 2048,
 					"kindString": "Method",
@@ -65402,13 +65787,13 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/contexts/CommandContext.ts",
-							"line": 23,
+							"line": 25,
 							"character": 1
 						}
 					],
 					"signatures": [
 						{
-							"id": 2965,
+							"id": 2970,
 							"name": "deleteReply",
 							"kind": 4096,
 							"kindString": "Call signature",
@@ -65427,7 +65812,7 @@
 					]
 				},
 				{
-					"id": 2966,
+					"id": 2971,
 					"name": "editReply",
 					"kind": 2048,
 					"kindString": "Method",
@@ -65435,20 +65820,20 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/contexts/CommandContext.ts",
-							"line": 24,
+							"line": 26,
 							"character": 1
 						}
 					],
 					"signatures": [
 						{
-							"id": 2967,
+							"id": 2972,
 							"name": "editReply",
 							"kind": 4096,
 							"kindString": "Call signature",
 							"flags": {},
 							"parameters": [
 								{
-									"id": 2968,
+									"id": 2973,
 									"name": "options",
 									"kind": 32768,
 									"kindString": "Parameter",
@@ -65480,217 +65865,7 @@
 										"typeArguments": [
 											{
 												"type": "reference",
-												"id": 2987,
-												"name": "Cached"
-											},
-											{
-												"type": "reference",
-												"typeArguments": [
-													{
-														"type": "literal",
-														"value": true
-													}
-												],
-												"name": "Message"
-											},
-											{
-												"type": "reference",
-												"name": "APIMessage"
-											},
-											{
-												"type": "union",
-												"types": [
-													{
-														"type": "reference",
-														"name": "APIMessage"
-													},
-													{
-														"type": "reference",
-														"typeArguments": [
-															{
-																"type": "intrinsic",
-																"name": "boolean"
-															}
-														],
-														"name": "Message"
-													}
-												]
-											},
-											{
-												"type": "union",
-												"types": [
-													{
-														"type": "reference",
-														"name": "APIMessage"
-													},
-													{
-														"type": "reference",
-														"typeArguments": [
-															{
-																"type": "intrinsic",
-																"name": "boolean"
-															}
-														],
-														"name": "Message"
-													}
-												]
-											}
-										],
-										"name": "CacheTypeReducer"
-									}
-								],
-								"name": "Promise"
-							}
-						}
-					]
-				},
-				{
-					"id": 2969,
-					"name": "fetchReply",
-					"kind": 2048,
-					"kindString": "Method",
-					"flags": {},
-					"sources": [
-						{
-							"fileName": "src/lib/structures/contexts/CommandContext.ts",
-							"line": 25,
-							"character": 1
-						}
-					],
-					"signatures": [
-						{
-							"id": 2970,
-							"name": "fetchReply",
-							"kind": 4096,
-							"kindString": "Call signature",
-							"flags": {},
-							"type": {
-								"type": "reference",
-								"typeArguments": [
-									{
-										"type": "reference",
-										"typeArguments": [
-											{
-												"type": "reference",
-												"id": 2987,
-												"name": "Cached"
-											},
-											{
-												"type": "reference",
-												"typeArguments": [
-													{
-														"type": "literal",
-														"value": true
-													}
-												],
-												"name": "Message"
-											},
-											{
-												"type": "reference",
-												"name": "APIMessage"
-											},
-											{
-												"type": "union",
-												"types": [
-													{
-														"type": "reference",
-														"name": "APIMessage"
-													},
-													{
-														"type": "reference",
-														"typeArguments": [
-															{
-																"type": "intrinsic",
-																"name": "boolean"
-															}
-														],
-														"name": "Message"
-													}
-												]
-											},
-											{
-												"type": "union",
-												"types": [
-													{
-														"type": "reference",
-														"name": "APIMessage"
-													},
-													{
-														"type": "reference",
-														"typeArguments": [
-															{
-																"type": "intrinsic",
-																"name": "boolean"
-															}
-														],
-														"name": "Message"
-													}
-												]
-											}
-										],
-										"name": "CacheTypeReducer"
-									}
-								],
-								"name": "Promise"
-							}
-						}
-					]
-				},
-				{
-					"id": 2971,
-					"name": "followUp",
-					"kind": 2048,
-					"kindString": "Method",
-					"flags": {},
-					"sources": [
-						{
-							"fileName": "src/lib/structures/contexts/CommandContext.ts",
-							"line": 26,
-							"character": 1
-						}
-					],
-					"signatures": [
-						{
-							"id": 2972,
-							"name": "followUp",
-							"kind": 4096,
-							"kindString": "Call signature",
-							"flags": {},
-							"parameters": [
-								{
-									"id": 2973,
-									"name": "options",
-									"kind": 32768,
-									"kindString": "Parameter",
-									"flags": {},
-									"type": {
-										"type": "union",
-										"types": [
-											{
-												"type": "intrinsic",
-												"name": "string"
-											},
-											{
-												"type": "reference",
-												"name": "MessagePayload"
-											},
-											{
-												"type": "reference",
-												"name": "InteractionReplyOptions"
-											}
-										]
-									}
-								}
-							],
-							"type": {
-								"type": "reference",
-								"typeArguments": [
-									{
-										"type": "reference",
-										"typeArguments": [
-											{
-												"type": "reference",
-												"id": 2987,
+												"id": 2993,
 												"name": "Cached"
 											},
 											{
@@ -65756,7 +65931,7 @@
 				},
 				{
 					"id": 2974,
-					"name": "reply",
+					"name": "fetchReply",
 					"kind": 2048,
 					"kindString": "Method",
 					"flags": {},
@@ -65770,13 +65945,223 @@
 					"signatures": [
 						{
 							"id": 2975,
+							"name": "fetchReply",
+							"kind": 4096,
+							"kindString": "Call signature",
+							"flags": {},
+							"type": {
+								"type": "reference",
+								"typeArguments": [
+									{
+										"type": "reference",
+										"typeArguments": [
+											{
+												"type": "reference",
+												"id": 2993,
+												"name": "Cached"
+											},
+											{
+												"type": "reference",
+												"typeArguments": [
+													{
+														"type": "literal",
+														"value": true
+													}
+												],
+												"name": "Message"
+											},
+											{
+												"type": "reference",
+												"name": "APIMessage"
+											},
+											{
+												"type": "union",
+												"types": [
+													{
+														"type": "reference",
+														"name": "APIMessage"
+													},
+													{
+														"type": "reference",
+														"typeArguments": [
+															{
+																"type": "intrinsic",
+																"name": "boolean"
+															}
+														],
+														"name": "Message"
+													}
+												]
+											},
+											{
+												"type": "union",
+												"types": [
+													{
+														"type": "reference",
+														"name": "APIMessage"
+													},
+													{
+														"type": "reference",
+														"typeArguments": [
+															{
+																"type": "intrinsic",
+																"name": "boolean"
+															}
+														],
+														"name": "Message"
+													}
+												]
+											}
+										],
+										"name": "CacheTypeReducer"
+									}
+								],
+								"name": "Promise"
+							}
+						}
+					]
+				},
+				{
+					"id": 2976,
+					"name": "followUp",
+					"kind": 2048,
+					"kindString": "Method",
+					"flags": {},
+					"sources": [
+						{
+							"fileName": "src/lib/structures/contexts/CommandContext.ts",
+							"line": 28,
+							"character": 1
+						}
+					],
+					"signatures": [
+						{
+							"id": 2977,
+							"name": "followUp",
+							"kind": 4096,
+							"kindString": "Call signature",
+							"flags": {},
+							"parameters": [
+								{
+									"id": 2978,
+									"name": "options",
+									"kind": 32768,
+									"kindString": "Parameter",
+									"flags": {},
+									"type": {
+										"type": "union",
+										"types": [
+											{
+												"type": "intrinsic",
+												"name": "string"
+											},
+											{
+												"type": "reference",
+												"name": "MessagePayload"
+											},
+											{
+												"type": "reference",
+												"name": "InteractionReplyOptions"
+											}
+										]
+									}
+								}
+							],
+							"type": {
+								"type": "reference",
+								"typeArguments": [
+									{
+										"type": "reference",
+										"typeArguments": [
+											{
+												"type": "reference",
+												"id": 2993,
+												"name": "Cached"
+											},
+											{
+												"type": "reference",
+												"typeArguments": [
+													{
+														"type": "literal",
+														"value": true
+													}
+												],
+												"name": "Message"
+											},
+											{
+												"type": "reference",
+												"name": "APIMessage"
+											},
+											{
+												"type": "union",
+												"types": [
+													{
+														"type": "reference",
+														"name": "APIMessage"
+													},
+													{
+														"type": "reference",
+														"typeArguments": [
+															{
+																"type": "intrinsic",
+																"name": "boolean"
+															}
+														],
+														"name": "Message"
+													}
+												]
+											},
+											{
+												"type": "union",
+												"types": [
+													{
+														"type": "reference",
+														"name": "APIMessage"
+													},
+													{
+														"type": "reference",
+														"typeArguments": [
+															{
+																"type": "intrinsic",
+																"name": "boolean"
+															}
+														],
+														"name": "Message"
+													}
+												]
+											}
+										],
+										"name": "CacheTypeReducer"
+									}
+								],
+								"name": "Promise"
+							}
+						}
+					]
+				},
+				{
+					"id": 2979,
+					"name": "reply",
+					"kind": 2048,
+					"kindString": "Method",
+					"flags": {},
+					"sources": [
+						{
+							"fileName": "src/lib/structures/contexts/CommandContext.ts",
+							"line": 29,
+							"character": 1
+						}
+					],
+					"signatures": [
+						{
+							"id": 2980,
 							"name": "reply",
 							"kind": 4096,
 							"kindString": "Call signature",
 							"flags": {},
 							"typeParameter": [
 								{
-									"id": 2976,
+									"id": 2981,
 									"name": "Fetch",
 									"kind": 131072,
 									"kindString": "Type parameter",
@@ -65793,7 +66178,7 @@
 							],
 							"parameters": [
 								{
-									"id": 2977,
+									"id": 2982,
 									"name": "options",
 									"kind": 32768,
 									"kindString": "Parameter",
@@ -65825,14 +66210,14 @@
 													{
 														"type": "reflection",
 														"declaration": {
-															"id": 2978,
+															"id": 2983,
 															"name": "__type",
 															"kind": 65536,
 															"kindString": "Type literal",
 															"flags": {},
 															"children": [
 																{
-																	"id": 2979,
+																	"id": 2984,
 																	"name": "fetchReply",
 																	"kind": 1024,
 																	"kindString": "Property",
@@ -65842,13 +66227,13 @@
 																	"sources": [
 																		{
 																			"fileName": "src/lib/structures/contexts/CommandContext.ts",
-																			"line": 27,
+																			"line": 29,
 																			"character": 80
 																		}
 																	],
 																	"type": {
 																		"type": "reference",
-																		"id": 2976,
+																		"id": 2981,
 																		"name": "Fetch"
 																	}
 																}
@@ -65858,7 +66243,7 @@
 																	"title": "Properties",
 																	"kind": 1024,
 																	"children": [
-																		2979
+																		2984
 																	]
 																}
 															]
@@ -65877,7 +66262,7 @@
 										"type": "conditional",
 										"checkType": {
 											"type": "reference",
-											"id": 2976,
+											"id": 2981,
 											"name": "Fetch"
 										},
 										"extendsType": {
@@ -65889,7 +66274,7 @@
 											"typeArguments": [
 												{
 													"type": "reference",
-													"id": 2987,
+													"id": 2993,
 													"name": "Cached"
 												},
 												{
@@ -65964,42 +66349,43 @@
 					"title": "Properties",
 					"kind": 1024,
 					"children": [
-						2957,
-						2980,
-						2956,
-						2981,
-						2982,
-						2983,
-						2984,
-						2954,
+						2962,
 						2985,
-						2955,
-						2986
+						2961,
+						2986,
+						2987,
+						2988,
+						2989,
+						2959,
+						2990,
+						2991,
+						2960,
+						2992
 					]
 				},
 				{
 					"title": "Methods",
 					"kind": 2048,
 					"children": [
-						2958,
-						2964,
-						2966,
+						2963,
 						2969,
 						2971,
-						2974
+						2974,
+						2976,
+						2979
 					]
 				}
 			],
 			"sources": [
 				{
 					"fileName": "src/lib/structures/contexts/CommandContext.ts",
-					"line": 17,
+					"line": 19,
 					"character": 17
 				}
 			],
 			"typeParameter": [
 				{
-					"id": 2987,
+					"id": 2993,
 					"name": "Cached",
 					"kind": 131072,
 					"kindString": "Type parameter",
@@ -66021,7 +66407,7 @@
 					"typeArguments": [
 						{
 							"type": "reference",
-							"id": 2987,
+							"id": 2993,
 							"name": "Cached"
 						}
 					],
@@ -66063,7 +66449,7 @@
 								},
 								{
 									"type": "reference",
-									"id": 3271,
+									"id": 3291,
 									"name": "Argument"
 								}
 							]
@@ -66301,7 +66687,7 @@
 									"flags": {},
 									"type": {
 										"type": "reference",
-										"id": 2988,
+										"id": 2994,
 										"typeArguments": [
 											{
 												"type": "reference",
@@ -66361,7 +66747,7 @@
 									"flags": {},
 									"type": {
 										"type": "reference",
-										"id": 2988,
+										"id": 2994,
 										"typeArguments": [
 											{
 												"type": "reference",
@@ -66414,14 +66800,14 @@
 			]
 		},
 		{
-			"id": 3058,
+			"id": 3068,
 			"name": "ComponentContextOptions",
 			"kind": 256,
 			"kindString": "Interface",
 			"flags": {},
 			"children": [
 				{
-					"id": 3062,
+					"id": 3072,
 					"name": "arguments",
 					"kind": 1024,
 					"kindString": "Property",
@@ -66442,7 +66828,7 @@
 					}
 				},
 				{
-					"id": 3093,
+					"id": 3103,
 					"name": "channel",
 					"kind": 1024,
 					"kindString": "Property",
@@ -66459,7 +66845,7 @@
 						"typeArguments": [
 							{
 								"type": "reference",
-								"id": 3100,
+								"id": 3111,
 								"name": "Cached"
 							},
 							{
@@ -66488,7 +66874,7 @@
 					}
 				},
 				{
-					"id": 3060,
+					"id": 3070,
 					"name": "component",
 					"kind": 1024,
 					"kindString": "Property",
@@ -66507,7 +66893,7 @@
 					}
 				},
 				{
-					"id": 3094,
+					"id": 3104,
 					"name": "createdAt",
 					"kind": 1024,
 					"kindString": "Property",
@@ -66530,7 +66916,7 @@
 					}
 				},
 				{
-					"id": 3095,
+					"id": 3105,
 					"name": "createdTimestamp",
 					"kind": 1024,
 					"kindString": "Property",
@@ -66553,7 +66939,7 @@
 					}
 				},
 				{
-					"id": 3061,
+					"id": 3071,
 					"name": "customId",
 					"kind": 1024,
 					"kindString": "Property",
@@ -66571,7 +66957,7 @@
 					}
 				},
 				{
-					"id": 3096,
+					"id": 3106,
 					"name": "guild",
 					"kind": 1024,
 					"kindString": "Property",
@@ -66588,7 +66974,7 @@
 						"typeArguments": [
 							{
 								"type": "reference",
-								"id": 3100,
+								"id": 3111,
 								"name": "Cached"
 							},
 							{
@@ -66617,7 +67003,7 @@
 					}
 				},
 				{
-					"id": 3097,
+					"id": 3107,
 					"name": "guildId",
 					"kind": 1024,
 					"kindString": "Property",
@@ -66634,7 +67020,7 @@
 						"typeArguments": [
 							{
 								"type": "reference",
-								"id": 3100,
+								"id": 3111,
 								"name": "Cached"
 							},
 							{
@@ -66663,7 +67049,7 @@
 					}
 				},
 				{
-					"id": 3059,
+					"id": 3069,
 					"name": "interaction",
 					"kind": 1024,
 					"kindString": "Property",
@@ -66687,7 +67073,7 @@
 					}
 				},
 				{
-					"id": 3098,
+					"id": 3108,
 					"name": "member",
 					"kind": 1024,
 					"kindString": "Property",
@@ -66704,7 +67090,7 @@
 						"typeArguments": [
 							{
 								"type": "reference",
-								"id": 3100,
+								"id": 3111,
 								"name": "Cached"
 							},
 							{
@@ -66751,7 +67137,77 @@
 					}
 				},
 				{
-					"id": 3092,
+					"id": 3109,
+					"name": "memberPermissions",
+					"kind": 1024,
+					"kindString": "Property",
+					"flags": {},
+					"sources": [
+						{
+							"fileName": "src/lib/structures/contexts/Context.ts",
+							"line": 29,
+							"character": 1
+						}
+					],
+					"type": {
+						"type": "reference",
+						"typeArguments": [
+							{
+								"type": "reference",
+								"id": 3111,
+								"name": "Cached"
+							},
+							{
+								"type": "reference",
+								"typeArguments": [
+									{
+										"type": "reference",
+										"name": "Permissions"
+									}
+								],
+								"name": "Readonly"
+							},
+							{
+								"type": "reference",
+								"typeArguments": [
+									{
+										"type": "reference",
+										"name": "Permissions"
+									}
+								],
+								"name": "Readonly"
+							},
+							{
+								"type": "reference",
+								"typeArguments": [
+									{
+										"type": "reference",
+										"name": "Permissions"
+									}
+								],
+								"name": "Readonly"
+							},
+							{
+								"type": "reference",
+								"typeArguments": [
+									{
+										"type": "reference",
+										"name": "Permissions"
+									}
+								],
+								"name": "Readonly"
+							}
+						],
+						"name": "CacheTypeReducer"
+					},
+					"inheritedFrom": {
+						"type": "reference",
+						"id": 2916,
+						"name": "ContextOptions.memberPermissions"
+					}
+				},
+				{
+					"id": 3102,
 					"name": "type",
 					"kind": 1024,
 					"kindString": "Property",
@@ -66778,7 +67234,7 @@
 					}
 				},
 				{
-					"id": 3099,
+					"id": 3110,
 					"name": "user",
 					"kind": 1024,
 					"kindString": "Property",
@@ -66786,7 +67242,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/contexts/Context.ts",
-							"line": 29,
+							"line": 30,
 							"character": 1
 						}
 					],
@@ -66796,12 +67252,12 @@
 					},
 					"inheritedFrom": {
 						"type": "reference",
-						"id": 2916,
+						"id": 2917,
 						"name": "ContextOptions.user"
 					}
 				},
 				{
-					"id": 3063,
+					"id": 3073,
 					"name": "values",
 					"kind": 1024,
 					"kindString": "Property",
@@ -66824,7 +67280,7 @@
 					}
 				},
 				{
-					"id": 3064,
+					"id": 3074,
 					"name": "deferReply",
 					"kind": 2048,
 					"kindString": "Method",
@@ -66838,14 +67294,14 @@
 					],
 					"signatures": [
 						{
-							"id": 3065,
+							"id": 3075,
 							"name": "deferReply",
 							"kind": 4096,
 							"kindString": "Call signature",
 							"flags": {},
 							"typeParameter": [
 								{
-									"id": 3066,
+									"id": 3076,
 									"name": "Fetch",
 									"kind": 131072,
 									"kindString": "Type parameter",
@@ -66862,7 +67318,7 @@
 							],
 							"parameters": [
 								{
-									"id": 3067,
+									"id": 3077,
 									"name": "options",
 									"kind": 32768,
 									"kindString": "Parameter",
@@ -66879,14 +67335,14 @@
 											{
 												"type": "reflection",
 												"declaration": {
-													"id": 3068,
+													"id": 3078,
 													"name": "__type",
 													"kind": 65536,
 													"kindString": "Type literal",
 													"flags": {},
 													"children": [
 														{
-															"id": 3069,
+															"id": 3079,
 															"name": "fetchReply",
 															"kind": 1024,
 															"kindString": "Property",
@@ -66902,7 +67358,7 @@
 															],
 															"type": {
 																"type": "reference",
-																"id": 3066,
+																"id": 3076,
 																"name": "Fetch"
 															}
 														}
@@ -66912,7 +67368,7 @@
 															"title": "Properties",
 															"kind": 1024,
 															"children": [
-																3069
+																3079
 															]
 														}
 													]
@@ -66929,7 +67385,7 @@
 										"type": "conditional",
 										"checkType": {
 											"type": "reference",
-											"id": 3066,
+											"id": 3076,
 											"name": "Fetch"
 										},
 										"extendsType": {
@@ -66941,7 +67397,7 @@
 											"typeArguments": [
 												{
 													"type": "reference",
-													"id": 3100,
+													"id": 3111,
 													"name": "Cached"
 												},
 												{
@@ -67011,7 +67467,7 @@
 					]
 				},
 				{
-					"id": 3070,
+					"id": 3080,
 					"name": "deferUpdate",
 					"kind": 2048,
 					"kindString": "Method",
@@ -67025,14 +67481,14 @@
 					],
 					"signatures": [
 						{
-							"id": 3071,
+							"id": 3081,
 							"name": "deferUpdate",
 							"kind": 4096,
 							"kindString": "Call signature",
 							"flags": {},
 							"typeParameter": [
 								{
-									"id": 3072,
+									"id": 3082,
 									"name": "Fetch",
 									"kind": 131072,
 									"kindString": "Type parameter",
@@ -67049,7 +67505,7 @@
 							],
 							"parameters": [
 								{
-									"id": 3073,
+									"id": 3083,
 									"name": "options",
 									"kind": 32768,
 									"kindString": "Parameter",
@@ -67066,14 +67522,14 @@
 											{
 												"type": "reflection",
 												"declaration": {
-													"id": 3074,
+													"id": 3084,
 													"name": "__type",
 													"kind": 65536,
 													"kindString": "Type literal",
 													"flags": {},
 													"children": [
 														{
-															"id": 3075,
+															"id": 3085,
 															"name": "fetchReply",
 															"kind": 1024,
 															"kindString": "Property",
@@ -67089,7 +67545,7 @@
 															],
 															"type": {
 																"type": "reference",
-																"id": 3072,
+																"id": 3082,
 																"name": "Fetch"
 															}
 														}
@@ -67099,7 +67555,7 @@
 															"title": "Properties",
 															"kind": 1024,
 															"children": [
-																3075
+																3085
 															]
 														}
 													]
@@ -67116,7 +67572,7 @@
 										"type": "conditional",
 										"checkType": {
 											"type": "reference",
-											"id": 3072,
+											"id": 3082,
 											"name": "Fetch"
 										},
 										"extendsType": {
@@ -67128,7 +67584,7 @@
 											"typeArguments": [
 												{
 													"type": "reference",
-													"id": 3100,
+													"id": 3111,
 													"name": "Cached"
 												},
 												{
@@ -67198,7 +67654,7 @@
 					]
 				},
 				{
-					"id": 3076,
+					"id": 3086,
 					"name": "deleteReply",
 					"kind": 2048,
 					"kindString": "Method",
@@ -67212,7 +67668,7 @@
 					],
 					"signatures": [
 						{
-							"id": 3077,
+							"id": 3087,
 							"name": "deleteReply",
 							"kind": 4096,
 							"kindString": "Call signature",
@@ -67231,7 +67687,7 @@
 					]
 				},
 				{
-					"id": 3078,
+					"id": 3088,
 					"name": "editReply",
 					"kind": 2048,
 					"kindString": "Method",
@@ -67245,14 +67701,14 @@
 					],
 					"signatures": [
 						{
-							"id": 3079,
+							"id": 3089,
 							"name": "editReply",
 							"kind": 4096,
 							"kindString": "Call signature",
 							"flags": {},
 							"parameters": [
 								{
-									"id": 3080,
+									"id": 3090,
 									"name": "options",
 									"kind": 32768,
 									"kindString": "Parameter",
@@ -67284,7 +67740,7 @@
 										"typeArguments": [
 											{
 												"type": "reference",
-												"id": 3100,
+												"id": 3111,
 												"name": "Cached"
 											},
 											{
@@ -67349,7 +67805,7 @@
 					]
 				},
 				{
-					"id": 3081,
+					"id": 3091,
 					"name": "fetchReply",
 					"kind": 2048,
 					"kindString": "Method",
@@ -67363,7 +67819,7 @@
 					],
 					"signatures": [
 						{
-							"id": 3082,
+							"id": 3092,
 							"name": "fetchReply",
 							"kind": 4096,
 							"kindString": "Call signature",
@@ -67376,7 +67832,7 @@
 										"typeArguments": [
 											{
 												"type": "reference",
-												"id": 3100,
+												"id": 3111,
 												"name": "Cached"
 											},
 											{
@@ -67441,7 +67897,7 @@
 					]
 				},
 				{
-					"id": 3083,
+					"id": 3093,
 					"name": "followUp",
 					"kind": 2048,
 					"kindString": "Method",
@@ -67455,14 +67911,14 @@
 					],
 					"signatures": [
 						{
-							"id": 3084,
+							"id": 3094,
 							"name": "followUp",
 							"kind": 4096,
 							"kindString": "Call signature",
 							"flags": {},
 							"parameters": [
 								{
-									"id": 3085,
+									"id": 3095,
 									"name": "options",
 									"kind": 32768,
 									"kindString": "Parameter",
@@ -67494,7 +67950,7 @@
 										"typeArguments": [
 											{
 												"type": "reference",
-												"id": 3100,
+												"id": 3111,
 												"name": "Cached"
 											},
 											{
@@ -67559,7 +68015,7 @@
 					]
 				},
 				{
-					"id": 3086,
+					"id": 3096,
 					"name": "reply",
 					"kind": 2048,
 					"kindString": "Method",
@@ -67573,14 +68029,14 @@
 					],
 					"signatures": [
 						{
-							"id": 3087,
+							"id": 3097,
 							"name": "reply",
 							"kind": 4096,
 							"kindString": "Call signature",
 							"flags": {},
 							"typeParameter": [
 								{
-									"id": 3088,
+									"id": 3098,
 									"name": "Fetch",
 									"kind": 131072,
 									"kindString": "Type parameter",
@@ -67597,7 +68053,7 @@
 							],
 							"parameters": [
 								{
-									"id": 3089,
+									"id": 3099,
 									"name": "options",
 									"kind": 32768,
 									"kindString": "Parameter",
@@ -67629,14 +68085,14 @@
 													{
 														"type": "reflection",
 														"declaration": {
-															"id": 3090,
+															"id": 3100,
 															"name": "__type",
 															"kind": 65536,
 															"kindString": "Type literal",
 															"flags": {},
 															"children": [
 																{
-																	"id": 3091,
+																	"id": 3101,
 																	"name": "fetchReply",
 																	"kind": 1024,
 																	"kindString": "Property",
@@ -67652,7 +68108,7 @@
 																	],
 																	"type": {
 																		"type": "reference",
-																		"id": 3088,
+																		"id": 3098,
 																		"name": "Fetch"
 																	}
 																}
@@ -67662,7 +68118,7 @@
 																	"title": "Properties",
 																	"kind": 1024,
 																	"children": [
-																		3091
+																		3101
 																	]
 																}
 															]
@@ -67681,7 +68137,7 @@
 										"type": "conditional",
 										"checkType": {
 											"type": "reference",
-											"id": 3088,
+											"id": 3098,
 											"name": "Fetch"
 										},
 										"extendsType": {
@@ -67693,7 +68149,7 @@
 											"typeArguments": [
 												{
 													"type": "reference",
-													"id": 3100,
+													"id": 3111,
 													"name": "Cached"
 												},
 												{
@@ -67768,32 +68224,33 @@
 					"title": "Properties",
 					"kind": 1024,
 					"children": [
-						3062,
-						3093,
-						3060,
-						3094,
-						3095,
-						3061,
-						3096,
-						3097,
-						3059,
-						3098,
-						3092,
-						3099,
-						3063
+						3072,
+						3103,
+						3070,
+						3104,
+						3105,
+						3071,
+						3106,
+						3107,
+						3069,
+						3108,
+						3109,
+						3102,
+						3110,
+						3073
 					]
 				},
 				{
 					"title": "Methods",
 					"kind": 2048,
 					"children": [
-						3064,
-						3070,
-						3076,
-						3078,
-						3081,
-						3083,
-						3086
+						3074,
+						3080,
+						3086,
+						3088,
+						3091,
+						3093,
+						3096
 					]
 				}
 			],
@@ -67806,7 +68263,7 @@
 			],
 			"typeParameter": [
 				{
-					"id": 3100,
+					"id": 3111,
 					"name": "Cached",
 					"kind": 131072,
 					"kindString": "Type parameter",
@@ -67828,7 +68285,7 @@
 					"typeArguments": [
 						{
 							"type": "reference",
-							"id": 3100,
+							"id": 3111,
 							"name": "Cached"
 						}
 					],
@@ -68046,7 +68503,7 @@
 									"flags": {},
 									"type": {
 										"type": "reference",
-										"id": 3101,
+										"id": 3112,
 										"typeArguments": [
 											{
 												"type": "reference",
@@ -68106,7 +68563,7 @@
 									"flags": {},
 									"type": {
 										"type": "reference",
-										"id": 3101,
+										"id": 3112,
 										"typeArguments": [
 											{
 												"type": "reference",
@@ -68157,14 +68614,14 @@
 			]
 		},
 		{
-			"id": 3307,
+			"id": 3327,
 			"name": "ConfirmOptions",
 			"kind": 256,
 			"kindString": "Interface",
 			"flags": {},
 			"children": [
 				{
-					"id": 3314,
+					"id": 3334,
 					"name": "button",
 					"kind": 1024,
 					"kindString": "Property",
@@ -68181,14 +68638,14 @@
 					"type": {
 						"type": "reflection",
 						"declaration": {
-							"id": 3315,
+							"id": 3335,
 							"name": "__type",
 							"kind": 65536,
 							"kindString": "Type literal",
 							"flags": {},
 							"children": [
 								{
-									"id": 3318,
+									"id": 3338,
 									"name": "emoji",
 									"kind": 1024,
 									"kindString": "Property",
@@ -68208,7 +68665,7 @@
 									}
 								},
 								{
-									"id": 3316,
+									"id": 3336,
 									"name": "label",
 									"kind": 1024,
 									"kindString": "Property",
@@ -68228,7 +68685,7 @@
 									}
 								},
 								{
-									"id": 3317,
+									"id": 3337,
 									"name": "style",
 									"kind": 1024,
 									"kindString": "Property",
@@ -68270,9 +68727,9 @@
 									"title": "Properties",
 									"kind": 1024,
 									"children": [
-										3318,
-										3316,
-										3317
+										3338,
+										3336,
+										3337
 									]
 								}
 							]
@@ -68280,7 +68737,7 @@
 					}
 				},
 				{
-					"id": 3313,
+					"id": 3333,
 					"name": "ephemeral",
 					"kind": 1024,
 					"kindString": "Property",
@@ -68300,7 +68757,7 @@
 					}
 				},
 				{
-					"id": 3308,
+					"id": 3328,
 					"name": "message",
 					"kind": 1024,
 					"kindString": "Property",
@@ -68324,21 +68781,21 @@
 							{
 								"type": "reflection",
 								"declaration": {
-									"id": 3309,
+									"id": 3329,
 									"name": "__type",
 									"kind": 65536,
 									"kindString": "Type literal",
 									"flags": {},
 									"signatures": [
 										{
-											"id": 3310,
+											"id": 3330,
 											"name": "__type",
 											"kind": 4096,
 											"kindString": "Call signature",
 											"flags": {},
 											"parameters": [
 												{
-													"id": 3311,
+													"id": 3331,
 													"name": "ctx",
 													"kind": 32768,
 													"kindString": "Parameter",
@@ -68348,7 +68805,7 @@
 														"types": [
 															{
 																"type": "reference",
-																"id": 2988,
+																"id": 2994,
 																"typeArguments": [
 																	{
 																		"type": "reference",
@@ -68359,7 +68816,7 @@
 															},
 															{
 																"type": "reference",
-																"id": 3101,
+																"id": 3112,
 																"typeArguments": [
 																	{
 																		"type": "reference",
@@ -68384,7 +68841,7 @@
 					}
 				},
 				{
-					"id": 3312,
+					"id": 3332,
 					"name": "time",
 					"kind": 1024,
 					"kindString": "Property",
@@ -68409,10 +68866,10 @@
 					"title": "Properties",
 					"kind": 1024,
 					"children": [
-						3314,
-						3313,
-						3308,
-						3312
+						3334,
+						3333,
+						3328,
+						3332
 					]
 				}
 			],
@@ -68449,7 +68906,7 @@
 						"typeArguments": [
 							{
 								"type": "reference",
-								"id": 2917,
+								"id": 2918,
 								"name": "Cached"
 							},
 							{
@@ -68526,7 +68983,7 @@
 						"typeArguments": [
 							{
 								"type": "reference",
-								"id": 2917,
+								"id": 2918,
 								"name": "Cached"
 							},
 							{
@@ -68567,7 +69024,7 @@
 						"typeArguments": [
 							{
 								"type": "reference",
-								"id": 2917,
+								"id": 2918,
 								"name": "Cached"
 							},
 							{
@@ -68608,7 +69065,7 @@
 						"typeArguments": [
 							{
 								"type": "reference",
-								"id": 2917,
+								"id": 2918,
 								"name": "Cached"
 							},
 							{
@@ -68651,7 +69108,7 @@
 				},
 				{
 					"id": 2916,
-					"name": "user",
+					"name": "memberPermissions",
 					"kind": 1024,
 					"kindString": "Property",
 					"flags": {},
@@ -68659,6 +69116,71 @@
 						{
 							"fileName": "src/lib/structures/contexts/Context.ts",
 							"line": 29,
+							"character": 1
+						}
+					],
+					"type": {
+						"type": "reference",
+						"typeArguments": [
+							{
+								"type": "reference",
+								"id": 2918,
+								"name": "Cached"
+							},
+							{
+								"type": "reference",
+								"typeArguments": [
+									{
+										"type": "reference",
+										"name": "Permissions"
+									}
+								],
+								"name": "Readonly"
+							},
+							{
+								"type": "reference",
+								"typeArguments": [
+									{
+										"type": "reference",
+										"name": "Permissions"
+									}
+								],
+								"name": "Readonly"
+							},
+							{
+								"type": "reference",
+								"typeArguments": [
+									{
+										"type": "reference",
+										"name": "Permissions"
+									}
+								],
+								"name": "Readonly"
+							},
+							{
+								"type": "reference",
+								"typeArguments": [
+									{
+										"type": "reference",
+										"name": "Permissions"
+									}
+								],
+								"name": "Readonly"
+							}
+						],
+						"name": "CacheTypeReducer"
+					}
+				},
+				{
+					"id": 2917,
+					"name": "user",
+					"kind": 1024,
+					"kindString": "Property",
+					"flags": {},
+					"sources": [
+						{
+							"fileName": "src/lib/structures/contexts/Context.ts",
+							"line": 30,
 							"character": 1
 						}
 					],
@@ -68679,7 +69201,8 @@
 						2913,
 						2914,
 						2915,
-						2916
+						2916,
+						2917
 					]
 				}
 			],
@@ -68692,7 +69215,7 @@
 			],
 			"typeParameter": [
 				{
-					"id": 2917,
+					"id": 2918,
 					"name": "Cached",
 					"kind": 131072,
 					"kindString": "Type parameter",
@@ -68710,17 +69233,17 @@
 			"extendedBy": [
 				{
 					"type": "reference",
-					"id": 2953,
+					"id": 2958,
 					"name": "CommandContextOptions"
 				},
 				{
 					"type": "reference",
-					"id": 3058,
+					"id": 3068,
 					"name": "ComponentContextOptions"
 				},
 				{
 					"type": "reference",
-					"id": 3179,
+					"id": 3194,
 					"name": "AutocompleteContextOptions"
 				}
 			]
@@ -68768,13 +69291,13 @@
 					"sources": [
 						{
 							"fileName": "src/lib/GClient.ts",
-							"line": 21,
+							"line": 20,
 							"character": 1
 						}
 					],
 					"type": {
-						"type": "reference",
-						"name": "ProviderInterface"
+						"type": "intrinsic",
+						"name": "any"
 					}
 				},
 				{
@@ -68788,7 +69311,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/GClient.ts",
-							"line": 22,
+							"line": 21,
 							"character": 1
 						}
 					],
@@ -68808,7 +69331,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/GClient.ts",
-							"line": 20,
+							"line": 19,
 							"character": 1
 						}
 					],
@@ -68998,7 +69521,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/GClient.ts",
-							"line": 18,
+							"line": 17,
 							"character": 1
 						}
 					],
@@ -69018,7 +69541,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/GClient.ts",
-							"line": 17,
+							"line": 16,
 							"character": 1
 						}
 					],
@@ -69449,7 +69972,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/GClient.ts",
-							"line": 19,
+							"line": 18,
 							"character": 1
 						}
 					],
@@ -69577,7 +70100,7 @@
 			"sources": [
 				{
 					"fileName": "src/lib/GClient.ts",
-					"line": 16,
+					"line": 15,
 					"character": 17
 				}
 			],
@@ -69892,7 +70415,7 @@
 									"flags": {},
 									"type": {
 										"type": "reference",
-										"id": 2988,
+										"id": 2994,
 										"name": "CommandContext"
 									}
 								}
@@ -70033,7 +70556,7 @@
 									"flags": {},
 									"type": {
 										"type": "reference",
-										"id": 3101,
+										"id": 3112,
 										"name": "ComponentContext"
 									}
 								}
@@ -70251,7 +70774,7 @@
 			"defaultValue": "..."
 		},
 		{
-			"id": 3303,
+			"id": 3323,
 			"name": "confirm",
 			"kind": 64,
 			"kindString": "Function",
@@ -70265,14 +70788,14 @@
 			],
 			"signatures": [
 				{
-					"id": 3304,
+					"id": 3324,
 					"name": "confirm",
 					"kind": 4096,
 					"kindString": "Call signature",
 					"flags": {},
 					"parameters": [
 						{
-							"id": 3305,
+							"id": 3325,
 							"name": "ctx",
 							"kind": 32768,
 							"kindString": "Parameter",
@@ -70282,7 +70805,7 @@
 								"types": [
 									{
 										"type": "reference",
-										"id": 2988,
+										"id": 2994,
 										"typeArguments": [
 											{
 												"type": "reference",
@@ -70293,7 +70816,7 @@
 									},
 									{
 										"type": "reference",
-										"id": 3101,
+										"id": 3112,
 										"typeArguments": [
 											{
 												"type": "reference",
@@ -70306,14 +70829,14 @@
 							}
 						},
 						{
-							"id": 3306,
+							"id": 3326,
 							"name": "options",
 							"kind": 32768,
 							"kindString": "Parameter",
 							"flags": {},
 							"type": {
 								"type": "reference",
-								"id": 3307,
+								"id": 3327,
 								"name": "ConfirmOptions"
 							},
 							"defaultValue": "{}"
@@ -70333,7 +70856,7 @@
 			]
 		},
 		{
-			"id": 3293,
+			"id": 3313,
 			"name": "customId",
 			"kind": 64,
 			"kindString": "Function",
@@ -70347,14 +70870,14 @@
 			],
 			"signatures": [
 				{
-					"id": 3294,
+					"id": 3314,
 					"name": "customId",
 					"kind": 4096,
 					"kindString": "Call signature",
 					"flags": {},
 					"parameters": [
 						{
-							"id": 3295,
+							"id": 3315,
 							"name": "name",
 							"kind": 32768,
 							"kindString": "Parameter",
@@ -70365,7 +70888,7 @@
 							}
 						},
 						{
-							"id": 3296,
+							"id": 3316,
 							"name": "args",
 							"kind": 32768,
 							"kindString": "Parameter",
@@ -70398,7 +70921,7 @@
 			]
 		},
 		{
-			"id": 3300,
+			"id": 3320,
 			"name": "registerDirectories",
 			"kind": 64,
 			"kindString": "Function",
@@ -70412,14 +70935,14 @@
 			],
 			"signatures": [
 				{
-					"id": 3301,
+					"id": 3321,
 					"name": "registerDirectories",
 					"kind": 4096,
 					"kindString": "Call signature",
 					"flags": {},
 					"parameters": [
 						{
-							"id": 3302,
+							"id": 3322,
 							"name": "dirs",
 							"kind": 32768,
 							"kindString": "Parameter",
@@ -70447,7 +70970,7 @@
 			]
 		},
 		{
-			"id": 3297,
+			"id": 3317,
 			"name": "registerDirectory",
 			"kind": 64,
 			"kindString": "Function",
@@ -70461,14 +70984,14 @@
 			],
 			"signatures": [
 				{
-					"id": 3298,
+					"id": 3318,
 					"name": "registerDirectory",
 					"kind": 4096,
 					"kindString": "Call signature",
 					"flags": {},
 					"parameters": [
 						{
-							"id": 3299,
+							"id": 3319,
 							"name": "dir",
 							"kind": 32768,
 							"kindString": "Parameter",
@@ -70505,9 +71028,9 @@
 			"title": "Enumerations",
 			"kind": 8,
 			"children": [
-				3240,
+				3260,
 				2469,
-				3251,
+				3271,
 				2759,
 				2845
 			]
@@ -70516,15 +71039,15 @@
 			"title": "Classes",
 			"kind": 128,
 			"children": [
-				3271,
-				3195,
+				3291,
+				3211,
 				2802,
-				2988,
+				2994,
 				570,
 				2870,
-				3101,
+				3112,
 				1053,
-				2918,
+				2919,
 				2506,
 				2022,
 				2726,
@@ -70541,16 +71064,16 @@
 			"title": "Interfaces",
 			"kind": 256,
 			"children": [
-				3260,
-				3179,
+				3280,
+				3194,
 				1,
 				2767,
 				2764,
-				2953,
+				2958,
 				2785,
-				3058,
+				3068,
 				2855,
-				3307,
+				3327,
 				2909,
 				2473,
 				2715
@@ -70582,10 +71105,10 @@
 			"title": "Functions",
 			"kind": 64,
 			"children": [
-				3303,
-				3293,
-				3300,
-				3297
+				3323,
+				3313,
+				3320,
+				3317
 			]
 		}
 	],
