@@ -73189,6 +73189,10 @@
 					{
 						"type": "literal",
 						"value": "firestore"
+					},
+					{
+						"type": "intrinsic",
+						"name": "string"
 					}
 				]
 			}
