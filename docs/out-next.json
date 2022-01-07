@@ -5951,7 +5951,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/Argument.ts",
-							"line": 57,
+							"line": 58,
 							"character": 15
 						}
 					],
@@ -6015,7 +6015,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/Argument.ts",
-							"line": 71,
+							"line": 72,
 							"character": 15
 						}
 					],
@@ -6291,7 +6291,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/contexts/Context.ts",
-							"line": 35,
+							"line": 37,
 							"character": 17
 						}
 					],
@@ -6339,7 +6339,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/contexts/Context.ts",
-							"line": 40,
+							"line": 44,
 							"character": 8
 						}
 					],
@@ -6365,7 +6365,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/contexts/Context.ts",
-							"line": 34,
+							"line": 36,
 							"character": 17
 						}
 					],
@@ -6441,7 +6441,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/contexts/Context.ts",
-							"line": 41,
+							"line": 45,
 							"character": 17
 						}
 					],
@@ -6467,7 +6467,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/contexts/Context.ts",
-							"line": 42,
+							"line": 46,
 							"character": 17
 						}
 					],
@@ -6493,7 +6493,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/contexts/Context.ts",
-							"line": 43,
+							"line": 47,
 							"character": 17
 						}
 					],
@@ -6541,7 +6541,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/contexts/Context.ts",
-							"line": 44,
+							"line": 48,
 							"character": 8
 						}
 					],
@@ -6615,7 +6615,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/contexts/Context.ts",
-							"line": 45,
+							"line": 49,
 							"character": 8
 						}
 					],
@@ -6681,7 +6681,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/contexts/Context.ts",
-							"line": 48,
+							"line": 52,
 							"character": 8
 						}
 					],
@@ -6815,7 +6815,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/contexts/Context.ts",
-							"line": 49,
+							"line": 53,
 							"character": 8
 						}
 					],
@@ -6857,7 +6857,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/contexts/Context.ts",
-							"line": 46,
+							"line": 50,
 							"character": 8
 						}
 					],
@@ -6882,7 +6882,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/contexts/Context.ts",
-							"line": 47,
+							"line": 51,
 							"character": 8
 						}
 					],
@@ -7090,7 +7090,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/contexts/Context.ts",
-							"line": 81,
+							"line": 85,
 							"character": 8
 						}
 					],
@@ -7141,7 +7141,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/contexts/Context.ts",
-							"line": 89,
+							"line": 93,
 							"character": 8
 						}
 					],
@@ -7192,7 +7192,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/contexts/Context.ts",
-							"line": 77,
+							"line": 81,
 							"character": 8
 						}
 					],
@@ -7243,7 +7243,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/contexts/Context.ts",
-							"line": 85,
+							"line": 89,
 							"character": 8
 						}
 					],
@@ -7294,7 +7294,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/contexts/Context.ts",
-							"line": 93,
+							"line": 97,
 							"character": 8
 						}
 					],
@@ -7440,7 +7440,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/Command.ts",
-							"line": 67,
+							"line": 66,
 							"character": 1
 						}
 					],
@@ -7486,7 +7486,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/Command.ts",
-							"line": 55,
+							"line": 54,
 							"character": 17
 						}
 					],
@@ -7522,7 +7522,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/Command.ts",
-							"line": 65,
+							"line": 64,
 							"character": 17
 						}
 					],
@@ -7560,7 +7560,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/Command.ts",
-							"line": 51,
+							"line": 50,
 							"character": 8
 						}
 					],
@@ -7589,7 +7589,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/Command.ts",
-							"line": 59,
+							"line": 58,
 							"character": 17
 						}
 					],
@@ -7611,7 +7611,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/Command.ts",
-							"line": 53,
+							"line": 52,
 							"character": 17
 						}
 					],
@@ -7633,7 +7633,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/Command.ts",
-							"line": 60,
+							"line": 59,
 							"character": 17
 						}
 					],
@@ -7654,7 +7654,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/Command.ts",
-							"line": 57,
+							"line": 56,
 							"character": 8
 						}
 					],
@@ -7675,7 +7675,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/Command.ts",
-							"line": 56,
+							"line": 55,
 							"character": 17
 						}
 					],
@@ -7698,7 +7698,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/Command.ts",
-							"line": 52,
+							"line": 51,
 							"character": 17
 						}
 					],
@@ -7720,7 +7720,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/Command.ts",
-							"line": 62,
+							"line": 61,
 							"character": 17
 						}
 					],
@@ -7791,7 +7791,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/Command.ts",
-							"line": 63,
+							"line": 62,
 							"character": 8
 						}
 					],
@@ -7811,7 +7811,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/Command.ts",
-							"line": 64,
+							"line": 63,
 							"character": 8
 						}
 					],
@@ -7833,7 +7833,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/Command.ts",
-							"line": 61,
+							"line": 60,
 							"character": 17
 						}
 					],
@@ -7893,7 +7893,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/Command.ts",
-							"line": 54,
+							"line": 53,
 							"character": 17
 						}
 					],
@@ -7940,7 +7940,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/Command.ts",
-							"line": 58,
+							"line": 57,
 							"character": 16
 						}
 					],
@@ -7967,7 +7967,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/Command.ts",
-							"line": 87,
+							"line": 90,
 							"character": 14
 						}
 					],
@@ -8022,7 +8022,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/Command.ts",
-							"line": 77,
+							"line": 80,
 							"character": 8
 						}
 					],
@@ -8071,7 +8071,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/Command.ts",
-							"line": 106,
+							"line": 109,
 							"character": 14
 						}
 					],
@@ -8107,7 +8107,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/Command.ts",
-							"line": 117,
+							"line": 120,
 							"character": 8
 						}
 					],
@@ -8149,7 +8149,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/Command.ts",
-							"line": 83,
+							"line": 86,
 							"character": 8
 						}
 					],
@@ -8179,7 +8179,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/Command.ts",
-							"line": 135,
+							"line": 143,
 							"character": 9
 						}
 					],
@@ -8218,7 +8218,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/Command.ts",
-							"line": 131,
+							"line": 139,
 							"character": 15
 						}
 					],
@@ -8303,7 +8303,7 @@
 			"sources": [
 				{
 					"fileName": "src/lib/structures/Command.ts",
-					"line": 50,
+					"line": 49,
 					"character": 13
 				}
 			]
@@ -8324,7 +8324,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/contexts/CommandContext.ts",
-							"line": 44,
+							"line": 54,
 							"character": 1
 						}
 					],
@@ -8427,7 +8427,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/contexts/CommandContext.ts",
-							"line": 34,
+							"line": 38,
 							"character": 8
 						}
 					],
@@ -8455,7 +8455,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/contexts/Context.ts",
-							"line": 35,
+							"line": 37,
 							"character": 17
 						}
 					],
@@ -8503,7 +8503,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/contexts/Context.ts",
-							"line": 40,
+							"line": 44,
 							"character": 8
 						}
 					],
@@ -8529,7 +8529,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/contexts/Context.ts",
-							"line": 34,
+							"line": 36,
 							"character": 17
 						}
 					],
@@ -8562,7 +8562,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/contexts/CommandContext.ts",
-							"line": 32,
+							"line": 36,
 							"character": 17
 						}
 					],
@@ -8584,7 +8584,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/contexts/CommandContext.ts",
-							"line": 33,
+							"line": 37,
 							"character": 17
 						}
 					],
@@ -8605,7 +8605,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/contexts/Context.ts",
-							"line": 41,
+							"line": 45,
 							"character": 17
 						}
 					],
@@ -8631,7 +8631,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/contexts/Context.ts",
-							"line": 42,
+							"line": 46,
 							"character": 17
 						}
 					],
@@ -8656,7 +8656,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/contexts/CommandContext.ts",
-							"line": 37,
+							"line": 41,
 							"character": 8
 						}
 					],
@@ -8728,8 +8728,8 @@
 																	"sources": [
 																		{
 																			"fileName": "src/lib/structures/contexts/CommandContext.ts",
-																			"line": 37,
-																			"character": 97
+																			"line": 42,
+																			"character": 45
 																		}
 																	],
 																	"type": {
@@ -8855,7 +8855,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/contexts/CommandContext.ts",
-							"line": 35,
+							"line": 39,
 							"character": 8
 						}
 					],
@@ -8876,7 +8876,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/contexts/CommandContext.ts",
-							"line": 38,
+							"line": 44,
 							"character": 8
 						}
 					],
@@ -8921,7 +8921,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/contexts/CommandContext.ts",
-							"line": 39,
+							"line": 45,
 							"character": 8
 						}
 					],
@@ -9051,7 +9051,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/contexts/CommandContext.ts",
-							"line": 40,
+							"line": 48,
 							"character": 8
 						}
 					],
@@ -9155,7 +9155,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/contexts/CommandContext.ts",
-							"line": 41,
+							"line": 49,
 							"character": 8
 						}
 					],
@@ -9286,7 +9286,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/contexts/Context.ts",
-							"line": 43,
+							"line": 47,
 							"character": 17
 						}
 					],
@@ -9334,7 +9334,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/contexts/Context.ts",
-							"line": 44,
+							"line": 48,
 							"character": 8
 						}
 					],
@@ -9383,7 +9383,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/contexts/CommandContext.ts",
-							"line": 30,
+							"line": 34,
 							"character": 8
 						}
 					],
@@ -9424,7 +9424,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/contexts/Context.ts",
-							"line": 45,
+							"line": 49,
 							"character": 8
 						}
 					],
@@ -9490,7 +9490,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/contexts/Context.ts",
-							"line": 48,
+							"line": 52,
 							"character": 8
 						}
 					],
@@ -9563,7 +9563,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/contexts/CommandContext.ts",
-							"line": 31,
+							"line": 35,
 							"character": 8
 						}
 					],
@@ -9589,7 +9589,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/contexts/CommandContext.ts",
-							"line": 36,
+							"line": 40,
 							"character": 8
 						}
 					],
@@ -9610,7 +9610,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/contexts/CommandContext.ts",
-							"line": 42,
+							"line": 50,
 							"character": 8
 						}
 					],
@@ -9697,8 +9697,8 @@
 																			"sources": [
 																				{
 																					"fileName": "src/lib/structures/contexts/CommandContext.ts",
-																					"line": 42,
-																					"character": 87
+																					"line": 51,
+																					"character": 41
 																				}
 																			],
 																			"type": {
@@ -9826,7 +9826,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/contexts/Context.ts",
-							"line": 49,
+							"line": 53,
 							"character": 8
 						}
 					],
@@ -9868,7 +9868,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/contexts/Context.ts",
-							"line": 46,
+							"line": 50,
 							"character": 8
 						}
 					],
@@ -9893,7 +9893,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/contexts/Context.ts",
-							"line": 47,
+							"line": 51,
 							"character": 8
 						}
 					],
@@ -9918,7 +9918,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/contexts/Context.ts",
-							"line": 69,
+							"line": 73,
 							"character": 8
 						}
 					],
@@ -9969,7 +9969,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/contexts/Context.ts",
-							"line": 65,
+							"line": 69,
 							"character": 8
 						}
 					],
@@ -10020,7 +10020,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/contexts/Context.ts",
-							"line": 73,
+							"line": 77,
 							"character": 8
 						}
 					],
@@ -10071,7 +10071,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/contexts/Context.ts",
-							"line": 81,
+							"line": 85,
 							"character": 8
 						}
 					],
@@ -10122,7 +10122,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/contexts/Context.ts",
-							"line": 89,
+							"line": 93,
 							"character": 8
 						}
 					],
@@ -10173,7 +10173,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/contexts/Context.ts",
-							"line": 77,
+							"line": 81,
 							"character": 8
 						}
 					],
@@ -10224,7 +10224,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/contexts/Context.ts",
-							"line": 85,
+							"line": 89,
 							"character": 8
 						}
 					],
@@ -10275,7 +10275,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/contexts/Context.ts",
-							"line": 93,
+							"line": 97,
 							"character": 8
 						}
 					],
@@ -10326,7 +10326,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/contexts/CommandContext.ts",
-							"line": 68,
+							"line": 78,
 							"character": 8
 						}
 					],
@@ -10405,8 +10405,8 @@
 																	"sources": [
 																		{
 																			"fileName": "src/lib/structures/contexts/CommandContext.ts",
-																			"line": 68,
-																			"character": 89
+																			"line": 79,
+																			"character": 41
 																		}
 																	],
 																	"type": {
@@ -10580,7 +10580,7 @@
 			"sources": [
 				{
 					"fileName": "src/lib/structures/contexts/CommandContext.ts",
-					"line": 29,
+					"line": 33,
 					"character": 13
 				}
 			],
@@ -19515,7 +19515,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/Component.ts",
-							"line": 62,
+							"line": 66,
 							"character": 14
 						}
 					],
@@ -19570,7 +19570,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/Component.ts",
-							"line": 52,
+							"line": 56,
 							"character": 8
 						}
 					],
@@ -19619,7 +19619,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/Component.ts",
-							"line": 81,
+							"line": 85,
 							"character": 14
 						}
 					],
@@ -19655,7 +19655,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/Component.ts",
-							"line": 58,
+							"line": 62,
 							"character": 8
 						}
 					],
@@ -19684,7 +19684,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/Component.ts",
-							"line": 96,
+							"line": 100,
 							"character": 9
 						}
 					],
@@ -19723,7 +19723,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/Component.ts",
-							"line": 92,
+							"line": 96,
 							"character": 15
 						}
 					],
@@ -19826,7 +19826,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/contexts/ComponentContext.ts",
-							"line": 48,
+							"line": 62,
 							"character": 1
 						}
 					],
@@ -19929,7 +19929,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/contexts/ComponentContext.ts",
-							"line": 36,
+							"line": 42,
 							"character": 8
 						}
 					],
@@ -19953,7 +19953,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/contexts/Context.ts",
-							"line": 35,
+							"line": 37,
 							"character": 17
 						}
 					],
@@ -20001,7 +20001,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/contexts/Context.ts",
-							"line": 40,
+							"line": 44,
 							"character": 8
 						}
 					],
@@ -20027,7 +20027,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/contexts/Context.ts",
-							"line": 34,
+							"line": 36,
 							"character": 17
 						}
 					],
@@ -20060,7 +20060,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/contexts/ComponentContext.ts",
-							"line": 33,
+							"line": 39,
 							"character": 17
 						}
 					],
@@ -20082,7 +20082,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/contexts/ComponentContext.ts",
-							"line": 34,
+							"line": 40,
 							"character": 17
 						}
 					],
@@ -20103,7 +20103,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/contexts/Context.ts",
-							"line": 41,
+							"line": 45,
 							"character": 17
 						}
 					],
@@ -20129,7 +20129,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/contexts/Context.ts",
-							"line": 42,
+							"line": 46,
 							"character": 17
 						}
 					],
@@ -20155,7 +20155,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/contexts/ComponentContext.ts",
-							"line": 35,
+							"line": 41,
 							"character": 17
 						}
 					],
@@ -20175,7 +20175,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/contexts/ComponentContext.ts",
-							"line": 40,
+							"line": 46,
 							"character": 8
 						}
 					],
@@ -20247,8 +20247,8 @@
 																	"sources": [
 																		{
 																			"fileName": "src/lib/structures/contexts/ComponentContext.ts",
-																			"line": 40,
-																			"character": 97
+																			"line": 47,
+																			"character": 45
 																		}
 																	],
 																	"type": {
@@ -20374,7 +20374,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/contexts/ComponentContext.ts",
-							"line": 41,
+							"line": 49,
 							"character": 8
 						}
 					],
@@ -20446,8 +20446,8 @@
 																	"sources": [
 																		{
 																			"fileName": "src/lib/structures/contexts/ComponentContext.ts",
-																			"line": 41,
-																			"character": 99
+																			"line": 50,
+																			"character": 46
 																		}
 																	],
 																	"type": {
@@ -20573,7 +20573,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/contexts/ComponentContext.ts",
-							"line": 38,
+							"line": 44,
 							"character": 8
 						}
 					],
@@ -20594,7 +20594,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/contexts/ComponentContext.ts",
-							"line": 42,
+							"line": 52,
 							"character": 8
 						}
 					],
@@ -20639,7 +20639,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/contexts/ComponentContext.ts",
-							"line": 43,
+							"line": 53,
 							"character": 8
 						}
 					],
@@ -20769,7 +20769,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/contexts/ComponentContext.ts",
-							"line": 44,
+							"line": 56,
 							"character": 8
 						}
 					],
@@ -20873,7 +20873,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/contexts/ComponentContext.ts",
-							"line": 45,
+							"line": 57,
 							"character": 8
 						}
 					],
@@ -21004,7 +21004,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/contexts/Context.ts",
-							"line": 43,
+							"line": 47,
 							"character": 17
 						}
 					],
@@ -21052,7 +21052,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/contexts/Context.ts",
-							"line": 44,
+							"line": 48,
 							"character": 8
 						}
 					],
@@ -21100,7 +21100,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/contexts/ComponentContext.ts",
-							"line": 32,
+							"line": 38,
 							"character": 8
 						}
 					],
@@ -21126,7 +21126,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/contexts/Context.ts",
-							"line": 45,
+							"line": 49,
 							"character": 8
 						}
 					],
@@ -21192,7 +21192,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/contexts/Context.ts",
-							"line": 48,
+							"line": 52,
 							"character": 8
 						}
 					],
@@ -21264,7 +21264,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/contexts/ComponentContext.ts",
-							"line": 39,
+							"line": 45,
 							"character": 8
 						}
 					],
@@ -21285,7 +21285,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/contexts/ComponentContext.ts",
-							"line": 46,
+							"line": 58,
 							"character": 8
 						}
 					],
@@ -21372,8 +21372,8 @@
 																			"sources": [
 																				{
 																					"fileName": "src/lib/structures/contexts/ComponentContext.ts",
-																					"line": 46,
-																					"character": 87
+																					"line": 59,
+																					"character": 41
 																				}
 																			],
 																			"type": {
@@ -21501,7 +21501,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/contexts/Context.ts",
-							"line": 49,
+							"line": 53,
 							"character": 8
 						}
 					],
@@ -21543,7 +21543,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/contexts/Context.ts",
-							"line": 46,
+							"line": 50,
 							"character": 8
 						}
 					],
@@ -21568,7 +21568,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/contexts/Context.ts",
-							"line": 47,
+							"line": 51,
 							"character": 8
 						}
 					],
@@ -21594,7 +21594,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/contexts/ComponentContext.ts",
-							"line": 37,
+							"line": 43,
 							"character": 8
 						}
 					],
@@ -21617,7 +21617,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/contexts/Context.ts",
-							"line": 69,
+							"line": 73,
 							"character": 8
 						}
 					],
@@ -21668,7 +21668,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/contexts/Context.ts",
-							"line": 65,
+							"line": 69,
 							"character": 8
 						}
 					],
@@ -21719,7 +21719,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/contexts/Context.ts",
-							"line": 73,
+							"line": 77,
 							"character": 8
 						}
 					],
@@ -21770,7 +21770,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/contexts/Context.ts",
-							"line": 81,
+							"line": 85,
 							"character": 8
 						}
 					],
@@ -21821,7 +21821,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/contexts/Context.ts",
-							"line": 89,
+							"line": 93,
 							"character": 8
 						}
 					],
@@ -21872,7 +21872,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/contexts/Context.ts",
-							"line": 77,
+							"line": 81,
 							"character": 8
 						}
 					],
@@ -21923,7 +21923,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/contexts/Context.ts",
-							"line": 85,
+							"line": 89,
 							"character": 8
 						}
 					],
@@ -21974,7 +21974,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/contexts/Context.ts",
-							"line": 93,
+							"line": 97,
 							"character": 8
 						}
 					],
@@ -22025,7 +22025,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/contexts/ComponentContext.ts",
-							"line": 78,
+							"line": 92,
 							"character": 8
 						}
 					],
@@ -22104,8 +22104,8 @@
 																	"sources": [
 																		{
 																			"fileName": "src/lib/structures/contexts/ComponentContext.ts",
-																			"line": 78,
-																			"character": 89
+																			"line": 93,
+																			"character": 41
 																		}
 																	],
 																	"type": {
@@ -22281,7 +22281,7 @@
 			"sources": [
 				{
 					"fileName": "src/lib/structures/contexts/ComponentContext.ts",
-					"line": 31,
+					"line": 37,
 					"character": 13
 				}
 			],
@@ -27158,7 +27158,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/managers/ComponentManager.ts",
-							"line": 32,
+							"line": 33,
 							"character": 14
 						}
 					],
@@ -30566,7 +30566,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/managers/ComponentManager.ts",
-							"line": 22,
+							"line": 23,
 							"character": 8
 						}
 					],
@@ -30755,7 +30755,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/contexts/Context.ts",
-							"line": 51,
+							"line": 55,
 							"character": 1
 						}
 					],
@@ -30849,7 +30849,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/contexts/Context.ts",
-							"line": 35,
+							"line": 37,
 							"character": 17
 						}
 					],
@@ -30892,7 +30892,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/contexts/Context.ts",
-							"line": 40,
+							"line": 44,
 							"character": 8
 						}
 					],
@@ -30913,7 +30913,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/contexts/Context.ts",
-							"line": 34,
+							"line": 36,
 							"character": 17
 						}
 					],
@@ -30941,7 +30941,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/contexts/Context.ts",
-							"line": 41,
+							"line": 45,
 							"character": 17
 						}
 					],
@@ -30962,7 +30962,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/contexts/Context.ts",
-							"line": 42,
+							"line": 46,
 							"character": 17
 						}
 					],
@@ -30983,7 +30983,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/contexts/Context.ts",
-							"line": 43,
+							"line": 47,
 							"character": 17
 						}
 					],
@@ -31026,7 +31026,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/contexts/Context.ts",
-							"line": 44,
+							"line": 48,
 							"character": 8
 						}
 					],
@@ -31069,7 +31069,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/contexts/Context.ts",
-							"line": 45,
+							"line": 49,
 							"character": 8
 						}
 					],
@@ -31130,7 +31130,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/contexts/Context.ts",
-							"line": 48,
+							"line": 52,
 							"character": 8
 						}
 					],
@@ -31197,7 +31197,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/contexts/Context.ts",
-							"line": 49,
+							"line": 53,
 							"character": 8
 						}
 					],
@@ -31234,7 +31234,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/contexts/Context.ts",
-							"line": 46,
+							"line": 50,
 							"character": 8
 						}
 					],
@@ -31254,7 +31254,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/contexts/Context.ts",
-							"line": 47,
+							"line": 51,
 							"character": 8
 						}
 					],
@@ -31274,7 +31274,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/contexts/Context.ts",
-							"line": 69,
+							"line": 73,
 							"character": 8
 						}
 					],
@@ -31315,7 +31315,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/contexts/Context.ts",
-							"line": 65,
+							"line": 69,
 							"character": 8
 						}
 					],
@@ -31356,7 +31356,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/contexts/Context.ts",
-							"line": 73,
+							"line": 77,
 							"character": 8
 						}
 					],
@@ -31397,7 +31397,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/contexts/Context.ts",
-							"line": 81,
+							"line": 85,
 							"character": 8
 						}
 					],
@@ -31438,7 +31438,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/contexts/Context.ts",
-							"line": 89,
+							"line": 93,
 							"character": 8
 						}
 					],
@@ -31479,7 +31479,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/contexts/Context.ts",
-							"line": 77,
+							"line": 81,
 							"character": 8
 						}
 					],
@@ -31520,7 +31520,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/contexts/Context.ts",
-							"line": 85,
+							"line": 89,
 							"character": 8
 						}
 					],
@@ -31561,7 +31561,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/contexts/Context.ts",
-							"line": 93,
+							"line": 97,
 							"character": 8
 						}
 					],
@@ -31636,7 +31636,7 @@
 			"sources": [
 				{
 					"fileName": "src/lib/structures/contexts/Context.ts",
-					"line": 33,
+					"line": 35,
 					"character": 13
 				}
 			],
@@ -35974,7 +35974,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/managers/HandlerManager.ts",
-							"line": 24,
+							"line": 28,
 							"character": 1
 						}
 					],
@@ -36402,7 +36402,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/managers/HandlerManager.ts",
-							"line": 50,
+							"line": 58,
 							"character": 8
 						}
 					],
@@ -36483,7 +36483,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/managers/HandlerManager.ts",
-							"line": 44,
+							"line": 52,
 							"character": 8
 						}
 					],
@@ -36564,7 +36564,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/managers/HandlerManager.ts",
-							"line": 56,
+							"line": 64,
 							"character": 8
 						}
 					],
@@ -36701,7 +36701,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/managers/HandlerManager.ts",
-							"line": 32,
+							"line": 36,
 							"character": 8
 						}
 					],
@@ -36797,7 +36797,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/managers/HandlerManager.ts",
-							"line": 38,
+							"line": 44,
 							"character": 8
 						}
 					],
@@ -36962,7 +36962,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/Listener.ts",
-							"line": 27,
+							"line": 33,
 							"character": 1
 						}
 					],
@@ -37097,7 +37097,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/Listener.ts",
-							"line": 17,
+							"line": 23,
 							"character": 8
 						}
 					],
@@ -37125,7 +37125,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/Listener.ts",
-							"line": 18,
+							"line": 24,
 							"character": 17
 						}
 					],
@@ -37148,7 +37148,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/Listener.ts",
-							"line": 22,
+							"line": 28,
 							"character": 17
 						}
 					],
@@ -37169,7 +37169,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/Listener.ts",
-							"line": 19,
+							"line": 25,
 							"character": 17
 						}
 					],
@@ -37191,7 +37191,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/Listener.ts",
-							"line": 20,
+							"line": 26,
 							"character": 17
 						}
 					],
@@ -37212,7 +37212,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/Listener.ts",
-							"line": 24,
+							"line": 30,
 							"character": 8
 						}
 					],
@@ -37232,7 +37232,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/Listener.ts",
-							"line": 25,
+							"line": 31,
 							"character": 8
 						}
 					],
@@ -37254,7 +37254,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/Listener.ts",
-							"line": 23,
+							"line": 29,
 							"character": 17
 						}
 					],
@@ -37313,7 +37313,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/Listener.ts",
-							"line": 21,
+							"line": 27,
 							"character": 17
 						}
 					],
@@ -37334,7 +37334,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/Listener.ts",
-							"line": 58,
+							"line": 61,
 							"character": 15
 						}
 					],
@@ -37387,7 +37387,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/Listener.ts",
-							"line": 33,
+							"line": 39,
 							"character": 8
 						}
 					],
@@ -37436,7 +37436,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/Listener.ts",
-							"line": 65,
+							"line": 68,
 							"character": 14
 						}
 					],
@@ -37496,7 +37496,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/Listener.ts",
-							"line": 54,
+							"line": 57,
 							"character": 8
 						}
 					],
@@ -37551,7 +37551,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/Listener.ts",
-							"line": 40,
+							"line": 46,
 							"character": 15
 						}
 					],
@@ -37655,7 +37655,7 @@
 			"sources": [
 				{
 					"fileName": "src/lib/structures/Listener.ts",
-					"line": 16,
+					"line": 19,
 					"character": 13
 				}
 			],
@@ -43917,7 +43917,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/managers/ListenerManager.ts",
-							"line": 40,
+							"line": 48,
 							"character": 9
 						}
 					],
@@ -44009,7 +44009,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/managers/ListenerManager.ts",
-							"line": 49,
+							"line": 57,
 							"character": 14
 						}
 					],
@@ -48349,7 +48349,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/managers/ListenerManager.ts",
-							"line": 26,
+							"line": 32,
 							"character": 8
 						}
 					],
@@ -60925,7 +60925,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/Provider.ts",
-							"line": 20,
+							"line": 16,
 							"character": 1
 						}
 					],
@@ -61157,7 +61157,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/Provider.ts",
-							"line": 61,
+							"line": 55,
 							"character": 1
 						}
 					],
@@ -61352,7 +61352,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/Provider.ts",
-							"line": 49,
+							"line": 43,
 							"character": 1
 						}
 					],
@@ -61459,7 +61459,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/Provider.ts",
-							"line": 37,
+							"line": 31,
 							"character": 1
 						}
 					],
@@ -61512,7 +61512,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/Provider.ts",
-							"line": 43,
+							"line": 37,
 							"character": 1
 						}
 					],
@@ -62533,7 +62533,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/Provider.ts",
-							"line": 55,
+							"line": 49,
 							"character": 1
 						}
 					],
@@ -63092,7 +63092,7 @@
 			"sources": [
 				{
 					"fileName": "src/lib/structures/Provider.ts",
-					"line": 36,
+					"line": 30,
 					"character": 13
 				}
 			],
@@ -63539,7 +63539,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/contexts/Context.ts",
-							"line": 24,
+							"line": 26,
 							"character": 1
 						}
 					],
@@ -63562,7 +63562,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/contexts/Context.ts",
-							"line": 25,
+							"line": 27,
 							"character": 1
 						}
 					],
@@ -63585,7 +63585,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/contexts/Context.ts",
-							"line": 26,
+							"line": 28,
 							"character": 1
 						}
 					],
@@ -63631,7 +63631,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/contexts/Context.ts",
-							"line": 27,
+							"line": 29,
 							"character": 1
 						}
 					],
@@ -63701,7 +63701,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/contexts/Context.ts",
-							"line": 28,
+							"line": 30,
 							"character": 1
 						}
 					],
@@ -63765,7 +63765,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/contexts/Context.ts",
-							"line": 29,
+							"line": 31,
 							"character": 1
 						}
 					],
@@ -63835,7 +63835,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/contexts/Context.ts",
-							"line": 30,
+							"line": 32,
 							"character": 1
 						}
 					],
@@ -67672,7 +67672,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/contexts/Context.ts",
-							"line": 24,
+							"line": 26,
 							"character": 1
 						}
 					],
@@ -67695,7 +67695,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/contexts/Context.ts",
-							"line": 25,
+							"line": 27,
 							"character": 1
 						}
 					],
@@ -67718,7 +67718,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/contexts/Context.ts",
-							"line": 26,
+							"line": 28,
 							"character": 1
 						}
 					],
@@ -67764,7 +67764,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/contexts/Context.ts",
-							"line": 27,
+							"line": 29,
 							"character": 1
 						}
 					],
@@ -67851,7 +67851,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/contexts/Context.ts",
-							"line": 28,
+							"line": 30,
 							"character": 1
 						}
 					],
@@ -67915,7 +67915,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/contexts/Context.ts",
-							"line": 29,
+							"line": 31,
 							"character": 1
 						}
 					],
@@ -68011,7 +68011,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/contexts/Context.ts",
-							"line": 30,
+							"line": 32,
 							"character": 1
 						}
 					],
@@ -68098,8 +68098,8 @@
 															"sources": [
 																{
 																	"fileName": "src/lib/structures/contexts/CommandContext.ts",
-																	"line": 21,
-																	"character": 90
+																	"line": 22,
+																	"character": 45
 																}
 															],
 															"type": {
@@ -68221,7 +68221,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/contexts/CommandContext.ts",
-							"line": 22,
+							"line": 24,
 							"character": 1
 						}
 					],
@@ -68254,7 +68254,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/contexts/CommandContext.ts",
-							"line": 23,
+							"line": 25,
 							"character": 1
 						}
 					],
@@ -68372,7 +68372,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/contexts/CommandContext.ts",
-							"line": 24,
+							"line": 26,
 							"character": 1
 						}
 					],
@@ -68464,7 +68464,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/contexts/CommandContext.ts",
-							"line": 25,
+							"line": 27,
 							"character": 1
 						}
 					],
@@ -68582,7 +68582,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/contexts/CommandContext.ts",
-							"line": 26,
+							"line": 28,
 							"character": 1
 						}
 					],
@@ -68661,8 +68661,8 @@
 																	"sources": [
 																		{
 																			"fileName": "src/lib/structures/contexts/CommandContext.ts",
-																			"line": 26,
-																			"character": 80
+																			"line": 29,
+																			"character": 41
 																		}
 																	],
 																	"type": {
@@ -68867,7 +68867,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/Command.ts",
-							"line": 40,
+							"line": 39,
 							"character": 1
 						}
 					],
@@ -68901,7 +68901,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/Command.ts",
-							"line": 44,
+							"line": 43,
 							"character": 1
 						}
 					],
@@ -68939,7 +68939,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/Command.ts",
-							"line": 43,
+							"line": 42,
 							"character": 1
 						}
 					],
@@ -68959,7 +68959,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/Command.ts",
-							"line": 39,
+							"line": 38,
 							"character": 1
 						}
 					],
@@ -68979,7 +68979,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/Command.ts",
-							"line": 45,
+							"line": 44,
 							"character": 1
 						}
 					],
@@ -68999,7 +68999,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/Command.ts",
-							"line": 42,
+							"line": 41,
 							"character": 1
 						}
 					],
@@ -69019,7 +69019,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/Command.ts",
-							"line": 41,
+							"line": 40,
 							"character": 1
 						}
 					],
@@ -69038,7 +69038,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/Command.ts",
-							"line": 37,
+							"line": 36,
 							"character": 1
 						}
 					],
@@ -69056,7 +69056,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/Command.ts",
-							"line": 38,
+							"line": 37,
 							"character": 1
 						}
 					],
@@ -69101,7 +69101,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/Command.ts",
-							"line": 47,
+							"line": 46,
 							"character": 1
 						}
 					],
@@ -69161,7 +69161,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/Command.ts",
-							"line": 46,
+							"line": 45,
 							"character": 1
 						}
 					],
@@ -69228,7 +69228,7 @@
 			"sources": [
 				{
 					"fileName": "src/lib/structures/Command.ts",
-					"line": 36,
+					"line": 35,
 					"character": 17
 				}
 			]
@@ -69335,7 +69335,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/contexts/Context.ts",
-							"line": 24,
+							"line": 26,
 							"character": 1
 						}
 					],
@@ -69358,7 +69358,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/contexts/Context.ts",
-							"line": 25,
+							"line": 27,
 							"character": 1
 						}
 					],
@@ -69399,7 +69399,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/contexts/Context.ts",
-							"line": 26,
+							"line": 28,
 							"character": 1
 						}
 					],
@@ -69445,7 +69445,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/contexts/Context.ts",
-							"line": 27,
+							"line": 29,
 							"character": 1
 						}
 					],
@@ -69515,7 +69515,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/contexts/Context.ts",
-							"line": 28,
+							"line": 30,
 							"character": 1
 						}
 					],
@@ -69579,7 +69579,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/contexts/Context.ts",
-							"line": 29,
+							"line": 31,
 							"character": 1
 						}
 					],
@@ -69649,7 +69649,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/contexts/ComponentContext.ts",
-							"line": 28,
+							"line": 34,
 							"character": 1
 						}
 					],
@@ -69676,7 +69676,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/contexts/Context.ts",
-							"line": 30,
+							"line": 32,
 							"character": 1
 						}
 					],
@@ -69786,8 +69786,8 @@
 															"sources": [
 																{
 																	"fileName": "src/lib/structures/contexts/ComponentContext.ts",
-																	"line": 21,
-																	"character": 90
+																	"line": 22,
+																	"character": 45
 																}
 															],
 															"type": {
@@ -69909,7 +69909,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/contexts/ComponentContext.ts",
-							"line": 22,
+							"line": 24,
 							"character": 1
 						}
 					],
@@ -69973,8 +69973,8 @@
 															"sources": [
 																{
 																	"fileName": "src/lib/structures/contexts/ComponentContext.ts",
-																	"line": 22,
-																	"character": 92
+																	"line": 25,
+																	"character": 46
 																}
 															],
 															"type": {
@@ -70096,7 +70096,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/contexts/ComponentContext.ts",
-							"line": 23,
+							"line": 27,
 							"character": 1
 						}
 					],
@@ -70129,7 +70129,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/contexts/ComponentContext.ts",
-							"line": 24,
+							"line": 28,
 							"character": 1
 						}
 					],
@@ -70247,7 +70247,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/contexts/ComponentContext.ts",
-							"line": 25,
+							"line": 29,
 							"character": 1
 						}
 					],
@@ -70339,7 +70339,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/contexts/ComponentContext.ts",
-							"line": 26,
+							"line": 30,
 							"character": 1
 						}
 					],
@@ -70457,7 +70457,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/contexts/ComponentContext.ts",
-							"line": 27,
+							"line": 31,
 							"character": 1
 						}
 					],
@@ -70536,8 +70536,8 @@
 																	"sources": [
 																		{
 																			"fileName": "src/lib/structures/contexts/ComponentContext.ts",
-																			"line": 27,
-																			"character": 80
+																			"line": 32,
+																			"character": 41
 																		}
 																	],
 																	"type": {
@@ -71372,7 +71372,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/contexts/Context.ts",
-							"line": 24,
+							"line": 26,
 							"character": 1
 						}
 					],
@@ -71390,7 +71390,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/contexts/Context.ts",
-							"line": 25,
+							"line": 27,
 							"character": 1
 						}
 					],
@@ -71408,7 +71408,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/contexts/Context.ts",
-							"line": 26,
+							"line": 28,
 							"character": 1
 						}
 					],
@@ -71449,7 +71449,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/contexts/Context.ts",
-							"line": 27,
+							"line": 29,
 							"character": 1
 						}
 					],
@@ -71490,7 +71490,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/contexts/Context.ts",
-							"line": 28,
+							"line": 30,
 							"character": 1
 						}
 					],
@@ -71549,7 +71549,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/contexts/Context.ts",
-							"line": 29,
+							"line": 31,
 							"character": 1
 						}
 					],
@@ -71614,7 +71614,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/contexts/Context.ts",
-							"line": 30,
+							"line": 32,
 							"character": 1
 						}
 					],
@@ -72561,7 +72561,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/Listener.ts",
-							"line": 8,
+							"line": 11,
 							"character": 1
 						}
 					],
@@ -72582,7 +72582,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/Listener.ts",
-							"line": 12,
+							"line": 15,
 							"character": 1
 						}
 					],
@@ -72600,7 +72600,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/Listener.ts",
-							"line": 9,
+							"line": 12,
 							"character": 1
 						}
 					],
@@ -72620,7 +72620,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/Listener.ts",
-							"line": 10,
+							"line": 13,
 							"character": 1
 						}
 					],
@@ -72640,7 +72640,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/Listener.ts",
-							"line": 11,
+							"line": 14,
 							"character": 1
 						}
 					],
@@ -72661,7 +72661,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/Listener.ts",
-							"line": 13,
+							"line": 16,
 							"character": 1
 						}
 					],
@@ -73226,7 +73226,7 @@
 			"sources": [
 				{
 					"fileName": "src/lib/managers/ComponentManager.ts",
-					"line": 38,
+					"line": 39,
 					"character": 13
 				}
 			],
@@ -73246,7 +73246,7 @@
 			"sources": [
 				{
 					"fileName": "src/lib/managers/HandlerManager.ts",
-					"line": 63,
+					"line": 77,
 					"character": 13
 				}
 			],
@@ -73266,7 +73266,7 @@
 			"sources": [
 				{
 					"fileName": "src/lib/managers/ListenerManager.ts",
-					"line": 55,
+					"line": 63,
 					"character": 13
 				}
 			],
@@ -73306,7 +73306,7 @@
 			"sources": [
 				{
 					"fileName": "src/lib/managers/PluginManager.ts",
-					"line": 40,
+					"line": 42,
 					"character": 13
 				}
 			],
