@@ -63147,6 +63147,412 @@
 			]
 		},
 		{
+			"id": 3478,
+			"name": "Util",
+			"kind": 128,
+			"kindString": "Class",
+			"flags": {},
+			"children": [
+				{
+					"id": 3502,
+					"name": "constructor",
+					"kind": 512,
+					"kindString": "Constructor",
+					"flags": {},
+					"signatures": [
+						{
+							"id": 3503,
+							"name": "new Util",
+							"kind": 16384,
+							"kindString": "Constructor signature",
+							"flags": {},
+							"type": {
+								"type": "reference",
+								"id": 3478,
+								"name": "Util"
+							}
+						}
+					]
+				},
+				{
+					"id": 3479,
+					"name": "argumentsToArray",
+					"kind": 2048,
+					"kindString": "Method",
+					"flags": {
+						"isStatic": true
+					},
+					"sources": [
+						{
+							"fileName": "src/lib/util/Util.ts",
+							"line": 6,
+							"character": 8
+						}
+					],
+					"signatures": [
+						{
+							"id": 3480,
+							"name": "argumentsToArray",
+							"kind": 4096,
+							"kindString": "Call signature",
+							"flags": {},
+							"comment": {
+								"tags": [
+									{
+										"tag": "deprecated",
+										"text": "We don't support arguments in object/array"
+									},
+									{
+										"tag": "link",
+										"text": "https://discord.js.org/#/docs/main/stable/class/CommandInteractionOptionResolver\n"
+									}
+								]
+							},
+							"parameters": [
+								{
+									"id": 3481,
+									"name": "options",
+									"kind": 32768,
+									"kindString": "Parameter",
+									"flags": {},
+									"type": {
+										"type": "array",
+										"elementType": {
+											"type": "intrinsic",
+											"name": "any"
+										}
+									}
+								}
+							],
+							"type": {
+								"type": "array",
+								"elementType": {
+									"type": "intrinsic",
+									"name": "string"
+								}
+							}
+						}
+					]
+				},
+				{
+					"id": 3482,
+					"name": "argumentsToObject",
+					"kind": 2048,
+					"kindString": "Method",
+					"flags": {
+						"isStatic": true
+					},
+					"sources": [
+						{
+							"fileName": "src/lib/util/Util.ts",
+							"line": 36,
+							"character": 8
+						}
+					],
+					"signatures": [
+						{
+							"id": 3483,
+							"name": "argumentsToObject",
+							"kind": 4096,
+							"kindString": "Call signature",
+							"flags": {},
+							"comment": {
+								"tags": [
+									{
+										"tag": "deprecated",
+										"text": "We don't support arguments in object/array"
+									},
+									{
+										"tag": "link",
+										"text": "https://discord.js.org/#/docs/main/stable/class/CommandInteractionOptionResolver\n"
+									}
+								]
+							},
+							"parameters": [
+								{
+									"id": 3484,
+									"name": "options",
+									"kind": 32768,
+									"kindString": "Parameter",
+									"flags": {},
+									"type": {
+										"type": "array",
+										"elementType": {
+											"type": "intrinsic",
+											"name": "any"
+										}
+									}
+								}
+							],
+							"type": {
+								"type": "reflection",
+								"declaration": {
+									"id": 3485,
+									"name": "__type",
+									"kind": 65536,
+									"kindString": "Type literal",
+									"flags": {}
+								}
+							}
+						}
+					]
+				},
+				{
+					"id": 3486,
+					"name": "isClass",
+					"kind": 2048,
+					"kindString": "Method",
+					"flags": {
+						"isStatic": true
+					},
+					"sources": [
+						{
+							"fileName": "src/lib/util/Util.ts",
+							"line": 51,
+							"character": 8
+						}
+					],
+					"signatures": [
+						{
+							"id": 3487,
+							"name": "isClass",
+							"kind": 4096,
+							"kindString": "Call signature",
+							"flags": {},
+							"parameters": [
+								{
+									"id": 3488,
+									"name": "input",
+									"kind": 32768,
+									"kindString": "Parameter",
+									"flags": {},
+									"type": {
+										"type": "intrinsic",
+										"name": "any"
+									}
+								}
+							],
+							"type": {
+								"type": "intrinsic",
+								"name": "boolean"
+							}
+						}
+					]
+				},
+				{
+					"id": 3489,
+					"name": "resolveArgumentOptions",
+					"kind": 2048,
+					"kindString": "Method",
+					"flags": {
+						"isStatic": true
+					},
+					"sources": [
+						{
+							"fileName": "src/lib/util/Util.ts",
+							"line": 57,
+							"character": 8
+						}
+					],
+					"signatures": [
+						{
+							"id": 3490,
+							"name": "resolveArgumentOptions",
+							"kind": 4096,
+							"kindString": "Call signature",
+							"flags": {},
+							"parameters": [
+								{
+									"id": 3491,
+									"name": "options",
+									"kind": 32768,
+									"kindString": "Parameter",
+									"flags": {},
+									"type": {
+										"type": "intrinsic",
+										"name": "any"
+									}
+								}
+							],
+							"type": {
+								"type": "intrinsic",
+								"name": "any"
+							}
+						}
+					]
+				},
+				{
+					"id": 3492,
+					"name": "resolveFile",
+					"kind": 2048,
+					"kindString": "Method",
+					"flags": {
+						"isStatic": true
+					},
+					"sources": [
+						{
+							"fileName": "src/lib/util/Util.ts",
+							"line": 73,
+							"character": 8
+						}
+					],
+					"signatures": [
+						{
+							"id": 3493,
+							"name": "resolveFile",
+							"kind": 4096,
+							"kindString": "Call signature",
+							"flags": {},
+							"parameters": [
+								{
+									"id": 3494,
+									"name": "file",
+									"kind": 32768,
+									"kindString": "Parameter",
+									"flags": {},
+									"type": {
+										"type": "intrinsic",
+										"name": "any"
+									}
+								},
+								{
+									"id": 3495,
+									"name": "fileType",
+									"kind": 32768,
+									"kindString": "Parameter",
+									"flags": {},
+									"type": {
+										"type": "intrinsic",
+										"name": "string"
+									}
+								}
+							],
+							"type": {
+								"type": "intrinsic",
+								"name": "any"
+							}
+						}
+					]
+				},
+				{
+					"id": 3499,
+					"name": "resolveValidationErrorTrace",
+					"kind": 2048,
+					"kindString": "Method",
+					"flags": {
+						"isStatic": true
+					},
+					"sources": [
+						{
+							"fileName": "src/lib/util/Util.ts",
+							"line": 88,
+							"character": 8
+						}
+					],
+					"signatures": [
+						{
+							"id": 3500,
+							"name": "resolveValidationErrorTrace",
+							"kind": 4096,
+							"kindString": "Call signature",
+							"flags": {},
+							"parameters": [
+								{
+									"id": 3501,
+									"name": "array",
+									"kind": 32768,
+									"kindString": "Parameter",
+									"flags": {},
+									"type": {
+										"type": "array",
+										"elementType": {
+											"type": "intrinsic",
+											"name": "any"
+										}
+									}
+								}
+							],
+							"type": {
+								"type": "intrinsic",
+								"name": "string"
+							}
+						}
+					]
+				},
+				{
+					"id": 3496,
+					"name": "stringToBoolean",
+					"kind": 2048,
+					"kindString": "Method",
+					"flags": {
+						"isStatic": true
+					},
+					"sources": [
+						{
+							"fileName": "src/lib/util/Util.ts",
+							"line": 83,
+							"character": 8
+						}
+					],
+					"signatures": [
+						{
+							"id": 3497,
+							"name": "stringToBoolean",
+							"kind": 4096,
+							"kindString": "Call signature",
+							"flags": {},
+							"parameters": [
+								{
+									"id": 3498,
+									"name": "string",
+									"kind": 32768,
+									"kindString": "Parameter",
+									"flags": {},
+									"type": {
+										"type": "intrinsic",
+										"name": "string"
+									}
+								}
+							],
+							"type": {
+								"type": "intrinsic",
+								"name": "boolean"
+							}
+						}
+					]
+				}
+			],
+			"groups": [
+				{
+					"title": "Constructors",
+					"kind": 512,
+					"children": [
+						3502
+					]
+				},
+				{
+					"title": "Methods",
+					"kind": 2048,
+					"children": [
+						3479,
+						3482,
+						3486,
+						3489,
+						3492,
+						3499,
+						3496
+					]
+				}
+			],
+			"sources": [
+				{
+					"fileName": "src/lib/util/Util.ts",
+					"line": 1,
+					"character": 13
+				}
+			]
+		},
+		{
 			"id": 3289,
 			"name": "ArgumentOptions",
 			"kind": 256,
@@ -73645,7 +74051,8 @@
 				2430,
 				2702,
 				86,
-				3327
+				3327,
+				3478
 			]
 		},
 		{
