@@ -37397,13 +37397,13 @@
 					"kind": 2048,
 					"kindString": "Method",
 					"flags": {
-						"isPrivate": true
+						"isPublic": true
 					},
 					"sources": [
 						{
 							"fileName": "src/lib/structures/Listener.ts",
 							"line": 61,
-							"character": 15
+							"character": 14
 						}
 					],
 					"signatures": [
@@ -37576,33 +37576,8 @@
 							"kindString": "Call signature",
 							"flags": {},
 							"type": {
-								"type": "reference",
-								"id": 2729,
-								"typeArguments": [
-									{
-										"type": "intrinsic",
-										"name": "boolean"
-									},
-									{
-										"type": "union",
-										"types": [
-											{
-												"type": "reference",
-												"name": "WSEventType"
-											},
-											{
-												"type": "typeOperator",
-												"operator": "keyof",
-												"target": {
-													"type": "reference",
-													"id": 1,
-													"name": "ClientEvents"
-												}
-											}
-										]
-									}
-								],
-								"name": "Listener"
+								"type": "intrinsic",
+								"name": "void"
 							}
 						}
 					]
@@ -43985,7 +43960,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/managers/ListenerManager.ts",
-							"line": 48,
+							"line": 52,
 							"character": 9
 						}
 					],
@@ -44077,7 +44052,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/managers/ListenerManager.ts",
-							"line": 57,
+							"line": 61,
 							"character": 14
 						}
 					],
@@ -73334,7 +73309,7 @@
 			"sources": [
 				{
 					"fileName": "src/lib/managers/ListenerManager.ts",
-					"line": 63,
+					"line": 67,
 					"character": 13
 				}
 			],
