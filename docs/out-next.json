@@ -65900,14 +65900,14 @@
 			"flags": {},
 			"children": [
 				{
-					"id": 3502,
+					"id": 3505,
 					"name": "constructor",
 					"kind": 512,
 					"kindString": "Constructor",
 					"flags": {},
 					"signatures": [
 						{
-							"id": 3503,
+							"id": 3506,
 							"name": "new Util",
 							"kind": 16384,
 							"kindString": "Constructor signature",
@@ -66045,7 +66045,7 @@
 				},
 				{
 					"id": 3486,
-					"name": "isClass",
+					"name": "checkIfSubOrGroup",
 					"kind": 2048,
 					"kindString": "Method",
 					"flags": {
@@ -66054,21 +66054,33 @@
 					"sources": [
 						{
 							"fileName": "src/lib/util/Util.ts",
-							"line": 44,
+							"line": 48,
 							"character": 8
 						}
 					],
 					"signatures": [
 						{
 							"id": 3487,
-							"name": "isClass",
+							"name": "checkIfSubOrGroup",
 							"kind": 4096,
 							"kindString": "Call signature",
 							"flags": {},
+							"comment": {
+								"tags": [
+									{
+										"tag": "deprecated",
+										"text": "We don't support arguments in object/array"
+									},
+									{
+										"tag": "link",
+										"text": "https://discord.js.org/#/docs/main/stable/class/CommandInteractionOptionResolver\n"
+									}
+								]
+							},
 							"parameters": [
 								{
 									"id": 3488,
-									"name": "input",
+									"name": "type",
 									"kind": 32768,
 									"kindString": "Parameter",
 									"flags": {},
@@ -66087,6 +66099,48 @@
 				},
 				{
 					"id": 3489,
+					"name": "isClass",
+					"kind": 2048,
+					"kindString": "Method",
+					"flags": {
+						"isStatic": true
+					},
+					"sources": [
+						{
+							"fileName": "src/lib/util/Util.ts",
+							"line": 53,
+							"character": 8
+						}
+					],
+					"signatures": [
+						{
+							"id": 3490,
+							"name": "isClass",
+							"kind": 4096,
+							"kindString": "Call signature",
+							"flags": {},
+							"parameters": [
+								{
+									"id": 3491,
+									"name": "input",
+									"kind": 32768,
+									"kindString": "Parameter",
+									"flags": {},
+									"type": {
+										"type": "intrinsic",
+										"name": "any"
+									}
+								}
+							],
+							"type": {
+								"type": "intrinsic",
+								"name": "boolean"
+							}
+						}
+					]
+				},
+				{
+					"id": 3492,
 					"name": "resolveArgumentOptions",
 					"kind": 2048,
 					"kindString": "Method",
@@ -66096,20 +66150,20 @@
 					"sources": [
 						{
 							"fileName": "src/lib/util/Util.ts",
-							"line": 50,
+							"line": 59,
 							"character": 8
 						}
 					],
 					"signatures": [
 						{
-							"id": 3490,
+							"id": 3493,
 							"name": "resolveArgumentOptions",
 							"kind": 4096,
 							"kindString": "Call signature",
 							"flags": {},
 							"parameters": [
 								{
-									"id": 3491,
+									"id": 3494,
 									"name": "options",
 									"kind": 32768,
 									"kindString": "Parameter",
@@ -66128,7 +66182,7 @@
 					]
 				},
 				{
-					"id": 3492,
+					"id": 3495,
 					"name": "resolveFile",
 					"kind": 2048,
 					"kindString": "Method",
@@ -66138,20 +66192,20 @@
 					"sources": [
 						{
 							"fileName": "src/lib/util/Util.ts",
-							"line": 66,
+							"line": 75,
 							"character": 8
 						}
 					],
 					"signatures": [
 						{
-							"id": 3493,
+							"id": 3496,
 							"name": "resolveFile",
 							"kind": 4096,
 							"kindString": "Call signature",
 							"flags": {},
 							"parameters": [
 								{
-									"id": 3494,
+									"id": 3497,
 									"name": "file",
 									"kind": 32768,
 									"kindString": "Parameter",
@@ -66162,7 +66216,7 @@
 									}
 								},
 								{
-									"id": 3495,
+									"id": 3498,
 									"name": "fileType",
 									"kind": 32768,
 									"kindString": "Parameter",
@@ -66181,7 +66235,7 @@
 					]
 				},
 				{
-					"id": 3499,
+					"id": 3502,
 					"name": "resolveValidationErrorTrace",
 					"kind": 2048,
 					"kindString": "Method",
@@ -66191,20 +66245,20 @@
 					"sources": [
 						{
 							"fileName": "src/lib/util/Util.ts",
-							"line": 81,
+							"line": 90,
 							"character": 8
 						}
 					],
 					"signatures": [
 						{
-							"id": 3500,
+							"id": 3503,
 							"name": "resolveValidationErrorTrace",
 							"kind": 4096,
 							"kindString": "Call signature",
 							"flags": {},
 							"parameters": [
 								{
-									"id": 3501,
+									"id": 3504,
 									"name": "array",
 									"kind": 32768,
 									"kindString": "Parameter",
@@ -66226,7 +66280,7 @@
 					]
 				},
 				{
-					"id": 3496,
+					"id": 3499,
 					"name": "stringToBoolean",
 					"kind": 2048,
 					"kindString": "Method",
@@ -66236,20 +66290,20 @@
 					"sources": [
 						{
 							"fileName": "src/lib/util/Util.ts",
-							"line": 76,
+							"line": 85,
 							"character": 8
 						}
 					],
 					"signatures": [
 						{
-							"id": 3497,
+							"id": 3500,
 							"name": "stringToBoolean",
 							"kind": 4096,
 							"kindString": "Call signature",
 							"flags": {},
 							"parameters": [
 								{
-									"id": 3498,
+									"id": 3501,
 									"name": "string",
 									"kind": 32768,
 									"kindString": "Parameter",
@@ -66273,7 +66327,7 @@
 					"title": "Constructors",
 					"kind": 512,
 					"children": [
-						3502
+						3505
 					]
 				},
 				{
@@ -66285,8 +66339,9 @@
 						3486,
 						3489,
 						3492,
-						3499,
-						3496
+						3495,
+						3502,
+						3499
 					]
 				}
 			],
