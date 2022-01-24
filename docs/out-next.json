@@ -9747,7 +9747,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/contexts/CommandContext.ts",
-							"line": 57,
+							"line": 58,
 							"character": 1
 						}
 					],
@@ -9854,7 +9854,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/contexts/CommandContext.ts",
-							"line": 38,
+							"line": 39,
 							"character": 8
 						}
 					],
@@ -10001,7 +10001,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/contexts/CommandContext.ts",
-							"line": 36,
+							"line": 37,
 							"character": 17
 						}
 					],
@@ -10023,7 +10023,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/contexts/CommandContext.ts",
-							"line": 37,
+							"line": 38,
 							"character": 17
 						}
 					],
@@ -10097,7 +10097,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/contexts/CommandContext.ts",
-							"line": 41,
+							"line": 42,
 							"character": 8
 						}
 					],
@@ -10171,7 +10171,7 @@
 																	"sources": [
 																		{
 																			"fileName": "src/lib/structures/contexts/CommandContext.ts",
-																			"line": 42,
+																			"line": 43,
 																			"character": 45
 																		}
 																	],
@@ -10314,7 +10314,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/contexts/CommandContext.ts",
-							"line": 39,
+							"line": 40,
 							"character": 8
 						}
 					],
@@ -10335,7 +10335,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/contexts/CommandContext.ts",
-							"line": 44,
+							"line": 45,
 							"character": 8
 						}
 					],
@@ -10382,7 +10382,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/contexts/CommandContext.ts",
-							"line": 45,
+							"line": 46,
 							"character": 8
 						}
 					],
@@ -10532,7 +10532,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/contexts/CommandContext.ts",
-							"line": 48,
+							"line": 49,
 							"character": 8
 						}
 					],
@@ -10652,7 +10652,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/contexts/CommandContext.ts",
-							"line": 49,
+							"line": 50,
 							"character": 8
 						}
 					],
@@ -10909,7 +10909,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/contexts/CommandContext.ts",
-							"line": 54,
+							"line": 55,
 							"character": 8
 						}
 					],
@@ -10965,7 +10965,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/contexts/CommandContext.ts",
-							"line": 53,
+							"line": 54,
 							"character": 8
 						}
 					],
@@ -11021,7 +11021,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/contexts/CommandContext.ts",
-							"line": 55,
+							"line": 56,
 							"character": 8
 						}
 					],
@@ -11078,7 +11078,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/contexts/CommandContext.ts",
-							"line": 34,
+							"line": 35,
 							"character": 8
 						}
 					],
@@ -11298,7 +11298,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/contexts/CommandContext.ts",
-							"line": 35,
+							"line": 36,
 							"character": 8
 						}
 					],
@@ -11326,7 +11326,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/contexts/CommandContext.ts",
-							"line": 40,
+							"line": 41,
 							"character": 8
 						}
 					],
@@ -11347,7 +11347,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/contexts/CommandContext.ts",
-							"line": 50,
+							"line": 51,
 							"character": 8
 						}
 					],
@@ -11440,7 +11440,7 @@
 																			"sources": [
 																				{
 																					"fileName": "src/lib/structures/contexts/CommandContext.ts",
-																					"line": 51,
+																					"line": 52,
 																					"character": 41
 																				}
 																			],
@@ -11944,7 +11944,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/contexts/CommandContext.ts",
-							"line": 81,
+							"line": 82,
 							"character": 8
 						}
 					],
@@ -12029,7 +12029,7 @@
 																	"sources": [
 																		{
 																			"fileName": "src/lib/structures/contexts/CommandContext.ts",
-																			"line": 82,
+																			"line": 83,
 																			"character": 41
 																		}
 																	],
@@ -12220,7 +12220,7 @@
 			"sources": [
 				{
 					"fileName": "src/lib/structures/contexts/CommandContext.ts",
-					"line": 33,
+					"line": 34,
 					"character": 13
 				}
 			],
@@ -12405,7 +12405,7 @@
 					},
 					"inheritedFrom": {
 						"type": "reference",
-						"name": "Collection.__@toStringTag@25"
+						"name": "Collection.__@toStringTag@345"
 					}
 				},
 				{
@@ -12511,7 +12511,7 @@
 					},
 					"inheritedFrom": {
 						"type": "reference",
-						"name": "Collection.__@species@594"
+						"name": "Collection.__@species@300"
 					}
 				},
 				{
@@ -12589,13 +12589,13 @@
 							},
 							"inheritedFrom": {
 								"type": "reference",
-								"name": "Collection.__@iterator@82"
+								"name": "Collection.__@iterator@12"
 							}
 						}
 					],
 					"inheritedFrom": {
 						"type": "reference",
-						"name": "Collection.__@iterator@82"
+						"name": "Collection.__@iterator@12"
 					}
 				},
 				{
@@ -24619,7 +24619,7 @@
 					},
 					"inheritedFrom": {
 						"type": "reference",
-						"name": "Collection.__@toStringTag@25"
+						"name": "Collection.__@toStringTag@345"
 					}
 				},
 				{
@@ -24725,7 +24725,7 @@
 					},
 					"inheritedFrom": {
 						"type": "reference",
-						"name": "Collection.__@species@594"
+						"name": "Collection.__@species@300"
 					}
 				},
 				{
@@ -24803,13 +24803,13 @@
 							},
 							"inheritedFrom": {
 								"type": "reference",
-								"name": "Collection.__@iterator@82"
+								"name": "Collection.__@iterator@12"
 							}
 						}
 					],
 					"inheritedFrom": {
 						"type": "reference",
-						"name": "Collection.__@iterator@82"
+						"name": "Collection.__@iterator@12"
 					}
 				},
 				{
@@ -34416,7 +34416,7 @@
 						{
 							"fileName": "src/lib/GClient.ts",
 							"line": 27,
-							"character": 8
+							"character": 16
 						}
 					],
 					"type": {
@@ -40712,7 +40712,7 @@
 					},
 					"inheritedFrom": {
 						"type": "reference",
-						"name": "Collection.__@toStringTag@25"
+						"name": "Collection.__@toStringTag@345"
 					}
 				},
 				{
@@ -40818,7 +40818,7 @@
 					},
 					"inheritedFrom": {
 						"type": "reference",
-						"name": "Collection.__@species@594"
+						"name": "Collection.__@species@300"
 					}
 				},
 				{
@@ -40924,13 +40924,13 @@
 							},
 							"inheritedFrom": {
 								"type": "reference",
-								"name": "Collection.__@iterator@82"
+								"name": "Collection.__@iterator@12"
 							}
 						}
 					],
 					"inheritedFrom": {
 						"type": "reference",
-						"name": "Collection.__@iterator@82"
+						"name": "Collection.__@iterator@12"
 					}
 				},
 				{
@@ -56203,7 +56203,7 @@
 					},
 					"inheritedFrom": {
 						"type": "reference",
-						"name": "Collection.__@toStringTag@25"
+						"name": "Collection.__@toStringTag@345"
 					}
 				},
 				{
@@ -56330,7 +56330,7 @@
 					},
 					"inheritedFrom": {
 						"type": "reference",
-						"name": "Collection.__@species@594"
+						"name": "Collection.__@species@300"
 					}
 				},
 				{
@@ -56408,13 +56408,13 @@
 							},
 							"inheritedFrom": {
 								"type": "reference",
-								"name": "Collection.__@iterator@82"
+								"name": "Collection.__@iterator@12"
 							}
 						}
 					],
 					"inheritedFrom": {
 						"type": "reference",
-						"name": "Collection.__@iterator@82"
+						"name": "Collection.__@iterator@12"
 					}
 				},
 				{
@@ -67242,7 +67242,7 @@
 									"flags": {},
 									"type": {
 										"type": "intrinsic",
-										"name": "any"
+										"name": "string"
 									}
 								}
 							],
@@ -72298,7 +72298,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/contexts/CommandContext.ts",
-							"line": 20,
+							"line": 21,
 							"character": 1
 						}
 					],
@@ -72381,7 +72381,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/contexts/CommandContext.ts",
-							"line": 19,
+							"line": 20,
 							"character": 1
 						}
 					],
@@ -72552,7 +72552,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/contexts/CommandContext.ts",
-							"line": 17,
+							"line": 18,
 							"character": 1
 						}
 					],
@@ -72767,7 +72767,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/contexts/CommandContext.ts",
-							"line": 18,
+							"line": 19,
 							"character": 1
 						}
 					],
@@ -72818,7 +72818,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/contexts/CommandContext.ts",
-							"line": 21,
+							"line": 22,
 							"character": 1
 						}
 					],
@@ -72884,7 +72884,7 @@
 															"sources": [
 																{
 																	"fileName": "src/lib/structures/contexts/CommandContext.ts",
-																	"line": 22,
+																	"line": 23,
 																	"character": 45
 																}
 															],
@@ -73023,7 +73023,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/contexts/CommandContext.ts",
-							"line": 24,
+							"line": 25,
 							"character": 1
 						}
 					],
@@ -73058,7 +73058,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/contexts/CommandContext.ts",
-							"line": 25,
+							"line": 26,
 							"character": 1
 						}
 					],
@@ -73196,7 +73196,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/contexts/CommandContext.ts",
-							"line": 26,
+							"line": 27,
 							"character": 1
 						}
 					],
@@ -73304,7 +73304,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/contexts/CommandContext.ts",
-							"line": 27,
+							"line": 28,
 							"character": 1
 						}
 					],
@@ -73442,7 +73442,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/structures/contexts/CommandContext.ts",
-							"line": 28,
+							"line": 29,
 							"character": 1
 						}
 					],
@@ -73527,7 +73527,7 @@
 																	"sources": [
 																		{
 																			"fileName": "src/lib/structures/contexts/CommandContext.ts",
-																			"line": 29,
+																			"line": 30,
 																			"character": 41
 																		}
 																	],
@@ -73695,7 +73695,7 @@
 			"sources": [
 				{
 					"fileName": "src/lib/structures/contexts/CommandContext.ts",
-					"line": 16,
+					"line": 17,
 					"character": 17
 				}
 			],
