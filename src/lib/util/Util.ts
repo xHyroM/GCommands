@@ -1,4 +1,4 @@
-import { Logger } from './logger/Logger';
+import Logger from 'js-logger';
 
 export class Util {
 	/**
@@ -93,10 +93,6 @@ export class Util {
 		array = array.filter(item => typeof item === 'string');
 		return `(${array.join(' -> ') || 'unknown'})`;
 	}
-
-	static pad(number: number): string {
-		return (number < 10 ? '0' : '') + number;
-  }
 
 	static throwError(error, name): void {
 		const trace = Util.resolveValidationErrorTrace([name]);
