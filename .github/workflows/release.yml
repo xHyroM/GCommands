@@ -44,7 +44,7 @@ jobs:
         run: |
           git checkout -b "chore/release/${{ steps.get_version.outputs.version }}"
 
-          npm run ci:changelog
+          npm run changelog
 
           git add --all .
           git commit -m "chore(release): ${{ steps.get_version.outputs.version }} 🎉" -m "Build ran for ${GITHUB_SHA}"
