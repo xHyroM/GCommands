@@ -12,7 +12,7 @@ jobs:
   create_pr:
     name: PR for new version
     runs-on: ubuntu-latest
-    if: github.repository_owner == 'xHyroM' && github.event_name != 'workflow_dispatch'
+    if: github.repository_owner == 'xHyroM'
 
     steps:
       - name: Checkout repository
