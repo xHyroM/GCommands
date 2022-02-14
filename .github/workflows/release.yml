@@ -12,7 +12,7 @@ jobs:
   create_pr:
     name: PR for new version
     runs-on: ubuntu-latest
-    if: github.repository_owner == 'Garlic-Team' && github.event_name != 'workflow_dispatch'
+    if: github.repository_owner == 'xHyroM' && github.event_name != 'workflow_dispatch'
 
     steps:
       - name: Checkout repository
@@ -58,7 +58,7 @@ jobs:
   create_release:
     name: Create release and publish
     runs-on: ubuntu-latest
-    if: github.repository_owner == 'Garlic-Team' && github.event_name == 'push' && startsWith(github.event.head_commit.message, 'chore(release)') && !contains(github.event.head_commit.message, '[skip ci]')
+    if: github.repository_owner == 'xHyroM' && github.event_name == 'push' && startsWith(github.event.head_commit.message, 'chore(release)') && !contains(github.event.head_commit.message, '[skip ci]')
 
     steps:
       - name: Checkout repository
@@ -81,11 +81,6 @@ jobs:
         run: |
           variable=$(jq --raw-output '.version' package.json)
           echo ::set-output name=version::$variable
-
-      - name: Publish NPM package
-        run: npm publish --tag latest
-        env:
-          NODE_AUTH_TOKEN: ${{secrets.NPM_AUTH_TOKEN}}
 
       - name: Publish releases
         run: node ./scripts/actions/create-release.mjs
