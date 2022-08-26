@@ -48,8 +48,6 @@
 	"homepage": "https://garlic-team.js.org/#/docs/gcommands/next/general/welcome",
 	"license": "ISC",
 	"dependencies": {
-		"@discordjs/rest": "^1.0.0",
-		"discord-api-types": "^0.30.0",
 		"ms": "^2.1.3",
 		"tslib": "^2.3.1",
 		"zod": "^3.11.6"
@@ -68,7 +66,7 @@
 		"@typescript-eslint/eslint-plugin": "5.33.0",
 		"@typescript-eslint/parser": "5.33.0",
 		"conventional-changelog-cli": "2.2.2",
-		"discord.js": "13.9.1",
+		"discord.js": "^14.3.0",
 		"eslint": "8.22.0",
 		"eslint-config-prettier": "8.5.0",
 		"eslint-plugin-import": "2.26.0",

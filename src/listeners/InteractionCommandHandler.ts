@@ -7,7 +7,7 @@ new Listener({
 	event: 'interactionCreate',
 	name: 'gcommands-interactionCommandHandler',
 	run: async (interaction: Interaction): Promise<void> => {
-		if (interaction.isCommand() || interaction.isContextMenu()) {
+		if (interaction.isCommand() || interaction.isContextMenuCommand()) {
 			await Promise.resolve(
 				Handlers.interactionCommandHandler(interaction),
 			).catch(error => {

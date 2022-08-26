@@ -1,10 +1,13 @@
-import type { ApplicationCommandOptionType } from 'discord-api-types/v9';
+import { ApplicationCommandOptionType } from 'discord-api-types/v9';
 import { z } from 'zod';
 import type { AutocompleteContext } from './contexts/AutocompleteContext';
 import { Locale, LocaleString } from '../util/common';
 import { Logger } from '../util/logger/Logger';
 import { commandAndOptionNameRegexp } from '../util/regexes';
 
+/**
+ * @deprecated Use {@link ApplicationCommandOptionType} instead.
+ */
 export enum ArgumentType {
 	'SUB_COMMAND' = 1,
 	'SUB_COMMAND_GROUP' = 2,
@@ -43,6 +46,7 @@ export interface ArgumentOptions {
 	description: string;
 	descriptionLocalizations?: Record<LocaleString, string>;
 	type:
+		| ApplicationCommandOptionType
 		| ArgumentType
 		| keyof typeof ArgumentType
 		| ApplicationCommandOptionType
@@ -92,7 +96,7 @@ const validationSchema = z
 			)
 			.optional(),
 		type: z
-			.union([z.string(), z.nativeEnum(ArgumentType)])
+			.union([z.string(), z.nativeEnum(ArgumentType), z.nativeEnum(ApplicationCommandOptionType)])
 			.transform(arg =>
 				typeof arg === 'string' && Object.keys(ArgumentType).includes(arg)
 					? ArgumentType[arg]

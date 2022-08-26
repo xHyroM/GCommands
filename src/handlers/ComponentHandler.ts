@@ -1,5 +1,5 @@
 import { setTimeout } from 'node:timers';
-import { Collection, MessageComponentInteraction } from 'discord.js';
+import { Collection, MessageComponentInteraction, ModalSubmitInteraction } from 'discord.js';
 import { AutoDeferType, GClient } from '../lib/GClient';
 import { Components } from '../lib/managers/ComponentManager';
 import { Handlers } from '../lib/managers/HandlerManager';
@@ -11,7 +11,7 @@ import { Events, Logger } from '../lib/util/logger/Logger';
 const cooldowns = new Collection<string, Collection<string, number>>();
 
 export async function ComponentHandler(
-	interaction: MessageComponentInteraction,
+	interaction: MessageComponentInteraction | ModalSubmitInteraction,
 ) {
 	const client = interaction.client as GClient;
 

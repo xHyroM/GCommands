@@ -6,7 +6,7 @@ import { Commands } from '../managers/CommandManager';
 import { Locale, LocaleString } from '../util/common';
 import { Logger } from '../util/logger/Logger';
 import { commandAndOptionNameRegexp } from '../util/regexes';
-import { PermissionResolvable, Permissions } from 'discord.js';
+import { type PermissionResolvable, PermissionsBitField } from 'discord.js';
 import { Util } from '../util/Util';
 
 export enum CommandType {
@@ -221,7 +221,7 @@ export class Command {
 						description_localizations: this.descriptionLocalizations,
 						dm_permission: this.dmPermission,
 						default_member_permissions: this.defaultMemberPermissions
-							? new Permissions(
+							? new PermissionsBitField(
 									this.defaultMemberPermissions,
 							  ).bitfield.toString()
 							: null,

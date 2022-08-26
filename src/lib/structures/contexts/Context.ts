@@ -4,7 +4,7 @@ import type {
 	Guild,
 	GuildMember,
 	GuildTextBasedChannel,
-	Permissions,
+	PermissionsBitField,
 	Snowflake,
 	TextBasedChannel,
 	User,
@@ -28,7 +28,7 @@ export interface ContextOptions<Cached extends CacheType = CacheType> {
 	guild: CacheTypeReducer<Cached, Guild, null>;
 	guildId: CacheTypeReducer<Cached, Snowflake>;
 	member: CacheTypeReducer<Cached, GuildMember, APIInteractionGuildMember>;
-	memberPermissions: CacheTypeReducer<Cached, Readonly<Permissions>>;
+	memberPermissions: CacheTypeReducer<Cached, Readonly<PermissionsBitField>>;
 	user: User;
 }
 
@@ -54,7 +54,7 @@ export class Context<Cached extends CacheType = CacheType> {
 	>;
 	public user: User;
 	public userId: Snowflake;
-	public memberPermissions: CacheTypeReducer<Cached, Readonly<Permissions>>;
+	public memberPermissions: CacheTypeReducer<Cached, Readonly<PermissionsBitField>>;
 	public type: 'COMMAND' | 'BUTTON' | 'SELECT_MENU' | 'AUTOCOMPLETE';
 
 	constructor(client: GClient, options: ContextOptions<Cached>) {
