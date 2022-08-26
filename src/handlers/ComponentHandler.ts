@@ -1,5 +1,9 @@
 import { setTimeout } from 'node:timers';
-import { Collection, MessageComponentInteraction, ModalSubmitInteraction } from 'discord.js';
+import {
+	Collection,
+	MessageComponentInteraction,
+	ModalSubmitInteraction,
+} from 'discord.js';
 import { AutoDeferType, GClient } from '../lib/GClient';
 import { Components } from '../lib/managers/ComponentManager';
 import { Handlers } from '../lib/managers/HandlerManager';
